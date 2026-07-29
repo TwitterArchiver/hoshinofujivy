@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874641707486330880"
+      ],
+      "media_source_tweet_id": [
+        "1899128114434744806"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1899465055982547213",
+    "created_at": "2025-03-11T14:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T15:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899465055982547213"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "历史的今日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1573663582994444289",
+          "start": 3,
+          "username": "guojiazongshuji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8dHsDrSrh",
+          "end": 93,
+          "expanded_url": "https://x.com/guojiazongshuji/status/1899128114434744806/photo/1",
+          "media_key": "3_1874641707486330880",
+          "start": 70,
+          "url": "https://t.co/D8dHsDrSrh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899465055982547213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899128114434744806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @guojiazongshuji: #历史的今日\n2018年3月11日，第五次修改宪法通过，删除国家主席任期限制，中共主席可无限连任 https://t.co/D8dHsDrSrh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899465055982547213].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899465055982547213",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899465055982547213"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "新当选的国家主席、中央军委主席习近平进行宪法宣誓",
+        "height": 900,
+        "media_key": "3_1874641707486330880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgQQs1_awAAB2NB.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874641707486330880"
+          ]
+        },
+        "author_id": "1573663582994444289",
+        "conversation_id": "1899128114434744806",
+        "created_at": "2025-03-10T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899128114434744806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "历史的今日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8dHsDrSrh",
+              "end": 72,
+              "expanded_url": "https://x.com/guojiazongshuji/status/1899128114434744806/photo/1",
+              "media_key": "3_1874641707486330880",
+              "start": 49,
+              "url": "https://t.co/D8dHsDrSrh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899128114434744806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1259,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#历史的今日\n2018年3月11日，第五次修改宪法通过，删除国家主席任期限制，中共主席可无限连任 https://t.co/D8dHsDrSrh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1974,
+          "like_count": 8772,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2590
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T13:20:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h5.cctvnews.cctv.com/szdh2023/index…",
+                "end": 23,
+                "expanded_url": "https://h5.cctvnews.cctv.com/szdh2023/index.html",
+                "start": 0,
+                "url": "https://t.co/X75VIaIJ9Z"
+              }
+            ]
+          }
+        },
+        "id": "1573663582994444289",
+        "location": "花果山共和国—广州府",
+        "name": "狐仙苏苏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419378591399936/AA5Epfm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9727,
+          "following_count": 554,
+          "like_count": 56325,
+          "listed_count": 22,
+          "media_count": 305,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/X75VIaIJ9Z",
+        "username": "guojiazongshuji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2060582449885901233",
+    "created_at": "2026-05-30T11:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060683269314859337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1454360653",
+          "start": 0,
+          "username": "1greencat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060683269314859337",
+    "in_reply_to_user_id": "1454360653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060585762907885592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1greencat 榴莲味太冲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2060582449885901233",
+        "created_at": "2026-05-30T11:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060683269314859337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1454360653",
+              "start": 0,
+              "username": "1greencat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060683269314859337",
+        "in_reply_to_user_id": "1454360653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060585762907885592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1greencat 榴莲味太冲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454360653",
+        "conversation_id": "2060582449885901233",
+        "created_at": "2026-05-30T04:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060585762907885592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060585762907885592",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 197,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060582449885901233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 看肤色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11571,
+          "following_count": 4325,
+          "like_count": 47142,
+          "listed_count": 39,
+          "media_count": 2494,
+          "tweet_count": 14877
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-24T14:15:27.000Z",
+        "description": "不是所有的平板都是韩小寒",
+        "id": "1454360653",
+        "name": "一只绿喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1080051674855571456/AJ0OUWtp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8382,
+          "following_count": 477,
+          "like_count": 34843,
+          "listed_count": 35,
+          "media_count": 1550,
+          "tweet_count": 24281
+        },
+        "username": "1greencat",
+        "verified": false
+      }
+    ]
+  }
+}

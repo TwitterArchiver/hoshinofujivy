@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+          "id": "1144330382864556032",
+          "name": "Japanese Foreign Relation "
+        }
+      }
+    ],
+    "conversation_id": "1951251545233776872",
+    "created_at": "2025-08-01T11:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T12:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951251545233776872"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "中国",
+          "probability": 0.8295,
+          "start": 12,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "169480493",
+          "start": 3,
+          "username": "nikkei"
+        }
+      ],
+      "urls": [
+        {
+          "description": "【北京=田島如生】中国江蘇省蘇州市で7月31日、日本人の母親と子どもが襲撃される事件が起きていたことが分かった。母親が負傷したものの、命に別条はないという。日中関係筋が明らかにした。犯行の状況や犯人の現状、動機は明らかになっていない。蘇州市では2024年6月にも中国人の男が刃物を持って日本人学校のスクールバスを襲撃し、日本人母子が切",
+          "display_url": "nikkei.com/article/DGXZQO…",
+          "end": 64,
+          "expanded_url": "https://www.nikkei.com/article/DGXZQOGM016UY0R00C25A8000000/?n_cid=SNSTW001&n_tw=1754031195",
+          "start": 41,
+          "status": 200,
+          "title": "中国・蘇州で日本人母子がまた襲撃、母親が負傷　日中関係筋",
+          "unwound_url": "https://www.nikkei.com/article/DGXZQOGM016UY0R00C25A8000000/?n_cid=SNSTW001&n_tw=1754031195",
+          "url": "https://t.co/TqQgSmN7Z2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951251545233776872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1665
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951174384699449844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nikkei: 中国・蘇州で日本人母子がまた襲撃、母親が負傷　日中関係筋\nhttps://t.co/TqQgSmN7Z2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          }
+        ],
+        "conversation_id": "1951251545233776872",
+        "created_at": "2025-08-01T11:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T12:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951251545233776872"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "中国",
+              "probability": 0.8295,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "169480493",
+              "start": 3,
+              "username": "nikkei"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【北京=田島如生】中国江蘇省蘇州市で7月31日、日本人の母親と子どもが襲撃される事件が起きていたことが分かった。母親が負傷したものの、命に別条はないという。日中関係筋が明らかにした。犯行の状況や犯人の現状、動機は明らかになっていない。蘇州市では2024年6月にも中国人の男が刃物を持って日本人学校のスクールバスを襲撃し、日本人母子が切",
+              "display_url": "nikkei.com/article/DGXZQO…",
+              "end": 64,
+              "expanded_url": "https://www.nikkei.com/article/DGXZQOGM016UY0R00C25A8000000/?n_cid=SNSTW001&n_tw=1754031195",
+              "start": 41,
+              "status": 200,
+              "title": "中国・蘇州で日本人母子がまた襲撃、母親が負傷　日中関係筋",
+              "unwound_url": "https://www.nikkei.com/article/DGXZQOGM016UY0R00C25A8000000/?n_cid=SNSTW001&n_tw=1754031195",
+              "url": "https://t.co/TqQgSmN7Z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951251545233776872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1665
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951174384699449844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nikkei: 中国・蘇州で日本人母子がまた襲撃、母親が負傷　日中関係筋\nhttps://t.co/TqQgSmN7Z2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "169480493",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to Foreign Relation in Japan 日本の外交に関する会話",
+              "id": "1144330382864556032",
+              "name": "Japanese Foreign Relation "
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "1951174384699449844",
+        "created_at": "2025-08-01T06:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951174384699449844"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8374,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【北京=田島如生】中国江蘇省蘇州市で7月31日、日本人の母親と子どもが襲撃される事件が起きていたことが分かった。母親が負傷したものの、命に別条はないという。日中関係筋が明らかにした。犯行の状況や犯人の現状、動機は明らかになっていない。蘇州市では2024年6月にも中国人の男が刃物を持って日本人学校のスクールバスを襲撃し、日本人母子が切",
+              "display_url": "nikkei.com/article/DGXZQO…",
+              "end": 52,
+              "expanded_url": "https://www.nikkei.com/article/DGXZQOGM016UY0R00C25A8000000/?n_cid=SNSTW001&n_tw=1754031195",
+              "start": 29,
+              "status": 200,
+              "title": "中国・蘇州で日本人母子がまた襲撃、母親が負傷　日中関係筋",
+              "unwound_url": "https://www.nikkei.com/article/DGXZQOGM016UY0R00C25A8000000/?n_cid=SNSTW001&n_tw=1754031195",
+              "url": "https://t.co/TqQgSmN7Z2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951174384699449844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 390906,
+          "like_count": 2725,
+          "quote_count": 284,
+          "reply_count": 201,
+          "retweet_count": 1665
+        },
+        "reply_settings": "everyone",
+        "text": "中国・蘇州で日本人母子がまた襲撃、母親が負傷　日中関係筋\nhttps://t.co/TqQgSmN7Z2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ（山城归隐中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 2467,
+          "like_count": 23138,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 5547
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-22T12:58:30.000Z",
+        "description": "日経電子版の公式アカウントです。トップページで報じたニュースを中心に注目コンテンツを24時間発信。記事は会員向けを含みます。日経公式アカウント一覧は https://t.co/3H13iCnaMC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nikkei.com/edit/sns/?n_ci…",
+                "end": 98,
+                "expanded_url": "https://www.nikkei.com/edit/sns/?n_cid=DSSCN001",
+                "start": 75,
+                "url": "https://t.co/3H13iCnaMC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikkei.com",
+                "end": 23,
+                "expanded_url": "http://www.nikkei.com",
+                "start": 0,
+                "url": "https://t.co/Iajvc1gZ1K"
+              }
+            ]
+          }
+        },
+        "id": "169480493",
+        "name": "日本経済新聞 電子版（日経電子版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161879315933351936/CQbpby6s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4148158,
+          "following_count": 39,
+          "like_count": 0,
+          "listed_count": 45476,
+          "media_count": 16350,
+          "tweet_count": 476919
+        },
+        "url": "https://t.co/Iajvc1gZ1K",
+        "username": "nikkei",
+        "verified": true
+      }
+    ]
+  }
+}

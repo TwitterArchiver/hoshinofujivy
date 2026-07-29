@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2025095235546874258",
+    "created_at": "2026-02-24T19:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T20:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026384956700897536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4811748720",
+          "start": 0,
+          "username": "nameless2010L"
+        },
+        {
+          "end": 25,
+          "id": "1794035996889436160",
+          "start": 15,
+          "username": "Eris37298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026384956700897536",
+    "in_reply_to_user_id": "4811748720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025341090208120916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nameless2010L @Eris37298 直接让grok生成怀孕版就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2025095235546874258",
+        "created_at": "2026-02-24T19:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T20:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026384956700897536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4811748720",
+              "start": 0,
+              "username": "nameless2010L"
+            },
+            {
+              "end": 25,
+              "id": "1794035996889436160",
+              "start": 15,
+              "username": "Eris37298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026384956700897536",
+        "in_reply_to_user_id": "4811748720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025341090208120916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nameless2010L @Eris37298 直接让grok生成怀孕版就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4811748720",
+        "conversation_id": "2025095235546874258",
+        "created_at": "2026-02-21T22:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T23:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025341090208120916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 25,
+              "id": "1794035996889436160",
+              "start": 15,
+              "username": "Eris37298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025341090208120916",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 427,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025228817720397996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @Eris37298 能給prompt作為參考嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4047,
+          "following_count": 3634,
+          "like_count": 35587,
+          "listed_count": 6,
+          "media_count": 890,
+          "tweet_count": 8242
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-25T10:29:37.000Z",
+        "description": "Defeatism Strategist/🐍/♒️/INTP/01/Conservative/Straight. Just a nameless devil. 🇭🇰🇬🇧, take it or leave it. For more expand my bio below👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCYMUg…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCYMUgkfLakrVewV5i_JkxqQ",
+                "start": 0,
+                "url": "https://t.co/PwphFYwK66"
+              }
+            ]
+          }
+        },
+        "id": "4811748720",
+        "location": "3ʳᵈ-Dimension Universe",
+        "name": "לוציפר",
+        "pinned_tweet_id": "1987633207366537294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/695623266631700480/ne4kVhA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 1941,
+          "like_count": 52367,
+          "listed_count": 3,
+          "media_count": 190,
+          "tweet_count": 3521
+        },
+        "url": "https://t.co/PwphFYwK66",
+        "username": "nameless2010L",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T16:01:45.000Z",
+        "description": "中右翼温和保守派，厄里斯教驻地球分支部，忠实的厄里斯粉，喜欢分享素晴奇闻趣事和梗图（也会分享其它二次元番剧梗图），喜欢道早安晚安的机器人(迫真  日本語を勉強中、好朋友：@Akarasu64 @Giarritti1 @loveNanashimura @Shirasu8964228  @crowley20271751",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Akarasu64"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Giarritti1"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "loveNanashimura"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "Shirasu8964228"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "crowley20271751"
+              }
+            ]
+          }
+        },
+        "id": "1794035996889436160",
+        "name": "厄里斯教地球分部🌏",
+        "pinned_tweet_id": "1852603032577650753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021609907670384640/4sJWtvpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2616,
+          "following_count": 1417,
+          "like_count": 25840,
+          "listed_count": 6,
+          "media_count": 2935,
+          "tweet_count": 13240
+        },
+        "username": "Eris37298",
+        "verified": false
+      }
+    ]
+  }
+}

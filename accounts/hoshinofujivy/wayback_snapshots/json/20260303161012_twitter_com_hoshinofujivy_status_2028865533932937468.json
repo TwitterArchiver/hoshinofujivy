@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028597594642116608"
+      ],
+      "media_source_tweet_id": [
+        "2028734622704476389"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2028865533932937468",
+    "created_at": "2026-03-03T16:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028865533932937468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1578033581795905536",
+          "start": 3,
+          "username": "Dsymobile4999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qRALNUZ77P",
+          "end": 45,
+          "expanded_url": "https://x.com/Dsymobile4999/status/2028734622704476389/photo/1",
+          "media_key": "3_2028597594642116608",
+          "start": 22,
+          "url": "https://t.co/qRALNUZ77P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028865533932937468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028734622704476389",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dsymobile4999: 夜桜 https://t.co/qRALNUZ77P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2028597594642116608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCcGw6za8AAh0yk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028597594642116608"
+          ],
+          "media_source_tweet_id": [
+            "2028734622704476389"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2028865533932937468",
+        "created_at": "2026-03-03T16:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028865533932937468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1578033581795905536",
+              "start": 3,
+              "username": "Dsymobile4999"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRALNUZ77P",
+              "end": 45,
+              "expanded_url": "https://x.com/Dsymobile4999/status/2028734622704476389/photo/1",
+              "media_key": "3_2028597594642116608",
+              "start": 22,
+              "url": "https://t.co/qRALNUZ77P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028865533932937468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028734622704476389",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dsymobile4999: 夜桜 https://t.co/qRALNUZ77P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028597594642116608"
+          ]
+        },
+        "author_id": "1578033581795905536",
+        "conversation_id": "2028734622704476389",
+        "created_at": "2026-03-03T07:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028734622704476389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRALNUZ77P",
+              "end": 26,
+              "expanded_url": "https://x.com/Dsymobile4999/status/2028734622704476389/photo/1",
+              "media_key": "3_2028597594642116608",
+              "start": 3,
+              "url": "https://t.co/qRALNUZ77P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028734622704476389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3942,
+          "like_count": 395,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "夜桜 https://t.co/qRALNUZ77P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4624,
+          "following_count": 3793,
+          "like_count": 36940,
+          "listed_count": 10,
+          "media_count": 998,
+          "tweet_count": 8810
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-06T14:45:09.000Z",
+        "description": "#Holara #HolaraAI #NovelAI #AIArtwork  #AIart #AIイラスト  安全なプロンプトって「７０点から９０点のものが幾らでも出るんですよ」そりゃあ素晴らしいことです。でも危険とされるところ･･･誰も赴かないプロンプトとかな、そういうのうつと２０点か５万点なんですよ。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Holara"
+              },
+              {
+                "end": 17,
+                "start": 8,
+                "tag": "HolaraAI"
+              },
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "NovelAI"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "tag": "AIArtwork"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "AIart"
+              },
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "AIイラスト"
+              }
+            ]
+          }
+        },
+        "id": "1578033581795905536",
+        "location": "高崎、高崎まで戻るの？上毛高原は何のためにあるの",
+        "name": "たびはぱのらま",
+        "pinned_tweet_id": "2028372233396355376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589326129491771392/Xma09GL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40612,
+          "following_count": 2503,
+          "like_count": 397509,
+          "listed_count": 454,
+          "media_count": 6036,
+          "tweet_count": 63067
+        },
+        "username": "Dsymobile4999",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Enterprise software",
+          "id": "848959158082617344",
+          "name": "Enterprise software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027446854",
+          "name": "Adobe"
+        }
+      }
+    ],
+    "conversation_id": "1974670144489279942",
+    "created_at": "2025-10-05T02:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T03:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974670144489279942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "993517462183280640",
+          "start": 3,
+          "username": "FanKetchup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974670144489279942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974332881599361289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FanKetchup: 随着人工智能时代到来\nAI不再指Adobe的矢量工具\nGPT不再指磁盘分区模式\nSora也不再指苍井空老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "1974670144489279942",
+        "created_at": "2025-10-05T02:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T03:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974670144489279942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "993517462183280640",
+              "start": 3,
+              "username": "FanKetchup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974670144489279942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974332881599361289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FanKetchup: 随着人工智能时代到来\nAI不再指Adobe的矢量工具\nGPT不再指磁盘分区模式\nSora也不再指苍井空老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "993517462183280640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027446854",
+              "name": "Adobe"
+            }
+          }
+        ],
+        "conversation_id": "1974332881599361289",
+        "created_at": "2025-10-04T04:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974332881599361289"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974332881599361289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 23734,
+          "like_count": 216,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "随着人工智能时代到来\nAI不再指Adobe的矢量工具\nGPT不再指磁盘分区模式\nSora也不再指苍井空老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "k1_6r"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 2502,
+          "like_count": 25565,
+          "listed_count": 6,
+          "media_count": 532,
+          "tweet_count": 5862
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-07T15:46:36.000Z",
+        "description": "玩梗狂魔【推文95%以上原创】曾被推友们误认作插画师、设计师、键盘手、艺术生、酱料推销员等……的无线开发",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ferryyoungfan.github.io",
+                "end": 23,
+                "expanded_url": "http://ferryyoungfan.github.io",
+                "start": 0,
+                "url": "https://t.co/OLdTBDGLr9"
+              }
+            ]
+          }
+        },
+        "id": "993517462183280640",
+        "location": "转载注明作者",
+        "name": "帆咔嚓",
+        "pinned_tweet_id": "1137021785252065281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741061198408454144/omvKEGWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18953,
+          "following_count": 495,
+          "like_count": 2255,
+          "listed_count": 97,
+          "media_count": 2578,
+          "tweet_count": 8967
+        },
+        "url": "https://t.co/OLdTBDGLr9",
+        "username": "FanKetchup",
+        "verified": false
+      }
+    ]
+  }
+}

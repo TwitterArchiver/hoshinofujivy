@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006433374580436992"
+      ],
+      "media_source_tweet_id": [
+        "2006433381626859534"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2006546685477138696",
+    "created_at": "2026-01-01T02:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T03:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006546685477138696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793093397043163136",
+          "start": 3,
+          "username": "YU_TAI2414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EIqZCDkSuX",
+          "end": 73,
+          "expanded_url": "https://x.com/YU_TAI2414/status/2006433381626859534/photo/1",
+          "media_key": "3_2006433374580436992",
+          "start": 50,
+          "url": "https://t.co/EIqZCDkSuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006546685477138696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006433381626859534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YU_TAI2414: あけましておめでとうございます！\n今年もよろしくお願いいたします！ https://t.co/EIqZCDkSuX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006433374580436992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9hIhg1a8AAk7zN.jpg",
+        "width": 1554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006433374580436992"
+          ],
+          "media_source_tweet_id": [
+            "2006433381626859534"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006546685477138696",
+        "created_at": "2026-01-01T02:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006546685477138696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793093397043163136",
+              "start": 3,
+              "username": "YU_TAI2414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIqZCDkSuX",
+              "end": 73,
+              "expanded_url": "https://x.com/YU_TAI2414/status/2006433381626859534/photo/1",
+              "media_key": "3_2006433374580436992",
+              "start": 50,
+              "url": "https://t.co/EIqZCDkSuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006546685477138696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006433381626859534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YU_TAI2414: あけましておめでとうございます！\n今年もよろしくお願いいたします！ https://t.co/EIqZCDkSuX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006433374580436992"
+          ]
+        },
+        "author_id": "1793093397043163136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006433381626859534",
+        "created_at": "2025-12-31T18:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T19:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006433381626859534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIqZCDkSuX",
+              "end": 57,
+              "expanded_url": "https://x.com/YU_TAI2414/status/2006433381626859534/photo/1",
+              "media_key": "3_2006433374580436992",
+              "start": 34,
+              "url": "https://t.co/EIqZCDkSuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006433381626859534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 17489,
+          "like_count": 2276,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます！\n今年もよろしくお願いいたします！ https://t.co/EIqZCDkSuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 2808,
+          "like_count": 32169,
+          "listed_count": 4,
+          "media_count": 723,
+          "tweet_count": 7169
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T01:36:47.000Z",
+        "description": "いろいろ使ってAIイラスト作ってます。一コマで何気ない日常のイラストを作るのが好きです♪イラストの無断使用はお控えくださいませ。",
+        "id": "1793093397043163136",
+        "name": "ゆたい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956947767697547264/YAbBVBhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73600,
+          "following_count": 500,
+          "like_count": 23678,
+          "listed_count": 405,
+          "media_count": 1594,
+          "tweet_count": 23379
+        },
+        "username": "YU_TAI2414",
+        "verified": true
+      }
+    ]
+  }
+}

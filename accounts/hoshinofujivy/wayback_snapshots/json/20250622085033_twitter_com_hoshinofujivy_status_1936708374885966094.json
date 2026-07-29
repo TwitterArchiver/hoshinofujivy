@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1934947175991238776",
+    "created_at": "2025-06-22T08:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T09:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936708374885966094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "kawaii_akiiko"
+        },
+        {
+          "end": 24,
+          "id": "908312740455907330",
+          "start": 15,
+          "username": "qiuylove"
+        },
+        {
+          "end": 51,
+          "id": "1757630242288541696",
+          "start": 35,
+          "username": "Zhixiang_312145"
+        },
+        {
+          "end": 63,
+          "id": "1860994908972048384",
+          "start": 52,
+          "username": "raindew877"
+        },
+        {
+          "end": 70,
+          "id": "1545277694325116928",
+          "start": 64,
+          "username": "yqua_"
+        },
+        {
+          "end": 80,
+          "id": "1233598865028403201",
+          "start": 71,
+          "username": "NekoNoct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936708374885966094",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934947175991238776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawaii_akiiko @qiuylove @saonanaa @Zhixiang_312145 @raindew877 @yqua_ @NekoNoct hi"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1934947175991238776].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1934947175991238776",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1934947175991238776"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1934947175991238776",
+        "created_at": "2025-06-22T08:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936708374885966094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "kawaii_akiiko"
+            },
+            {
+              "end": 24,
+              "id": "908312740455907330",
+              "start": 15,
+              "username": "qiuylove"
+            },
+            {
+              "end": 51,
+              "id": "1757630242288541696",
+              "start": 35,
+              "username": "Zhixiang_312145"
+            },
+            {
+              "end": 63,
+              "id": "1860994908972048384",
+              "start": 52,
+              "username": "raindew877"
+            },
+            {
+              "end": 70,
+              "id": "1545277694325116928",
+              "start": 64,
+              "username": "yqua_"
+            },
+            {
+              "end": 80,
+              "id": "1233598865028403201",
+              "start": 71,
+              "username": "NekoNoct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936708374885966094",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934947175991238776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawaii_akiiko @qiuylove @saonanaa @Zhixiang_312145 @raindew877 @yqua_ @NekoNoct hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 2445,
+          "like_count": 21673,
+          "listed_count": 2,
+          "media_count": 458,
+          "tweet_count": 5147
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "🌙@qiuylove 男娘@saoweve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 1,
+                "username": "qiuylove"
+              },
+              {
+                "end": 21,
+                "start": 13,
+                "username": "saoweve"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Head in the cloud",
+        "name": "阿弃阿弃阿弃喵？",
+        "pinned_tweet_id": "1934947175991238776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913860496383684608/6rdN60Rd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 1023,
+          "like_count": 142966,
+          "listed_count": 4,
+          "media_count": 1094,
+          "tweet_count": 6215
+        },
+        "username": "kawaii_akiiko",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "纯情女高？！/里推/一只09的MtF噢/未炸柜但被迫断糖/退役CChOer/INFP/les/sub/免费私信树洞 /表@imqiuy /https://t.co/BFK1NVA58J 我想看@kawaii_akiiko (@kadakisystem)变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 60,
+                "username": "imqiuy"
+              },
+              {
+                "end": 110,
+                "start": 96,
+                "username": "kawaii_akiiko"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "kadakisystem"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 92,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 69,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "pinned_tweet_id": "1902942928017793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916718580705742848/pSAcedGu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 445,
+          "like_count": 12770,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 949
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "See you in every world, if possible.\nMy another account: @Phoeversum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Phoeversum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lith481",
+                "end": 23,
+                "expanded_url": "http://t.me/lith481",
+                "start": 0,
+                "url": "https://t.co/26HQ6agrgh"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "Fujian, China Mainland",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "1914289709817479199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 1826,
+          "like_count": 72506,
+          "listed_count": 2,
+          "media_count": 828,
+          "tweet_count": 6986
+        },
+        "url": "https://t.co/26HQ6agrgh",
+        "username": "Zhixiang_312145",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T10:32:39.000Z",
+        "description": "你...你好！如果被打扰到了...对不起... | 计算机学习中 | 害怕被责问 | 没有吃糖",
+        "id": "1860994908972048384",
+        "name": "雨露",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860996345785442304/uzIwT7nM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 251,
+          "like_count": 7994,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 830
+        },
+        "username": "raindew877",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Esports Analyst｜MTX🏳️‍⚧️｜前世17kfo @ryq59｜笨蛋@cy79p｜主人 @ckyf1134｜好妹妹@mhtqwq｜唯一指定协议客户@yanmin1105｜互fo寻回中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "username": "cy79p"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "ckyf1134"
+              },
+              {
+                "end": 72,
+                "start": 65,
+                "username": "mhtqwq"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "yanmin1105"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "name": "你是想气死铨酱么🍥（推油寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931558190036176896/2j5lVAN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1842,
+          "following_count": 1663,
+          "like_count": 12927,
+          "listed_count": 4,
+          "media_count": 266,
+          "tweet_count": 1612
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "yqua_",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-29T03:45:25.000Z",
+        "description": "😾 哈气米 | 🐱 热爱猫咪的幽默摄影师 | 📷 记录生活中的小确幸 | 🤔 对技术与游戏充满好奇 | 🎮 喜欢分享趣事与日常 | Feel free to DM me 💌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ccwiki.snnetwork.dpdns.org",
+                "end": 23,
+                "expanded_url": "http://ccwiki.snnetwork.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HaTLTX3p2c"
+              }
+            ]
+          }
+        },
+        "id": "1233598865028403201",
+        "location": "幻境，星尘网络，星渊空间站",
+        "name": "星韵狐狐🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913814816533499904/ia4uYos__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 506,
+          "like_count": 48921,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 8872
+        },
+        "url": "https://t.co/HaTLTX3p2c",
+        "username": "NekoNoct",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896497930934362462",
+    "created_at": "2025-03-03T09:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T10:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896497930934362462"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hsn8086/status/1896468251087090147",
+          "start": 11,
+          "url": "https://t.co/AFMBFSdav0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896497930934362462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896468251087090147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好巧，我是倒过来的（ https://t.co/AFMBFSdav0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1896468243499659264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlGb0c2bMAAX0Y0.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896497930934362462",
+        "created_at": "2025-03-03T09:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T10:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896497930934362462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hsn8086/status/1896468251087090147",
+              "start": 11,
+              "url": "https://t.co/AFMBFSdav0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896497930934362462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896468251087090147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好巧，我是倒过来的（ https://t.co/AFMBFSdav0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896468243499659264"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1896468251087090147",
+        "created_at": "2025-03-03T07:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T08:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896468251087090147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A00HSC2RLD",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1896468251087090147/photo/1",
+              "media_key": "3_1896468243499659264",
+              "start": 0,
+              "url": "https://t.co/A00HSC2RLD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896468251087090147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2934,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A00HSC2RLD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1825237974658990333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1840,
+          "like_count": 7207,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 2179
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1895271678005125582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43325,
+          "following_count": 919,
+          "like_count": 36681,
+          "listed_count": 109,
+          "media_count": 6958,
+          "tweet_count": 12242
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

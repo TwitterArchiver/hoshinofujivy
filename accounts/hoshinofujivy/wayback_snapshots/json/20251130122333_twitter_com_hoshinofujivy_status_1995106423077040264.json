@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1994945870706442240"
+      ],
+      "media_source_tweet_id": [
+        "1994945932497228236"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1995106423077040264",
+    "created_at": "2025-11-30T12:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T13:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995106423077040264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1535701819812462600",
+          "start": 3,
+          "username": "Kenntnis22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rN29f0Z4zu",
+          "end": 97,
+          "expanded_url": "https://x.com/Kenntnis22/status/1994945932497228236/video/1",
+          "media_key": "13_1994945870706442240",
+          "start": 74,
+          "url": "https://t.co/rN29f0Z4zu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995106423077040264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994945932497228236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kenntnis22: 这个BGM出处原来在这里，随口一唱就是录音室效果😧\n\n话说欧洲教堂在声学设计上也是一流水准，这在古代是怎么做到的？ https://t.co/rN29f0Z4zu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61000,
+        "height": 768,
+        "media_key": "13_1994945870706442240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994945870706442240/img/bwCH1rKVqaZ6p8fI.jpg",
+        "public_metrics": {
+          "view_count": 24937
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994945870706442240/vid/avc1/320x426/hR0k9elHbxGkhLOc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994945870706442240/vid/avc1/480x640/eoiSgphGxn_LwTSm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994945870706442240/vid/avc1/576x768/vlydPmFrJ3oL5sVB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994945870706442240/pl/M4guNGHLkdS7Yz7T.m3u8?v=38d"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994945870706442240"
+          ],
+          "media_source_tweet_id": [
+            "1994945932497228236"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1995106423077040264",
+        "created_at": "2025-11-30T12:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995106423077040264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1535701819812462600",
+              "start": 3,
+              "username": "Kenntnis22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN29f0Z4zu",
+              "end": 97,
+              "expanded_url": "https://x.com/Kenntnis22/status/1994945932497228236/video/1",
+              "media_key": "13_1994945870706442240",
+              "start": 74,
+              "url": "https://t.co/rN29f0Z4zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995106423077040264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994945932497228236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kenntnis22: 这个BGM出处原来在这里，随口一唱就是录音室效果😧\n\n话说欧洲教堂在声学设计上也是一流水准，这在古代是怎么做到的？ https://t.co/rN29f0Z4zu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994945870706442240"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1994945932497228236",
+        "created_at": "2025-11-30T01:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994945932497228236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN29f0Z4zu",
+              "end": 81,
+              "expanded_url": "https://x.com/Kenntnis22/status/1994945932497228236/video/1",
+              "media_key": "13_1994945870706442240",
+              "start": 58,
+              "url": "https://t.co/rN29f0Z4zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994945932497228236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 46742,
+          "like_count": 709,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "这个BGM出处原来在这里，随口一唱就是录音室效果😧\n\n话说欧洲教堂在声学设计上也是一流水准，这在古代是怎么做到的？ https://t.co/rN29f0Z4zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_ @vicoOci_olvidar|日本語學習者｜世界和平萬歲｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "vicoOci_olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 2657,
+          "like_count": 29431,
+          "listed_count": 4,
+          "media_count": 620,
+          "tweet_count": 6595
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1994954118281220303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44537,
+          "following_count": 339,
+          "like_count": 36746,
+          "listed_count": 216,
+          "media_count": 7742,
+          "tweet_count": 12043
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2058854610702602407",
+    "created_at": "2026-05-25T14:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058922080809452030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1928063239319080961",
+          "start": 0,
+          "username": "AlexChan258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058922080809452030",
+    "in_reply_to_user_id": "1928063239319080961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058855223972806997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexChan258 是首都为南京的缅甸吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2058854610702602407",
+        "created_at": "2026-05-25T14:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058922080809452030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1928063239319080961",
+              "start": 0,
+              "username": "AlexChan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058922080809452030",
+        "in_reply_to_user_id": "1928063239319080961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058855223972806997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexChan258 是首都为南京的缅甸吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928063239319080961",
+        "conversation_id": "2058854610702602407",
+        "created_at": "2026-05-25T10:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058855223972806997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058855223972806997",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058854610702602407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 原来是缅甸啊，还以为是缅甸呢😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11373,
+          "following_count": 4315,
+          "like_count": 46550,
+          "listed_count": 37,
+          "media_count": 2423,
+          "tweet_count": 14540
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T12:18:05.000Z",
+        "description": "会说芬兰语（并非）的猫娘/目前账号主营：吐槽，搬石，键政，梗图，好图，日常/爱好：游戏（HOI4，舰R/B，僚机计划），绘画（真的很烂）/中间派，尽力和不同政治光谱的人和平相处，支黑和分离主义除外（block）/后备隐藏能源：@AlexChancd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 113,
+                "username": "AlexChancd"
+              }
+            ]
+          }
+        },
+        "id": "1928063239319080961",
+        "location": "Nearby 1.14514km",
+        "name": "哈基雅尔维的波尔卡",
+        "pinned_tweet_id": "2055567751444578394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048600470227501056/9fK5FKrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 331,
+          "like_count": 35108,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 1760
+        },
+        "username": "AlexChan258",
+        "verified": true
+      }
+    ]
+  }
+}

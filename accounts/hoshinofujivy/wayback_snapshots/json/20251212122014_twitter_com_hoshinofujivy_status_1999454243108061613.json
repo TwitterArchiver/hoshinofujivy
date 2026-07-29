@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1999376001730773005",
+    "created_at": "2025-12-12T12:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T13:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999454243108061613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1917511942182498304",
+          "start": 0,
+          "username": "anothervicooci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999454243108061613",
+    "in_reply_to_user_id": "1917511942182498304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999376001730773005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anothervicooci 抱抱你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1999376001730773005].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1999376001730773005",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1999376001730773005"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1999376001730773005",
+        "created_at": "2025-12-12T12:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T13:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999454243108061613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1917511942182498304",
+              "start": 0,
+              "username": "anothervicooci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999454243108061613",
+        "in_reply_to_user_id": "1917511942182498304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999376001730773005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anothervicooci 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @huahuojiang_|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998767284253569024/V1sBwF09_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2177,
+          "following_count": 2696,
+          "like_count": 30745,
+          "listed_count": 4,
+          "media_count": 656,
+          "tweet_count": 6811
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-30T09:30:58.000Z",
+        "description": "大号@vicooci_olvidar /❤️I desire to go to the end with you without hesitation.❤️@ohyeahcomeonnow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "vicooci_olvidar"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ohyeahcomeonnow"
+              }
+            ]
+          }
+        },
+        "id": "1917511942182498304",
+        "location": "ff14",
+        "name": "vico不是oci",
+        "pinned_tweet_id": "1972123849367212093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996511666851483648/QxioE4HK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 115,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 250
+        },
+        "username": "anothervicooci",
+        "verified": false
+      }
+    ]
+  }
+}

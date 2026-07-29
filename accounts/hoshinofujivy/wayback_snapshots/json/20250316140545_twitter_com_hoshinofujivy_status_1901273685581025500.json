@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1901262073612697600"
+      ],
+      "media_source_tweet_id": [
+        "1901262128599998547"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1901273685581025500",
+    "created_at": "2025-03-16T14:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T15:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901273685581025500"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "うさちゃん",
+          "probability": 0.4726,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1152180425776754688",
+          "start": 3,
+          "username": "haru_siro_fuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xrzbB50saF",
+          "end": 55,
+          "expanded_url": "https://x.com/haru_siro_fuku/status/1901262128599998547/video/1",
+          "media_key": "13_1901262073612697600",
+          "start": 32,
+          "url": "https://t.co/xrzbB50saF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901273685581025500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901262128599998547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haru_siro_fuku: おやすみうさちゃんたち https://t.co/xrzbB50saF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10233,
+        "height": 1136,
+        "media_key": "13_1901262073612697600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1901262073612697600/img/w1g-q6ewaTb7IEWu.jpg",
+        "public_metrics": {
+          "view_count": 745
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901262073612697600/vid/avc1/480x504/RVi7AbXYdcvZTus-.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1901262073612697600/pl/dLPrH9k9nESlN2hs.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901262073612697600/vid/avc1/320x336/yRI8nSDxDOgTvp_e.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901262073612697600/vid/avc1/1080x1136/OaVQybM3ee6WMkJt.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1901262073612697600/vid/avc1/720x756/mN2LHoWOTus2jLwI.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1901262073612697600"
+          ],
+          "media_source_tweet_id": [
+            "1901262128599998547"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1901273685581025500",
+        "created_at": "2025-03-16T14:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T15:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901273685581025500"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "うさちゃん",
+              "probability": 0.4726,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1152180425776754688",
+              "start": 3,
+              "username": "haru_siro_fuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrzbB50saF",
+              "end": 55,
+              "expanded_url": "https://x.com/haru_siro_fuku/status/1901262128599998547/video/1",
+              "media_key": "13_1901262073612697600",
+              "start": 32,
+              "url": "https://t.co/xrzbB50saF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901273685581025500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901262128599998547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haru_siro_fuku: おやすみうさちゃんたち https://t.co/xrzbB50saF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1901262073612697600"
+          ]
+        },
+        "author_id": "1152180425776754688",
+        "conversation_id": "1901262128599998547",
+        "created_at": "2025-03-16T13:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T14:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901262128599998547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "うさちゃん",
+              "probability": 0.3986,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrzbB50saF",
+              "end": 35,
+              "expanded_url": "https://x.com/haru_siro_fuku/status/1901262128599998547/video/1",
+              "media_key": "13_1901262073612697600",
+              "start": 12,
+              "url": "https://t.co/xrzbB50saF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901262128599998547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2414,
+          "like_count": 300,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "おやすみうさちゃんたち https://t.co/xrzbB50saF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 2053,
+          "like_count": 10006,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 2928
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-19T11:36:34.000Z",
+        "description": "🐰はる(茶)♂7歳 /🐰ふく︎︎︎︎(眉毛)♀6歳/ 🐰しろ(白)♂6歳 主に同室のはる・ふくの動画 ハイライトには過去の『何でそうなった？ 』系や好きな動画を集めてあります！Reproducing all or any part of the contents is prohibited.動画の転載禁止です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/harusirofuku",
+                "end": 23,
+                "expanded_url": "https://lit.link/harusirofuku",
+                "start": 0,
+                "url": "https://t.co/CjtFAIOdKt"
+              }
+            ]
+          }
+        },
+        "id": "1152180425776754688",
+        "name": "うさぎもち",
+        "pinned_tweet_id": "1725463055054872938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1479804667807006720/PCaglQ1f_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13796,
+          "following_count": 202,
+          "like_count": 131538,
+          "listed_count": 221,
+          "media_count": 2799,
+          "tweet_count": 10490
+        },
+        "url": "https://t.co/CjtFAIOdKt",
+        "username": "haru_siro_fuku",
+        "verified": true
+      }
+    ]
+  }
+}

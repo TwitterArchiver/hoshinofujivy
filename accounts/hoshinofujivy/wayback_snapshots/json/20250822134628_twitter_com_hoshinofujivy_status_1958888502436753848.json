@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1958839314814812433",
+    "created_at": "2025-08-22T13:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T14:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958888502436753848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 28,
+          "id": "1565981667746914304",
+          "start": 13,
+          "username": "Chinese_114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958888502436753848",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958843971310088216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love @Chinese_114514 也怪不得wplace最近没有刚开始那么卡了(&gt;﹏&lt;)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1958843971310088216].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958843971310088216",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1958843971310088216"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1958839314814812433",
+        "created_at": "2025-08-22T13:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T14:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958888502436753848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 28,
+              "id": "1565981667746914304",
+              "start": 13,
+              "username": "Chinese_114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958888502436753848",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958843971310088216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @Chinese_114514 也怪不得wplace最近没有刚开始那么卡了(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1955587540188336450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957338607351709696/ZLE61Nkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 2482,
+          "like_count": 23912,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 5797
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "我是谁？我是谁不重要~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/qiuylove",
+                "end": 23,
+                "expanded_url": "https://x.com/qiuylove",
+                "start": 0,
+                "url": "https://t.co/E2xzoZ04DE"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Los Angeles, CA",
+        "name": "秋以降🐱🩷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958817245947457536/IAduBWxE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 1006,
+          "like_count": 154974,
+          "listed_count": 5,
+          "media_count": 1233,
+          "tweet_count": 7613
+        },
+        "url": "https://t.co/E2xzoZ04DE",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "面对真相，其实谁都一样，那些你愿意信的，是被你筛选过的 ——-《网络锚定效应》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jilaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/jilaoshi",
+                "start": 0,
+                "url": "https://t.co/ENIsNAGnjp"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️寄老师不是姬老师🍥",
+        "pinned_tweet_id": "1945543638341357716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945442779284340736/Pa29ayQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 905,
+          "like_count": 45690,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 4944
+        },
+        "url": "https://t.co/ENIsNAGnjp",
+        "username": "Chinese_114514",
+        "verified": false
+      }
+    ]
+  }
+}

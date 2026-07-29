@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2081379464014102713",
+    "created_at": "2026-07-27T09:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081672906216484939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763376163878240256",
+          "start": 0,
+          "username": "AlexandreA23520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081672906216484939",
+    "in_reply_to_user_id": "1763376163878240256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081582828727521490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AlexandreA23520 还有很多比如大不列颠，泰国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2081379464014102713",
+        "created_at": "2026-07-27T09:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081672906216484939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763376163878240256",
+              "start": 0,
+              "username": "AlexandreA23520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081672906216484939",
+        "in_reply_to_user_id": "1763376163878240256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081582828727521490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AlexandreA23520 还有很多比如大不列颠，泰国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763376163878240256",
+        "conversation_id": "2081379464014102713",
+        "created_at": "2026-07-27T03:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081582828727521490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582828727521490",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081379464014102713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@hoshinofujivy 日本是现存唯一一个皇帝制的国家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」|  头像自设，名为星野藤｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13546,
+          "following_count": 4399,
+          "like_count": 52074,
+          "listed_count": 24,
+          "media_count": 3517,
+          "tweet_count": 18400
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T01:32:48.000Z",
+        "description": "支持匿名上网访问，无需成为一门学问。\n知越多越敬畏未知，言论仅为个人输出无名孤立。\n生于零二一人一笔一心书写《红尘旅客》，\n心系九州邦联哪怕赛博建国也是沙盘推演功课。\n水母无脑随波加狒狒野蛮攻击，分辨各种声音充斥。\n为了押韵而不合群不是傲娇，做不到八面玲珑ey包括面面俱到。\nNamaste and checkmate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/1093515210",
+                "end": 23,
+                "expanded_url": "https://github.com/1093515210",
+                "start": 0,
+                "url": "https://t.co/WWZXwNPBpD"
+              }
+            ]
+          }
+        },
+        "id": "1763376163878240256",
+        "location": "Antarctica",
+        "name": "毋明释 Ehnitwi Stokrrh",
+        "pinned_tweet_id": "2070837021342601423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028013235518246912/cbBlGhsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 17,
+          "like_count": 4819,
+          "listed_count": 0,
+          "media_count": 930,
+          "tweet_count": 6832
+        },
+        "url": "https://t.co/WWZXwNPBpD",
+        "username": "AlexandreA23520",
+        "verified": false
+      }
+    ]
+  }
+}

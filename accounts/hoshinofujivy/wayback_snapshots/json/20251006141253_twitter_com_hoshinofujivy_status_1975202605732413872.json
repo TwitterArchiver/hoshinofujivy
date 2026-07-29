@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974975381770792960"
+      ],
+      "media_source_tweet_id": [
+        "1974975387789869109"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1975202605732413872",
+    "created_at": "2025-10-06T14:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T15:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975202605732413872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794442413181652992",
+          "start": 3,
+          "username": "GyaruGlow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WeGWE6rL1x",
+          "end": 38,
+          "expanded_url": "https://x.com/GyaruGlow/status/1974975387789869109/photo/1",
+          "media_key": "3_1974975381770792960",
+          "start": 15,
+          "url": "https://t.co/WeGWE6rL1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975202605732413872",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974975387789869109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GyaruGlow: https://t.co/WeGWE6rL1x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974975381770792960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2iFpVaW8AAXRLw.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974975381770792960"
+          ],
+          "media_source_tweet_id": [
+            "1974975387789869109"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1975202605732413872",
+        "created_at": "2025-10-06T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975202605732413872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794442413181652992",
+              "start": 3,
+              "username": "GyaruGlow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeGWE6rL1x",
+              "end": 38,
+              "expanded_url": "https://x.com/GyaruGlow/status/1974975387789869109/photo/1",
+              "media_key": "3_1974975381770792960",
+              "start": 15,
+              "url": "https://t.co/WeGWE6rL1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975202605732413872",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974975387789869109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GyaruGlow: https://t.co/WeGWE6rL1x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974975381770792960"
+          ]
+        },
+        "author_id": "1794442413181652992",
+        "conversation_id": "1974975387789869109",
+        "created_at": "2025-10-05T23:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T00:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974975387789869109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeGWE6rL1x",
+              "end": 23,
+              "expanded_url": "https://x.com/GyaruGlow/status/1974975387789869109/photo/1",
+              "media_key": "3_1974975381770792960",
+              "start": 0,
+              "url": "https://t.co/WeGWE6rL1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974975387789869109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1006,
+          "impression_count": 112780,
+          "like_count": 11743,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WeGWE6rL1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "k1_6r"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 2501,
+          "like_count": 25662,
+          "listed_count": 6,
+          "media_count": 532,
+          "tweet_count": 5872
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T18:56:44.000Z",
+        "description": "I shitpost anime memes everyday and post My Dress-Up Darling content ✨😆",
+        "id": "1794442413181652992",
+        "name": "Marini",
+        "pinned_tweet_id": "1954168773105029261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861447081509949441/-mAhCyBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27023,
+          "following_count": 166,
+          "like_count": 21648,
+          "listed_count": 45,
+          "media_count": 2623,
+          "tweet_count": 3796
+        },
+        "username": "GyaruGlow",
+        "verified": true
+      }
+    ]
+  }
+}

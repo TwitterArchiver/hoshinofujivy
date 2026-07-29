@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1905952657719939575",
+    "created_at": "2025-03-30T11:37:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T12:37:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906309773995422012"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "和真理子永",
+          "probability": 0.4956,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551803102780542977",
+          "start": 0,
+          "username": "ShinKi_Kakka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906309773995422012",
+    "in_reply_to_user_id": "1551803102780542977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905952657719939575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShinKi_Kakka 和真理子永远住在二人世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1905952657719939575",
+        "created_at": "2025-03-30T11:37:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T12:37:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906309773995422012"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "和真理子永",
+              "probability": 0.4956,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551803102780542977",
+              "start": 0,
+              "username": "ShinKi_Kakka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906309773995422012",
+        "in_reply_to_user_id": "1551803102780542977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905952657719939575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShinKi_Kakka 和真理子永远住在二人世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551803102780542977",
+        "conversation_id": "1905952657719939575",
+        "created_at": "2025-03-29T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905952657719939575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905952657719939575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2146,
+          "like_count": 68,
+          "quote_count": 3,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你变成了你头像的角色你会做什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野真理藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903466341862088704/Hsuu7fb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 2138,
+          "like_count": 12462,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 3448
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T05:34:33.000Z",
+        "description": "（再三声明する。）（17岁）（即将高三）此號主要是生活號， ，我是東方Project愛好者，日遊愛好者，日語正在學習中（n4），畫畫正在練習……。（有些事情會分享的）（本人反极端民族主義者（包括粉紅兔友））b站： https://t.co/JYERWETowX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tH8S69t",
+                "end": 130,
+                "expanded_url": "http://b23.tv/tH8S69t",
+                "start": 107,
+                "url": "https://t.co/JYERWETowX"
+              }
+            ]
+          }
+        },
+        "id": "1551803102780542977",
+        "location": "幻想鄉",
+        "name": "魔界の幽冥",
+        "pinned_tweet_id": "1906259148833972623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898604701962346496/H87Tklpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 7502,
+          "like_count": 7839,
+          "listed_count": 17,
+          "media_count": 595,
+          "tweet_count": 2431
+        },
+        "username": "ShinKi_Kakka",
+        "verified": false
+      }
+    ]
+  }
+}

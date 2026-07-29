@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1944054597280313611",
+    "created_at": "2025-07-12T19:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T20:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944112655989715161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944112655989715161",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944054597280313611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 我们都是囚笼里的困兽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1722,
+        "media_key": "3_1944054591219286016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqrWcWXwAAaa86.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944054591693180928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqrWeHW0AAPoUB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 889,
+        "media_key": "3_1944054589419835395",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqrWVpWUAMa5F7.jpg",
+        "width": 533
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944054593983578112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvqrWmpbgAAN05N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1944054597280313611",
+        "created_at": "2025-07-12T19:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T20:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944112655989715161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944112655989715161",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944054597280313611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 我们都是囚笼里的困兽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944054591219286016",
+            "3_1944054591693180928",
+            "3_1944054589419835395",
+            "3_1944054593983578112"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1944054597280313611",
+        "created_at": "2025-07-12T15:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T16:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944054597280313611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LjVbAF9NTO",
+              "end": 143,
+              "expanded_url": "https://x.com/FoxRed695449/status/1944054597280313611/photo/1",
+              "media_key": "3_1944054591219286016",
+              "start": 120,
+              "url": "https://t.co/LjVbAF9NTO"
+            },
+            {
+              "display_url": "pic.x.com/LjVbAF9NTO",
+              "end": 143,
+              "expanded_url": "https://x.com/FoxRed695449/status/1944054597280313611/photo/1",
+              "media_key": "3_1944054591693180928",
+              "start": 120,
+              "url": "https://t.co/LjVbAF9NTO"
+            },
+            {
+              "display_url": "pic.x.com/LjVbAF9NTO",
+              "end": 143,
+              "expanded_url": "https://x.com/FoxRed695449/status/1944054597280313611/photo/1",
+              "media_key": "3_1944054589419835395",
+              "start": 120,
+              "url": "https://t.co/LjVbAF9NTO"
+            },
+            {
+              "display_url": "pic.x.com/LjVbAF9NTO",
+              "end": 143,
+              "expanded_url": "https://x.com/FoxRed695449/status/1944054597280313611/photo/1",
+              "media_key": "3_1944054593983578112",
+              "start": 120,
+              "url": "https://t.co/LjVbAF9NTO"
+            },
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1943656627846148561",
+              "start": 144,
+              "url": "https://t.co/9hHg8LroMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944054597280313611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看的讓我發笑並更加討厭內地,真的簡直屬於是民族裂根性\n別的不說,頭一次看見把殘疾歧視說的這麼正當\n先拋開MTF,根據香港立法會2023年學生精神健康調查,24.4%的學生受到精神疾病的困擾\n至於我身邊有精神問題的MTF,大部分也活的挺好的\n不管是自閉症,ADHD這種先天性的問題;亦或是如焦慮症,抑鬱症這種後天問題,在社會工作介入+專科幫助下,基本上都能保持在一個比較穩定且社會化的狀態,包括我認識患有自閉症的朋友社會化程度其實也挺高的\n我自己也有精神問題,但我照樣也是該怎麼過就怎麼過,心情鬱悶了就花點錢找找樂子或者打電話給社工聊聊天,認為有精神問題就會做出各種逆天行為的著實有些好笑\n良好的生活環境+負責人的社會支持,即使是有精神疾病的MTF也能活出自己精彩的樣子\n反之為什麼內地會出現這樣的MTF,比起批評那些受害者,不如批評下那個不尊重人格的教育制度以及幾乎為0的社會服務"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1243,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943656627846148561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看的讓我發笑並更加討厭內地,真的簡直屬於是民族裂根性\n別的不說,頭一次看見把殘疾歧視說的這麼正當\n先拋開MTF,根據香港立法會2023年學生精神健康調查,24.4%的學生受到精神疾病的困擾\n至於我身邊有精神問題的MTF,大部分也活的挺好的 https://t.co/LjVbAF9NTO https://t.co/9hHg8LroMB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN25mg"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ（山城归隐中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 2478,
+          "like_count": 22676,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 5440
+        },
+        "url": "https://t.co/CgxvdN25mg",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 671,
+          "like_count": 3687,
+          "listed_count": 7,
+          "media_count": 531,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": true
+      }
+    ]
+  }
+}

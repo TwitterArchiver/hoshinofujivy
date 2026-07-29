@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1928847329110696063",
+    "created_at": "2025-06-01T11:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T12:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929144437801914443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        },
+        {
+          "end": 19,
+          "id": "1690570637499154432",
+          "start": 10,
+          "username": "saonanaa"
+        },
+        {
+          "end": 32,
+          "id": "1663066129923981312",
+          "start": 20,
+          "username": "CharmingP5K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929144437801914443",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929141808464093558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove @saonanaa @CharmingP5K 这就带上郊狼打车去电你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929141808464093558].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929141808464093558",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929141808464093558"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1928847329110696063",
+        "created_at": "2025-06-01T11:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T12:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929144437801914443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            },
+            {
+              "end": 19,
+              "id": "1690570637499154432",
+              "start": 10,
+              "username": "saonanaa"
+            },
+            {
+              "end": 32,
+              "id": "1663066129923981312",
+              "start": 20,
+              "username": "CharmingP5K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929144437801914443",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929141808464093558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove @saonanaa @CharmingP5K 这就带上郊狼打车去电你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN25mg"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "織田信藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 2371,
+          "like_count": 19568,
+          "listed_count": 2,
+          "media_count": 406,
+          "tweet_count": 4555
+        },
+        "url": "https://t.co/CgxvdN25mg",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "纯情女高？！/里推/一只09的MtF噢/未炸柜但被迫断糖/退役CChOer/INFP/les/sub/免费私信树洞 /表@imqiuy /https://t.co/BFK1NVA58J 限时放送：我想看@CharmingP5K (@Best_Ak1ra)变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 60,
+                "username": "imqiuy"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "CharmingP5K"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "Best_Ak1ra"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 92,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 69,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "pinned_tweet_id": "1902942928017793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916718580705742848/pSAcedGu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 428,
+          "like_count": 11038,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "想要看简介？多翻翻推文其实可以查找印象！",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921431206236712960/Y1-TRkVH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2938,
+          "following_count": 353,
+          "like_count": 22694,
+          "listed_count": 13,
+          "media_count": 1406,
+          "tweet_count": 12608
+        },
+        "username": "saonanaa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "我好迷茫 一个娇弱的蜷缩在角落里的性格奇怪的“人” 无聊的碎碎念 可能有一些技术推 想变可爱 和有趣的你们互fo呀 | 🥰我宣布最可爱的@qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Utopia",
+        "name": "永不言弃ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913860496383684608/6rdN60Rd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 1028,
+          "like_count": 139604,
+          "listed_count": 4,
+          "media_count": 1062,
+          "tweet_count": 5899
+        },
+        "username": "CharmingP5K",
+        "verified": false
+      }
+    ]
+  }
+}

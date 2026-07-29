@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957666428410376192"
+      ],
+      "media_source_tweet_id": [
+        "1957666436425674832"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1957989904518132023",
+    "created_at": "2025-08-20T02:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T03:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957989904518132023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1167792264795394048",
+          "start": 3,
+          "username": "leetfs1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMZ2JbMD9Q",
+          "end": 59,
+          "expanded_url": "https://x.com/leetfs1/status/1957666436425674832/photo/1",
+          "media_key": "3_1957666428410376192",
+          "start": 36,
+          "url": "https://t.co/ZMZ2JbMD9Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957989904518132023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957666436425674832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leetfs1: 打卡一下，中国首家撤店Apple store https://t.co/ZMZ2JbMD9Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1957666428410376192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GysHPpYbsAArSZt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957666428410376192"
+          ],
+          "media_source_tweet_id": [
+            "1957666436425674832"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1957989904518132023",
+        "created_at": "2025-08-20T02:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T03:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957989904518132023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1167792264795394048",
+              "start": 3,
+              "username": "leetfs1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMZ2JbMD9Q",
+              "end": 59,
+              "expanded_url": "https://x.com/leetfs1/status/1957666436425674832/photo/1",
+              "media_key": "3_1957666428410376192",
+              "start": 36,
+              "url": "https://t.co/ZMZ2JbMD9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957989904518132023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957666436425674832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leetfs1: 打卡一下，中国首家撤店Apple store https://t.co/ZMZ2JbMD9Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957666428410376192"
+          ]
+        },
+        "author_id": "1167792264795394048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1957666436425674832",
+        "created_at": "2025-08-19T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957666436425674832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMZ2JbMD9Q",
+              "end": 46,
+              "expanded_url": "https://x.com/leetfs1/status/1957666436425674832/photo/1",
+              "media_key": "3_1957666428410376192",
+              "start": 23,
+              "url": "https://t.co/ZMZ2JbMD9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957666436425674832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 262100,
+          "like_count": 1233,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "打卡一下，中国首家撤店Apple store https://t.co/ZMZ2JbMD9Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1955587540188336450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957338607351709696/ZLE61Nkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 2477,
+          "like_count": 23697,
+          "listed_count": 4,
+          "media_count": 532,
+          "tweet_count": 5710
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "@MtFwiki & @RLEwiki 成员 | 喜欢前端和 RISC-V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 19,
+                "start": 11,
+                "username": "RLEwiki"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941887536378658816/_xW0LrK6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4160,
+          "following_count": 2535,
+          "like_count": 1704,
+          "listed_count": 20,
+          "media_count": 866,
+          "tweet_count": 5879
+        },
+        "username": "leetfs1",
+        "verified": false
+      }
+    ]
+  }
+}

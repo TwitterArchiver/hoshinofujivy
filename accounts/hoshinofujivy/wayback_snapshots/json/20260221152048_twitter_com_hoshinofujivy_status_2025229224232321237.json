@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025229153050714112"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2025226785735278641",
+    "created_at": "2026-02-21T15:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025229224232321237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oE0lQ8vjA5",
+          "end": 29,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2025229224232321237/photo/1",
+          "media_key": "3_2025229153050714112",
+          "start": 6,
+          "url": "https://t.co/oE0lQ8vjA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025229224232321237",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025226785735278641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還有3D版 https://t.co/oE0lQ8vjA5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025229224232321237].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025229224232321237",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025229224232321237"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2025229153050714112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsPL0BaYAAG1jW.jpg",
+        "width": 832
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2025226707352035329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsM9dFaIAEd8yl.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025226707352035329"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2025226785735278641",
+        "created_at": "2026-02-21T15:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025226785735278641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4uyQNq1rqO",
+              "end": 38,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2025226785735278641/photo/1",
+              "media_key": "3_2025226707352035329",
+              "start": 15,
+              "url": "https://t.co/4uyQNq1rqO"
+            },
+            {
+              "display_url": "x.com/thetsss/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/thetsss/status/2025135744332013849",
+              "start": 39,
+              "url": "https://t.co/5HW4NPo2yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025226785735278641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025135744332013849",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧，滿足一下某些人的惡趣味 https://t.co/4uyQNq1rqO https://t.co/5HW4NPo2yg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）｜AIart｜Pixiv Illustrator",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3194,
+          "following_count": 3468,
+          "like_count": 35012,
+          "listed_count": 5,
+          "media_count": 843,
+          "tweet_count": 8052
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1989255674103292260",
+    "created_at": "2025-11-15T01:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T02:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989504687964635570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911004116299788288",
+          "start": 0,
+          "username": "TWCommanderCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989504687964635570",
+    "in_reply_to_user_id": "1911004116299788288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989255674103292260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWCommanderCat 没有！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989255663739097088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tBfJSaUAA0h9k.jpg",
+        "width": 1593
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1989255674103292260",
+        "created_at": "2025-11-15T01:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T02:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989504687964635570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911004116299788288",
+              "start": 0,
+              "username": "TWCommanderCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989504687964635570",
+        "in_reply_to_user_id": "1911004116299788288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989255674103292260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWCommanderCat 没有！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989255663739097088"
+          ]
+        },
+        "author_id": "1911004116299788288",
+        "conversation_id": "1989255674103292260",
+        "created_at": "2025-11-14T08:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989255674103292260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TCy2OT8aqz",
+              "end": 34,
+              "expanded_url": "https://x.com/TWCommanderCat/status/1989255674103292260/photo/1",
+              "media_key": "3_1989255663739097088",
+              "start": 11,
+              "url": "https://t.co/TCy2OT8aqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989255674103292260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 25160,
+          "like_count": 462,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "不同意的请举手！😂🤚 https://t.co/TCy2OT8aqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2576,
+          "like_count": 27733,
+          "listed_count": 4,
+          "media_count": 578,
+          "tweet_count": 6249
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T10:31:12.000Z",
+        "description": "Nationalism, Democracy & Civil Rights, Livelihood of the people; All\nHeil Republic of China！ 🫡🇹🇼 逃生艙：@TaipeiCat8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "TaipeiCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/twcommandercat",
+                "end": 23,
+                "expanded_url": "http://t.me/twcommandercat",
+                "start": 0,
+                "url": "https://t.co/5Fw2EJ34qW"
+              }
+            ]
+          }
+        },
+        "id": "1911004116299788288",
+        "location": "台湾台北市中正區重慶南路一段122號",
+        "name": "國軍喵司令🇹🇼（互fo/台北の虎🐯",
+        "pinned_tweet_id": "1988906399351357769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936876826804051969/JeNzglol_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1577,
+          "following_count": 990,
+          "like_count": 6751,
+          "listed_count": 10,
+          "media_count": 566,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/5Fw2EJ34qW",
+        "username": "TWCommanderCat",
+        "verified": true
+      }
+    ]
+  }
+}

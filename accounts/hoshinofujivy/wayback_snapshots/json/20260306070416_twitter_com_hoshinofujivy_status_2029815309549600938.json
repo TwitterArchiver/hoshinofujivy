@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2029448019092091354",
+    "created_at": "2026-03-06T07:04:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029815309549600938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1831156595860119552",
+          "start": 0,
+          "username": "kongtoujiaoguan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029815309549600938",
+    "in_reply_to_user_id": "1831156595860119552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029814827812803008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kongtoujiaoguan 点睛之笔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2029448019092091354",
+        "created_at": "2026-03-06T07:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029815309549600938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1831156595860119552",
+              "start": 0,
+              "username": "kongtoujiaoguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029815309549600938",
+        "in_reply_to_user_id": "1831156595860119552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029814827812803008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kongtoujiaoguan 点睛之笔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831156595860119552",
+        "conversation_id": "2029448019092091354",
+        "created_at": "2026-03-06T07:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029814827812803008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029814827812803008",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029448019092091354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 日本人的憋屈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4656,
+          "following_count": 3830,
+          "like_count": 37348,
+          "listed_count": 10,
+          "media_count": 1036,
+          "tweet_count": 8970
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T02:25:49.000Z",
+        "description": "WEB3 A8老炮  |  百人撸毛工作室合伙人/策略负责人  |  25年 Somnia, Boundless 各破A8；Newton, Sahara, Momentum 各破A7  |  重仓预测市场，刚被@opinionlabsxyz反撸  |  分享空投深度投研, 策略及管理思考",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "opinionlabsxyz"
+              }
+            ]
+          }
+        },
+        "id": "1831156595860119552",
+        "name": "空投教官",
+        "pinned_tweet_id": "2004037892377923861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001108354006196224/MxJEhXqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 790,
+          "like_count": 1050,
+          "listed_count": 48,
+          "media_count": 54,
+          "tweet_count": 2670
+        },
+        "username": "kongtoujiaoguan",
+        "verified": true
+      }
+    ]
+  }
+}

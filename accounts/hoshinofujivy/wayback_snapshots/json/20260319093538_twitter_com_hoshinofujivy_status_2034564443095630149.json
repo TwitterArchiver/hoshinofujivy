@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1937008734154436608"
+      ],
+      "media_source_tweet_id": [
+        "1937010083277517280"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034564443095630149",
+    "created_at": "2026-03-19T09:35:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:35:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034564443095630149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1547047785505370113",
+          "start": 3,
+          "username": "xuanfengbowen"
+        },
+        {
+          "end": 64,
+          "id": "1892959225669935104",
+          "start": 50,
+          "username": "whirlwangblog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdQeZ6FF47",
+          "end": 119,
+          "expanded_url": "https://x.com/xuanfengbowen/status/1937010083277517280/video/1",
+          "media_key": "13_1937008734154436608",
+          "start": 96,
+          "url": "https://t.co/mdQeZ6FF47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034564443095630149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 849
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937010083277517280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanfengbowen: 大家好 我是这些作品的原作者 来自中国的画师 实在受不了这个人@whirlwangblog的冒充和搬运 我将陆续将自己的作品上传X 希望大家不要被骗了。 https://t.co/mdQeZ6FF47"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40000,
+        "height": 1400,
+        "media_key": "13_1937008734154436608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937008734154436608/img/NIWVwlPGYuiAyxjH.jpg",
+        "public_metrics": {
+          "view_count": 88671
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/vid/avc1/634x270/4CWDrVorbqDHPZwn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/vid/avc1/846x360/CvVnTMZPtoXgaFZy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/vid/avc1/1692x720/L8P-0TDjreebMlJc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/pl/M80Inoj3bpcMWpGh.m3u8?tag=14&v=482"
+          }
+        ],
+        "width": 3290
+      },
+      {
+        "duration_ms": 40000,
+        "height": 1400,
+        "media_key": "13_1937008734154436608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1937008734154436608/img/NIWVwlPGYuiAyxjH.jpg",
+        "public_metrics": {
+          "view_count": 88672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/vid/avc1/634x270/4CWDrVorbqDHPZwn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/vid/avc1/846x360/CvVnTMZPtoXgaFZy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/vid/avc1/1692x720/L8P-0TDjreebMlJc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1937008734154436608/pl/M80Inoj3bpcMWpGh.m3u8?tag=14&v=482"
+          }
+        ],
+        "width": 3290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937008734154436608"
+          ],
+          "media_source_tweet_id": [
+            "1937010083277517280"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034564443095630149",
+        "created_at": "2026-03-19T09:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034564443095630149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1547047785505370113",
+              "start": 3,
+              "username": "xuanfengbowen"
+            },
+            {
+              "end": 64,
+              "id": "1892959225669935104",
+              "start": 50,
+              "username": "whirlwangblog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdQeZ6FF47",
+              "end": 119,
+              "expanded_url": "https://x.com/xuanfengbowen/status/1937010083277517280/video/1",
+              "media_key": "13_1937008734154436608",
+              "start": 96,
+              "url": "https://t.co/mdQeZ6FF47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034564443095630149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 849
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937010083277517280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuanfengbowen: 大家好 我是这些作品的原作者 来自中国的画师 实在受不了这个人@whirlwangblog的冒充和搬运 我将陆续将自己的作品上传X 希望大家不要被骗了。 https://t.co/mdQeZ6FF47"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1937008734154436608"
+          ]
+        },
+        "author_id": "1547047785505370113",
+        "conversation_id": "1937010083277517280",
+        "created_at": "2025-06-23T04:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T05:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937010083277517280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1892959225669935104",
+              "start": 31,
+              "username": "whirlwangblog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdQeZ6FF47",
+              "end": 100,
+              "expanded_url": "https://x.com/xuanfengbowen/status/1937010083277517280/video/1",
+              "media_key": "13_1937008734154436608",
+              "start": 77,
+              "url": "https://t.co/mdQeZ6FF47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937010083277517280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1439,
+          "impression_count": 217451,
+          "like_count": 7435,
+          "quote_count": 37,
+          "reply_count": 13,
+          "retweet_count": 849
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 我是这些作品的原作者 来自中国的画师 实在受不了这个人@whirlwangblog的冒充和搬运 我将陆续将自己的作品上传X 希望大家不要被骗了。 https://t.co/mdQeZ6FF47"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6768,
+          "following_count": 3869,
+          "like_count": 39436,
+          "listed_count": 18,
+          "media_count": 1253,
+          "tweet_count": 9886
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-13T02:38:41.000Z",
+        "description": "大家好 我是来自中国的旋风博文 因为最近在X和ins等平台有位不要脸的冒充者 疯狂搬运 偷盗我的作品发布来冒充我 所以从今天开始我会开始持续更新我的X账号 希望大家能够辨认 我一定会比此冒充者@whirlwangblog先发布我的作品的 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 96,
+                "username": "whirlwangblog"
+              }
+            ]
+          }
+        },
+        "id": "1547047785505370113",
+        "location": "中国 重庆",
+        "name": "旋风博文（真）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928371424131166208/HmaKdpMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59562,
+          "following_count": 500,
+          "like_count": 4821,
+          "listed_count": 195,
+          "media_count": 24,
+          "tweet_count": 54
+        },
+        "username": "xuanfengbowen",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T15:27:14.000Z",
+        "description": "一个动画人",
+        "id": "1892959225669935104",
+        "name": "旋风博文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892959935282978817/T1JqAIk7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4013,
+          "following_count": 1,
+          "like_count": 10,
+          "listed_count": 12,
+          "media_count": 31,
+          "tweet_count": 31
+        },
+        "username": "whirlwangblog",
+        "verified": false
+      }
+    ]
+  }
+}

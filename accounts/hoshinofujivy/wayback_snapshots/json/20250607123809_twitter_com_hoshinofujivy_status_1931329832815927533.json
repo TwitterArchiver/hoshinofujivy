@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1931239143167938635",
+    "created_at": "2025-06-07T12:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T13:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931329832815927533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        },
+        {
+          "end": 29,
+          "id": "1734402802234105856",
+          "start": 14,
+          "username": "PelerinInExile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931329832815927533",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931324182488301910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 @PelerinInExile 你猜呢😝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1931324182488301910].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1931324182488301910",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1931324182488301910"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1931239143167938635",
+        "created_at": "2025-06-07T12:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T13:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931329832815927533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            },
+            {
+              "end": 29,
+              "id": "1734402802234105856",
+              "start": 14,
+              "username": "PelerinInExile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931329832815927533",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931324182488301910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 @PelerinInExile 你猜呢😝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 2376,
+          "like_count": 19928,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 4621
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "看你媽呢，沒什麼好看的",
+        "id": "1808047925676986368",
+        "location": "Paris, France",
+        "name": "8̴̫̒0̵̞͠3̵͙͂5̶̢̍0̷͙̍9̶͔͗9̶̅ͅ6̸͖͛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924768965156282368/29gInSfo_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 364,
+          "like_count": 7224,
+          "listed_count": 3,
+          "media_count": 967,
+          "tweet_count": 8022
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T02:40:38.000Z",
+        "description": "自称夜鹭，实际上是智人|生命科学专业大学生，被“21世纪是生物的世纪”骗进天坑|业余文史哲爱好者，温和的自由主义者，托克维尔、密尔、波普尔支持者|人还在中国，有没法说的话请谅解|綾波レイ推し|日本語初心者|English/中文OK|Stand with Ukraine🇺🇦",
+        "id": "1734402802234105856",
+        "location": "夜鹭拟态研究院，上海，中国",
+        "name": "夜鹭酱ゴイサギちゃん🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907741774493396994/qjsDbvOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 805,
+          "like_count": 7845,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 686
+        },
+        "username": "PelerinInExile",
+        "verified": false
+      }
+    ]
+  }
+}

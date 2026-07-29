@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2056180435932299366",
+    "created_at": "2026-05-18T04:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056236317344989517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970821188596518912",
+          "start": 0,
+          "username": "Johnman1458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056236317344989517",
+    "in_reply_to_user_id": "1970821188596518912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056194448581931058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Johnman1458 所以，迫不得已还是不考公吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2056180435932299366",
+        "created_at": "2026-05-18T04:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056236317344989517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970821188596518912",
+              "start": 0,
+              "username": "Johnman1458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056236317344989517",
+        "in_reply_to_user_id": "1970821188596518912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056194448581931058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Johnman1458 所以，迫不得已还是不考公吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1970821188596518912",
+        "conversation_id": "2056180435932299366",
+        "created_at": "2026-05-18T02:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T03:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056194448581931058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056194448581931058",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 634,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056180435932299366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 给你个真相，护照在自己手里也出不了境，公务员体系的人都在名单上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10931,
+          "following_count": 4305,
+          "like_count": 46250,
+          "listed_count": 35,
+          "media_count": 2301,
+          "tweet_count": 14045
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T12:02:58.000Z",
+        "description": "诉说事实 | 揭露真相 | 观察社会 | 记录生活 | 三十年地产从业者讲述身边的真人真事",
+        "id": "1970821188596518912",
+        "name": "老蛙✨人間清醒",
+        "pinned_tweet_id": "2055982249187934345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015126128663433217/p6_YIvSl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 825,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 554
+        },
+        "username": "Johnman1458",
+        "verified": true
+      }
+    ]
+  }
+}

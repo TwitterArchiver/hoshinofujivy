@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2061214124936499393",
+    "created_at": "2026-06-01T01:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061263049840099509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714262783574081536",
+          "start": 0,
+          "username": "DN47422502_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061263049840099509",
+    "in_reply_to_user_id": "1714262783574081536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061260076045000869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DN47422502_8964 我可以用esim"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2061214124936499393",
+        "created_at": "2026-06-01T01:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061263049840099509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714262783574081536",
+              "start": 0,
+              "username": "DN47422502_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061263049840099509",
+        "in_reply_to_user_id": "1714262783574081536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061260076045000869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DN47422502_8964 我可以用esim"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714262783574081536",
+        "conversation_id": "2061214124936499393",
+        "created_at": "2026-06-01T01:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061260076045000869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061260076045000869",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061214124936499393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 落地機場有流量卡賣 別急著買\n憋到市區去便利店裡都有賣\n甚至可以直接開張povo用也比機場賣的卡便宜好用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11572,
+          "following_count": 4326,
+          "like_count": 47418,
+          "listed_count": 38,
+          "media_count": 2533,
+          "tweet_count": 15030
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-17T12:51:20.000Z",
+        "description": "To my dear Chinese people: うぉちゆにいじゃぁっつぁぉぅにぃま にぃまっべぇぅをっつぁぅだぁおぅしゃぁおぅはっはぁ | High Commissioner in Southeast Asia @enchenia 🫡 | Emmm…@govsingapore 😒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "enchenia"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "govsingapore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/dn4732…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/dn47322502.bsky.social",
+                "start": 0,
+                "url": "https://t.co/UpQwkXJty6"
+              }
+            ]
+          }
+        },
+        "id": "1714262783574081536",
+        "location": "にじゃあ",
+        "name": "@派樂迪Official 七号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805809848699019264/3S-VkfCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1523,
+          "like_count": 191163,
+          "listed_count": 5,
+          "media_count": 724,
+          "tweet_count": 6994
+        },
+        "url": "https://t.co/UpQwkXJty6",
+        "username": "DN47422502_8964",
+        "verified": false
+      }
+    ]
+  }
+}

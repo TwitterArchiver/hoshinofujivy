@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1919933818397429969",
+    "created_at": "2025-05-07T01:54:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T02:54:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919933818397429969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/figma/status/1…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/figma/status/1919932547766571044",
+          "start": 9,
+          "url": "https://t.co/QCSxgFJbxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919933818397429969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919932547766571044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是发生了什么事 https://t.co/QCSxgFJbxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5400,
+        "height": 1400,
+        "media_key": "13_1916929517064753153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1916929517064753153/img/lonhLSdZSArN2VKG.jpg",
+        "public_metrics": {
+          "view_count": 21966383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1916929517064753153/pl/TPVsboRJE2i2WJmp.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916929517064753153/vid/avc1/2004x1080/qojWuisIe0mq3C7r.mp4?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916929517064753153/vid/avc1/500x270/m6E9r6dgPUJMq48R.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916929517064753153/vid/avc1/668x360/sf5ZTQH-QZob4OnT.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1916929517064753153/vid/avc1/1336x720/wWpUy2-o9E-k77ub.mp4?tag=16"
+          }
+        ],
+        "width": 2600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1919933818397429969",
+        "created_at": "2025-05-07T01:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919933818397429969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/figma/status/1…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/figma/status/1919932547766571044",
+              "start": 9,
+              "url": "https://t.co/QCSxgFJbxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919933818397429969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919932547766571044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是发生了什么事 https://t.co/QCSxgFJbxa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1916929517064753153"
+          ]
+        },
+        "author_id": "3181020308",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1524184876139769856",
+              "name": "Figma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524184876139769856",
+              "name": "Figma"
+            }
+          }
+        ],
+        "conversation_id": "1919932547766571044",
+        "created_at": "2025-05-07T01:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919932547766571044"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "stop"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXS1BpF5ch",
+              "end": 177,
+              "expanded_url": "https://x.com/figma/status/1919932547766571044/video/1",
+              "media_key": "13_1916929517064753153",
+              "start": 154,
+              "url": "https://t.co/mXS1BpF5ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919932547766571044",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy you’re in &amp; we’ll send you updates starting with the keynote, streaming live May 7th at 9am PDT/12pm EDT.\n\nReply #stop to unsubscribe. https://t.co/mXS1BpF5ch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "最高領袖的影守护者·星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 2345,
+          "like_count": 17744,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 4304
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-30T21:48:45.000Z",
+        "description": "Your official #Config2025 news source",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 14,
+                "tag": "Config2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "figma.bot/VirtualConfig",
+                "end": 23,
+                "expanded_url": "https://figma.bot/VirtualConfig",
+                "start": 0,
+                "url": "https://t.co/aZCVHfTkQ5"
+              }
+            ]
+          }
+        },
+        "id": "3181020308",
+        "name": "Figma is Config Crave",
+        "pinned_tweet_id": "1919920233516531910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919854834343411714/cCE5AYDv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470360,
+          "following_count": 59,
+          "like_count": 41403,
+          "listed_count": 4025,
+          "media_count": 2445,
+          "tweet_count": 29308
+        },
+        "url": "https://t.co/aZCVHfTkQ5",
+        "username": "figma",
+        "verified": true
+      }
+    ]
+  }
+}

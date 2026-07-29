@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2037812264309518671",
+    "created_at": "2026-03-29T06:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038137148436856839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3301687694",
+          "start": 0,
+          "username": "Shirlene_girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038137148436856839",
+    "in_reply_to_user_id": "3301687694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037900704950730956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shirlene_girl 我是不是应该说华语音乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037900704950730956].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037900704950730956",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037900704950730956"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2037812264309518671",
+        "created_at": "2026-03-29T06:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038137148436856839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3301687694",
+              "start": 0,
+              "username": "Shirlene_girl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038137148436856839",
+        "in_reply_to_user_id": "3301687694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037900704950730956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shirlene_girl 我是不是应该说华语音乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7255,
+          "following_count": 3957,
+          "like_count": 40828,
+          "listed_count": 19,
+          "media_count": 1491,
+          "tweet_count": 10635
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-07-30T16:04:36.000Z",
+        "description": "养兔🐇/妹妹@EleanorAnatidae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 6,
+                "username": "EleanorAnatidae"
+              }
+            ]
+          }
+        },
+        "id": "3301687694",
+        "location": "👰🏻‍♀️",
+        "name": "雪玲🐰",
+        "pinned_tweet_id": "1921757539684823388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030658851515867136/g4OxyqCF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 1761,
+          "like_count": 29149,
+          "listed_count": 13,
+          "media_count": 336,
+          "tweet_count": 4843
+        },
+        "username": "Shirlene_girl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917208812848558082"
+      ],
+      "media_source_tweet_id": [
+        "1917208825423401224"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1917222861993099645",
+    "created_at": "2025-04-29T14:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917222861993099645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808047925676986368",
+          "start": 3,
+          "username": "xxx_zzx71446"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zv0uLpyXCU",
+          "end": 80,
+          "expanded_url": "https://x.com/xxx_zzx71446/status/1917208825423401224/photo/1",
+          "media_key": "3_1917208812848558082",
+          "start": 57,
+          "url": "https://t.co/Zv0uLpyXCU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917222861993099645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917208825423401224",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_zzx71446: 眼睛瞪得像銅鈴，\n射出閃電般的精明。\n耳朵豎得像天線，\n聽得一切可疑的聲音。 https://t.co/Zv0uLpyXCU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1917222861993099645].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1917222861993099645",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1917222861993099645"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1917208812848558082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GptLQeoWMAIPO67.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917208812848558082"
+          ]
+        },
+        "author_id": "1808047925676986368",
+        "conversation_id": "1917208825423401224",
+        "created_at": "2025-04-29T13:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T14:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917208825423401224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zv0uLpyXCU",
+              "end": 62,
+              "expanded_url": "https://x.com/xxx_zzx71446/status/1917208825423401224/photo/1",
+              "media_key": "3_1917208812848558082",
+              "start": 39,
+              "url": "https://t.co/Zv0uLpyXCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917208825423401224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛瞪得像銅鈴，\n射出閃電般的精明。\n耳朵豎得像天線，\n聽得一切可疑的聲音。 https://t.co/Zv0uLpyXCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 2280,
+          "like_count": 16688,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4128
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.",
+        "id": "1808047925676986368",
+        "location": "南极 南极点\n南纬90度，东经0度\n",
+        "name": "The Winnie king🏳️🏳️🏴‍☠️（淡政）",
+        "pinned_tweet_id": "1912894114468634992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899587862577721344/gEd3py4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 344,
+          "like_count": 5673,
+          "listed_count": 3,
+          "media_count": 749,
+          "tweet_count": 6368
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      }
+    ]
+  }
+}

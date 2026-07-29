@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1960189092425261520",
+    "created_at": "2025-08-26T03:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T04:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960190442856648848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        },
+        {
+          "end": 26,
+          "id": "1756246342676979713",
+          "start": 10,
+          "username": "sanmiguelnoodle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960190442856648848",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960189765627850852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove @sanmiguelnoodle 我可以吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960189765627850852].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960189765627850852",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960189765627850852"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1960189092425261520",
+        "created_at": "2025-08-26T03:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T04:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960190442856648848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            },
+            {
+              "end": 26,
+              "id": "1756246342676979713",
+              "start": 10,
+              "username": "sanmiguelnoodle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960190442856648848",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960189765627850852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove @sanmiguelnoodle 我可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1955587540188336450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957338607351709696/ZLE61Nkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 2485,
+          "like_count": 24079,
+          "listed_count": 5,
+          "media_count": 543,
+          "tweet_count": 5873
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺一只出厂16年的MtF噢/😣未炸柜但被迫断糖😭/退役CChOer/INFP/les/sub/免费私信树洞 /回忆存档 @imqiuy /✈️https://t.co/BFK1NVA58J 我想看@Ak1raQ_love 变男娘🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "imqiuy"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 129,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 106,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🏳️‍⚧️ 小秋月🎀🍥 🕯️",
+        "pinned_tweet_id": "1902942928017793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 544,
+          "like_count": 24485,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1791
+        },
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "中華民國派🇹🇼❂​ | 台灣人 | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 對象@MTNEKO123 | 唉呀這不是我好厚米@bolckAshley @HyotoChandesuyo @mi_huan030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "MTNEKO123"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "mi_huan030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/prumlin._.06171",
+                "end": 23,
+                "expanded_url": "https://ngl.link/prumlin._.06171",
+                "start": 0,
+                "url": "https://t.co/0sezusOF4u"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "name": "生力麵🍥🐱🐈",
+        "pinned_tweet_id": "1951233007156863102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097912569090053/O7Im7m4w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 353,
+          "like_count": 2007,
+          "listed_count": 4,
+          "media_count": 357,
+          "tweet_count": 3977
+        },
+        "url": "https://t.co/0sezusOF4u",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      }
+    ]
+  }
+}

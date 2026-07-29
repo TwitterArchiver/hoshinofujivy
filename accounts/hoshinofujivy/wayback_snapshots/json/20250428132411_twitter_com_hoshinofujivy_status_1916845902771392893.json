@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916816243094663168",
+        "3_1916816243077832705"
+      ],
+      "media_source_tweet_id": [
+        "1916816247942979939",
+        "1916816247942979939"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1916845902771392893",
+    "created_at": "2025-04-28T13:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T14:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916845902771392893"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 42,
+          "tag": "CLANNAD"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "古河渚"
+        },
+        {
+          "end": 62,
+          "start": 57,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 77,
+          "start": 63,
+          "tag": "カメラマンさんと繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "117134601",
+          "start": 3,
+          "username": "ichigo_choco84"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gJCNlKB8sh",
+          "end": 101,
+          "expanded_url": "https://x.com/ichigo_choco84/status/1916816247942979939/photo/1",
+          "media_key": "3_1916816243094663168",
+          "start": 78,
+          "url": "https://t.co/gJCNlKB8sh"
+        },
+        {
+          "display_url": "pic.x.com/gJCNlKB8sh",
+          "end": 101,
+          "expanded_url": "https://x.com/ichigo_choco84/status/1916816247942979939/photo/1",
+          "media_key": "3_1916816243077832705",
+          "start": 78,
+          "url": "https://t.co/gJCNlKB8sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916845902771392893",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916816247942979939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ichigo_choco84: 渚好きだったなぁ \nはるか昔の思い出😌🍡\n\n#CLANNAD\n#古河渚 \n#コスプレ\n#カメラマンさんと繋がりたい https://t.co/gJCNlKB8sh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_1916816243094663168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnmN6VbMAAnSGD.jpg",
+        "width": 400
+      },
+      {
+        "height": 466,
+        "media_key": "3_1916816243077832705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpnmN6RaYAEtRHb.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916816243094663168",
+            "3_1916816243077832705"
+          ],
+          "media_source_tweet_id": [
+            "1916816247942979939",
+            "1916816247942979939"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1916845902771392893",
+        "created_at": "2025-04-28T13:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916845902771392893"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 42,
+              "tag": "CLANNAD"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "古河渚"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 77,
+              "start": 63,
+              "tag": "カメラマンさんと繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "117134601",
+              "start": 3,
+              "username": "ichigo_choco84"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJCNlKB8sh",
+              "end": 101,
+              "expanded_url": "https://x.com/ichigo_choco84/status/1916816247942979939/photo/1",
+              "media_key": "3_1916816243094663168",
+              "start": 78,
+              "url": "https://t.co/gJCNlKB8sh"
+            },
+            {
+              "display_url": "pic.x.com/gJCNlKB8sh",
+              "end": 101,
+              "expanded_url": "https://x.com/ichigo_choco84/status/1916816247942979939/photo/1",
+              "media_key": "3_1916816243077832705",
+              "start": 78,
+              "url": "https://t.co/gJCNlKB8sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916845902771392893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916816247942979939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ichigo_choco84: 渚好きだったなぁ \nはるか昔の思い出😌🍡\n\n#CLANNAD\n#古河渚 \n#コスプレ\n#カメラマンさんと繋がりたい https://t.co/gJCNlKB8sh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916816243094663168",
+            "3_1916816243077832705"
+          ]
+        },
+        "author_id": "117134601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1916816247942979939",
+        "created_at": "2025-04-28T11:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T12:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916816247942979939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "CLANNAD"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "古河渚"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 57,
+              "start": 43,
+              "tag": "カメラマンさんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJCNlKB8sh",
+              "end": 81,
+              "expanded_url": "https://x.com/ichigo_choco84/status/1916816247942979939/photo/1",
+              "media_key": "3_1916816243094663168",
+              "start": 58,
+              "url": "https://t.co/gJCNlKB8sh"
+            },
+            {
+              "display_url": "pic.x.com/gJCNlKB8sh",
+              "end": 81,
+              "expanded_url": "https://x.com/ichigo_choco84/status/1916816247942979939/photo/1",
+              "media_key": "3_1916816243077832705",
+              "start": 58,
+              "url": "https://t.co/gJCNlKB8sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916816247942979939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "渚好きだったなぁ \nはるか昔の思い出😌🍡\n\n#CLANNAD\n#古河渚 \n#コスプレ\n#カメラマンさんと繋がりたい https://t.co/gJCNlKB8sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "中推圈第一偶像的主人 星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 2274,
+          "like_count": 16349,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 4068
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-24T17:01:16.000Z",
+        "description": "ときめきメモリアルが好き/ときメモ歴27年。伊集院レイさん、早乙女好雄くんがすき♡ /ときメモGS1～4プレイ済み/SD🏀(🦊🌸/🐿🔥/🌊🔥/沢深)/絵を描いたりコスプレしたり/日常も雑多/普段はアパレル販売員/pixiv1221581/20↑成人済 腐 夢 男性向けで育ちましたが最近BLに目覚めました",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ichigo-choco84.booth.pm",
+                "end": 23,
+                "expanded_url": "https://ichigo-choco84.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/zn4thl2hin"
+              }
+            ]
+          }
+        },
+        "id": "117134601",
+        "location": "私立きらめき高校 /kanagawa Japan",
+        "name": "綾原ちょこ🍓",
+        "pinned_tweet_id": "1794745324277518382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893693652624375808/yp2rsWD5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 1001,
+          "like_count": 67723,
+          "listed_count": 17,
+          "media_count": 7225,
+          "tweet_count": 50059
+        },
+        "url": "https://t.co/zn4thl2hin",
+        "username": "ichigo_choco84",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1929378910065868990",
+    "created_at": "2025-06-04T09:22:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T10:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930193383697592722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "taffy_lovely"
+        },
+        {
+          "end": 29,
+          "id": "1794131217463615488",
+          "start": 14,
+          "username": "satsushou_sonn"
+        },
+        {
+          "end": 38,
+          "id": "1894285195651813378",
+          "start": 30,
+          "username": "zhu6hua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930193383697592722",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930187421049860442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffy_lovely @satsushou_sonn @zhu6hua 不对吧，是你压着六花，我打的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1930187421049860442].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1930187421049860442",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1930187421049860442"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1929378910065868990",
+        "created_at": "2025-06-04T09:22:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T10:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930193383697592722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "taffy_lovely"
+            },
+            {
+              "end": 29,
+              "id": "1794131217463615488",
+              "start": 14,
+              "username": "satsushou_sonn"
+            },
+            {
+              "end": 38,
+              "id": "1894285195651813378",
+              "start": 30,
+              "username": "zhu6hua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930193383697592722",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930187421049860442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffy_lovely @satsushou_sonn @zhu6hua 不对吧，是你压着六花，我打的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN25mg"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "織田信藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 2368,
+          "like_count": 19811,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 4576
+        },
+        "url": "https://t.co/CgxvdN25mg",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "丨09 15岁高一在读 喜欢玩音游和galgame丨不鉴证 丨最喜欢的v是塔菲 最喜欢的歌手是真夜中同时喜欢听古典和术力口丨匿名提问:https://t.co/EeD9BHymb4 回fo看成分 逃生舱/垃圾桶:@taffy_daisuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "taffy_daisuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/taffy_lovable",
+                "end": 90,
+                "expanded_url": "https://ngl.link/taffy_lovable",
+                "start": 67,
+                "url": "https://t.co/EeD9BHymb4"
+              }
+            ]
+          }
+        },
+        "id": "1557846379736666113",
+        "location": "天国",
+        "name": "坂下🌸小菲",
+        "pinned_tweet_id": "1902017058822664292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897596618557566976/oj3eVEVx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 959,
+          "like_count": 2071,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 4369
+        },
+        "username": "taffy_lovely",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "加奈ちゃん/カナちゃん（ka na chan） ｜希望和大家作为好朋友，基本上fo的都会回｜头像画师：@yangyan88596853｜中国からの友情，ご清聴ありがとうございました，私は日本語が話せませんが、英語または通訳を通してコミュニケーションを取ることができます。皆様のご無事をお祈り申し上げます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "yangyan88596853"
+              }
+            ]
+          }
+        },
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "1889937031511548353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876295299439939584/KPTvk2v1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 3799,
+          "like_count": 1868,
+          "listed_count": 9,
+          "media_count": 242,
+          "tweet_count": 4838
+        },
+        "username": "satsushou_sonn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔萌萌类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 60,
+                "start": 52,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "那一天的坂下 六花起来",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895411742622031872/ktMsbjQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 959,
+          "like_count": 9250,
+          "listed_count": 4,
+          "media_count": 75,
+          "tweet_count": 5760
+        },
+        "username": "zhu6hua",
+        "verified": false
+      }
+    ]
+  }
+}

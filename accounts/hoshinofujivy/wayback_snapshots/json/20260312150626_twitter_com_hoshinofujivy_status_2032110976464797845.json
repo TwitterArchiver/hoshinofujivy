@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032095412002439180"
+      ],
+      "media_source_tweet_id": [
+        "2032095421003415594"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2032110976464797845",
+    "created_at": "2026-03-12T15:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032110976464797845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/woQFMzpHNA",
+          "end": 56,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2032095421003415594/photo/1",
+          "media_key": "3_2032095412002439180",
+          "start": 33,
+          "url": "https://t.co/woQFMzpHNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032110976464797845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032095421003415594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 夏日晴海已经销号\n😭😭😭 https://t.co/woQFMzpHNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032095412002439180",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDN0Ar4bQAwllI6.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032095412002439180"
+          ],
+          "media_source_tweet_id": [
+            "2032095421003415594"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2032110976464797845",
+        "created_at": "2026-03-12T15:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032110976464797845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/woQFMzpHNA",
+              "end": 56,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2032095421003415594/photo/1",
+              "media_key": "3_2032095412002439180",
+              "start": 33,
+              "url": "https://t.co/woQFMzpHNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032110976464797845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032095421003415594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 夏日晴海已经销号\n😭😭😭 https://t.co/woQFMzpHNA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032095412002439180"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2032095421003415594",
+        "created_at": "2026-03-12T14:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032095421003415594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/woQFMzpHNA",
+              "end": 36,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2032095421003415594/photo/1",
+              "media_key": "3_2032095412002439180",
+              "start": 13,
+              "url": "https://t.co/woQFMzpHNA"
+            },
+            {
+              "display_url": "x.com/cyberkanjousen…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cyberkanjousen/status/2031996406379266553",
+              "start": 37,
+              "url": "https://t.co/RIePOxd0CC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032095421003415594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031996406379266553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夏日晴海已经销号\n😭😭😭 https://t.co/woQFMzpHNA https://t.co/RIePOxd0CC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6275,
+          "following_count": 3835,
+          "like_count": 37930,
+          "listed_count": 19,
+          "media_count": 1107,
+          "tweet_count": 9292
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 129,
+          "like_count": 4076,
+          "listed_count": 1,
+          "media_count": 486,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

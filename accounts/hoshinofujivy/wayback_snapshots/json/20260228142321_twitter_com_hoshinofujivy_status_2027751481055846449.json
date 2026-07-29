@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2027584730254938589",
+    "created_at": "2026-02-28T14:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027751481055846449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 29,
+          "id": "1683060453528965120",
+          "start": 13,
+          "username": "NationalPureVF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027751481055846449",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027748686965707222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love @NationalPureVF4 每个月的28号（美东时间27号）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2027748686965707222].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2027748686965707222",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2027748686965707222"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2027584730254938589",
+        "created_at": "2026-02-28T14:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027751481055846449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 29,
+              "id": "1683060453528965120",
+              "start": 13,
+              "username": "NationalPureVF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027751481055846449",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027748686965707222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @NationalPureVF4 每个月的28号（美东时间27号）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4192,
+          "following_count": 3697,
+          "like_count": 36263,
+          "listed_count": 7,
+          "media_count": 947,
+          "tweet_count": 8573
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "「愿你被世界温柔以待。」/ 我自己也不清楚自己那就这样吧 / banner是未闻花名 / 秋月姐姐 @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mikachan.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/3Yo0IgyCS7"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "California, USA",
+        "name": "💫🌸永不言弃🍭🎀",
+        "pinned_tweet_id": "2024847273910571419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026304106730844160/AfC2rQLw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1345,
+          "following_count": 1018,
+          "like_count": 185838,
+          "listed_count": 3,
+          "media_count": 714,
+          "tweet_count": 6437
+        },
+        "url": "https://t.co/3Yo0IgyCS7",
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光\n時鐘塔十二君主創造科-巴留葉雷塔家的本家直系廢柴大小姐/滅世主情結/兼職惡役英雄/家有廢柴妹（本人）/Beast I 候補/暈血\n別稱：薇蕾娜/真理子/軟糯真理醬/虹之吸血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 109,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 146,
+                "start": 138,
+                "username": "_Weace_"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "name": "死徒第二十三祖-薇蕾娜•巴留葉雷塔•阿特洛霍姆",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025584082923683840/wj0ea8Dt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 1098,
+          "like_count": 69741,
+          "listed_count": 18,
+          "media_count": 1207,
+          "tweet_count": 31624
+        },
+        "username": "NationalPureVF4",
+        "verified": true
+      }
+    ]
+  }
+}

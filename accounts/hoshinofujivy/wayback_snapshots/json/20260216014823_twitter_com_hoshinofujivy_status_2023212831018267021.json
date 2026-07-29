@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022611905076936704"
+      ],
+      "media_source_tweet_id": [
+        "2022611908344299818"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2023212831018267021",
+    "created_at": "2026-02-16T01:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T02:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023212831018267021"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 77,
+          "tag": "ショコラと羽休め"
+        },
+        {
+          "end": 95,
+          "start": 87,
+          "tag": "インコとスズ子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1928392096983166976",
+          "start": 3,
+          "username": "Asunaro_0000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qFmhKbGWHf",
+          "end": 119,
+          "expanded_url": "https://x.com/Asunaro_0000/status/2022611908344299818/photo/1",
+          "media_key": "3_2022611905076936704",
+          "start": 96,
+          "url": "https://t.co/qFmhKbGWHf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023212831018267021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022611908344299818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asunaro_0000: スズ子だよ！\n\n甘いチョコと、大好きなインコさん。\nふたりで並んで、お菓子巡り。\nこれだけで幸せいっぱいなんだ。 \n\n#ショコラと羽休め #インコとスズ子 https://t.co/qFmhKbGWHf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2022611905076936704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHCz7iWQAASuWS.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022611905076936704"
+          ],
+          "media_source_tweet_id": [
+            "2022611908344299818"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2023212831018267021",
+        "created_at": "2026-02-16T01:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023212831018267021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 77,
+              "tag": "ショコラと羽休め"
+            },
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "インコとスズ子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1928392096983166976",
+              "start": 3,
+              "username": "Asunaro_0000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFmhKbGWHf",
+              "end": 119,
+              "expanded_url": "https://x.com/Asunaro_0000/status/2022611908344299818/photo/1",
+              "media_key": "3_2022611905076936704",
+              "start": 96,
+              "url": "https://t.co/qFmhKbGWHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023212831018267021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022611908344299818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asunaro_0000: スズ子だよ！\n\n甘いチョコと、大好きなインコさん。\nふたりで並んで、お菓子巡り。\nこれだけで幸せいっぱいなんだ。 \n\n#ショコラと羽休め #インコとスズ子 https://t.co/qFmhKbGWHf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022611905076936704"
+          ]
+        },
+        "author_id": "1928392096983166976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2022611908344299818",
+        "created_at": "2026-02-14T10:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022611908344299818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 59,
+              "tag": "ショコラと羽休め"
+            },
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "インコとスズ子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFmhKbGWHf",
+              "end": 101,
+              "expanded_url": "https://x.com/Asunaro_0000/status/2022611908344299818/photo/1",
+              "media_key": "3_2022611905076936704",
+              "start": 78,
+              "url": "https://t.co/qFmhKbGWHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022611908344299818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "スズ子だよ！\n\n甘いチョコと、大好きなインコさん。\nふたりで並んで、お菓子巡り。\nこれだけで幸せいっぱいなんだ。 \n\n#ショコラと羽休め #インコとスズ子 https://t.co/qFmhKbGWHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 2993,
+          "like_count": 34663,
+          "listed_count": 5,
+          "media_count": 807,
+          "tweet_count": 7858
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-30T10:05:04.000Z",
+        "description": "ストーリーボードを制作。\nHPをアートギャラリーとして公開中 🎨\nComfyUIの技術記事インペイント、レタッチ、ノードを中心に書いてます📚🖊\n\nLink HP：English also available",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asunaro0000.github.io/asunaro0000.ho…",
+                "end": 23,
+                "expanded_url": "https://asunaro0000.github.io/asunaro0000.homepage/",
+                "start": 0,
+                "url": "https://t.co/OPMYW9gjrL"
+              }
+            ]
+          }
+        },
+        "id": "1928392096983166976",
+        "location": "日本",
+        "name": "Asunaro",
+        "pinned_tweet_id": "2022959682432716926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942464880579338240/vvnwI2x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 774,
+          "like_count": 45996,
+          "listed_count": 5,
+          "media_count": 494,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/OPMYW9gjrL",
+        "username": "Asunaro_0000",
+        "verified": false
+      }
+    ]
+  }
+}

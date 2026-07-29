@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913207797271183360",
+        "3_1913207797279498240"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1913207813213683999",
+    "created_at": "2025-04-18T12:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T13:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913207813213683999"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "McDonald's",
+          "probability": 0.9503,
+          "start": 7,
+          "type": "Organization"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kvyw4hVbym",
+          "end": 41,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1913207813213683999/photo/1",
+          "media_key": "3_1913207797271183360",
+          "start": 18,
+          "url": "https://t.co/Kvyw4hVbym"
+        },
+        {
+          "display_url": "pic.x.com/Kvyw4hVbym",
+          "end": 41,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1913207813213683999/photo/1",
+          "media_key": "3_1913207797279498240",
+          "start": 18,
+          "url": "https://t.co/Kvyw4hVbym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913207813213683999",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "I LOVE McDonald's https://t.co/Kvyw4hVbym"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1913207797271183360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0UWuHbQAATLqh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1913207797279498240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go0UWuJaIAAaMj2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913207797271183360",
+            "3_1913207797279498240"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1913207813213683999",
+        "created_at": "2025-04-18T12:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T13:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913207813213683999"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "McDonald's",
+              "probability": 0.9503,
+              "start": 7,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kvyw4hVbym",
+              "end": 41,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1913207813213683999/photo/1",
+              "media_key": "3_1913207797271183360",
+              "start": 18,
+              "url": "https://t.co/Kvyw4hVbym"
+            },
+            {
+              "display_url": "pic.x.com/Kvyw4hVbym",
+              "end": 41,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1913207813213683999/photo/1",
+              "media_key": "3_1913207797279498240",
+              "start": 18,
+              "url": "https://t.co/Kvyw4hVbym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913207813213683999",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I LOVE McDonald's https://t.co/Kvyw4hVbym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 2247,
+          "like_count": 15259,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 3876
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

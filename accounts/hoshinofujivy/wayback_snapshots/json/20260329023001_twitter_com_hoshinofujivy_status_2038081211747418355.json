@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038064662580006912",
+        "3_2038064670611996672"
+      ],
+      "media_source_tweet_id": [
+        "2038064677603979391",
+        "2038064677603979391"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "2038081211747418355",
+    "created_at": "2026-03-29T02:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038081211747418355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainBuild_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ieqxbb0Yr5",
+          "end": 87,
+          "expanded_url": "https://x.com/RainBuild_2024/status/2038064677603979391/photo/1",
+          "media_key": "3_2038064662580006912",
+          "start": 64,
+          "url": "https://t.co/Ieqxbb0Yr5"
+        },
+        {
+          "display_url": "pic.x.com/Ieqxbb0Yr5",
+          "end": 87,
+          "expanded_url": "https://x.com/RainBuild_2024/status/2038064677603979391/photo/1",
+          "media_key": "3_2038064670611996672",
+          "start": 64,
+          "url": "https://t.co/Ieqxbb0Yr5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038081211747418355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038064677603979391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainBuild_2024: 这是我的第一台笔记本，Xiaomi Book Air 12.5，比一元硬币还薄.jpg https://t.co/Ieqxbb0Yr5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 909,
+        "media_key": "3_2038064662580006912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEipAzJbkAAwGtG.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1038,
+        "media_key": "3_2038064670611996672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEipBREaAAAq3Bk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038064662580006912",
+            "3_2038064670611996672"
+          ],
+          "media_source_tweet_id": [
+            "2038064677603979391",
+            "2038064677603979391"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2038081211747418355",
+        "created_at": "2026-03-29T02:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038081211747418355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainBuild_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ieqxbb0Yr5",
+              "end": 87,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2038064677603979391/photo/1",
+              "media_key": "3_2038064662580006912",
+              "start": 64,
+              "url": "https://t.co/Ieqxbb0Yr5"
+            },
+            {
+              "display_url": "pic.x.com/Ieqxbb0Yr5",
+              "end": 87,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2038064677603979391/photo/1",
+              "media_key": "3_2038064670611996672",
+              "start": 64,
+              "url": "https://t.co/Ieqxbb0Yr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038081211747418355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038064677603979391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainBuild_2024: 这是我的第一台笔记本，Xiaomi Book Air 12.5，比一元硬币还薄.jpg https://t.co/Ieqxbb0Yr5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038064662580006912",
+            "3_2038064670611996672"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "2038064677603979391",
+        "created_at": "2026-03-29T01:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038064677603979391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ieqxbb0Yr5",
+              "end": 67,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2038064677603979391/photo/1",
+              "media_key": "3_2038064662580006912",
+              "start": 44,
+              "url": "https://t.co/Ieqxbb0Yr5"
+            },
+            {
+              "display_url": "pic.x.com/Ieqxbb0Yr5",
+              "end": 67,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2038064677603979391/photo/1",
+              "media_key": "3_2038064670611996672",
+              "start": 44,
+              "url": "https://t.co/Ieqxbb0Yr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038064677603979391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 998,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的第一台笔记本，Xiaomi Book Air 12.5，比一元硬币还薄.jpg https://t.co/Ieqxbb0Yr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7240,
+          "following_count": 3952,
+          "like_count": 40743,
+          "listed_count": 19,
+          "media_count": 1479,
+          "tweet_count": 10586
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9217,
+          "following_count": 875,
+          "like_count": 65557,
+          "listed_count": 18,
+          "media_count": 1384,
+          "tweet_count": 9661
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

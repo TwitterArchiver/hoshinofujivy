@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1901835744114810925",
+    "created_at": "2025-03-18T03:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T04:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901842807813447821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1662627793375739904",
+          "start": 0,
+          "username": "zjwezdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901842807813447821",
+    "in_reply_to_user_id": "1662627793375739904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901835744114810925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zjwezdh 正常操作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1901835744114810925",
+        "created_at": "2025-03-18T03:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T04:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901842807813447821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1662627793375739904",
+              "start": 0,
+              "username": "zjwezdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901842807813447821",
+        "in_reply_to_user_id": "1662627793375739904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901835744114810925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zjwezdh 正常操作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662627793375739904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1901835744114810925",
+        "created_at": "2025-03-18T03:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T04:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901835744114810925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1901642814280097985",
+              "start": 146,
+              "url": "https://t.co/i8CivCaOYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901835744114810925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901642814280097985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，说起来，我读初三的时候，杭州市紫金港中学某语文老师，默写写错要抄写100遍，而且老师抓的超级紧。看到两支笔一起抄的要重新抄。我当时还没用作业帮 硬是挺下来的，真的心力憔悴...\n当时语文作业，蓝皮书就很抽象。本次考试反思，下一步努力方向,而且还不能谁过去\n我坚决抵制讨厌任何书面考后反思 https://t.co/i8CivCaOYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "真理藤",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901650382641893376/SMhQcQgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 2059,
+          "like_count": 10162,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2980
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T01:12:29.000Z",
+        "description": "愿你想要得到的都能得到，得不到的都能释怀|\n人和想法，还有感情都很浪漫，生活在幻想之中|\n精神寄托：比邻星|\nMBTI:INFP-T|\n意识形态：自由主义|\n希望自己能用行动践行普世价值|\n不看黄，不涉黄，不涩涩|\n最主要是分享一些自己的日常生活，感情经历，以及对一些事情的看法|\n电子阳痿|\n真的超级善良...",
+        "id": "1662627793375739904",
+        "location": "图书馆自习室（正在自习）",
+        "name": "laimudada🏳️‍🌈(电子阳痿版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665972900439154688/banO5oCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 119,
+          "like_count": 2283,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1002
+        },
+        "username": "zjwezdh",
+        "verified": false
+      }
+    ]
+  }
+}

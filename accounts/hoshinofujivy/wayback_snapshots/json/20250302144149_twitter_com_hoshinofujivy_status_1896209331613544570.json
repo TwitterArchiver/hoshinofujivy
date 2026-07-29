@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896209331613544570",
+    "created_at": "2025-03-02T14:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T15:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896209331613544570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1666599054917218305",
+          "start": 3,
+          "username": "kirakira4th"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896209331613544570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896194665906569659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kirakira4th: 我是消失的井盖\n我改名了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896209331613544570",
+        "created_at": "2025-03-02T14:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896209331613544570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1666599054917218305",
+              "start": 3,
+              "username": "kirakira4th"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896209331613544570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896194665906569659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kirakira4th: 我是消失的井盖\n我改名了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666599054917218305",
+        "conversation_id": "1896194665906569659",
+        "created_at": "2025-03-02T13:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896194665906569659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896194665906569659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是消失的井盖\n我改名了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふき",
+        "pinned_tweet_id": "1825237974658990333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1826,
+          "like_count": 7053,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 2110
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-08T00:12:47.000Z",
+        "description": "同我啜泣 共我悲鸣",
+        "id": "1666599054917218305",
+        "location": "52/88/128",
+        "name": "第六天魔王",
+        "pinned_tweet_id": "1860322536485236873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893966067652792320/ltZEek7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12523,
+          "following_count": 2640,
+          "like_count": 48771,
+          "listed_count": 18,
+          "media_count": 307,
+          "tweet_count": 13542
+        },
+        "username": "kirakira4th",
+        "verified": false
+      }
+    ]
+  }
+}

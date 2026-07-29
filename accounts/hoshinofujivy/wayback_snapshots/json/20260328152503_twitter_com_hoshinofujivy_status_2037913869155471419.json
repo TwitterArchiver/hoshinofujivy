@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2037913869155471419",
+    "created_at": "2026-03-28T15:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T16:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037913869155471419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Qgat549605/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/Qgat549605/status/2037896691865862266",
+          "start": 25,
+          "url": "https://t.co/zWwoZuQSp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037913869155471419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037896691865862266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我主页写了火星\n你是不是以为我真的是火星人？ https://t.co/zWwoZuQSp6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2037913869155471419",
+        "created_at": "2026-03-28T15:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037913869155471419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Qgat549605/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/Qgat549605/status/2037896691865862266",
+              "start": 25,
+              "url": "https://t.co/zWwoZuQSp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037913869155471419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037896691865862266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我主页写了火星\n你是不是以为我真的是火星人？ https://t.co/zWwoZuQSp6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984782834293489666",
+        "conversation_id": "2037895666983440447",
+        "created_at": "2026-03-28T14:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037896691865862266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037896691865862266",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037895666983440447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 自稱在台灣、用簡中的親日分子？\n應該就是滯台日畜吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7200,
+          "following_count": 3937,
+          "like_count": 40662,
+          "listed_count": 19,
+          "media_count": 1472,
+          "tweet_count": 10554
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T00:41:26.000Z",
+        "description": "",
+        "id": "1984782834293489666",
+        "name": "yumwer58644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003489711730597888/E-G5OXlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 98,
+          "like_count": 1901,
+          "listed_count": 4,
+          "media_count": 1122,
+          "tweet_count": 6259
+        },
+        "username": "Qgat549605",
+        "verified": false
+      }
+    ]
+  }
+}

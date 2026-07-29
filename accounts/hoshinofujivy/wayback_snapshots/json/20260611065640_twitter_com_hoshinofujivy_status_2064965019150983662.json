@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2064946293408203194",
+    "created_at": "2026-06-11T06:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T07:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064965019150983662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698883918936842240",
+          "start": 0,
+          "username": "GGX123123"
+        },
+        {
+          "end": 27,
+          "id": "1467343910284701700",
+          "start": 11,
+          "username": "beagooddoctor01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064965019150983662",
+    "in_reply_to_user_id": "1698883918936842240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064964250712539508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGX123123 @beagooddoctor01 诶，我可以攒钱\n而且旅行一次后，我发现国外留学也不是那么难，更何况我可以打工养活自己\n我只是眷恋这片土地，看看能不能找到平替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2064946293408203194",
+        "created_at": "2026-06-11T06:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064965019150983662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698883918936842240",
+              "start": 0,
+              "username": "GGX123123"
+            },
+            {
+              "end": 27,
+              "id": "1467343910284701700",
+              "start": 11,
+              "username": "beagooddoctor01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064965019150983662",
+        "in_reply_to_user_id": "1698883918936842240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064964250712539508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGX123123 @beagooddoctor01 诶，我可以攒钱\n而且旅行一次后，我发现国外留学也不是那么难，更何况我可以打工养活自己\n我只是眷恋这片土地，看看能不能找到平替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698883918936842240",
+        "conversation_id": "2064946293408203194",
+        "created_at": "2026-06-11T06:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064964250712539508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1467343910284701700",
+              "start": 0,
+              "username": "beagooddoctor01"
+            },
+            {
+              "end": 31,
+              "id": "1622066090074607616",
+              "start": 17,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064964250712539508",
+        "in_reply_to_user_id": "1467343910284701700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064956146096681079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beagooddoctor01 @hoshinofujivy 她没钱，润不起，就这么简单"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2064601476480356772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11873,
+          "following_count": 4353,
+          "like_count": 48845,
+          "listed_count": 37,
+          "media_count": 2741,
+          "tweet_count": 15783
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-05T02:21:58.000Z",
+        "description": "行く川の流れは絶えずして\n\nEnglish/汉语/日本語",
+        "id": "1698883918936842240",
+        "location": "中南海",
+        "name": "Hellfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031005770545045504/ibMonF84_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 299,
+          "like_count": 32802,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 2320
+        },
+        "username": "GGX123123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T04:04:00.000Z",
+        "description": "众魂由我摆渡",
+        "id": "1467343910284701700",
+        "location": "China,Zhejiang province",
+        "name": "逻各斯official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013232374423724032/lt5_UrZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 258,
+          "like_count": 615,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 1163
+        },
+        "username": "beagooddoctor01",
+        "verified": false
+      }
+    ]
+  }
+}

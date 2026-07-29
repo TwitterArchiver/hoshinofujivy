@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025226707352035329"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2025226785735278641",
+    "created_at": "2026-02-21T15:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025226785735278641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4uyQNq1rqO",
+          "end": 38,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2025226785735278641/photo/1",
+          "media_key": "3_2025226707352035329",
+          "start": 15,
+          "url": "https://t.co/4uyQNq1rqO"
+        },
+        {
+          "display_url": "x.com/thetsss/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/thetsss/status/2025135744332013849",
+          "start": 39,
+          "url": "https://t.co/5HW4NPo2yg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025226785735278641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025135744332013849",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吧，滿足一下某些人的惡趣味 https://t.co/4uyQNq1rqO https://t.co/5HW4NPo2yg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025226785735278641].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025226785735278641",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025226785735278641"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2025226707352035329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsM9dFaIAEd8yl.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070268898816053248",
+        "conversation_id": "2025095235546874258",
+        "created_at": "2026-02-21T09:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025135744332013849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025135744332013849",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025095235546874258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 有没有怀孕的造型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）｜AIart｜Pixiv Illustrator",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3186,
+          "following_count": 3453,
+          "like_count": 35010,
+          "listed_count": 5,
+          "media_count": 841,
+          "tweet_count": 8050
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-05T10:49:24.000Z",
+        "description": "硬邦邦帮主",
+        "id": "1070268898816053248",
+        "location": "Singapore",
+        "name": "玩具公司",
+        "pinned_tweet_id": "2008818579228266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890250049181073408/tZEUeQ9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28387,
+          "following_count": 2266,
+          "like_count": 5341,
+          "listed_count": 80,
+          "media_count": 1576,
+          "tweet_count": 13641
+        },
+        "username": "thetsss",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

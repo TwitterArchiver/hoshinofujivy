@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983211339196878848"
+      ],
+      "media_source_tweet_id": [
+        "1983211343067906357"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1983330399528112214",
+    "created_at": "2025-10-29T00:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T01:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983330399528112214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "912623216899715072",
+          "start": 3,
+          "username": "Xianzhong_1953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgrOA4tOtt",
+          "end": 52,
+          "expanded_url": "https://x.com/Xianzhong_1953/status/1983211343067906357/photo/1",
+          "media_key": "3_1983211339196878848",
+          "start": 29,
+          "url": "https://t.co/AgrOA4tOtt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983330399528112214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983211343067906357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xianzhong_1953: 送给我的推友们！ https://t.co/AgrOA4tOtt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983330399528112214].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983330399528112214",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983330399528112214"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1983211339196878848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4XINJtbUAAdP-V.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983211339196878848"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "1983211343067906357",
+        "created_at": "2025-10-28T16:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T17:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983211343067906357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgrOA4tOtt",
+              "end": 32,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1983211343067906357/photo/1",
+              "media_key": "3_1983211339196878848",
+              "start": 9,
+              "url": "https://t.co/AgrOA4tOtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983211343067906357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 437,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "送给我的推友们！ https://t.co/AgrOA4tOtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 2553,
+          "like_count": 26563,
+          "listed_count": 4,
+          "media_count": 559,
+          "tweet_count": 6072
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105042,
+          "following_count": 815,
+          "like_count": 237542,
+          "listed_count": 344,
+          "media_count": 22338,
+          "tweet_count": 43369
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

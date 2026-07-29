@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1901487611312824805",
+    "created_at": "2025-03-17T04:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T05:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1901487611312824805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HansZimmerLive…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/HansZimmerLive/status/1900592084672758193",
+          "start": 14,
+          "url": "https://t.co/d9KQvBJLK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901487611312824805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900592084672758193",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有想要一起来的吗\n坐标北京 https://t.co/d9KQvBJLK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16866,
+        "height": 1280,
+        "media_key": "13_1900592013201813504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1900592013201813504/img/CSqmEaolP7q-fzdO.jpg",
+        "public_metrics": {
+          "view_count": 580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900592013201813504/vid/avc1/320x568/5zR_7PsiZlqbGURG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900592013201813504/vid/avc1/480x852/pX3a7pf7mp7anSEV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1900592013201813504/vid/avc1/720x1280/vJRbDL3E8SRiMzPF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1900592013201813504/pl/r3F5IA8vlb04MHPu.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1901487611312824805",
+        "created_at": "2025-03-17T04:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T05:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901487611312824805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HansZimmerLive…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/HansZimmerLive/status/1900592084672758193",
+              "start": 14,
+              "url": "https://t.co/d9KQvBJLK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901487611312824805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900592084672758193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有想要一起来的吗\n坐标北京 https://t.co/d9KQvBJLK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1900592013201813504"
+          ]
+        },
+        "author_id": "4053125121",
+        "conversation_id": "1900592084672758193",
+        "created_at": "2025-03-14T16:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T17:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900592084672758193"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "China",
+              "probability": 0.9601,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Beijing",
+              "probability": 0.9487,
+              "start": 85,
+              "type": "Place"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Shanghai",
+              "probability": 0.9829,
+              "start": 94,
+              "type": "Place"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Hangzhou",
+              "probability": 0.9927,
+              "start": 104,
+              "type": "Place"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Hong Kong",
+              "probability": 0.9893,
+              "start": 117,
+              "type": "Place"
+            },
+            {
+              "end": 193,
+              "normalized_text": "HansZimmerLive",
+              "probability": 0.8962,
+              "start": 180,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 194,
+              "start": 179,
+              "tag": "HansZimmerLive"
+            }
+          ],
+          "urls": [
+            {
+              "description": "“Hans Zimmer Live” an unforgettable audio-visual concert event.",
+              "display_url": "hanszimmerlive.com",
+              "end": 176,
+              "expanded_url": "http://hanszimmerlive.com",
+              "images": [
+                {
+                  "height": 1157,
+                  "url": "https://pbs.twimg.com/news_img/1896980693906845696/GLhxAmy-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1896980693906845696/GLhxAmy-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 153,
+              "status": 200,
+              "title": "Hans Zimmer Live – Australia, USA 2025 & more / Europe Tour 2025 | 2026",
+              "unwound_url": "https://www.hanszimmerlive.com/",
+              "url": "https://t.co/KABrXgoOPQ"
+            },
+            {
+              "display_url": "pic.x.com/JE4tocmhbE",
+              "end": 218,
+              "expanded_url": "https://x.com/HansZimmerLive/status/1900592084672758193/video/1",
+              "media_key": "13_1900592013201813504",
+              "start": 195,
+              "url": "https://t.co/JE4tocmhbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900592084672758193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1720,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Our Asian tour leg is set to mesmerize audiences across China in four major cities – Beijing, Shanghai, Hangzhou and Hong Kong! Find more information at https://t.co/KABrXgoOPQ \n\n#HansZimmerLive https://t.co/JE4tocmhbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 2056,
+          "like_count": 10055,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 2945
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-27T11:58:48.000Z",
+        "description": "The official tour account for #HansZimmerLive. THE NEXT LEVEL 2025/26 tour tickets now on sale 👇",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 30,
+                "tag": "HansZimmerLive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanszimmerlive.com",
+                "end": 23,
+                "expanded_url": "http://hanszimmerlive.com",
+                "start": 0,
+                "url": "https://t.co/MZj7whNtwF"
+              }
+            ]
+          }
+        },
+        "id": "4053125121",
+        "name": "Hans Zimmer Live",
+        "pinned_tweet_id": "1887139164535005305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768376250928652289/lOd4TiSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22026,
+          "following_count": 27,
+          "like_count": 729,
+          "listed_count": 65,
+          "media_count": 2151,
+          "tweet_count": 4019
+        },
+        "url": "https://t.co/MZj7whNtwF",
+        "username": "HansZimmerLive",
+        "verified": false
+      }
+    ]
+  }
+}

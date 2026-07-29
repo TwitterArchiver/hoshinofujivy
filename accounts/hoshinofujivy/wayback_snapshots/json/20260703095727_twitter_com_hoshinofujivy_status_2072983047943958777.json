@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072795801022251008"
+      ],
+      "media_source_tweet_id": [
+        "2072795805170462980"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2072983047943958777",
+    "created_at": "2026-07-03T09:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072983047943958777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793093397043163136",
+          "start": 3,
+          "username": "YU_TAI2414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yh8bDWlL9A",
+          "end": 53,
+          "expanded_url": "https://x.com/YU_TAI2414/status/2072795805170462980/photo/1",
+          "media_key": "3_2072795801022251008",
+          "start": 30,
+          "url": "https://t.co/yh8bDWlL9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072983047943958777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072795805170462980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YU_TAI2414: さぁ今日も1日頑張るわよ！ https://t.co/yh8bDWlL9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072795801022251008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMQMzIPaQAApLS-.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072795801022251008"
+          ],
+          "media_source_tweet_id": [
+            "2072795805170462980"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2072983047943958777",
+        "created_at": "2026-07-03T09:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072983047943958777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793093397043163136",
+              "start": 3,
+              "username": "YU_TAI2414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yh8bDWlL9A",
+              "end": 53,
+              "expanded_url": "https://x.com/YU_TAI2414/status/2072795805170462980/photo/1",
+              "media_key": "3_2072795801022251008",
+              "start": 30,
+              "url": "https://t.co/yh8bDWlL9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072983047943958777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072795805170462980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YU_TAI2414: さぁ今日も1日頑張るわよ！ https://t.co/yh8bDWlL9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072795801022251008"
+          ]
+        },
+        "author_id": "1793093397043163136",
+        "conversation_id": "2072795805170462980",
+        "created_at": "2026-07-02T21:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072795805170462980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yh8bDWlL9A",
+              "end": 37,
+              "expanded_url": "https://x.com/YU_TAI2414/status/2072795805170462980/photo/1",
+              "media_key": "3_2072795801022251008",
+              "start": 14,
+              "url": "https://t.co/yh8bDWlL9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072795805170462980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 14848,
+          "like_count": 2202,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "さぁ今日も1日頑張るわよ！ https://t.co/yh8bDWlL9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12418,
+          "following_count": 4387,
+          "like_count": 50027,
+          "listed_count": 38,
+          "media_count": 3084,
+          "tweet_count": 17052
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T01:36:47.000Z",
+        "description": "いろいろ使ってAIイラスト作ってます。一コマで何気ない日常のイラストを作るのが好きです♪イラストの無断使用はお控えくださいませ。",
+        "id": "1793093397043163136",
+        "name": "ゆたい",
+        "pinned_tweet_id": "2072795805170462980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956947767697547264/YAbBVBhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81978,
+          "following_count": 518,
+          "like_count": 23643,
+          "listed_count": 444,
+          "media_count": 1860,
+          "tweet_count": 23864
+        },
+        "url": "",
+        "username": "YU_TAI2414",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985071842831568896"
+      ],
+      "media_source_tweet_id": [
+        "1985071845360742719"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1985534626308489555",
+    "created_at": "2025-11-04T02:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T03:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985534626308489555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1583772353183371265",
+          "start": 3,
+          "username": "mengtunsidaimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M5YJXLppjm",
+          "end": 56,
+          "expanded_url": "https://x.com/mengtunsidaimu/status/1985071845360742719/photo/1",
+          "media_key": "3_1985071842831568896",
+          "start": 33,
+          "url": "https://t.co/M5YJXLppjm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985534626308489555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985071845360742719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengtunsidaimu: 习近平喝到了普京的京液🤣 https://t.co/M5YJXLppjm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_1985071842831568896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4xkUt2bEAA_4rU.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985071842831568896"
+          ],
+          "media_source_tweet_id": [
+            "1985071845360742719"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1985534626308489555",
+        "created_at": "2025-11-04T02:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T03:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985534626308489555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1583772353183371265",
+              "start": 3,
+              "username": "mengtunsidaimu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5YJXLppjm",
+              "end": 56,
+              "expanded_url": "https://x.com/mengtunsidaimu/status/1985071845360742719/photo/1",
+              "media_key": "3_1985071842831568896",
+              "start": 33,
+              "url": "https://t.co/M5YJXLppjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985534626308489555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985071845360742719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mengtunsidaimu: 习近平喝到了普京的京液🤣 https://t.co/M5YJXLppjm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985071842831568896"
+          ]
+        },
+        "author_id": "1583772353183371265",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1985071845360742719",
+        "created_at": "2025-11-02T19:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T20:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985071845360742719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M5YJXLppjm",
+              "end": 36,
+              "expanded_url": "https://x.com/mengtunsidaimu/status/1985071845360742719/photo/1",
+              "media_key": "3_1985071842831568896",
+              "start": 13,
+              "url": "https://t.co/M5YJXLppjm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985071845360742719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 55427,
+          "like_count": 596,
+          "quote_count": 3,
+          "reply_count": 71,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "习近平喝到了普京的京液🤣 https://t.co/M5YJXLppjm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 2571,
+          "like_count": 27060,
+          "listed_count": 4,
+          "media_count": 569,
+          "tweet_count": 6152
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T10:49:07.000Z",
+        "description": "萌豚共青团/台独顽固分子🇹🇼/苟汉奸称号持续持有/粉红兔友请绕行/大範圍貼貼歡迎私信/尽力回fo/炸蛆爱好者/  键政注意 炸蛆注意  🌺涨fo希望🌺                 一部の鳥たちはけっして鳥籠に閉ざされることはできない、その羽に自由の光が輝いている",
+        "id": "1583772353183371265",
+        "location": "IP屬地：中南海",
+        "name": "枫糖🍬喵酱薯条🇺🇦",
+        "pinned_tweet_id": "1709195657653923935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644570092632682496/qOdtEISh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6189,
+          "following_count": 2247,
+          "like_count": 12733,
+          "listed_count": 76,
+          "media_count": 919,
+          "tweet_count": 4083
+        },
+        "username": "mengtunsidaimu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1914884389286420871",
+    "created_at": "2025-04-23T03:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T04:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914884389286420871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "28940967",
+          "start": 3,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914884389286420871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914697071333933144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lidangzzz: 华为鸿蒙被戳穿了，一群人跑来跟我道歉，说党哥还是你说得对；\n\n姜萍被戳穿了，一群人跑来跟我道歉，说还是党哥预测得准；\n\n宇树科技被戳穿了，一群人跑来跟我道歉，说又让党哥猜对了。\n\n不是我猜对了，是社会上这些智商低于60、高考成绩垃圾、认知和判断力低…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1914884389286420871",
+        "created_at": "2025-04-23T03:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T04:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914884389286420871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "28940967",
+              "start": 3,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914884389286420871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914697071333933144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lidangzzz: 华为鸿蒙被戳穿了，一群人跑来跟我道歉，说党哥还是你说得对；\n\n姜萍被戳穿了，一群人跑来跟我道歉，说还是党哥预测得准；\n\n宇树科技被戳穿了，一群人跑来跟我道歉，说又让党哥猜对了。\n\n不是我猜对了，是社会上这些智商低于60、高考成绩垃圾、认知和判断力低…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "28940967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1914697071333933144",
+        "created_at": "2025-04-22T15:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T16:04:49.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914696901074485463",
+          "1914697071333933144"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914697071333933144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "华为鸿蒙被戳穿了，一群人跑来跟我道歉，说党哥还是你说得对；\n\n姜萍被戳穿了，一群人跑来跟我道歉，说还是党哥预测得准；\n\n宇树科技被戳穿了，一群人跑来跟我道歉，说又让党哥猜对了。\n\n不是我猜对了，是社会上这些智商低于60、高考成绩垃圾、认知和判断力低下还自信的三低人士太多了（比如王志安），\n\n稍微看看书，看看robotics或者科技行业的一点点最新趋势，或者像党哥一样拿个数学二等奖，都不会沦为像这些傻逼一样听啥信啥的地步，第一眼都会完完全全地看清楚这三个傻逼骗局。\n\n归根到底，智商和认知决定一切，而绝大多数人确实是没有智商的，\n\n如果你哪怕相信过一刻姜萍、华为鸿蒙、宇树科技，你这种人活在世界上的认知和判断力，确实跟猪完全一致。\n\n我建议这些人生孩子之前找贺建奎，修改一下基因，不然生完孩子都跟你自己一个德性，绝对是个祸害。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 491998,
+          "like_count": 1023,
+          "quote_count": 1,
+          "reply_count": 130,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "华为鸿蒙被戳穿了，一群人跑来跟我道歉，说党哥还是你说得对；\n\n姜萍被戳穿了，一群人跑来跟我道歉，说还是党哥预测得准；\n\n宇树科技被戳穿了，一群人跑来跟我道歉，说又让党哥猜对了。\n\n不是我猜对了，是社会上这些智商低于60、高考成绩垃圾、认知和判断力低下还自信的三低人士太多了（比如王志安），"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 2256,
+          "like_count": 15619,
+          "listed_count": 2,
+          "media_count": 365,
+          "tweet_count": 3954
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （全网劝人卖房、劝人学CS第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593186,
+          "following_count": 2661,
+          "like_count": 25455,
+          "listed_count": 3639,
+          "media_count": 7917,
+          "tweet_count": 37583
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+          "id": "1142154424866856960",
+          "name": "JP - National Pension"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2071893406331400340",
+    "created_at": "2026-06-30T09:47:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:47:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071893406331400340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikiyoshi_2233…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/kikiyoshi_2233/status/2071848945358446843",
+          "start": 103,
+          "url": "https://t.co/hyqBoeJgE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071893406331400340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "看到有朋友放弃留日，内心还是有一点不安的，之前我也想去日本留学生活，无关政治喜好，只是我觉得国内氛围太压抑了。\n\n很多人劝我：想要去不压抑的地方，尽量选欧洲。实际上，我到目前也只去过日本，没见过更好的了。\n\n不求永居，不求国籍，不求福利，我只想不想再生活在国内的阴霾下。或许未来我会和国内的环境和解，不想出国吧。\n\n但是谁知道未来我会经历什么呢？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071848945358446843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到有朋友放弃留日，内心还是有一点不安的，之前我也想去日本留学生活，无关政治喜好，只是我觉得国内氛围太压抑了。\n\n很多人劝我：想要去不压抑的地方，尽量选欧洲。实际上，我到目前也只去过日本，没见过更好的了。 https://t.co/hyqBoeJgE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2071848936894001152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCvoYfWcAAP3Iz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2071893406331400340",
+        "created_at": "2026-06-30T09:47:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071893406331400340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikiyoshi_2233…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/kikiyoshi_2233/status/2071848945358446843",
+              "start": 103,
+              "url": "https://t.co/hyqBoeJgE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071893406331400340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "看到有朋友放弃留日，内心还是有一点不安的，之前我也想去日本留学生活，无关政治喜好，只是我觉得国内氛围太压抑了。\n\n很多人劝我：想要去不压抑的地方，尽量选欧洲。实际上，我到目前也只去过日本，没见过更好的了。\n\n不求永居，不求国籍，不求福利，我只想不想再生活在国内的阴霾下。或许未来我会和国内的环境和解，不想出国吧。\n\n但是谁知道未来我会经历什么呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071848945358446843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到有朋友放弃留日，内心还是有一点不安的，之前我也想去日本留学生活，无关政治喜好，只是我觉得国内氛围太压抑了。\n\n很多人劝我：想要去不压抑的地方，尽量选欧洲。实际上，我到目前也只去过日本，没见过更好的了。 https://t.co/hyqBoeJgE0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071848936894001152"
+          ]
+        },
+        "author_id": "1552439937198587904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "2071848945358446843",
+        "created_at": "2026-06-30T06:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071848945358446843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZjOGIZyjd",
+              "end": 152,
+              "expanded_url": "https://x.com/kikiyoshi_2233/status/2071848945358446843/photo/1",
+              "media_key": "3_2071848936894001152",
+              "start": 129,
+              "url": "https://t.co/BZjOGIZyjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071848945358446843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天把税金给清了，我可不像某某精日，嘴上各种爱日本！实际0住民稅，0所得税！收银小姐姐看着税金也无奈地笑了！😅😅😅国民年金还有三个月的部分，等公司材料到了就申请免除！从语校刚毕业主动补年金，到现在能不交就不交！日本的风气变化之快令人咂舌！🙂‍↕️🙂‍↕️🙂‍↕️既然你们无法保障外国人的权益，那么外国人选择避税，少交税也是理所当然的！希望日本以后多来点精日，多来点印度人吧！毕竟看看汇率以后也就对这些地方还有些吸引力了！🤡🤡🤡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3590,
+          "like_count": 40,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天把税金给清了，我可不像某某精日，嘴上各种爱日本！实际0住民稅，0所得税！收银小姐姐看着税金也无奈地笑了！😅😅😅国民年金还有三个月的部分，等公司材料到了就申请免除！从语校刚毕业主动补年金，到现在能不交就不交！日本的风气变化之快令人咂舌！🙂‍↕️🙂‍↕️🙂 https://t.co/BZjOGIZyjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12325,
+          "following_count": 4380,
+          "like_count": 49842,
+          "listed_count": 36,
+          "media_count": 3041,
+          "tweet_count": 16852
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T23:45:26.000Z",
+        "description": "个人博客：https://t.co/fGVztYtBQS。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kikiyoshi.blogspot.com",
+                "end": 28,
+                "expanded_url": "https://kikiyoshi.blogspot.com/",
+                "start": 5,
+                "url": "https://t.co/fGVztYtBQS"
+              }
+            ]
+          }
+        },
+        "id": "1552439937198587904",
+        "name": "ききよし",
+        "pinned_tweet_id": "2069241176482615349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773164373248479232/xSR3ZxIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4182,
+          "following_count": 3264,
+          "like_count": 351217,
+          "listed_count": 32,
+          "media_count": 2432,
+          "tweet_count": 45812
+        },
+        "url": "",
+        "username": "kikiyoshi_2233",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2049847176659087675",
+    "created_at": "2026-05-02T17:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T18:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050623337089716689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751589085532295168",
+          "start": 0,
+          "username": "QZB4628922"
+        },
+        {
+          "end": 23,
+          "id": "2026283442259017729",
+          "start": 12,
+          "username": "jusirthree"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 47,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2050597372552749079?s=20",
+          "start": 24,
+          "url": "https://t.co/SK6JWup4XG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050623337089716689",
+    "in_reply_to_user_id": "1751589085532295168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050597372552749079",
+        "type": "quoted"
+      },
+      {
+        "id": "2049903786941194462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QZB4628922 @jusirthree https://t.co/SK6JWup4XG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2050595945847615488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUuJfIacAAL-h4.jpg",
+        "width": 1782
+      },
+      {
+        "height": 680,
+        "media_key": "3_2050597333545668609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUvaQtaUAEIVfH.png",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2049847176659087675",
+        "created_at": "2026-05-02T17:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T18:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050623337089716689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751589085532295168",
+              "start": 0,
+              "username": "QZB4628922"
+            },
+            {
+              "end": 23,
+              "id": "2026283442259017729",
+              "start": 12,
+              "username": "jusirthree"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 47,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2050597372552749079?s=20",
+              "start": 24,
+              "url": "https://t.co/SK6JWup4XG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050623337089716689",
+        "in_reply_to_user_id": "1751589085532295168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050597372552749079",
+            "type": "quoted"
+          },
+          {
+            "id": "2049903786941194462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QZB4628922 @jusirthree https://t.co/SK6JWup4XG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050595945847615488",
+            "3_2050597333545668609"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2050597372552749079",
+        "created_at": "2026-05-02T15:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050597372552749079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ChatGPT helps you get answers, find inspiration, and be more productive.",
+              "display_url": "chatgpt.com",
+              "end": 111,
+              "expanded_url": "http://chatgpt.com",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2049409762106937345/UTTwZNPf?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049409762106937345/UTTwZNPf?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "ChatGPT",
+              "unwound_url": "https://chatgpt.com/",
+              "url": "https://t.co/kxn4LRrLEq"
+            },
+            {
+              "display_url": "pic.x.com/gVqbrUejWX",
+              "end": 196,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2050597372552749079/photo/1",
+              "media_key": "3_2050595945847615488",
+              "start": 173,
+              "url": "https://t.co/gVqbrUejWX"
+            },
+            {
+              "display_url": "pic.x.com/gVqbrUejWX",
+              "end": 196,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2050597372552749079/photo/1",
+              "media_key": "3_2050597333545668609",
+              "start": 173,
+              "url": "https://t.co/gVqbrUejWX"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 220,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2050020465545195553",
+              "start": 197,
+              "url": "https://t.co/4i4BjosxDf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050597372552749079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chatgpt.com",
+                "end": 111,
+                "expanded_url": "http://chatgpt.com",
+                "start": 88,
+                "url": "https://t.co/CvrMNMSkkn"
+              }
+            ]
+          },
+          "text": "今天尝试了一下使用百度搜索chatgpt\n居然可以显示官网链接，\n但是不开代理的情况下，打开链接时，不出意外的显示This site can't be reached.这就说明https://t.co/CvrMNMSkkn的确被gfw阻隔了\n\n这么看来，中国人的确是不允许访问gpt啊\n\n单从这个角度来看，原帖说的也不无道理，也只是一半有道理吧\n\n而你们所说的「立体防御」，或许是想告诉我香港ip也无法访问gpt....或许你们想告诉我是美帝国主义的封锁\n好吧，我承认美帝国主义也很坏\n\n讲真，政策性的东西的确不如网友们懂得多\n用古话「术业有专攻」\n闹出不少笑话，惭愧\n不过这种错误我还是很乐意见到，能指正就很感激了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1079,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050020465545195553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天尝试了一下使用百度搜索chatgpt\n居然可以显示官网链接，\n但是不开代理的情况下，打开链接时，不出意外的显示This site can't be reached.这就说明https://t.co/kxn4LRrLEq的确被gfw阻隔了\n\n这么看来，中国人的确是不允许访问gpt啊\n\n单从这个角度来看，原帖说的也不无道理，也只是一半有道理吧 https://t.co/gVqbrUejWX https://t.co/4i4BjosxDf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751589085532295168",
+        "conversation_id": "2049847176659087675",
+        "created_at": "2026-04-30T17:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049903786941194462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "jusirthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049903786941194462",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1146,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049847176659087675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jusirthree 这种CS就直接对中国有意见了，说再多都能扯回老钟😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9802,
+          "following_count": 4270,
+          "like_count": 44963,
+          "listed_count": 34,
+          "media_count": 2042,
+          "tweet_count": 13128
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T12:52:52.000Z",
+        "description": "！",
+        "id": "1751589085532295168",
+        "name": "0xe_white",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751589319780061184/HEIWVibp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 111,
+          "like_count": 300,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 398
+        },
+        "username": "QZB4628922",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 682,
+          "like_count": 1904,
+          "listed_count": 5,
+          "media_count": 383,
+          "tweet_count": 1516
+        },
+        "username": "jusirthree",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1912425071618191622",
+    "created_at": "2025-04-17T10:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T11:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912815336044318804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "Beta_Estradiol"
+        },
+        {
+          "end": 27,
+          "id": "1740248854975696896",
+          "start": 16,
+          "username": "Illusory_P"
+        },
+        {
+          "end": 44,
+          "id": "1774357995792777216",
+          "start": 28,
+          "username": "hanabishirosaki"
+        },
+        {
+          "end": 57,
+          "id": "1663066129923981312",
+          "start": 45,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 67,
+          "id": "1690570637499154432",
+          "start": 58,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912815336044318804",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912425071618191622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beta_Estradiol @Illusory_P @hanabishirosaki @Ak1raQ_love @saonanaa 用大肉棒教训你😈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1912425071618191622].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1912425071618191622",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1912425071618191622"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1912425071618191622",
+        "created_at": "2025-04-17T10:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T11:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912815336044318804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "Beta_Estradiol"
+            },
+            {
+              "end": 27,
+              "id": "1740248854975696896",
+              "start": 16,
+              "username": "Illusory_P"
+            },
+            {
+              "end": 44,
+              "id": "1774357995792777216",
+              "start": 28,
+              "username": "hanabishirosaki"
+            },
+            {
+              "end": 57,
+              "id": "1663066129923981312",
+              "start": 45,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 67,
+              "id": "1690570637499154432",
+              "start": 58,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912815336044318804",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912425071618191622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beta_Estradiol @Illusory_P @hanabishirosaki @Ak1raQ_love @saonanaa 用大肉棒教训你😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 2245,
+          "like_count": 15168,
+          "listed_count": 2,
+          "media_count": 340,
+          "tweet_count": 3865
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞/表@imqiuy 限时放送：我想看@Ak1raQ_love变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "imqiuy"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Ak1raQ_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "pinned_tweet_id": "1902942928017793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 356,
+          "like_count": 6557,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "Beta_Estradiol",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "15YMtF/HRT.2023/生日4.17/持证含糖/女高生活中/反向深柜中/在逃lo娘/来和我贴贴!/",
+        "id": "1740248854975696896",
+        "location": "夢之彼方",
+        "name": "月すき🏳️‍⚧",
+        "pinned_tweet_id": "1873201699625812334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864444746849988609/beEB29QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2336,
+          "following_count": 300,
+          "like_count": 17107,
+          "listed_count": 5,
+          "media_count": 259,
+          "tweet_count": 2189
+        },
+        "username": "Illusory_P",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T08:48:21.000Z",
+        "description": "10年｜10.23mtf🍥🏳️‍⚧️ /叫我白咲就可以了 /家暴黨/中英都可 日勉強中/一隻抖m/女朋友♡@yucami_0408/媽媽醬🎀@Beta_Estradiol/最愛的姐姐💗 @ForteYuriHK/168cm/60kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "yucami_0408"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "ForteYuriHK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow._.fox9506",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow._.fox9506",
+                "start": 0,
+                "url": "https://t.co/z2vL62SewV"
+              }
+            ]
+          }
+        },
+        "id": "1774357995792777216",
+        "location": "何も無い",
+        "name": "🎀⁺ ｡ᜊ花火白咲⁺ ᜊ🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1911291795839029512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906055579090702336/anfnN5jh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 1721,
+          "like_count": 2625,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/z2vL62SewV",
+        "username": "hanabishirosaki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "悟已往之不谏，知来者之可追 | 🥺♥️ | 小秋月🥰@Beta_Estradiol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "Beta_Estradiol"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "aBaNd0n.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903825910736027648/SHkmnvvz_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 1031,
+          "like_count": 131911,
+          "listed_count": 6,
+          "media_count": 1027,
+          "tweet_count": 5576
+        },
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "我的简介就是我自己",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1912179262884569254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909077249778950144/qMpk70Sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 339,
+          "like_count": 20437,
+          "listed_count": 15,
+          "media_count": 1197,
+          "tweet_count": 11192
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

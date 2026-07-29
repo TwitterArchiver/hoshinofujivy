@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1932302033605787706",
+    "created_at": "2025-06-10T14:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T15:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932437831798157395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "912623216899715072",
+          "start": 0,
+          "username": "Xianzhong_1953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932437831798157395",
+    "in_reply_to_user_id": "912623216899715072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932302033605787706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xianzhong_1953 习近平：？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49481,
+        "height": 1280,
+        "media_key": "7_1932301905465643008",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932301905465643008/pu/img/t2fhM-WvwDqKXtZi.jpg",
+        "public_metrics": {
+          "view_count": 5382
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932301905465643008/pu/vid/avc1/320x568/6HYR9LicGNE6lMlO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932301905465643008/pu/vid/avc1/480x852/KIuWNVrxufecaJkf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932301905465643008/pu/vid/avc1/720x1280/QMztf6xz_PVk8oVJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932301905465643008/pu/pl/ZZzmWv9Fqdl5UZjd.m3u8?tag=12&v=6e4"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 13955,
+        "height": 1280,
+        "media_key": "7_1932301994212966401",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1932301994212966401/pu/img/GJgHp9trsYt2e97x.jpg",
+        "public_metrics": {
+          "view_count": 1402
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932301994212966401/pu/vid/avc1/320x568/gtbUorw5qj5zq8w1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932301994212966401/pu/vid/avc1/480x852/HF53NtcvIInm2JaQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1932301994212966401/pu/vid/avc1/720x1280/Ww5TQ8sm4wWhzeUm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1932301994212966401/pu/pl/XG6XXRVQIkryQkFL.m3u8?tag=12&v=34b"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1932302033605787706",
+        "created_at": "2025-06-10T14:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932437831798157395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "912623216899715072",
+              "start": 0,
+              "username": "Xianzhong_1953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932437831798157395",
+        "in_reply_to_user_id": "912623216899715072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932302033605787706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xianzhong_1953 习近平：？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1932301905465643008",
+            "7_1932301994212966401"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1932302033605787706",
+        "created_at": "2025-06-10T05:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932302033605787706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OpIwAPY4J3",
+              "end": 76,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1932302033605787706/video/1",
+              "media_key": "7_1932301905465643008",
+              "start": 53,
+              "url": "https://t.co/OpIwAPY4J3"
+            },
+            {
+              "display_url": "pic.x.com/OpIwAPY4J3",
+              "end": 76,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1932302033605787706/video/1",
+              "media_key": "7_1932301994212966401",
+              "start": 53,
+              "url": "https://t.co/OpIwAPY4J3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932302033605787706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 9179,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "当一个男人侃侃而谈政治、历史、文学、经济或哲学时，通常不是性压抑，就是阳痿早泄，中年男性基本上都是后者。 https://t.co/OpIwAPY4J3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 2414,
+          "like_count": 20401,
+          "listed_count": 2,
+          "media_count": 423,
+          "tweet_count": 4765
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "不是支黑哦，但是不妨碍俺盼献忠\n\n曾经的浙江苗族人\n\n已拉黑9000多万条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "寄余生",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928483770912620544/J-hi8tBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105191,
+          "following_count": 786,
+          "like_count": 228102,
+          "listed_count": 344,
+          "media_count": 21181,
+          "tweet_count": 41265
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

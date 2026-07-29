@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062355927358230528",
+        "3_2062355927353917440"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2062355933779628160",
+    "created_at": "2026-06-04T02:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062355933779628160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VwlQO9i1a1",
+          "end": 43,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2062355933779628160/photo/1",
+          "media_key": "3_2062355927358230528",
+          "start": 20,
+          "url": "https://t.co/VwlQO9i1a1"
+        },
+        {
+          "display_url": "pic.x.com/VwlQO9i1a1",
+          "end": 43,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2062355933779628160/photo/1",
+          "media_key": "3_2062355927353917440",
+          "start": 20,
+          "url": "https://t.co/VwlQO9i1a1"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2062343629285577192",
+          "start": 44,
+          "url": "https://t.co/YvyeNHnHjy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062355933779628160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062343629285577192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "巴士上有wifi，还挺快的\n就是不稳定 https://t.co/VwlQO9i1a1 https://t.co/YvyeNHnHjy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2062355927358230528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ71ygKb0AAOI67.jpg",
+        "width": 1080
+      },
+      {
+        "height": 633,
+        "media_key": "3_2062355927353917440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ71ygJaAAAmqho.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2062343419192922112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7qabnb0AAGkKe.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062355927358230528",
+            "3_2062355927353917440"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2062355933779628160",
+        "created_at": "2026-06-04T02:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062355933779628160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VwlQO9i1a1",
+              "end": 43,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2062355933779628160/photo/1",
+              "media_key": "3_2062355927358230528",
+              "start": 20,
+              "url": "https://t.co/VwlQO9i1a1"
+            },
+            {
+              "display_url": "pic.x.com/VwlQO9i1a1",
+              "end": 43,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2062355933779628160/photo/1",
+              "media_key": "3_2062355927353917440",
+              "start": 20,
+              "url": "https://t.co/VwlQO9i1a1"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2062343629285577192",
+              "start": 44,
+              "url": "https://t.co/YvyeNHnHjy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062355933779628160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062343629285577192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "巴士上有wifi，还挺快的\n就是不稳定 https://t.co/VwlQO9i1a1 https://t.co/YvyeNHnHjy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062343419192922112"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062343629285577192",
+        "created_at": "2026-06-04T01:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T02:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062343629285577192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA9MxZqlRo",
+              "end": 66,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2062343629285577192/photo/1",
+              "media_key": "3_2062343419192922112",
+              "start": 43,
+              "url": "https://t.co/WA9MxZqlRo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062343629285577192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "河口湖只有人工售票\n还好工作人员会中文，很顺利的买到票....不过我的英语也太差了吧 https://t.co/WA9MxZqlRo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11660,
+          "following_count": 4340,
+          "like_count": 48180,
+          "listed_count": 38,
+          "media_count": 2637,
+          "tweet_count": 15365
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

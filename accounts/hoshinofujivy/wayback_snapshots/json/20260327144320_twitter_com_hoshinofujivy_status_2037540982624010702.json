@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2037417370864513024"
+      ],
+      "media_source_tweet_id": [
+        "2037417485042135117"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2037540982624010702",
+    "created_at": "2026-03-27T14:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037540982624010702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916834831620870144",
+          "start": 3,
+          "username": "Its_lvann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bCw1meYajG",
+          "end": 75,
+          "expanded_url": "https://x.com/Its_lvann/status/2037417485042135117/video/1",
+          "media_key": "13_2037417370864513024",
+          "start": 52,
+          "url": "https://t.co/bCw1meYajG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037540982624010702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037417485042135117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Its_lvann: 孤独到极致就是享受\n\n无最爱无例外无意外\n\n嗓子里除了雪茄全是\n\n🌿🌿🌿 https://t.co/bCw1meYajG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39833,
+        "height": 1440,
+        "media_key": "13_2037417370864513024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037417370864513024/img/VKWQez7Nfikv_pV5.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037417370864513024/pl/TjBdMvURNNxcRMNY.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037417370864513024/vid/avc1/720x960/zdheQsaP_jvG0-FC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037417370864513024/vid/avc1/1080x1440/vcipePORhYHTEmuE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037417370864513024/vid/avc1/480x640/ptftvmIL-VMEkgTY.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037417370864513024/vid/avc1/320x426/DMGzSrSpFLYUBnVO.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037417370864513024"
+          ],
+          "media_source_tweet_id": [
+            "2037417485042135117"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2037540982624010702",
+        "created_at": "2026-03-27T14:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037540982624010702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916834831620870144",
+              "start": 3,
+              "username": "Its_lvann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCw1meYajG",
+              "end": 75,
+              "expanded_url": "https://x.com/Its_lvann/status/2037417485042135117/video/1",
+              "media_key": "13_2037417370864513024",
+              "start": 52,
+              "url": "https://t.co/bCw1meYajG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037540982624010702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037417485042135117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Its_lvann: 孤独到极致就是享受\n\n无最爱无例外无意外\n\n嗓子里除了雪茄全是\n\n🌿🌿🌿 https://t.co/bCw1meYajG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037417370864513024"
+          ]
+        },
+        "author_id": "1916834831620870144",
+        "conversation_id": "2037417485042135117",
+        "created_at": "2026-03-27T06:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037417485042135117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCw1meYajG",
+              "end": 60,
+              "expanded_url": "https://x.com/Its_lvann/status/2037417485042135117/video/1",
+              "media_key": "13_2037417370864513024",
+              "start": 37,
+              "url": "https://t.co/bCw1meYajG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037417485042135117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孤独到极致就是享受\n\n无最爱无例外无意外\n\n嗓子里除了雪茄全是\n\n🌿🌿🌿 https://t.co/bCw1meYajG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7118,
+          "following_count": 3919,
+          "like_count": 40482,
+          "listed_count": 19,
+          "media_count": 1456,
+          "tweet_count": 10454
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T12:40:23.000Z",
+        "description": "🦊余生榴花照眼，创业公司合伙人 🧐头部娱乐公司玩家，记录生活 🐺 被事业耽误的美学生活家🐶探索人生无限可能，分享心得和趣闻趣事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/s59829090s",
+                "end": 23,
+                "expanded_url": "http://t.me/s59829090s",
+                "start": 0,
+                "url": "https://t.co/KuKpMQDlgE"
+              }
+            ]
+          }
+        },
+        "id": "1916834831620870144",
+        "location": "🇨🇳🇨🇳China",
+        "name": "Summer八小戒",
+        "pinned_tweet_id": "2037442926494830677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029441766404079616/1DKia-SY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 370,
+          "like_count": 4973,
+          "listed_count": 4,
+          "media_count": 423,
+          "tweet_count": 6274
+        },
+        "url": "https://t.co/KuKpMQDlgE",
+        "username": "Its_lvann",
+        "verified": true
+      }
+    ]
+  }
+}

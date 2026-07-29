@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030454630845743104"
+      ],
+      "media_source_tweet_id": [
+        "2030584311536381988"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2030593324835647989",
+    "created_at": "2026-03-08T10:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T11:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030593324835647989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1408996496230391814",
+          "start": 3,
+          "username": "ima_AI123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y95xZzhmnu",
+          "end": 49,
+          "expanded_url": "https://x.com/ima_AI123/status/2030584311536381988/photo/1",
+          "media_key": "3_2030454630845743104",
+          "start": 26,
+          "url": "https://t.co/y95xZzhmnu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030593324835647989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030584311536381988",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ima_AI123: 美味しくできたかな？ https://t.co/y95xZzhmnu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030454630845743104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2fupwbgAAM1Sd.jpg",
+        "width": 1143
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030454630845743104"
+          ],
+          "media_source_tweet_id": [
+            "2030584311536381988"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2030593324835647989",
+        "created_at": "2026-03-08T10:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030593324835647989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1408996496230391814",
+              "start": 3,
+              "username": "ima_AI123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y95xZzhmnu",
+              "end": 49,
+              "expanded_url": "https://x.com/ima_AI123/status/2030584311536381988/photo/1",
+              "media_key": "3_2030454630845743104",
+              "start": 26,
+              "url": "https://t.co/y95xZzhmnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030593324835647989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030584311536381988",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ima_AI123: 美味しくできたかな？ https://t.co/y95xZzhmnu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030454630845743104"
+          ]
+        },
+        "author_id": "1408996496230391814",
+        "conversation_id": "2030584311536381988",
+        "created_at": "2026-03-08T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030584311536381988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y95xZzhmnu",
+              "end": 34,
+              "expanded_url": "https://x.com/ima_AI123/status/2030584311536381988/photo/1",
+              "media_key": "3_2030454630845743104",
+              "start": 11,
+              "url": "https://t.co/y95xZzhmnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030584311536381988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1312,
+          "like_count": 220,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "美味しくできたかな？ https://t.co/y95xZzhmnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 3842,
+          "like_count": 37544,
+          "listed_count": 17,
+          "media_count": 1055,
+          "tweet_count": 9072
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-27T03:52:14.000Z",
+        "description": "少女たちの日常とファンタジー AI+加筆修正 白猫の名前はイマ、黒猫の名前はルリです🐈‍⬛　4コマ+1のまとめ→ https://t.co/6yMn8VhJlM 🐈‍⬛Amazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/3Nxl2Yn",
+                "end": 80,
+                "expanded_url": "https://amzn.to/3Nxl2Yn",
+                "start": 57,
+                "url": "https://t.co/6yMn8VhJlM"
+              }
+            ]
+          }
+        },
+        "id": "1408996496230391814",
+        "name": "イマ",
+        "pinned_tweet_id": "2030481631786696972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657073333882728448/2PQKhm70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50131,
+          "following_count": 1965,
+          "like_count": 136824,
+          "listed_count": 318,
+          "media_count": 2216,
+          "tweet_count": 2981
+        },
+        "username": "ima_AI123",
+        "verified": true
+      }
+    ]
+  }
+}

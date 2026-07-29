@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1923072071841538048",
+        "3_1923072081614209024",
+        "13_1923072093199241216"
+      ],
+      "media_source_tweet_id": [
+        "1923072402902352034",
+        "1923072402902352034",
+        "1923072402902352034"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1923211848486113756",
+    "created_at": "2025-05-16T03:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T04:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923211848486113756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dgk9dSt2ZW",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+          "media_key": "13_1923072071841538048",
+          "start": 86,
+          "url": "https://t.co/Dgk9dSt2ZW"
+        },
+        {
+          "display_url": "pic.x.com/Dgk9dSt2ZW",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+          "media_key": "3_1923072081614209024",
+          "start": 86,
+          "url": "https://t.co/Dgk9dSt2ZW"
+        },
+        {
+          "display_url": "pic.x.com/Dgk9dSt2ZW",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+          "media_key": "13_1923072093199241216",
+          "start": 86,
+          "url": "https://t.co/Dgk9dSt2ZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923211848486113756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923072402902352034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月15日 一位博主称，一则煤炭行业的报告中提到“收获来自煤矿石以及击杀凋零骷髅获得1-3个”而“凋零骷髅”来自游戏《我的世界》… https://t.co/Dgk9dSt2ZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69333,
+        "height": 1920,
+        "media_key": "13_1923072071841538048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923072071841538048/img/DLXSCxiiQdiIeqV9.jpg",
+        "public_metrics": {
+          "view_count": 45044
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072071841538048/vid/avc1/720x1280/57J9Z0ba8vfUErGG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072071841538048/vid/avc1/1080x1920/bkLhL54GEInv1F0r.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072071841538048/vid/avc1/320x568/HqnuWDGR4gD7Ymnl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072071841538048/vid/avc1/480x852/jio40Sq-p2M2JPaF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923072071841538048/pl/esn4s7fPWQF9NO2L.m3u8?v=395"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1298,
+        "media_key": "3_1923072081614209024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrAf3o4WAAA5sAo.jpg",
+        "width": 1289
+      },
+      {
+        "duration_ms": 61067,
+        "height": 1920,
+        "media_key": "13_1923072093199241216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923072093199241216/img/ntEzPbdSnvXcozha.jpg",
+        "public_metrics": {
+          "view_count": 4969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923072093199241216/pl/dH-c9xnnvNtcSQdv.m3u8?v=7fa"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072093199241216/vid/avc1/480x852/Zexyj6CvoO_suXw9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072093199241216/vid/avc1/320x568/x1LFl1TrEOWWz6LI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072093199241216/vid/avc1/1080x1920/06m0RxmsGLldZwIr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923072093199241216/vid/avc1/720x1280/3AcdzPUrivpxesec.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923072071841538048",
+            "3_1923072081614209024",
+            "13_1923072093199241216"
+          ],
+          "media_source_tweet_id": [
+            "1923072402902352034",
+            "1923072402902352034",
+            "1923072402902352034"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923211848486113756",
+        "created_at": "2025-05-16T03:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T04:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923211848486113756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dgk9dSt2ZW",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+              "media_key": "13_1923072071841538048",
+              "start": 86,
+              "url": "https://t.co/Dgk9dSt2ZW"
+            },
+            {
+              "display_url": "pic.x.com/Dgk9dSt2ZW",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+              "media_key": "3_1923072081614209024",
+              "start": 86,
+              "url": "https://t.co/Dgk9dSt2ZW"
+            },
+            {
+              "display_url": "pic.x.com/Dgk9dSt2ZW",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+              "media_key": "13_1923072093199241216",
+              "start": 86,
+              "url": "https://t.co/Dgk9dSt2ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923211848486113756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923072402902352034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月15日 一位博主称，一则煤炭行业的报告中提到“收获来自煤矿石以及击杀凋零骷髅获得1-3个”而“凋零骷髅”来自游戏《我的世界》… https://t.co/Dgk9dSt2ZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923072071841538048",
+            "3_1923072081614209024",
+            "13_1923072093199241216"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1923072402902352034",
+        "created_at": "2025-05-15T17:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T18:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923072402902352034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dgk9dSt2ZW",
+              "end": 88,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+              "media_key": "13_1923072071841538048",
+              "start": 65,
+              "url": "https://t.co/Dgk9dSt2ZW"
+            },
+            {
+              "display_url": "pic.x.com/Dgk9dSt2ZW",
+              "end": 88,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+              "media_key": "3_1923072081614209024",
+              "start": 65,
+              "url": "https://t.co/Dgk9dSt2ZW"
+            },
+            {
+              "display_url": "pic.x.com/Dgk9dSt2ZW",
+              "end": 88,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1923072402902352034/video/1",
+              "media_key": "13_1923072093199241216",
+              "start": 65,
+              "url": "https://t.co/Dgk9dSt2ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923072402902352034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月15日 一位博主称，一则煤炭行业的报告中提到“收获来自煤矿石以及击杀凋零骷髅获得1-3个”而“凋零骷髅”来自游戏《我的世界》\n 还有一则《中国注塑机压力市场分析与投资前景研究报告》写道：“压力板是我的世界中的一个方块，是一种放在方块上的开关”该分析报告售价8千元。更离谱的是，央视曾报道称：“伦敦博物馆用高科技手段再现了350年前所发生的一场大火场景”但下一秒播放的是游戏《我的世界》视频...."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 105725,
+          "like_count": 624,
+          "quote_count": 15,
+          "reply_count": 40,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "5月15日 一位博主称，一则煤炭行业的报告中提到“收获来自煤矿石以及击杀凋零骷髅获得1-3个”而“凋零骷髅”来自游戏《我的世界》 https://t.co/Dgk9dSt2ZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "最高領袖的影守护者·星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 2349,
+          "like_count": 18415,
+          "listed_count": 2,
+          "media_count": 396,
+          "tweet_count": 4387
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1918067909705838897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988338,
+          "following_count": 952,
+          "like_count": 6342,
+          "listed_count": 8143,
+          "media_count": 28035,
+          "tweet_count": 34498
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

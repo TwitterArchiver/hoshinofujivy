@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028485747653890048"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2028485756264857967",
+    "created_at": "2026-03-02T15:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T16:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028485756264857967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PpNIS9h3lj",
+          "end": 48,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2028485756264857967/photo/1",
+          "media_key": "3_2028485747653890048",
+          "start": 25,
+          "url": "https://t.co/PpNIS9h3lj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028485756264857967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有个疑问，倘若手机没电或者老年人不会用手机怎么办 https://t.co/PpNIS9h3lj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2028485747653890048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCahCkTaUAA_ytQ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028485747653890048"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2028485756264857967",
+        "created_at": "2026-03-02T15:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T16:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028485756264857967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpNIS9h3lj",
+              "end": 48,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2028485756264857967/photo/1",
+              "media_key": "3_2028485747653890048",
+              "start": 25,
+              "url": "https://t.co/PpNIS9h3lj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028485756264857967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个疑问，倘若手机没电或者老年人不会用手机怎么办 https://t.co/PpNIS9h3lj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4586,
+          "following_count": 3777,
+          "like_count": 36744,
+          "listed_count": 8,
+          "media_count": 977,
+          "tweet_count": 8738
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

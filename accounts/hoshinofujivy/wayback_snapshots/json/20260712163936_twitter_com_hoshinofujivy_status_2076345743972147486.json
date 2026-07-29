@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2076152588530250237",
+    "created_at": "2026-07-12T16:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076345743972147486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1246709853663289345",
+          "start": 0,
+          "username": "takahashi0Kaede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076345743972147486",
+    "in_reply_to_user_id": "1246709853663289345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076345410436939901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takahashi0Kaede 这样啊，诶不对，我印象中球迷也很疯狂啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2076152588530250237",
+        "created_at": "2026-07-12T16:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076345743972147486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1246709853663289345",
+              "start": 0,
+              "username": "takahashi0Kaede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076345743972147486",
+        "in_reply_to_user_id": "1246709853663289345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076345410436939901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takahashi0Kaede 这样啊，诶不对，我印象中球迷也很疯狂啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246709853663289345",
+        "conversation_id": "2076152588530250237",
+        "created_at": "2026-07-12T16:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076345410436939901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076345410436939901",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076152588530250237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 赛马的多是赌狗，赌狗能有什么素质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12686,
+          "following_count": 4393,
+          "like_count": 50976,
+          "listed_count": 29,
+          "media_count": 3237,
+          "tweet_count": 17586
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-05T08:02:56.000Z",
+        "description": "かえでと花楓大好き",
+        "id": "1246709853663289345",
+        "location": "Tokyo-to, Japan",
+        "name": "かえで",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775822403555479553/wIIkp24A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 570,
+          "like_count": 219102,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 4509
+        },
+        "url": "",
+        "username": "takahashi0Kaede",
+        "verified": false
+      }
+    ]
+  }
+}

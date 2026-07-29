@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998246662246952960"
+      ],
+      "media_source_tweet_id": [
+        "1998271642250973645"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1998576168430436735",
+    "created_at": "2025-12-10T02:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T03:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998576168430436735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1667904233419440129",
+          "start": 3,
+          "username": "DrClownPhD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NlKfz61R7z",
+          "end": 84,
+          "expanded_url": "https://x.com/DrClownPhD/status/1998271642250973645/video/1",
+          "media_key": "13_1998246662246952960",
+          "start": 61,
+          "url": "https://t.co/NlKfz61R7z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998576168430436735",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 862
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998271642250973645",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrClownPhD: Whiskers found a new way of transportation 😹 https://t.co/NlKfz61R7z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9914,
+        "height": 1280,
+        "media_key": "13_1998246662246952960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998246662246952960/img/3QM6tFYPP6cgrzxr.jpg",
+        "public_metrics": {
+          "view_count": 32152
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998246662246952960/vid/avc1/320x568/Bc1gAuS__VJ7hyy9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998246662246952960/vid/avc1/480x852/J9QptIQ6yBppYL4E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998246662246952960/vid/avc1/720x1280/mziVv7mInlQD1yRq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998246662246952960/pl/7cZ3XbUK-xiA9uIp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998246662246952960"
+          ],
+          "media_source_tweet_id": [
+            "1998271642250973645"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1998576168430436735",
+        "created_at": "2025-12-10T02:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998576168430436735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667904233419440129",
+              "start": 3,
+              "username": "DrClownPhD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlKfz61R7z",
+              "end": 84,
+              "expanded_url": "https://x.com/DrClownPhD/status/1998271642250973645/video/1",
+              "media_key": "13_1998246662246952960",
+              "start": 61,
+              "url": "https://t.co/NlKfz61R7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998576168430436735",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 862
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998271642250973645",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrClownPhD: Whiskers found a new way of transportation 😹 https://t.co/NlKfz61R7z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998246662246952960"
+          ]
+        },
+        "author_id": "1667904233419440129",
+        "conversation_id": "1998271642250973645",
+        "created_at": "2025-12-09T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998271642250973645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlKfz61R7z",
+              "end": 68,
+              "expanded_url": "https://x.com/DrClownPhD/status/1998271642250973645/video/1",
+              "media_key": "13_1998246662246952960",
+              "start": 45,
+              "url": "https://t.co/NlKfz61R7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998271642250973645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 96337,
+          "like_count": 5284,
+          "quote_count": 37,
+          "reply_count": 41,
+          "retweet_count": 862
+        },
+        "reply_settings": "everyone",
+        "text": "Whiskers found a new way of transportation 😹 https://t.co/NlKfz61R7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @huahuojiang_|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998393388123799553/x0rHtuMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2174,
+          "following_count": 2690,
+          "like_count": 30513,
+          "listed_count": 4,
+          "media_count": 647,
+          "tweet_count": 6780
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T14:39:21.000Z",
+        "description": "🎪 Join my circus and let's laugh at the world's current absurdities together!  | 🎭 Trustworthy fake news & memes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/drclownphd",
+                "end": 23,
+                "expanded_url": "http://www.buymeacoffee.com/drclownphd",
+                "start": 0,
+                "url": "https://t.co/z9fn7DrdmG"
+              }
+            ]
+          }
+        },
+        "id": "1667904233419440129",
+        "location": "🎪 Clown World 🎪",
+        "name": "Dr. Clown, PhD",
+        "pinned_tweet_id": "1997743159984464119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995232390176743424/JxNc-86k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203482,
+          "following_count": 2157,
+          "like_count": 154173,
+          "listed_count": 417,
+          "media_count": 1883,
+          "tweet_count": 3439
+        },
+        "url": "https://t.co/z9fn7DrdmG",
+        "username": "DrClownPhD",
+        "verified": true
+      }
+    ]
+  }
+}

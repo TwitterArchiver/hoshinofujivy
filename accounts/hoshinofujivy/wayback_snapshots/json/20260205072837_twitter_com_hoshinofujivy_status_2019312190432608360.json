@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2019312190432608360",
+    "created_at": "2026-02-05T07:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019312190432608360"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "春日野穹 ブルマ",
+          "probability": 0.5406,
+          "start": 75,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 37,
+          "tag": "春日野穹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "885063271669272577",
+          "start": 3,
+          "username": "furyu_hm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019312190432608360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 126
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019259879836528963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @furyu_hm: ＼ 🎂  情報公開 🎉 ／\n\n本日2月5日は #春日野穹 の誕生日 🎂 おめでとうございます 🎉\n\nフリューでは「春日野穹 ブルマver. 1/7スケールフィギュア」を近日受注開始予定です！🐰✨\n\nこだわりの造形をぜひお手元に…🤍 お気に入り登録をお…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2019259873670885377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXaKBdacAEJWXV.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2019312190432608360",
+        "created_at": "2026-02-05T07:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019312190432608360"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "春日野穹 ブルマ",
+              "probability": 0.5406,
+              "start": 75,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "春日野穹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "885063271669272577",
+              "start": 3,
+              "username": "furyu_hm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019312190432608360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 126
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019259879836528963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @furyu_hm: ＼ 🎂  情報公開 🎉 ／\n\n本日2月5日は #春日野穹 の誕生日 🎂 おめでとうございます 🎉\n\nフリューでは「春日野穹 ブルマver. 1/7スケールフィギュア」を近日受注開始予定です！🐰✨\n\nこだわりの造形をぜひお手元に…🤍 お気に入り登録をお…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019259873670885377"
+          ]
+        },
+        "author_id": "885063271669272577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2019259879836528963",
+        "created_at": "2026-02-05T04:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019259879836528963"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "春日野穹 ブルマ",
+              "probability": 0.548,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "春日野穹"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「春日野穹」が『F:NEX』から登場！『ヨスガノソラ』から、ブルマver.の「春日野穹」が1/7スケールフィギュアで近日受注開始予定！詳細は続報をお待ちください！",
+              "display_url": "furyu-hm.com/products/fnx-q…",
+              "end": 154,
+              "expanded_url": "http://furyu-hm.com/products/fnx-qhrdeudb?utm_source=twitter&utm_medium=Social&utm_campaign=post_0",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2019259886048264192/rOPUxH4t?format=jpg&name=orig",
+                  "width": 473
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2019259886048264192/rOPUxH4t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "春日野穹 ブルマver. 1/7スケールフィギュア｜ヨスガノソラ",
+              "unwound_url": "https://furyu-hm.com/products/fnx-qhrdeudb?utm_source=twitter&utm_medium=Social&utm_campaign=post_0",
+              "url": "https://t.co/OKUsLqczTr"
+            },
+            {
+              "display_url": "pic.x.com/5YxY19zEV6",
+              "end": 189,
+              "expanded_url": "https://x.com/furyu_hm/status/2019259879836528963/photo/1",
+              "media_key": "3_2019259873670885377",
+              "start": 166,
+              "url": "https://t.co/5YxY19zEV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019259879836528963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "春日野穹"
+              },
+              {
+                "end": 174,
+                "start": 167,
+                "tag": "ヨスガノソラ"
+              },
+              {
+                "end": 188,
+                "start": 175,
+                "tag": "YosugaNoSora"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "furyu-hm.com/products/fnx-q…",
+                "end": 154,
+                "expanded_url": "http://furyu-hm.com/products/fnx-qhrdeudb?utm_source=twitter&utm_medium=Social&utm_campaign=post_0",
+                "start": 131,
+                "url": "https://t.co/25M4ilzpcC"
+              }
+            ]
+          },
+          "text": "＼ 🎂  情報公開 🎉 ／\n\n本日2月5日は #春日野穹 の誕生日 🎂 おめでとうございます 🎉\n\nフリューでは「春日野穹 ブルマver. 1/7スケールフィギュア」を近日受注開始予定です！🐰✨\n\nこだわりの造形をぜひお手元に…🤍 お気に入り登録をお忘れなく！\nhttps://t.co/25M4ilzpcC\n\n続報をお楽しみに！\n\n#ヨスガノソラ #YosugaNoSora"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 24953,
+          "like_count": 661,
+          "quote_count": 12,
+          "reply_count": 1,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "＼ 🎂  情報公開 🎉 ／\n\n本日2月5日は #春日野穹 の誕生日 🎂 おめでとうございます 🎉\n\nフリューでは「春日野穹 ブルマver. 1/7スケールフィギュア」を近日受注開始予定です！🐰✨\n\nこだわりの造形をぜひお手元に…🤍 お気に入り登録をお忘れなく！\nhttps://t.co/OKUsLqczTr\n\n続報をお楽しみに！ https://t.co/5YxY19zEV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 2935,
+          "like_count": 33945,
+          "listed_count": 4,
+          "media_count": 777,
+          "tweet_count": 7603
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-12T09:08:22.000Z",
+        "description": "フリューのホビーECサイト『FURYU HOBBY MALL』の公式アカウントです。F:NEX（フェネクス）やTENITOL（テニトル）のフィギュア商品を販売中！\n●ソーシャルメディアポリシー https://t.co/MqT0Wcuj9n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "furyu.jp/socialmedia.ht…",
+                "end": 120,
+                "expanded_url": "http://www.furyu.jp/socialmedia.html",
+                "start": 97,
+                "url": "https://t.co/MqT0Wcuj9n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furyu-hm.com",
+                "end": 23,
+                "expanded_url": "https://furyu-hm.com/",
+                "start": 0,
+                "url": "https://t.co/tHmelgiqNK"
+              }
+            ]
+          }
+        },
+        "id": "885063271669272577",
+        "location": "東京 渋谷区",
+        "name": "FURYU HOBBY MALL【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766999412671406080/-Lyxvh66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214216,
+          "following_count": 135,
+          "like_count": 1725,
+          "listed_count": 851,
+          "media_count": 2686,
+          "tweet_count": 5189
+        },
+        "url": "https://t.co/tHmelgiqNK",
+        "username": "furyu_hm",
+        "verified": true
+      }
+    ]
+  }
+}

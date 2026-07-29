@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2039153726964027742",
+    "created_at": "2026-04-01T03:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039178713829671247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1681818252580917248",
+          "start": 0,
+          "username": "PeterPanLam1990"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039178713829671247",
+    "in_reply_to_user_id": "1681818252580917248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039176346551869500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PeterPanLam1990 哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2039153726964027742",
+        "created_at": "2026-04-01T03:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039178713829671247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1681818252580917248",
+              "start": 0,
+              "username": "PeterPanLam1990"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039178713829671247",
+        "in_reply_to_user_id": "1681818252580917248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039176346551869500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeterPanLam1990 哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681818252580917248",
+        "conversation_id": "2039153726964027742",
+        "created_at": "2026-04-01T03:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039176346551869500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039176346551869500",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039153726964027742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 有點雞同鴨講, 講不清的感覺 🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7583,
+          "following_count": 3973,
+          "like_count": 41263,
+          "listed_count": 20,
+          "media_count": 1543,
+          "tweet_count": 10892
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T00:08:30.000Z",
+        "description": "Hong Kong AI Illustrator | Crafting serene anime-style elegant women in Japanese settings | Poetic storytelling & prompt sharing |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.leonardo.ai/profile/PETERP…",
+                "end": 23,
+                "expanded_url": "https://app.leonardo.ai/profile/PETERPANLAM",
+                "start": 0,
+                "url": "https://t.co/ThmGYfubDJ"
+              }
+            ]
+          }
+        },
+        "id": "1681818252580917248",
+        "location": "Hong Kong ",
+        "name": "Peter Lam",
+        "pinned_tweet_id": "2038988691998441768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917442612904222724/j0sMfo7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1532,
+          "following_count": 814,
+          "like_count": 12589,
+          "listed_count": 12,
+          "media_count": 11140,
+          "tweet_count": 20196
+        },
+        "url": "https://t.co/ThmGYfubDJ",
+        "username": "PeterPanLam1990",
+        "verified": true
+      }
+    ]
+  }
+}

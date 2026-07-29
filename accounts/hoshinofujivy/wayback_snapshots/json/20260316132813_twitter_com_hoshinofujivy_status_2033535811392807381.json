@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2033498511237333298",
+    "created_at": "2026-03-16T13:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033535811392807381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "50791157",
+          "start": 0,
+          "username": "googlejapan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033535811392807381",
+    "in_reply_to_user_id": "50791157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033498511237333298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@googlejapan 为何Chrome会逃跑"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "花粉の季節に、くろーむが必死に花粉から逃げ回る様子を描いたイラスト。\nテキストには、スギの木の絵とともに大量の花粉が舞う様子が記号で視覚的に表現されており、テキストと一体化する形で、四方八方から飛んでくる花粉を避けようと右往左往するくろーむがコミカルに描かれている。",
+        "height": 900,
+        "media_key": "3_2033221229612535808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdz75TWkAA-4t3.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2033498511237333298",
+        "created_at": "2026-03-16T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033535811392807381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "50791157",
+              "start": 0,
+              "username": "googlejapan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033535811392807381",
+        "in_reply_to_user_id": "50791157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033498511237333298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@googlejapan 为何Chrome会逃跑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033221229612535808"
+          ]
+        },
+        "author_id": "50791157",
+        "conversation_id": "2033498511237333298",
+        "created_at": "2026-03-16T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033498511237333298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fezKDbeWiu",
+              "end": 226,
+              "expanded_url": "https://x.com/googlejapan/status/2033498511237333298/photo/1",
+              "media_key": "3_2033221229612535808",
+              "start": 203,
+              "url": "https://t.co/fezKDbeWiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033498511237333298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 24485,
+          "like_count": 883,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "🌲　\n　･ﾟ*｡. \n　　･ *ﾟ\n　 ･ ﾟ*\n     ･｡     \n   *･｡\n      *.｡ \n           ｡･\n              °*. ﾟ｡\n                      °*.\n                      ﾟ*.\n                 ｡｡ ･\n             ｡ ･ﾟ\n       ｡°*.\n   ｡*･｡ https://t.co/fezKDbeWiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6542,
+          "following_count": 3848,
+          "like_count": 38891,
+          "listed_count": 18,
+          "media_count": 1165,
+          "tweet_count": 9533
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-25T22:23:54.000Z",
+        "description": "Google Japan の公式アカウントです。Google の使命は、世界中の情報を整理し、世界中の人がアクセスできて使えるようにすること。\nより多くの人々の、より良い毎日のために。\nみなさんのお役に立てるような情報を発信します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.google.co.jp/",
+                "start": 0,
+                "url": "https://t.co/ngK1wikzAY"
+              }
+            ]
+          }
+        },
+        "id": "50791157",
+        "location": "Japan",
+        "name": "Google Japan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029841560779771911/HY1yA42W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454189,
+          "following_count": 11,
+          "like_count": 799,
+          "listed_count": 4937,
+          "media_count": 5416,
+          "tweet_count": 41220
+        },
+        "url": "https://t.co/ngK1wikzAY",
+        "username": "googlejapan",
+        "verified": true
+      }
+    ]
+  }
+}

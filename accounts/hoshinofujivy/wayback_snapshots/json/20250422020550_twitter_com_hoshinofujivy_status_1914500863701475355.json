@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1914471848206647690",
+    "created_at": "2025-04-22T02:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T03:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914500863701475355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1609907541861076994",
+          "start": 0,
+          "username": "Inwal3310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914500863701475355",
+    "in_reply_to_user_id": "1609907541861076994",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914471848206647690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inwal3310 anti伐兰😈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1914471848206647690].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1914471848206647690",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1914471848206647690"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1914471848206647690",
+        "created_at": "2025-04-22T02:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T03:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914500863701475355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1609907541861076994",
+              "start": 0,
+              "username": "Inwal3310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914500863701475355",
+        "in_reply_to_user_id": "1609907541861076994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914471848206647690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inwal3310 anti伐兰😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 2254,
+          "like_count": 15574,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:40:56.000Z",
+        "description": "Floweriable/伐兰在左，企鹅在右/里推@_sarcophagi/🌸@zuifeiwu/🤍🐧@Silent121_5/🍂@fallenleavesw/👧@kagurazakahyoto/小孩@imilkdragon923",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "_sarcophagi"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "kagurazakahyoto"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "imilkdragon923"
+              }
+            ]
+          }
+        },
+        "id": "1609907541861076994",
+        "location": "企鹅巢",
+        "name": "🌸坂下らん🤍",
+        "pinned_tweet_id": "1913110344727134329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899752473205596160/19hGlrhW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 1266,
+          "like_count": 56210,
+          "listed_count": 18,
+          "media_count": 750,
+          "tweet_count": 29242
+        },
+        "username": "Inwal3310",
+        "verified": false
+      }
+    ]
+  }
+}

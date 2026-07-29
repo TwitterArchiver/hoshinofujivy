@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2075083706377851298",
+    "created_at": "2026-07-09T08:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075138451440300193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1798373143998070784",
+          "start": 0,
+          "username": "zuimengwuchen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075138451440300193",
+    "in_reply_to_user_id": "1798373143998070784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075119713559236668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuimengwuchen 别开我盒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2075083706377851298",
+        "created_at": "2026-07-09T08:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075138451440300193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1798373143998070784",
+              "start": 0,
+              "username": "zuimengwuchen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075138451440300193",
+        "in_reply_to_user_id": "1798373143998070784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075119713559236668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuimengwuchen 别开我盒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798373143998070784",
+        "conversation_id": "2075083706377851298",
+        "created_at": "2026-07-09T07:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075119713559236668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0196976e6c4f8d68"
+        },
+        "id": "2075119713559236668",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075083706377851298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 哦，你那個學校的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12607,
+          "following_count": 4398,
+          "like_count": 50664,
+          "listed_count": 29,
+          "media_count": 3189,
+          "tweet_count": 17401
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-05T15:16:20.000Z",
+        "description": "我是醉夢，业余诗人，业余男高音。\n一个活在汉唐豪迈，魏晋风流的隐士才子。\n我不属于这个时代，但我活在这个时代。",
+        "id": "1798373143998070784",
+        "name": "醉夢無瞋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935138826739138562/DkyWn4ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 231,
+          "like_count": 4960,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "zuimengwuchen",
+        "verified": true
+      }
+    ]
+  }
+}

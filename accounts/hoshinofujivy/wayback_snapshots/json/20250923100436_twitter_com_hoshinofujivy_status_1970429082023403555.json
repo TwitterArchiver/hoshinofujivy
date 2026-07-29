@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970429069146947584"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1970429082023403555",
+    "created_at": "2025-09-23T10:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T11:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970429082023403555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UhLsYvzW41",
+          "end": 30,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1970429082023403555/photo/1",
+          "media_key": "3_1970429069146947584",
+          "start": 7,
+          "url": "https://t.co/UhLsYvzW41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970429082023403555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚蒸好的鱼 https://t.co/UhLsYvzW41"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970429069146947584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hezHGbgAAXFhL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970429069146947584"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1970429082023403555",
+        "created_at": "2025-09-23T10:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T11:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970429082023403555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhLsYvzW41",
+              "end": 30,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1970429082023403555/photo/1",
+              "media_key": "3_1970429069146947584",
+              "start": 7,
+              "url": "https://t.co/UhLsYvzW41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970429082023403555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚蒸好的鱼 https://t.co/UhLsYvzW41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @huahuojiang_ @k1_6r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "username": "k1_6r"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1915635148323995880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 2498,
+          "like_count": 24998,
+          "listed_count": 6,
+          "media_count": 522,
+          "tweet_count": 5784
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

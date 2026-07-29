@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1938893932282445911",
+    "created_at": "2025-06-28T09:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T10:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938896659074674770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        },
+        {
+          "end": 30,
+          "id": "1683060453528965120",
+          "start": 14,
+          "username": "NationalPureVF3"
+        },
+        {
+          "end": 43,
+          "id": "1866050038088024064",
+          "start": 31,
+          "username": "123456wwerr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938896659074674770",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938896335232487490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 @NationalPureVF3 @123456wwerr 真理子小蚊子\n好吃😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1938896335232487490].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1938896335232487490",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1938896335232487490"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1938893932282445911",
+        "created_at": "2025-06-28T09:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T10:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938896659074674770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            },
+            {
+              "end": 30,
+              "id": "1683060453528965120",
+              "start": 14,
+              "username": "NationalPureVF3"
+            },
+            {
+              "end": 43,
+              "id": "1866050038088024064",
+              "start": 31,
+              "username": "123456wwerr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938896659074674770",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938896335232487490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 @NationalPureVF3 @123456wwerr 真理子小蚊子\n好吃😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 2465,
+          "like_count": 21983,
+          "listed_count": 2,
+          "media_count": 469,
+          "tweet_count": 5271
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "看你媽呢，沒什麼好看的",
+        "id": "1808047925676986368",
+        "location": "Paris, France",
+        "name": "8̴̫̒0̵̞͠3̵͙͂5̶̢̍0̷͙̍9̶͔͗9̶̅ͅ6̸͖͛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924768965156282368/29gInSfo_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 370,
+          "like_count": 7444,
+          "listed_count": 2,
+          "media_count": 1043,
+          "tweet_count": 8540
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "織田集團的大小姐，別稱：Veritatis/真理子/領袖/真理醬/軟糯真理醬\n 裏帳@vnationvendetta \n喜歡老公 @Ludwig_von_Remi\n夥伴 @jawenzhu  @_Weace_ @xi1966516 @realpresidenTy 愛藤醬主人 @hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "username": "_Weace_"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "username": "xi1966516"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "realpresidenTy"
+              },
+              {
+                "end": 152,
+                "start": 138,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "羽丘女子學園",
+        "name": "中推圈第一偶像 織田真理子 (Veritatis)",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937896209357983745/d6ZTouT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 1072,
+          "like_count": 58968,
+          "listed_count": 13,
+          "media_count": 966,
+          "tweet_count": 26486
+        },
+        "username": "NationalPureVF3",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "1886412746863808969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 260,
+          "like_count": 70097,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 10496
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

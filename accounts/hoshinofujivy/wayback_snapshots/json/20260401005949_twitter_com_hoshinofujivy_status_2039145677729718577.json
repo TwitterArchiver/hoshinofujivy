@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2039017933855469764",
+    "created_at": "2026-04-01T00:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039145677729718577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1506203514241908741",
+          "start": 0,
+          "username": "2fake2real"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039145677729718577",
+    "in_reply_to_user_id": "1506203514241908741",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039085296596431136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2fake2real 吃你的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83300,
+        "height": 864,
+        "media_key": "13_2039085199510908928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039085199510908928/img/ywkYdxYpVl9XBfXK.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039085199510908928/vid/avc1/320x384/mTAbC2tvzw-I0p-D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039085199510908928/vid/avc1/480x576/AnfcA8LebzLg_85M.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039085199510908928/vid/avc1/720x864/KzDSGT731mszNLpe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039085199510908928/pl/eclSOw1nf9Jo6Wgu.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2039017933855469764",
+        "created_at": "2026-04-01T00:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039145677729718577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1506203514241908741",
+              "start": 0,
+              "username": "2fake2real"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039145677729718577",
+        "in_reply_to_user_id": "1506203514241908741",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039085296596431136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2fake2real 吃你的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039085199510908928"
+          ]
+        },
+        "author_id": "1506203514241908741",
+        "conversation_id": "2039017933855469764",
+        "created_at": "2026-03-31T20:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T21:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039085296596431136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bV7DXDQ0xO",
+              "end": 124,
+              "expanded_url": "https://x.com/2fake2real/status/2039085296596431136/video/1",
+              "media_key": "13_2039085199510908928",
+              "start": 101,
+              "url": "https://t.co/bV7DXDQ0xO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039085296596431136",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039017933855469764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 毕竟 殖民狗 就是臭虫找厕所… \n天天拿着放大镜🔍找中国负面新闻！\n\n美国一个周末的枪击案，能抵上中国5年的刑事案件… 不去看英文贴，天天看邪教和狗圈贴，你是出来吃💩的！ https://t.co/bV7DXDQ0xO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7576,
+          "following_count": 3972,
+          "like_count": 41219,
+          "listed_count": 20,
+          "media_count": 1533,
+          "tweet_count": 10874
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-22T09:38:27.000Z",
+        "description": "",
+        "id": "1506203514241908741",
+        "location": "The Earth ",
+        "name": "fakeworld🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035478823643627520/Kzv4rMhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 77,
+          "like_count": 1352,
+          "listed_count": 8,
+          "media_count": 7488,
+          "tweet_count": 12989
+        },
+        "username": "2fake2real",
+        "verified": false
+      }
+    ]
+  }
+}

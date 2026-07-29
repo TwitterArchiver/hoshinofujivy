@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Destinations",
+          "id": "857603051657482241",
+          "name": "Destinations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194367046898733056",
+          "name": "Asia Pacific travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1308801514140360705",
+          "name": "Taiwan travel"
+        }
+      }
+    ],
+    "conversation_id": "1899820793913123060",
+    "created_at": "2025-03-13T01:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T02:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899998410046136609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1897310645655326720",
+          "start": 0,
+          "username": "RobertoC_cr03x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899998410046136609",
+    "in_reply_to_user_id": "1897310645655326720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899820793913123060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RobertoC_cr03x 如果仅仅在中国南方旅行的话\n免签地区推荐香港和台湾，对危地马拉人免签（澳门也免签，只是那里太拥挤了）\n如果可以申请到大陆的签证的话，推荐上海和杭州还有深圳\n当然了，如果想来中国北方，可以去天津，青岛.想看看古建筑的话，可以来北京（我可以做导游）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1899820790389878784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2E8XQXMAAcgq4.jpg",
+        "width": 1024
+      },
+      {
+        "height": 721,
+        "media_key": "3_1899820791543349248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2E8bjXwAAWDZ_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194367046898733056",
+              "name": "Asia Pacific travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          }
+        ],
+        "conversation_id": "1899820793913123060",
+        "created_at": "2025-03-13T01:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T02:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899998410046136609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1897310645655326720",
+              "start": 0,
+              "username": "RobertoC_cr03x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899998410046136609",
+        "in_reply_to_user_id": "1897310645655326720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899820793913123060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RobertoC_cr03x 如果仅仅在中国南方旅行的话\n免签地区推荐香港和台湾，对危地马拉人免签（澳门也免签，只是那里太拥挤了）\n如果可以申请到大陆的签证的话，推荐上海和杭州还有深圳\n当然了，如果想来中国北方，可以去天津，青岛.想看看古建筑的话，可以来北京（我可以做导游）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899820790389878784",
+            "3_1899820791543349248"
+          ]
+        },
+        "author_id": "1897310645655326720",
+        "conversation_id": "1899820793913123060",
+        "created_at": "2025-03-12T13:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T14:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899820793913123060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOzYVhHvL7",
+              "end": 130,
+              "expanded_url": "https://x.com/RobertoC_cr03x/status/1899820793913123060/photo/1",
+              "media_key": "3_1899820790389878784",
+              "start": 107,
+              "url": "https://t.co/dOzYVhHvL7"
+            },
+            {
+              "display_url": "pic.x.com/dOzYVhHvL7",
+              "end": 130,
+              "expanded_url": "https://x.com/RobertoC_cr03x/status/1899820793913123060/photo/1",
+              "media_key": "3_1899820791543349248",
+              "start": 107,
+              "url": "https://t.co/dOzYVhHvL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899820793913123060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安 / 晚安 🌞 \n\n我正在計劃前往中國 🇨🇳 和台灣 🇹🇼 的旅行，在大家睡前，有沒有推薦的好地方可以去呢？🤔 非常感謝大家的幫助，等著你們的回覆！👀 \n\n您的危地馬拉朋友很期待體驗中國的傳統和文化 🇬🇹❤️ https://t.co/dOzYVhHvL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1993,
+          "like_count": 9122,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2676
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T15:39:52.000Z",
+        "description": "☀️Tengo 21 años ⚽ 🫔100% Guatemalteco 🇬🇹 📚 Estudiante Universitario 💻 🫡Viva ROC Taiwán🇹🇼 amo el café ☕✨ Mi religión es católica ✝️🙏🏻 Soy Chapin de 💙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@robertoc_cr03",
+                "end": 23,
+                "expanded_url": "http://tiktok.com/@robertoc_cr03",
+                "start": 0,
+                "url": "https://t.co/omdjO7Dv1V"
+              }
+            ]
+          }
+        },
+        "id": "1897310645655326720",
+        "location": "Guatemala",
+        "name": "🇬🇹 Roberto Carlos 🇹🇼 New Life ☀️",
+        "pinned_tweet_id": "1898233569778045343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898233152985853952/n7w3tLjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 168,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 294
+        },
+        "url": "https://t.co/omdjO7Dv1V",
+        "username": "RobertoC_cr03x",
+        "verified": false
+      }
+    ]
+  }
+}

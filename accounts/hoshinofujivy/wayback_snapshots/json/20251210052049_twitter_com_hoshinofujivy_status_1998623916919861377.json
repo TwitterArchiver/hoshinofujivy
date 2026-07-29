@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998359129534898176"
+      ],
+      "media_source_tweet_id": [
+        "1998359187152396735"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998623916919861377",
+    "created_at": "2025-12-10T05:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T06:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998623916919861377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l116eCmsKl",
+          "end": 50,
+          "expanded_url": "https://x.com/iPaulCanada/status/1998359187152396735/video/1",
+          "media_key": "13_1998359129534898176",
+          "start": 27,
+          "url": "https://t.co/l116eCmsKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998623916919861377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998359187152396735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 当日本人在南京求助 https://t.co/l116eCmsKl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74188,
+        "height": 1280,
+        "media_key": "13_1998359129534898176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998359129534898176/img/GRKy5sHQWgUih6Wr.jpg",
+        "public_metrics": {
+          "view_count": 34450
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998359129534898176/vid/avc1/320x568/Q-IG-snuta-6MFBx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998359129534898176/vid/avc1/480x852/EyZhQC7NncRP8Eua.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998359129534898176/vid/avc1/720x1280/bsq6kUoIv6Ujj5fS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998359129534898176/pl/fou376LtjPEsZlU0.m3u8?v=3b4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998359129534898176"
+          ],
+          "media_source_tweet_id": [
+            "1998359187152396735"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998623916919861377",
+        "created_at": "2025-12-10T05:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T06:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998623916919861377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l116eCmsKl",
+              "end": 50,
+              "expanded_url": "https://x.com/iPaulCanada/status/1998359187152396735/video/1",
+              "media_key": "13_1998359129534898176",
+              "start": 27,
+              "url": "https://t.co/l116eCmsKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998623916919861377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998359187152396735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 当日本人在南京求助 https://t.co/l116eCmsKl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998359129534898176"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1998359187152396735",
+        "created_at": "2025-12-09T11:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T12:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998359187152396735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l116eCmsKl",
+              "end": 33,
+              "expanded_url": "https://x.com/iPaulCanada/status/1998359187152396735/video/1",
+              "media_key": "13_1998359129534898176",
+              "start": 10,
+              "url": "https://t.co/l116eCmsKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998359187152396735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 45349,
+          "like_count": 512,
+          "quote_count": 21,
+          "reply_count": 103,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "当日本人在南京求助 https://t.co/l116eCmsKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @huahuojiang_|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589377333833732/PyZADhUy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2175,
+          "following_count": 2693,
+          "like_count": 30546,
+          "listed_count": 4,
+          "media_count": 648,
+          "tweet_count": 6785
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158541,
+          "following_count": 509,
+          "like_count": 7554,
+          "listed_count": 645,
+          "media_count": 10852,
+          "tweet_count": 17342
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

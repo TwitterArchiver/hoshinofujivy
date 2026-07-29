@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1998367635655041348",
+    "created_at": "2025-12-09T14:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T15:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998395799903019498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292929499",
+          "start": 0,
+          "username": "shushuglad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998395799903019498",
+    "in_reply_to_user_id": "292929499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998367635655041348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shushuglad 一定会没事的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1998367635655041348",
+        "created_at": "2025-12-09T14:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998395799903019498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292929499",
+              "start": 0,
+              "username": "shushuglad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998395799903019498",
+        "in_reply_to_user_id": "292929499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998367635655041348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shushuglad 一定会没事的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "292929499",
+        "conversation_id": "1998367635655041348",
+        "created_at": "2025-12-09T12:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T13:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998367635655041348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998367635655041348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说发生大地震之后可能会发生极大地震，很可怕！\n大きな地震の後に更に大きな地震が起きることもあるようです。怖っ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @huahuojiang_|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998393388123799553/x0rHtuMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 2685,
+          "like_count": 30480,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 6775
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-04T13:37:57.000Z",
+        "description": "我是个日本的老人，已经72岁了。我学习汉语，想学好汉语，常常用日语和汉语发推。我们互相一起学习外语吧。HEADER的照片是我故乡。文好部　No.826    gladgameassn #001",
+        "id": "292929499",
+        "location": "日本 大阪",
+        "name": "老爷爷/学习汉语很开心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656540248032317440/2R5dWY-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9295,
+          "following_count": 1581,
+          "like_count": 1596,
+          "listed_count": 62,
+          "media_count": 5356,
+          "tweet_count": 109667
+        },
+        "username": "shushuglad",
+        "verified": false
+      }
+    ]
+  }
+}

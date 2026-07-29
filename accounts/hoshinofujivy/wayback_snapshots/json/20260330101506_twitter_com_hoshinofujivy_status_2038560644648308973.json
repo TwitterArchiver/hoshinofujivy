@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2038426705686343837",
+    "created_at": "2026-03-30T10:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038560644648308973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1718203142737928192",
+          "start": 0,
+          "username": "Tuotuo6uem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038560644648308973",
+    "in_reply_to_user_id": "1718203142737928192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038538972486398236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tuotuo6uem 我买的全新的，应该没问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2038426705686343837",
+        "created_at": "2026-03-30T10:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038560644648308973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1718203142737928192",
+              "start": 0,
+              "username": "Tuotuo6uem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038560644648308973",
+        "in_reply_to_user_id": "1718203142737928192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038538972486398236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tuotuo6uem 我买的全新的，应该没问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718203142737928192",
+        "conversation_id": "2038426705686343837",
+        "created_at": "2026-03-30T08:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T09:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038538972486398236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038538972486398236",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038426705686343837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 我手机的23基础版日常使用已经有点羸弱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7461,
+          "following_count": 3962,
+          "like_count": 41075,
+          "listed_count": 19,
+          "media_count": 1511,
+          "tweet_count": 10744
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-28T09:48:58.000Z",
+        "description": "攒钱买cbr",
+        "id": "1718203142737928192",
+        "location": "Hong Kong",
+        "name": "Tuotuo6uem",
+        "pinned_tweet_id": "1927641932924358805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928121676333731841/sKH9x7ft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 337,
+          "like_count": 95932,
+          "listed_count": 0,
+          "media_count": 2906,
+          "tweet_count": 10913
+        },
+        "username": "Tuotuo6uem",
+        "verified": false
+      }
+    ]
+  }
+}

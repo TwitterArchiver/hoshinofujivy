@@ -1,0 +1,889 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003487375046115331",
+        "3_2003487375348162560",
+        "3_2003487375339696128"
+      ],
+      "media_source_tweet_id": [
+        "2003487383904534575",
+        "2003487383904534575",
+        "2003487383904534575"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "2003750307541790802",
+    "created_at": "2025-12-24T08:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003750307541790802"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Luce",
+          "probability": 0.4875,
+          "start": 56,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "Jesus",
+          "probability": 0.6163,
+          "start": 62,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 39,
+          "tag": "MerryChristmas"
+        },
+        {
+          "end": 60,
+          "start": 55,
+          "tag": "Luce"
+        },
+        {
+          "end": 67,
+          "start": 61,
+          "tag": "Jesus"
+        },
+        {
+          "end": 76,
+          "start": 68,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "555779522",
+          "start": 3,
+          "username": "Neneko0814"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8zTkOXogHa",
+          "end": 100,
+          "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+          "media_key": "3_2003487375046115331",
+          "start": 77,
+          "url": "https://t.co/8zTkOXogHa"
+        },
+        {
+          "display_url": "pic.x.com/8zTkOXogHa",
+          "end": 100,
+          "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+          "media_key": "3_2003487375348162560",
+          "start": 77,
+          "url": "https://t.co/8zTkOXogHa"
+        },
+        {
+          "display_url": "pic.x.com/8zTkOXogHa",
+          "end": 100,
+          "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+          "media_key": "3_2003487375339696128",
+          "start": 77,
+          "url": "https://t.co/8zTkOXogHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003750307541790802",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2170
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003487383904534575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Neneko0814: 🎄 NOT TODAY DEVIL 🗣️✝️\n#MerryChristmas #Luce #Jesus #cosplay https://t.co/8zTkOXogHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003487375046115331",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83RJxWagAMKkwF.jpg",
+        "width": 1810
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2003487375348162560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83RJyebYAAx7TW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003487375339696128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83RJycaMAA44MK.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003487375046115331",
+            "3_2003487375348162560",
+            "3_2003487375339696128"
+          ],
+          "media_source_tweet_id": [
+            "2003487383904534575",
+            "2003487383904534575",
+            "2003487383904534575"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003750307541790802",
+        "created_at": "2025-12-24T08:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003750307541790802"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Luce",
+              "probability": 0.4875,
+              "start": 56,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Jesus",
+              "probability": 0.6163,
+              "start": 62,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 39,
+              "tag": "MerryChristmas"
+            },
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "Luce"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "Jesus"
+            },
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "555779522",
+              "start": 3,
+              "username": "Neneko0814"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zTkOXogHa",
+              "end": 100,
+              "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+              "media_key": "3_2003487375046115331",
+              "start": 77,
+              "url": "https://t.co/8zTkOXogHa"
+            },
+            {
+              "display_url": "pic.x.com/8zTkOXogHa",
+              "end": 100,
+              "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+              "media_key": "3_2003487375348162560",
+              "start": 77,
+              "url": "https://t.co/8zTkOXogHa"
+            },
+            {
+              "display_url": "pic.x.com/8zTkOXogHa",
+              "end": 100,
+              "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+              "media_key": "3_2003487375339696128",
+              "start": 77,
+              "url": "https://t.co/8zTkOXogHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003750307541790802",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2170
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003487383904534575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Neneko0814: 🎄 NOT TODAY DEVIL 🗣️✝️\n#MerryChristmas #Luce #Jesus #cosplay https://t.co/8zTkOXogHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003487375046115331",
+            "3_2003487375348162560",
+            "3_2003487375339696128"
+          ]
+        },
+        "author_id": "555779522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "2003487383904534575",
+        "created_at": "2025-12-23T15:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003487383904534575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Luce",
+              "probability": 0.4963,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Jesus",
+              "probability": 0.6318,
+              "start": 46,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 23,
+              "tag": "MerryChristmas"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "Luce"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "Jesus"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8zTkOXogHa",
+              "end": 84,
+              "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+              "media_key": "3_2003487375046115331",
+              "start": 61,
+              "url": "https://t.co/8zTkOXogHa"
+            },
+            {
+              "display_url": "pic.x.com/8zTkOXogHa",
+              "end": 84,
+              "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+              "media_key": "3_2003487375348162560",
+              "start": 61,
+              "url": "https://t.co/8zTkOXogHa"
+            },
+            {
+              "display_url": "pic.x.com/8zTkOXogHa",
+              "end": 84,
+              "expanded_url": "https://x.com/Neneko0814/status/2003487383904534575/photo/1",
+              "media_key": "3_2003487375339696128",
+              "start": 61,
+              "url": "https://t.co/8zTkOXogHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003487383904534575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1481,
+          "impression_count": 223829,
+          "like_count": 14850,
+          "quote_count": 62,
+          "reply_count": 57,
+          "retweet_count": 2170
+        },
+        "reply_settings": "everyone",
+        "text": "🎄 NOT TODAY DEVIL 🗣️✝️\n#MerryChristmas #Luce #Jesus #cosplay https://t.co/8zTkOXogHa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子家",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 2781,
+          "like_count": 31737,
+          "listed_count": 4,
+          "media_count": 682,
+          "tweet_count": 7027
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-17T08:00:19.000Z",
+        "description": "Cosplayer / Memes 🐟 SNS総フォロワー数370万人 🎊\n⬇お仕事のご依頼はこちらまで 💌 Work Email ⬇\ndreamproject0079@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/neneko_n",
+                "end": 23,
+                "expanded_url": "http://lit.link/zh-tw/neneko_n",
+                "start": 0,
+                "url": "https://t.co/5GHy2mUQeX"
+              }
+            ]
+          }
+        },
+        "id": "555779522",
+        "location": "Taiwan",
+        "name": "ネネコ✦Neneko✦",
+        "pinned_tweet_id": "1736605985157087710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917738410493763585/wVHkZ-eS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228285,
+          "following_count": 550,
+          "like_count": 41238,
+          "listed_count": 773,
+          "media_count": 1062,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/5GHy2mUQeX",
+        "username": "Neneko0814",
+        "verified": true
+      }
+    ]
+  }
+}

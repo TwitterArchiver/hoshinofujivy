@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2032130565357650375",
+    "created_at": "2026-03-12T16:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032130565357650375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JDjdjj32945/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/JDjdjj32945/status/2032129628228501881",
+          "start": 26,
+          "url": "https://t.co/2ZwqVtu9MU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032130565357650375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032129628228501881",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们学校由于禁止男女生过密交往\n导致男同女同遍地是 https://t.co/2ZwqVtu9MU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2032130565357650375",
+        "created_at": "2026-03-12T16:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032130565357650375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JDjdjj32945/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/JDjdjj32945/status/2032129628228501881",
+              "start": 26,
+              "url": "https://t.co/2ZwqVtu9MU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032130565357650375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032129628228501881",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们学校由于禁止男女生过密交往\n导致男同女同遍地是 https://t.co/2ZwqVtu9MU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851886837570375682",
+        "conversation_id": "2032114876496429060",
+        "created_at": "2026-03-12T16:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032129628228501881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032129628228501881",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032114876496429060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 我們學校有男同也不會管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 3838,
+          "like_count": 37969,
+          "listed_count": 18,
+          "media_count": 1110,
+          "tweet_count": 9317
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-31T07:20:15.000Z",
+        "description": "我們是小國小民，但是我們是好國好人                    \n  \n       我是安和昴的アホ毛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/girlsbandcry",
+                "end": 23,
+                "expanded_url": "https://x.com/girlsbandcry",
+                "start": 0,
+                "url": "https://t.co/8zB1tr7AGa"
+              }
+            ]
+          }
+        },
+        "id": "1851886837570375682",
+        "location": "台灣 台南市",
+        "name": "Louis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017985400229507072/JvbJcJvI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 68,
+          "like_count": 24613,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/8zB1tr7AGa",
+        "username": "JDjdjj32945",
+        "verified": false
+      }
+    ]
+  }
+}

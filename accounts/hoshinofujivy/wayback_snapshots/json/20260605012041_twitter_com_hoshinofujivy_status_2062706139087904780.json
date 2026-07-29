@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062705992144683090",
+    "created_at": "2026-06-05T01:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062706139087904780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "904896960057958400",
+          "start": 0,
+          "username": "hansodemayuge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062706139087904780",
+    "in_reply_to_user_id": "904896960057958400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062705992144683090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hansodemayuge 我在山梨县的Lawson见到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062705992144683090",
+        "created_at": "2026-06-05T01:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062706139087904780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "904896960057958400",
+              "start": 0,
+              "username": "hansodemayuge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062706139087904780",
+        "in_reply_to_user_id": "904896960057958400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062705992144683090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hansodemayuge 我在山梨县的Lawson见到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "904896960057958400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Family Mart (ファミリーマート)",
+              "id": "1035553614549282816",
+              "name": "Family Mart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family Mart (ファミリーマート)",
+              "id": "1035553614549282816",
+              "name": "Family Mart"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          }
+        ],
+        "conversation_id": "2062705992144683090",
+        "created_at": "2026-06-05T01:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062705992144683090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2062573228175008038",
+              "start": 42,
+              "url": "https://t.co/4GJ0tbZE2Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062705992144683090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062573228175008038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "それ実在するコンビニ？\nファミマなんか本棚自体がなくなってるところもあるんだけど。 https://t.co/4GJ0tbZE2Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11662,
+          "following_count": 4338,
+          "like_count": 48279,
+          "listed_count": 37,
+          "media_count": 2653,
+          "tweet_count": 15408
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-05T02:40:22.000Z",
+        "description": "絵を描いたり本を読んだりしてます。\nなんか不具合だか仕様変更だかで、今現在イイネリポストは出来てもリプとポストがほぼできないです。\nなんか数時間に１〜２回くらいの割合でならポストできるっぽいです。",
+        "id": "904896960057958400",
+        "name": "はんそでまゆげ",
+        "pinned_tweet_id": "1865076644320547106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866864620109185024/__GzMQ70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 1539,
+          "like_count": 545392,
+          "listed_count": 20,
+          "media_count": 3180,
+          "tweet_count": 325622
+        },
+        "username": "hansodemayuge",
+        "verified": false
+      }
+    ]
+  }
+}

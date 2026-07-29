@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2068682635044585862",
+    "created_at": "2026-06-21T14:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068700617816842670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450730882738786305",
+          "start": 0,
+          "username": "Yusuke_Takigawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068700617816842670",
+    "in_reply_to_user_id": "1450730882738786305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068683021906223136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yusuke_Takigawa 孙权：我没话说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2068682635044585862",
+        "created_at": "2026-06-21T14:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068700617816842670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450730882738786305",
+              "start": 0,
+              "username": "Yusuke_Takigawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068700617816842670",
+        "in_reply_to_user_id": "1450730882738786305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068683021906223136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yusuke_Takigawa 孙权：我没话说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450730882738786305",
+        "conversation_id": "2068682635044585862",
+        "created_at": "2026-06-21T13:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068683021906223136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068683021906223136",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068682635044585862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy おおー！張遼が大活躍した場所だ！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12084,
+          "following_count": 4371,
+          "like_count": 49230,
+          "listed_count": 36,
+          "media_count": 2901,
+          "tweet_count": 16312
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-20T07:49:36.000Z",
+        "description": "美少女ゲーム 中日 サッカー NBA F1\n日華友好系おじさん\n【他のSNS情報】https://t.co/DmdEaE5mNN\n【note】https://t.co/jyJW0WGUYY\nブルバは99%フォロバ\nDMは返事控えめです。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miria2022.web.fc2.com/takigawa.html",
+                "end": 64,
+                "expanded_url": "https://miria2022.web.fc2.com/takigawa.html",
+                "start": 41,
+                "url": "https://t.co/DmdEaE5mNN"
+              },
+              {
+                "display_url": "note.com/banana38ru",
+                "end": 94,
+                "expanded_url": "https://note.com/banana38ru",
+                "start": 71,
+                "url": "https://t.co/jyJW0WGUYY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/jMm29ZcqqG",
+                "end": 23,
+                "expanded_url": "https://discord.gg/jMm29ZcqqG",
+                "start": 0,
+                "url": "https://t.co/2WGLDc4dTK"
+              }
+            ]
+          }
+        },
+        "id": "1450730882738786305",
+        "location": "愛知県豊川市",
+        "name": "滝川雄介@だお",
+        "pinned_tweet_id": "2039679106623873178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067989254664531968/DyZiluvC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7982,
+          "following_count": 6028,
+          "like_count": 2150,
+          "listed_count": 19,
+          "media_count": 1641,
+          "tweet_count": 15692
+        },
+        "url": "https://t.co/2WGLDc4dTK",
+        "username": "Yusuke_Takigawa",
+        "verified": true
+      }
+    ]
+  }
+}

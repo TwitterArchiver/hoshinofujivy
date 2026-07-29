@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993967585973731328"
+      ],
+      "media_source_tweet_id": [
+        "1993967591929589800"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1994237186259210462",
+    "created_at": "2025-11-28T02:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994237186259210462"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "京都 嵐山",
+          "probability": 0.5445,
+          "start": 14,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1183586372583481344",
+          "start": 3,
+          "username": "3m1ek"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NVN5hm1gQ",
+          "end": 43,
+          "expanded_url": "https://x.com/3m1ek/status/1993967591929589800/photo/1",
+          "media_key": "3_1993967585973731328",
+          "start": 20,
+          "url": "https://t.co/8NVN5hm1gQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994237186259210462",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993967591929589800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3m1ek: 晩秋の京都 嵐山 https://t.co/8NVN5hm1gQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993967585973731328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v-9HebgAAnn30.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993967585973731328"
+          ],
+          "media_source_tweet_id": [
+            "1993967591929589800"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1994237186259210462",
+        "created_at": "2025-11-28T02:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994237186259210462"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "京都 嵐山",
+              "probability": 0.5445,
+              "start": 14,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1183586372583481344",
+              "start": 3,
+              "username": "3m1ek"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NVN5hm1gQ",
+              "end": 43,
+              "expanded_url": "https://x.com/3m1ek/status/1993967591929589800/photo/1",
+              "media_key": "3_1993967585973731328",
+              "start": 20,
+              "url": "https://t.co/8NVN5hm1gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994237186259210462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993967591929589800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3m1ek: 晩秋の京都 嵐山 https://t.co/8NVN5hm1gQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993967585973731328"
+          ]
+        },
+        "author_id": "1183586372583481344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1993967591929589800",
+        "created_at": "2025-11-27T08:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993967591929589800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "京都 嵐山",
+              "probability": 0.463,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NVN5hm1gQ",
+              "end": 32,
+              "expanded_url": "https://x.com/3m1ek/status/1993967591929589800/photo/1",
+              "media_key": "3_1993967585973731328",
+              "start": 9,
+              "url": "https://t.co/8NVN5hm1gQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993967591929589800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 75052,
+          "like_count": 6311,
+          "quote_count": 32,
+          "reply_count": 27,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "晩秋の京都 嵐山 https://t.co/8NVN5hm1gQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_ @vicoOci_olvidar|日本語學習者｜世界和平萬歲｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "vicoOci_olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2626,
+          "like_count": 28842,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6467
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-14T03:32:46.000Z",
+        "description": "癒しと幻想 | 日めくりカレンダーのように全国の季節の風景を投稿しています | 無断転載禁止(Unauthorized copying prohibited)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bird_zekkei/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/bird_zekkei/",
+                "start": 0,
+                "url": "https://t.co/LOq9xusc8U"
+              }
+            ]
+          }
+        },
+        "id": "1183586372583481344",
+        "name": "𝚋𝚒𝚛𝚍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738526893534793728/7SKcELV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48948,
+          "following_count": 153,
+          "like_count": 254724,
+          "listed_count": 481,
+          "media_count": 2039,
+          "tweet_count": 88338
+        },
+        "url": "https://t.co/LOq9xusc8U",
+        "username": "3m1ek",
+        "verified": true
+      }
+    ]
+  }
+}

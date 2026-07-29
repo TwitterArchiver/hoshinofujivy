@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2029501460283859201",
+    "created_at": "2026-03-05T15:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029579333745156209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1872157303459532800",
+          "start": 0,
+          "username": "qiqi123_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029579333745156209",
+    "in_reply_to_user_id": "1872157303459532800",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029532287218692137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi123_ ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2029501460283859201",
+        "created_at": "2026-03-05T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029579333745156209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1872157303459532800",
+              "start": 0,
+              "username": "qiqi123_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029579333745156209",
+        "in_reply_to_user_id": "1872157303459532800",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029532287218692137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi123_ ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872157303459532800",
+        "conversation_id": "2029501460283859201",
+        "created_at": "2026-03-05T12:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029532287218692137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029532287218692137",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029501460283859201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4651,
+          "following_count": 3819,
+          "like_count": 37247,
+          "listed_count": 10,
+          "media_count": 1023,
+          "tweet_count": 8921
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T05:47:45.000Z",
+        "description": "我会一直喜欢你",
+        "id": "1872157303459532800",
+        "name": "我讨厌你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022160502420647940/8AhDlnGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 148,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1340
+        },
+        "username": "qiqi123_",
+        "verified": false
+      }
+    ]
+  }
+}

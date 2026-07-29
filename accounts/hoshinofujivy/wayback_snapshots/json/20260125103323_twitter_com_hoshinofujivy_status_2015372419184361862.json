@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014082205283201025"
+      ],
+      "media_source_tweet_id": [
+        "2014082428957045007"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2015372419184361862",
+    "created_at": "2026-01-25T10:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015372419184361862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cphg52ZBzs",
+          "end": 117,
+          "expanded_url": "https://x.com/Google/status/2014082428957045007/video/1",
+          "media_key": "13_2014082205283201025",
+          "start": 94,
+          "url": "https://t.co/cphg52ZBzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015372419184361862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015078218467053702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: Google 刚刚又给教育行业投下了一颗核弹！\n\nGoogle与全球教育平台可汗学院合作，通过 Gemini 为学生打造全新的学习工具箱。教育完全免费时代到来。\n https://t.co/cphg52ZBzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29045,
+        "height": 1080,
+        "media_key": "13_2014082205283201025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014082205283201025/img/gWLZCGuuXfkp-nsG.jpg",
+        "public_metrics": {
+          "view_count": 285557
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014082205283201025/vid/avc1/1920x1080/EGO-jPoYLttzjlsb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014082205283201025/vid/avc1/640x360/yxA1dUp9c04JnaiD.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014082205283201025/vid/avc1/480x270/S4HRGfLAYhFUgFgF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014082205283201025/vid/avc1/1280x720/BwFZQh7I876XSu3M.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014082205283201025/pl/2QYjNJy2xnsc0INF.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014082205283201025"
+          ],
+          "media_source_tweet_id": [
+            "2014082428957045007"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2015372419184361862",
+        "created_at": "2026-01-25T10:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015372419184361862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cphg52ZBzs",
+              "end": 117,
+              "expanded_url": "https://x.com/Google/status/2014082428957045007/video/1",
+              "media_key": "13_2014082205283201025",
+              "start": 94,
+              "url": "https://t.co/cphg52ZBzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015372419184361862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015078218467053702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: Google 刚刚又给教育行业投下了一颗核弹！\n\nGoogle与全球教育平台可汗学院合作，通过 Gemini 为学生打造全新的学习工具箱。教育完全免费时代到来。\n https://t.co/cphg52ZBzs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014082205283201025"
+          ],
+          "media_source_tweet_id": [
+            "2014082428957045007"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2015078218467053702",
+        "created_at": "2026-01-24T15:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T16:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015078218467053702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cphg52ZBzs",
+              "end": 105,
+              "expanded_url": "https://x.com/Google/status/2014082428957045007/video/1",
+              "media_key": "13_2014082205283201025",
+              "start": 82,
+              "url": "https://t.co/cphg52ZBzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015078218467053702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 861,
+          "impression_count": 127261,
+          "like_count": 1179,
+          "quote_count": 8,
+          "reply_count": 39,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "Google 刚刚又给教育行业投下了一颗核弹！\n\nGoogle与全球教育平台可汗学院合作，通过 Gemini 为学生打造全新的学习工具箱。教育完全免费时代到来。\n https://t.co/cphg52ZBzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&中文",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 2874,
+          "like_count": 33421,
+          "listed_count": 4,
+          "media_count": 757,
+          "tweet_count": 7429
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 159,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 136,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2wIEN3JaDn5hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2wIEN3JaDn5hZjAx",
+                "start": 0,
+                "url": "https://t.co/RAqwp4VYZc"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Palo Alto",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52238,
+          "following_count": 2709,
+          "like_count": 7965,
+          "listed_count": 533,
+          "media_count": 2556,
+          "tweet_count": 6168
+        },
+        "url": "https://t.co/RAqwp4VYZc",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

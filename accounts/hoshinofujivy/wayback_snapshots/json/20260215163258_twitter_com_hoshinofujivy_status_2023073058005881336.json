@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2023051811192811905",
+    "created_at": "2026-02-15T16:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T17:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023073058005881336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1460443622533320712",
+          "start": 0,
+          "username": "_lidonhtingone_"
+        },
+        {
+          "end": 30,
+          "id": "1808047925676986368",
+          "start": 17,
+          "username": "xxx_zzx71446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023073058005881336",
+    "in_reply_to_user_id": "1460443622533320712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023070074203185447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_lidonhtingone_ @xxx_zzx71446 他退推了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023070074203185447].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023070074203185447",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023070074203185447"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2023051811192811905",
+        "created_at": "2026-02-15T16:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T17:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023073058005881336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1460443622533320712",
+              "start": 0,
+              "username": "_lidonhtingone_"
+            },
+            {
+              "end": 30,
+              "id": "1808047925676986368",
+              "start": 17,
+              "username": "xxx_zzx71446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023073058005881336",
+        "in_reply_to_user_id": "1460443622533320712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023070074203185447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_lidonhtingone_ @xxx_zzx71446 他退推了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2451,
+          "following_count": 2991,
+          "like_count": 34635,
+          "listed_count": 5,
+          "media_count": 806,
+          "tweet_count": 7842
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "2000217715953607131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 501,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 1266,
+          "tweet_count": 18146
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "👀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "123.com",
+                "end": 23,
+                "expanded_url": "http://www.123.com",
+                "start": 0,
+                "url": "https://t.co/TOiUbqsTjO"
+              }
+            ]
+          }
+        },
+        "id": "1808047925676986368",
+        "location": "距离10.3km",
+        "name": "流光诺梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981046735225913344/HPTthMmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 420,
+          "like_count": 10264,
+          "listed_count": 4,
+          "media_count": 1528,
+          "tweet_count": 13444
+        },
+        "url": "https://t.co/TOiUbqsTjO",
+        "username": "xxx_zzx71446",
+        "verified": false
+      }
+    ]
+  }
+}

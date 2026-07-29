@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2000953978528653631",
+    "created_at": "2025-12-16T16:00:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:00:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000959341051191666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1770793119094542336",
+          "start": 0,
+          "username": "cli493310316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000959341051191666",
+    "in_reply_to_user_id": "1770793119094542336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000959200000926191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cli493310316 邻居家的孩子自杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2000953978528653631",
+        "created_at": "2025-12-16T16:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000959341051191666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1770793119094542336",
+              "start": 0,
+              "username": "cli493310316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000959341051191666",
+        "in_reply_to_user_id": "1770793119094542336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000959200000926191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cli493310316 邻居家的孩子自杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770793119094542336",
+        "conversation_id": "2000953978528653631",
+        "created_at": "2025-12-16T16:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000959200000926191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000959200000926191",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000953978528653631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 請問是發生了什麼事？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 2721,
+          "like_count": 31177,
+          "listed_count": 4,
+          "media_count": 672,
+          "tweet_count": 6911
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-21T12:43:54.000Z",
+        "description": "民主社會主義者、生態社會主義者、公社主義者、棄成長共產主義者暨無神論者。\n副帳號：@cli152789",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "cli152789"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cli49331_0316?…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cli49331_0316?igsh=N3VqazJiYzdmYXZw",
+                "start": 0,
+                "url": "https://t.co/8tMwcIxkkd"
+              }
+            ]
+          }
+        },
+        "id": "1770793119094542336",
+        "location": "Taiwan",
+        "name": "Lee",
+        "pinned_tweet_id": "1961755070439260168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936649346386366464/XtQ1uq5K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 27,
+          "like_count": 754,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/8tMwcIxkkd",
+        "username": "cli493310316",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023308068227076096"
+      ],
+      "media_source_tweet_id": [
+        "2023308126838219226"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2023618253885681821",
+    "created_at": "2026-02-17T04:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T05:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023618253885681821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1241075086565634048",
+          "start": 3,
+          "username": "wenbei2022"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/42Reab3fQ2",
+          "end": 75,
+          "expanded_url": "https://x.com/wenbei2022/status/2023308126838219226/video/1",
+          "media_key": "13_2023308068227076096",
+          "start": 52,
+          "url": "https://t.co/42Reab3fQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023618253885681821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023308126838219226",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wenbei2022: 在日本🇯🇵鞠躬越深表示越尊敬。但如果你娶了个体操运动员，那就完蛋了。😁 https://t.co/42Reab3fQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13779,
+        "height": 648,
+        "media_key": "13_2023308068227076096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023308068227076096/img/b0r_zaR3rKu7wLov.jpg",
+        "public_metrics": {
+          "view_count": 618877
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023308068227076096/vid/avc1/292x270/eSArJOm2mFPaDqlg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023308068227076096/vid/avc1/390x360/T2dsj43ppCB_ylcu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023308068227076096/vid/avc1/702x648/_r0JzuvGDR3UYXch.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023308068227076096/pl/pqpqKWtBw4x8ARy3.m3u8?v=cfc"
+          }
+        ],
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023308068227076096"
+          ],
+          "media_source_tweet_id": [
+            "2023308126838219226"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2023618253885681821",
+        "created_at": "2026-02-17T04:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023618253885681821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1241075086565634048",
+              "start": 3,
+              "username": "wenbei2022"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/42Reab3fQ2",
+              "end": 75,
+              "expanded_url": "https://x.com/wenbei2022/status/2023308126838219226/video/1",
+              "media_key": "13_2023308068227076096",
+              "start": 52,
+              "url": "https://t.co/42Reab3fQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023618253885681821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023308126838219226",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wenbei2022: 在日本🇯🇵鞠躬越深表示越尊敬。但如果你娶了个体操运动员，那就完蛋了。😁 https://t.co/42Reab3fQ2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023308068227076096"
+          ]
+        },
+        "author_id": "1241075086565634048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2023308126838219226",
+        "created_at": "2026-02-16T08:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023308126838219226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42Reab3fQ2",
+              "end": 59,
+              "expanded_url": "https://x.com/wenbei2022/status/2023308126838219226/video/1",
+              "media_key": "13_2023308068227076096",
+              "start": 36,
+              "url": "https://t.co/42Reab3fQ2"
+            },
+            {
+              "display_url": "x.com/wenbei2022/sta…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/wenbei2022/status/2023025208781832587",
+              "start": 60,
+              "url": "https://t.co/YuWIsxvgdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023308126838219226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 525,
+          "impression_count": 1752686,
+          "like_count": 3613,
+          "quote_count": 13,
+          "reply_count": 70,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023025208781832587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在日本🇯🇵鞠躬越深表示越尊敬。但如果你娶了个体操运动员，那就完蛋了。😁 https://t.co/42Reab3fQ2 https://t.co/YuWIsxvgdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）｜AIart｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 2998,
+          "like_count": 34737,
+          "listed_count": 5,
+          "media_count": 810,
+          "tweet_count": 7884
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-20T18:52:25.000Z",
+        "description": "近水平波覆前澜，惊涛暗涌潜渊寒。此去岐山无多路，一叶扁舟赴黄泉！",
+        "id": "1241075086565634048",
+        "location": "台灣",
+        "name": "文北",
+        "pinned_tweet_id": "2021119304675332457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363168233734295552/bgmGknvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51417,
+          "following_count": 1260,
+          "like_count": 284062,
+          "listed_count": 23,
+          "media_count": 28220,
+          "tweet_count": 123387
+        },
+        "username": "wenbei2022",
+        "verified": false
+      }
+    ]
+  }
+}

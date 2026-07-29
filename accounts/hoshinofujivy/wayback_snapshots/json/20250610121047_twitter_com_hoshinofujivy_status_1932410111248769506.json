@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1932408867243405731",
+    "created_at": "2025-06-10T12:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T13:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932410111248769506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1931946212930076672",
+          "start": 0,
+          "username": "wudaisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932410111248769506",
+    "in_reply_to_user_id": "1931946212930076672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932408867243405731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wudaisuki 大胆一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1932408867243405731",
+        "created_at": "2025-06-10T12:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932410111248769506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1931946212930076672",
+              "start": 0,
+              "username": "wudaisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932410111248769506",
+        "in_reply_to_user_id": "1931946212930076672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932408867243405731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudaisuki 大胆一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931946212930076672",
+        "conversation_id": "1932408867243405731",
+        "created_at": "2025-06-10T12:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932408867243405731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932408867243405731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想谈恋爱 如何被女孩子喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 2413,
+          "like_count": 20313,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 4736
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T05:27:34.000Z",
+        "description": "这里是舞 喜欢吃牛肉盖饭",
+        "id": "1931946212930076672",
+        "name": "川澄 舞",
+        "pinned_tweet_id": "1932408867243405731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931946328063725568/26JQ1Rn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 42,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 48
+        },
+        "username": "wudaisuki",
+        "verified": false
+      }
+    ]
+  }
+}

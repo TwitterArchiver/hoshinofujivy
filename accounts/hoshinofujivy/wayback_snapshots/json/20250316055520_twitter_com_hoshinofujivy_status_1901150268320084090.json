@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1901142848420147693",
+    "created_at": "2025-03-16T05:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-16T06:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901150268320084090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "Beta_Estradiol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901150268320084090",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901142848420147693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beta_Estradiol 好形象的比喻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1901142848420147693].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1901142848420147693",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1901142848420147693"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1901142848420147693",
+        "created_at": "2025-03-16T05:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-16T06:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901150268320084090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "Beta_Estradiol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901150268320084090",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901142848420147693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beta_Estradiol 好形象的比喻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 2047,
+          "like_count": 9913,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 2916
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞/表@imqiuy 限时放送：我想看@Ak1raQ_love变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "imqiuy"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Ak1raQ_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 315,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "Beta_Estradiol",
+        "verified": false
+      }
+    ]
+  }
+}

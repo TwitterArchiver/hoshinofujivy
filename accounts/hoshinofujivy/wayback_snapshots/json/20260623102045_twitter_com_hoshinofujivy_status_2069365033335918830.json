@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069364836602097664"
+      ],
+      "media_source_tweet_id": [
+        "2069364852217483537"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069365033335918830",
+    "created_at": "2026-06-23T10:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069365033335918830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2047295680138362880",
+          "start": 3,
+          "username": "littlejusir"
+        },
+        {
+          "end": 42,
+          "id": "1635476041438461952",
+          "start": 27,
+          "username": "JiaweiShen2568"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 83,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2069299164325060785?s=20",
+          "start": 60,
+          "url": "https://t.co/2m9Ur4DklW"
+        },
+        {
+          "display_url": "pic.x.com/wPe96yUGpR",
+          "end": 107,
+          "expanded_url": "https://x.com/littlejusir/status/2069364852217483537/photo/1",
+          "media_key": "3_2069364836602097664",
+          "start": 84,
+          "url": "https://t.co/wPe96yUGpR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069365033335918830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364852217483537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @littlejusir: 每次看到星野藤和大叔@jiaweishen2568 插科打诨时，代入星野藤视角的我：\nhttps://t.co/2m9Ur4DklW https://t.co/wPe96yUGpR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2069364836602097664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfcWtxaMAAh9UL.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069364836602097664"
+          ],
+          "media_source_tweet_id": [
+            "2069364852217483537"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069365033335918830",
+        "created_at": "2026-06-23T10:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069365033335918830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2047295680138362880",
+              "start": 3,
+              "username": "littlejusir"
+            },
+            {
+              "end": 42,
+              "id": "1635476041438461952",
+              "start": 27,
+              "username": "JiaweiShen2568"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 83,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2069299164325060785?s=20",
+              "start": 60,
+              "url": "https://t.co/2m9Ur4DklW"
+            },
+            {
+              "display_url": "pic.x.com/wPe96yUGpR",
+              "end": 107,
+              "expanded_url": "https://x.com/littlejusir/status/2069364852217483537/photo/1",
+              "media_key": "3_2069364836602097664",
+              "start": 84,
+              "url": "https://t.co/wPe96yUGpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069365033335918830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364852217483537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @littlejusir: 每次看到星野藤和大叔@jiaweishen2568 插科打诨时，代入星野藤视角的我：\nhttps://t.co/2m9Ur4DklW https://t.co/wPe96yUGpR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069364836602097664"
+          ]
+        },
+        "author_id": "2047295680138362880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069364852217483537",
+        "created_at": "2026-06-23T10:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069364852217483537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1635476041438461952",
+              "start": 10,
+              "username": "JiaweiShen2568"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 66,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2069299164325060785?s=20",
+              "start": 43,
+              "url": "https://t.co/2m9Ur4DklW"
+            },
+            {
+              "display_url": "pic.x.com/wPe96yUGpR",
+              "end": 90,
+              "expanded_url": "https://x.com/littlejusir/status/2069364852217483537/photo/1",
+              "media_key": "3_2069364836602097664",
+              "start": 67,
+              "url": "https://t.co/wPe96yUGpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364852217483537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069299164325060785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次看到星野藤和大叔@jiaweishen2568 插科打诨时，代入星野藤视角的我：\nhttps://t.co/2m9Ur4DklW https://t.co/wPe96yUGpR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12083,
+          "following_count": 4362,
+          "like_count": 49331,
+          "listed_count": 36,
+          "media_count": 2938,
+          "tweet_count": 16431
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T12:45:27.000Z",
+        "description": "中国人，互fo",
+        "id": "2047295680138362880",
+        "location": "中华人民共和国",
+        "name": "jusir的二号机",
+        "pinned_tweet_id": "2067165589504983313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065441705143549952/4ZlbmVbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 425,
+          "like_count": 699,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 664
+        },
+        "url": "",
+        "username": "littlejusir",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "location": "广州，深圳",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32559,
+          "following_count": 2197,
+          "like_count": 62677,
+          "listed_count": 118,
+          "media_count": 5925,
+          "tweet_count": 44592
+        },
+        "url": "",
+        "username": "JiaweiShen2568",
+        "verified": true
+      }
+    ]
+  }
+}

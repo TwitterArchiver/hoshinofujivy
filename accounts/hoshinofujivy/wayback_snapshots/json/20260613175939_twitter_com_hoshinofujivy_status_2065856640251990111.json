@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065856632589004801"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2065856640251990111",
+    "created_at": "2026-06-13T17:59:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065856640251990111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NyOa2nYCiW",
+          "end": 32,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2065856640251990111/photo/1",
+          "media_key": "3_2065856632589004801",
+          "start": 9,
+          "url": "https://t.co/NyOa2nYCiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065856640251990111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这还是哔哩哔哩吗 https://t.co/NyOa2nYCiW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2065856632589004801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtlqXZaMAEZ3CK.jpg",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065856632589004801"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2065856640251990111",
+        "created_at": "2026-06-13T17:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065856640251990111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyOa2nYCiW",
+              "end": 32,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2065856640251990111/photo/1",
+              "media_key": "3_2065856632589004801",
+              "start": 9,
+              "url": "https://t.co/NyOa2nYCiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065856640251990111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这还是哔哩哔哩吗 https://t.co/NyOa2nYCiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11982,
+          "following_count": 4361,
+          "like_count": 49013,
+          "listed_count": 36,
+          "media_count": 2779,
+          "tweet_count": 15927
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

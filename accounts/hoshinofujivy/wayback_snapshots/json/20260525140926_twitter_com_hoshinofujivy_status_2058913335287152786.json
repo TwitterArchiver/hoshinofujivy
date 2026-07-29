@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2058913335287152786",
+    "created_at": "2026-05-25T14:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058913335287152786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1518266508941885440",
+          "start": 3,
+          "username": "kzkshion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058913335287152786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058576689777836156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kzkshion: 我是香港人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2058913335287152786",
+        "created_at": "2026-05-25T14:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058913335287152786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1518266508941885440",
+              "start": 3,
+              "username": "kzkshion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058913335287152786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058576689777836156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kzkshion: 我是香港人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518266508941885440",
+        "conversation_id": "2058576689777836156",
+        "created_at": "2026-05-24T15:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T16:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058576689777836156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dearemon/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/dearemon/status/2058349580161528143",
+              "start": 6,
+              "url": "https://t.co/KTuhZ3UnTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058576689777836156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 30418,
+          "like_count": 643,
+          "quote_count": 4,
+          "reply_count": 33,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058349580161528143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是香港人 https://t.co/KTuhZ3UnTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11369,
+          "following_count": 4315,
+          "like_count": 46542,
+          "listed_count": 37,
+          "media_count": 2420,
+          "tweet_count": 14531
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-24T16:32:31.000Z",
+        "description": "🇭🇰/🇹🇼/🇬🇧/🇯🇵/⭕ || 來自英國的天才短毛貓——SHIRO 無奈地委派不太中用的鏟屎官們作為意志代理人，拍影片維持生計（罐罐ฅ(ΦωΦ)） || 繪師媽媽： @yanekokun_HB || 建模媽媽：@yuentsz123 || Icon： @iambetty_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "yanekokun_HB"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "yuentsz123"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "iambetty_13"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kzkshion.anyonelab.com",
+                "end": 23,
+                "expanded_url": "https://kzkshion.anyonelab.com/",
+                "start": 0,
+                "url": "https://t.co/E6wmU854Gy"
+              }
+            ]
+          }
+        },
+        "id": "1518266508941885440",
+        "name": "神崎紫苑Shion🐱🤍",
+        "pinned_tweet_id": "1921931867130826820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041815915285897216/-AawOL-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 1457,
+          "like_count": 70978,
+          "listed_count": 4,
+          "media_count": 1645,
+          "tweet_count": 16991
+        },
+        "url": "https://t.co/E6wmU854Gy",
+        "username": "kzkshion",
+        "verified": false
+      }
+    ]
+  }
+}

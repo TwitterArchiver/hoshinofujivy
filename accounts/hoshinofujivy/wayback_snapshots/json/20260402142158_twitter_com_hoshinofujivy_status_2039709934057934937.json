@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039709807125667841"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2039709934057934937",
+    "created_at": "2026-04-02T14:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039709934057934937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "147608326",
+          "start": 3,
+          "username": "rivensner"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kdw4vNbG7e",
+          "end": 37,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2039709934057934937/photo/1",
+          "media_key": "3_2039709807125667841",
+          "start": 14,
+          "url": "https://t.co/kdw4vNbG7e"
+        },
+        {
+          "display_url": "x.com/duolingo/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/duolingo/status/2039454261373800742",
+          "start": 38,
+          "url": "https://t.co/2K1vxJgbIT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039709934057934937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039454261373800742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "作者 @rivensner https://t.co/kdw4vNbG7e https://t.co/2K1vxJgbIT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2039709807125667841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6BQ0KbIAEifa2.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039454257217486848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE2Y12kbQAAPshJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039709807125667841"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2039709934057934937",
+        "created_at": "2026-04-02T14:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039709934057934937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "147608326",
+              "start": 3,
+              "username": "rivensner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdw4vNbG7e",
+              "end": 37,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2039709934057934937/photo/1",
+              "media_key": "3_2039709807125667841",
+              "start": 14,
+              "url": "https://t.co/kdw4vNbG7e"
+            },
+            {
+              "display_url": "x.com/duolingo/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/duolingo/status/2039454261373800742",
+              "start": 38,
+              "url": "https://t.co/2K1vxJgbIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039709934057934937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039454261373800742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作者 @rivensner https://t.co/kdw4vNbG7e https://t.co/2K1vxJgbIT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039454257217486848"
+          ]
+        },
+        "author_id": "107238136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "2039454261373800742",
+        "created_at": "2026-04-01T21:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039454261373800742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k1HiMNVQ5",
+              "end": 61,
+              "expanded_url": "https://x.com/duolingo/status/2039454261373800742/photo/1",
+              "media_key": "3_2039454257217486848",
+              "start": 38,
+              "url": "https://t.co/8k1HiMNVQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039454261373800742",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 605,
+          "impression_count": 1078303,
+          "like_count": 5787,
+          "quote_count": 97,
+          "reply_count": 117,
+          "retweet_count": 549
+        },
+        "reply_settings": "everyone",
+        "text": "yes, I’m calling YOU out specifically https://t.co/8k1HiMNVQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7710,
+          "following_count": 3983,
+          "like_count": 41496,
+          "listed_count": 20,
+          "media_count": 1580,
+          "tweet_count": 11008
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-24T15:40:23.000Z",
+        "description": "archive // csm · at · kgrb · oc // 🔞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rivensner.straw.page",
+                "end": 23,
+                "expanded_url": "http://rivensner.straw.page",
+                "start": 0,
+                "url": "https://t.co/dnbwifgmTw"
+              }
+            ]
+          }
+        },
+        "id": "147608326",
+        "name": "R I V Σ N",
+        "pinned_tweet_id": "2010359635182760073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684962579309887488/FfNvYxEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16923,
+          "following_count": 300,
+          "like_count": 41752,
+          "listed_count": 54,
+          "media_count": 616,
+          "tweet_count": 1141
+        },
+        "url": "https://t.co/dnbwifgmTw",
+        "username": "rivensner",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "Free education for the world. Available on Android, iOS, and the web.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@duolingo",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@duolingo",
+                "start": 0,
+                "url": "https://t.co/sLUHIFpERW"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "name": "Duolingo",
+        "pinned_tweet_id": "2013659156746506280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029235320680538112/UhrkIbZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032831,
+          "following_count": 515,
+          "like_count": 24227,
+          "listed_count": 2774,
+          "media_count": 2031,
+          "tweet_count": 54022
+        },
+        "url": "https://t.co/sLUHIFpERW",
+        "username": "duolingo",
+        "verified": true
+      }
+    ]
+  }
+}

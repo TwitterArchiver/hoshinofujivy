@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2028243895717675145",
+    "created_at": "2026-03-02T05:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028346650432041378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1713097670208970753",
+          "start": 0,
+          "username": "coke0x00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028346650432041378",
+    "in_reply_to_user_id": "1713097670208970753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028302423442542664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coke0x00 其实这个还可以根据熵增熵减来解释"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2028243895717675145",
+        "created_at": "2026-03-02T05:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028346650432041378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1713097670208970753",
+              "start": 0,
+              "username": "coke0x00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028346650432041378",
+        "in_reply_to_user_id": "1713097670208970753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028302423442542664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coke0x00 其实这个还可以根据熵增熵减来解释"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713097670208970753",
+        "conversation_id": "2028243895717675145",
+        "created_at": "2026-03-02T02:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028302423442542664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028302423442542664",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028243895717675145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 有多少人小时候吹过气球，你没发现第一下都特别难吹开吗？\n\n1. 橡胶在“初始拉伸”时需要更大的力\n这就像你要把一堆乱成团的耳机线拉开，第一下最费劲。\n2. 气球表面张力在“临界点”前非常高\n\nP = \\frac{2T}{r}\n\n3. 一旦突破临界点，橡胶进入“软化区”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 3769,
+          "like_count": 36649,
+          "listed_count": 7,
+          "media_count": 970,
+          "tweet_count": 8706
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-14T07:41:46.000Z",
+        "description": "A coder that works on open source softwares. Using C++ and Python.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "saleratusblog.pages.dev",
+                "end": 23,
+                "expanded_url": "https://saleratusblog.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/9vaWdB2qyX"
+              }
+            ]
+          }
+        },
+        "id": "1713097670208970753",
+        "location": "Yunnan Province, China",
+        "name": "无糖可乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916009724031733766/5GWbp7Vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 47,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/9vaWdB2qyX",
+        "username": "coke0x00",
+        "verified": false
+      }
+    ]
+  }
+}

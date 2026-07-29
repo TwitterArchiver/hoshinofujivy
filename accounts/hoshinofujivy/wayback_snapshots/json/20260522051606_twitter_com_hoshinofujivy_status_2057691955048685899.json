@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2057445022757482774",
+    "created_at": "2026-05-22T05:16:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:16:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057691955048685899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1344658586656329730",
+          "start": 0,
+          "username": "IkkyuZwei"
+        },
+        {
+          "end": 22,
+          "id": "2004949131450867712",
+          "start": 11,
+          "username": "xersy37737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057691955048685899",
+    "in_reply_to_user_id": "1344658586656329730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057691708822102345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IkkyuZwei @xersy37737 其实百度地图无法修改语言"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2057445022757482774",
+        "created_at": "2026-05-22T05:16:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:16:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691955048685899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1344658586656329730",
+              "start": 0,
+              "username": "IkkyuZwei"
+            },
+            {
+              "end": 22,
+              "id": "2004949131450867712",
+              "start": 11,
+              "username": "xersy37737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691955048685899",
+        "in_reply_to_user_id": "1344658586656329730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057691708822102345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IkkyuZwei @xersy37737 其实百度地图无法修改语言"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344658586656329730",
+        "conversation_id": "2057445022757482774",
+        "created_at": "2026-05-22T05:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057691708822102345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004949131450867712",
+              "start": 0,
+              "username": "xersy37737"
+            },
+            {
+              "end": 26,
+              "id": "1622066090074607616",
+              "start": 12,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057691708822102345",
+        "in_reply_to_user_id": "2004949131450867712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057503308223529300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xersy37737 @hoshinofujivy 有些甚至不用出國、不用翻牆\n把語言改成簡中以外的\n廣告馬上消失一大半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11141,
+          "following_count": 4315,
+          "like_count": 46379,
+          "listed_count": 35,
+          "media_count": 2373,
+          "tweet_count": 14324
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-31T14:56:15.000Z",
+        "description": "令 和 時 代 ノ 零 和 遊 戯 🎮\n鍵政垢 → (☠️)@IkkyuZeno\n\n無性愛Cis♂ (He/Him/His; 你/他)\n友🏳️‍🌈🏳️‍⚧️⚧🍥│社会人│左下│真・香港人🎗️\nゲーム│ガジェット│政治│哲学│他\n#StandWithUkraine🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 114,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "IkkyuZeno"
+              }
+            ]
+          }
+        },
+        "id": "1344658586656329730",
+        "location": "香港",
+        "name": "川和・一休芝諾【鍵政垢🎗️】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023410713277173760/mssKoLOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 672,
+          "like_count": 6991,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 951
+        },
+        "username": "IkkyuZwei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T16:15:12.000Z",
+        "description": "Radical Communist,Programer,ML Engineer,MTX.",
+        "id": "2004949131450867712",
+        "location": "黑墙外",
+        "name": "Xersy​🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030668106528681985/cTBHzgLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 19,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 468
+        },
+        "username": "xersy37737",
+        "verified": false
+      }
+    ]
+  }
+}

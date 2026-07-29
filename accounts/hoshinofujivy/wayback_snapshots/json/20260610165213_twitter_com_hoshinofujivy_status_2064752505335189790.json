@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2064734935035023618",
+    "created_at": "2026-06-10T16:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064752505335189790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3302809349",
+          "start": 0,
+          "username": "elpwc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064752505335189790",
+    "in_reply_to_user_id": "3302809349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064750865043648838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elpwc 明白啦\n删除致歉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2064734935035023618",
+        "created_at": "2026-06-10T16:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064752505335189790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3302809349",
+              "start": 0,
+              "username": "elpwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064752505335189790",
+        "in_reply_to_user_id": "3302809349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064750865043648838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elpwc 明白啦\n删除致歉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3302809349",
+        "conversation_id": "2064734935035023618",
+        "created_at": "2026-06-10T16:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064750865043648838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20646…",
+              "end": 58,
+              "expanded_url": "https://x.com/i/status/2064670896774897806",
+              "start": 35,
+              "url": "https://t.co/3gQN0Nz2Lt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064750865043648838",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064670896774897806",
+            "type": "quoted"
+          },
+          {
+            "id": "2064734935035023618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 您好，创作者在推特已经發布过这个内容了\nhttps://t.co/3gQN0Nz2Lt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2064601476480356772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11841,
+          "following_count": 4352,
+          "like_count": 48816,
+          "listed_count": 38,
+          "media_count": 2737,
+          "tweet_count": 15763
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-29T13:31:42.000Z",
+        "description": "雑多垢・旅行と聖地巡礼、趣味で地理/鉄道系サイト開発をやってる就活に迫られる20代・\n語学 / ラブライブ / ゆるキャン△ / ブルアカ ・\nmaimaiDX全国都道府県行脚43/47 / 駅メモ / リプDMお気軽に / ヲタ芸垢→@elpwc_w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 118,
+                "username": "elpwc_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "elpwc.com",
+                "end": 23,
+                "expanded_url": "https://www.elpwc.com/",
+                "start": 0,
+                "url": "https://t.co/ZVaEZZWpzd"
+              }
+            ]
+          }
+        },
+        "id": "3302809349",
+        "location": "?",
+        "name": "うに",
+        "pinned_tweet_id": "1941055887369711859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451875383121379333/l4Lyqu9B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 2022,
+          "like_count": 118568,
+          "listed_count": 9,
+          "media_count": 6274,
+          "tweet_count": 29331
+        },
+        "url": "https://t.co/ZVaEZZWpzd",
+        "username": "elpwc",
+        "verified": false
+      }
+    ]
+  }
+}

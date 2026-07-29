@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1922542093571875080",
+    "created_at": "2025-05-15T11:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T12:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922981733579825242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        },
+        {
+          "end": 27,
+          "id": "1331221058301542400",
+          "start": 13,
+          "username": "hachineko1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922981733579825242",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922981610460156114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping @hachineko1208 還在等（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1922981610460156114].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1922981610460156114",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1922981610460156114"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1922542093571875080",
+        "created_at": "2025-05-15T11:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922981733579825242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            },
+            {
+              "end": 27,
+              "id": "1331221058301542400",
+              "start": 13,
+              "username": "hachineko1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922981733579825242",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922981610460156114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping @hachineko1208 還在等（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "最高領袖的影守护者·星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 2344,
+          "like_count": 18353,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 4383
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "ㄅㄠみ",
+        "id": "1699298317392580608",
+        "location": "offline ",
+        "name": "🗷",
+        "pinned_tweet_id": "1913665546392150405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919683139288629251/pC_UxtN5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 716,
+          "like_count": 62224,
+          "listed_count": 4,
+          "media_count": 3583,
+          "tweet_count": 21079
+        },
+        "username": "bakajinping",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 備用帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "瘋唐小八猫 @北角銀行招財貓 @八通關山友會 🏔️萌寵",
+        "pinned_tweet_id": "1922542093571875080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922976398127300608/QynYvI5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 548,
+          "like_count": 143366,
+          "listed_count": 8,
+          "media_count": 1464,
+          "tweet_count": 7948
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      }
+    ]
+  }
+}

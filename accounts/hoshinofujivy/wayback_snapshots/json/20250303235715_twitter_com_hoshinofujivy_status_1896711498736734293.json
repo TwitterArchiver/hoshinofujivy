@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896646392040550623",
+    "created_at": "2025-03-03T23:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T00:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896711498736734293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896711498736734293",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896646392040550623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 没那么严重吧，顶多是查一下身份证"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28194,
+        "height": 1920,
+        "media_key": "7_1896646076817690624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1896646076817690624/pu/img/cPrGqUaHGyyvVeYs.jpg",
+        "public_metrics": {
+          "view_count": 49606
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896646076817690624/pu/vid/avc1/320x568/y3PyVSKDZR9JvDWh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896646076817690624/pu/vid/avc1/480x852/9j2dGBuswlrJpOuy.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896646076817690624/pu/vid/avc1/720x1280/8l-OQFy_NptTEUZR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1896646076817690624/pu/pl/uCusYeBDY00jPTA2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896646392040550623",
+        "created_at": "2025-03-03T23:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T00:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896711498736734293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896711498736734293",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896646392040550623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 没那么严重吧，顶多是查一下身份证"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896646076817690624"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1896646392040550623",
+        "created_at": "2025-03-03T19:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T20:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896646392040550623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAj5TR4xwA",
+              "end": 99,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1896646392040550623/video/1",
+              "media_key": "7_1896646076817690624",
+              "start": 76,
+              "url": "https://t.co/aAj5TR4xwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896646392040550623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 93522,
+          "like_count": 550,
+          "quote_count": 7,
+          "reply_count": 123,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "北京两会召开在即，乘坐火车进京的旅客需要接受二次安检。山东滕州高铁站，安检员将进京乘客包中的每件物品翻出来仔细检查。乘客称：“我的天哪，怎么这么严重” https://t.co/aAj5TR4xwA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 1868,
+          "like_count": 7353,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2238
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944970,
+          "following_count": 938,
+          "like_count": 5866,
+          "listed_count": 8045,
+          "media_count": 24086,
+          "tweet_count": 30428
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

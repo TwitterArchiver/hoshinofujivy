@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030611141395947520"
+      ],
+      "media_source_tweet_id": [
+        "2030611294253105214"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2030840122154119388",
+    "created_at": "2026-03-09T02:56:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T03:56:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030840122154119388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h0Hs7MWxE1",
+          "end": 47,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2030611294253105214/photo/1",
+          "media_key": "3_2030611141395947520",
+          "start": 24,
+          "url": "https://t.co/h0Hs7MWxE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030840122154119388",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030611294253105214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 羡慕腹地 https://t.co/h0Hs7MWxE1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030840122154119388].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030840122154119388",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030840122154119388"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_2030611141395947520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4uEw_bIAA8B-a.jpg",
+        "width": 1146
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030611141395947520"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2030611294253105214",
+        "created_at": "2026-03-08T11:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T12:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030611294253105214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h0Hs7MWxE1",
+              "end": 28,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2030611294253105214/photo/1",
+              "media_key": "3_2030611141395947520",
+              "start": 5,
+              "url": "https://t.co/h0Hs7MWxE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030611294253105214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 14448,
+          "like_count": 172,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "羡慕腹地 https://t.co/h0Hs7MWxE1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 3839,
+          "like_count": 37596,
+          "listed_count": 17,
+          "media_count": 1059,
+          "tweet_count": 9085
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

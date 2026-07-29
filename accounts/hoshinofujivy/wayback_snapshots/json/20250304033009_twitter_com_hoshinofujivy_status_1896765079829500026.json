@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896730991399727320",
+    "created_at": "2025-03-04T03:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T04:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896765079829500026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679925551228948480",
+          "start": 0,
+          "username": "jellychwing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896765079829500026",
+    "in_reply_to_user_id": "1679925551228948480",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896744999792078993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jellychwing 🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896730991399727320",
+        "created_at": "2025-03-04T03:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896765079829500026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679925551228948480",
+              "start": 0,
+              "username": "jellychwing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896765079829500026",
+        "in_reply_to_user_id": "1679925551228948480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896744999792078993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jellychwing 🤯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679925551228948480",
+        "conversation_id": "1896730991399727320",
+        "created_at": "2025-03-04T02:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T03:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896744999792078993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896744999792078993",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896730991399727320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 俳句（jù）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 1886,
+          "like_count": 7497,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2256
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T18:47:27.000Z",
+        "description": "Are you still pursuing the dream of soaking in formalin : )",
+        "id": "1679925551228948480",
+        "location": "互利西一巷8号",
+        "name": "Jelly🍋",
+        "pinned_tweet_id": "1894680987583533444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777762698773880833/U8nl6gua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 70,
+          "like_count": 995,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 363
+        },
+        "username": "jellychwing",
+        "verified": false
+      }
+    ]
+  }
+}

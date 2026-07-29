@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1987099005176979642",
+    "created_at": "2025-11-08T12:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T13:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987131627034845684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "Freunsigned"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987131627034845684",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987099005176979642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freunsigned 寒蝉啼鸣时"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1666,
+        "media_key": "3_1987098984666804224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5OX_5qasAARV4R.jpg",
+        "width": 2778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1987099005176979642",
+        "created_at": "2025-11-08T12:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987131627034845684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "Freunsigned"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987131627034845684",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987099005176979642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freunsigned 寒蝉啼鸣时"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987098984666804224"
+          ]
+        },
+        "author_id": "1790006276162048000",
+        "conversation_id": "1987099005176979642",
+        "created_at": "2025-11-08T10:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987099005176979642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PscV0m0zgY",
+              "end": 27,
+              "expanded_url": "https://x.com/Freunsigned/status/1987099005176979642/photo/1",
+              "media_key": "3_1987098984666804224",
+              "start": 4,
+              "url": "https://t.co/PscV0m0zgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987099005176979642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没救了 https://t.co/PscV0m0zgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2569,
+          "like_count": 27288,
+          "listed_count": 4,
+          "media_count": 575,
+          "tweet_count": 6177
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "𝕴 𝖌𝖑𝖎𝖒𝖕𝖘𝖊 𝖇𝖚𝖙 𝖆 𝖘𝖍𝖆𝖉𝖔𝖜\n𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 ||  🇺🇸🇨🇦🇯🇵🇸🇬 || 可以叫我小福喵",
+        "id": "1790006276162048000",
+        "location": "浙江",
+        "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝 ⵣ🇭🇰🇲🇴(退役版",
+        "pinned_tweet_id": "1982810466498773301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970079770223505408/Bmyp5Lv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 669,
+          "like_count": 18866,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 3466
+        },
+        "username": "Freunsigned",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2056180435932299366",
+    "created_at": "2026-05-18T03:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T04:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056217351507636572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "43167231",
+          "start": 0,
+          "username": "akaye520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056217351507636572",
+    "in_reply_to_user_id": "43167231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056211189412380757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akaye520 我有体制内的朋友\n因私护照确实要上交"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2056180435932299366",
+        "created_at": "2026-05-18T03:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056217351507636572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "43167231",
+              "start": 0,
+              "username": "akaye520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056217351507636572",
+        "in_reply_to_user_id": "43167231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056211189412380757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akaye520 我有体制内的朋友\n因私护照确实要上交"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "43167231",
+        "conversation_id": "2056180435932299366",
+        "created_at": "2026-05-18T03:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T04:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056211189412380757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056211189412380757",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056180435932299366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 收个毛，因私护照是你自己东西谁敢收？收的是因公护照，你需要公务出差才会给你，出差回来再上交。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10927,
+          "following_count": 4305,
+          "like_count": 46248,
+          "listed_count": 35,
+          "media_count": 2301,
+          "tweet_count": 14040
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-28T18:37:01.000Z",
+        "description": "",
+        "id": "43167231",
+        "location": "Dar es Salaam, Tanzania",
+        "name": "老啖娃儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/720525219845304320/D_91w3yo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 295,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 944
+        },
+        "username": "akaye520",
+        "verified": false
+      }
+    ]
+  }
+}

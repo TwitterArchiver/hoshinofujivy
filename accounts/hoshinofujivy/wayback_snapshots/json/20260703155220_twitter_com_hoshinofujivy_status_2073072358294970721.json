@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2072900692126445913",
+    "created_at": "2026-07-03T15:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073072358294970721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2485906070",
+          "start": 0,
+          "username": "Shioff09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073072358294970721",
+    "in_reply_to_user_id": "2485906070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073003138890510808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioff09 但是在美国生活的成本很高🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2072900692126445913",
+        "created_at": "2026-07-03T15:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073072358294970721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2485906070",
+              "start": 0,
+              "username": "Shioff09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073072358294970721",
+        "in_reply_to_user_id": "2485906070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073003138890510808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioff09 但是在美国生活的成本很高🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2485906070",
+        "conversation_id": "2072900692126445913",
+        "created_at": "2026-07-03T11:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073003138890510808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073003138890510808",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072900692126445913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 不用焦慮，其實藍本護照耶就那樣⋯⋯出去玩省點簽證費。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12416,
+          "following_count": 4388,
+          "like_count": 50061,
+          "listed_count": 38,
+          "media_count": 3077,
+          "tweet_count": 17062
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-09T21:38:55.000Z",
+        "description": "中共人+pinky退散！｜ 台灣獨立 ｜ 負能帳 ｜ 脱脂牛奶🥛",
+        "id": "2485906070",
+        "name": "神奇文鳥💙💛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342934687459766285/I1G6FPBO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 202,
+          "like_count": 2908,
+          "listed_count": 3,
+          "media_count": 510,
+          "tweet_count": 5314
+        },
+        "url": "",
+        "username": "Shioff09",
+        "verified": false
+      }
+    ]
+  }
+}

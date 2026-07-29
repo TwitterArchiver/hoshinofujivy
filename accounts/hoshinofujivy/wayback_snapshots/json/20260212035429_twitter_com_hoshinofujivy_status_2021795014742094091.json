@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2021794560658354457",
+    "created_at": "2026-02-12T03:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T04:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021795014742094091"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021795014742094091",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021794560658354457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无论看多少遍都看不懂你在说什么，还不如屏蔽你.包容你的思想太难了，我做不了君子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2021794560658354457",
+        "created_at": "2026-02-12T03:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021795014742094091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021795014742094091",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021794560658354457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无论看多少遍都看不懂你在说什么，还不如屏蔽你.包容你的思想太难了，我做不了君子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2021794560658354457",
+        "created_at": "2026-02-12T03:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T04:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021794560658354457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiaweishen2568…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/jiaweishen2568/status/1982819554385375369",
+              "start": 20,
+              "url": "https://t.co/WyerMelUCI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021794560658354457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982819554385375369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对啊，钱多脏啊\n把你的钱都给我吧\n大叔 https://t.co/WyerMelUCI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 2972,
+          "like_count": 34349,
+          "listed_count": 4,
+          "media_count": 791,
+          "tweet_count": 7724
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

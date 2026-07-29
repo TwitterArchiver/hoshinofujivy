@@ -1,0 +1,506 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2068605792484504009",
+    "created_at": "2026-06-21T09:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068629679108657338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667798970700283904",
+          "start": 0,
+          "username": "Sokei_ko_nya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 37,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092?s=20",
+          "start": 14,
+          "url": "https://t.co/5sDOFlRtms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068629679108657338",
+    "in_reply_to_user_id": "1667798970700283904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047985434194776092",
+        "type": "quoted"
+      },
+      {
+        "id": "2068617378867597594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sokei_ko_nya https://t.co/5sDOFlRtms我最不信任的就是ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_2047985304733388801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvnyLHakAE-8Kj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2316,
+        "media_key": "3_2047985382529396736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvn2s7bcAAFi3T.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2068605792484504009",
+        "created_at": "2026-06-21T09:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068629679108657338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667798970700283904",
+              "start": 0,
+              "username": "Sokei_ko_nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 37,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092?s=20",
+              "start": 14,
+              "url": "https://t.co/5sDOFlRtms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068629679108657338",
+        "in_reply_to_user_id": "1667798970700283904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047985434194776092",
+            "type": "quoted"
+          },
+          {
+            "id": "2068617378867597594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sokei_ko_nya https://t.co/5sDOFlRtms我最不信任的就是ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047985304733388801",
+            "3_2047985382529396736"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047985434194776092",
+        "created_at": "2026-04-25T10:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047985434194776092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39PjPwUVRc",
+              "end": 163,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092/photo/1",
+              "media_key": "3_2047985304733388801",
+              "start": 140,
+              "url": "https://t.co/39PjPwUVRc"
+            },
+            {
+              "display_url": "pic.x.com/39PjPwUVRc",
+              "end": 163,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092/photo/1",
+              "media_key": "3_2047985382529396736",
+              "start": 140,
+              "url": "https://t.co/39PjPwUVRc"
+            },
+            {
+              "display_url": "x.com/nekoeroemon/st…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/nekoeroemon/status/2047949292896448637",
+              "start": 164,
+              "url": "https://t.co/5KaOqF1asj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047985434194776092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/grok/share/3…",
+                "end": 190,
+                "expanded_url": "https://x.com/i/grok/share/30c97281e66d4a108339a0092edae803",
+                "start": 167,
+                "url": "https://t.co/Hx8pMYv0R9"
+              }
+            ]
+          },
+          "text": "我找到证据后，再次提问grok\n不出意料，grok否定了「照片为假」的答案，根据我的引导，它认为照片为真\n\n这很可笑....也在警示我们，ai再强大也不能把脑子交给它\n\n说是比人类检索能力强，它自己也陷入了信息茧房，因为grok只是机器，它会根据提问者的态度而选取与之相应的信息\n\n最后，我们回顾一下这张梗图\n愿我们不会成为图中的人\nhttps://t.co/Hx8pMYv0R9"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10587,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047949292896448637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我找到证据后，再次提问grok\n不出意料，grok否定了「照片为假」的答案，根据我的引导，它认为照片为真\n\n这很可笑....也在警示我们，ai再强大也不能把脑子交给它\n\n说是比人类检索能力强，它自己也陷入了信息茧房，因为grok只是机器，它会根据提问者的态度而选取与之相应的信息 https://t.co/39PjPwUVRc https://t.co/5KaOqF1asj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667798970700283904",
+        "conversation_id": "2068605792484504009",
+        "created_at": "2026-06-21T08:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T09:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068617378867597594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068617378867597594",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068605792484504009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 你发帖子的时间用来问ai早都知道了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12078,
+          "following_count": 4371,
+          "like_count": 49216,
+          "listed_count": 36,
+          "media_count": 2898,
+          "tweet_count": 16297
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T07:41:25.000Z",
+        "description": "Rhythm Game player / Bilibili & Youtube uploader / mtf🏳️‍⚧️(小证: 26.4.1, hrt: 26.2.25-3.2,已炸柜)/（不建政/No Politics）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/298030824",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/298030824",
+                "start": 0,
+                "url": "https://t.co/8RxAlLpLcF"
+              }
+            ]
+          }
+        },
+        "id": "1667798970700283904",
+        "location": "China mainland",
+        "name": "青石巷子喵~🏳️‍⚧️",
+        "pinned_tweet_id": "2068384399847223560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021597874329661440/a27thIxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1356,
+          "like_count": 77325,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/8RxAlLpLcF",
+        "username": "Sokei_ko_nya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2050873715257430382",
+    "created_at": "2026-05-04T02:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T03:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051127777236307981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1966647400820355073",
+          "start": 0,
+          "username": "xkeplercom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051127777236307981",
+    "in_reply_to_user_id": "1966647400820355073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050883538489381278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xkeplercom 我设置了互关才能私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2050873715257430382",
+        "created_at": "2026-05-04T02:32:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T03:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051127777236307981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1966647400820355073",
+              "start": 0,
+              "username": "xkeplercom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051127777236307981",
+        "in_reply_to_user_id": "1966647400820355073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050883538489381278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xkeplercom 我设置了互关才能私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966647400820355073",
+        "conversation_id": "2050873715257430382",
+        "created_at": "2026-05-03T10:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050883538489381278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050883538489381278",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050873715257430382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 为什么我私信不了你？首页刷不到你了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9862,
+          "following_count": 4272,
+          "like_count": 45047,
+          "listed_count": 34,
+          "media_count": 2068,
+          "tweet_count": 13211
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-12T23:38:21.000Z",
+        "description": "「这世上有绝对的正义与邪恶。正义不容歪曲，邪恶不容辩护」| INFP | 166 | 艺术生 | 业余程序员 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xkepler.com",
+                "end": 23,
+                "expanded_url": "http://xkepler.com",
+                "start": 0,
+                "url": "https://t.co/YV76Hi6tiu"
+              }
+            ]
+          }
+        },
+        "id": "1966647400820355073",
+        "location": "中国",
+        "name": "废星",
+        "pinned_tweet_id": "2050529050511474707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050835549011980288/hoZNPCXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 136,
+          "like_count": 2975,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1585
+        },
+        "url": "https://t.co/YV76Hi6tiu",
+        "username": "xkeplercom",
+        "verified": true
+      }
+    ]
+  }
+}

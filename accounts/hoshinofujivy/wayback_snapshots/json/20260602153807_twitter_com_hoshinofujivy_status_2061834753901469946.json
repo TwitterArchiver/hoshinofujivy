@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2060044223165182395",
+    "created_at": "2026-06-02T15:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061834753901469946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1296696911580209152",
+          "start": 0,
+          "username": "akari_starry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061834753901469946",
+    "in_reply_to_user_id": "1296696911580209152",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061821307692691917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akari_starry 525"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2060044223165182395",
+        "created_at": "2026-06-02T15:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061834753901469946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1296696911580209152",
+              "start": 0,
+              "username": "akari_starry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061834753901469946",
+        "in_reply_to_user_id": "1296696911580209152",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061821307692691917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akari_starry 525"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296696911580209152",
+        "conversation_id": "2060044223165182395",
+        "created_at": "2026-06-02T14:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061821307692691917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061821307692691917",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061276509743317210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 你高考肯定550+吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11619,
+          "following_count": 4331,
+          "like_count": 47854,
+          "listed_count": 39,
+          "media_count": 2590,
+          "tweet_count": 15224
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-21T06:33:46.000Z",
+        "description": "看推回复为主。",
+        "id": "1296696911580209152",
+        "name": "繁星",
+        "pinned_tweet_id": "1947152602145202600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711034761764798464/iKY56nYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 1022,
+          "like_count": 3503,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 5741
+        },
+        "username": "akari_starry",
+        "verified": false
+      }
+    ]
+  }
+}

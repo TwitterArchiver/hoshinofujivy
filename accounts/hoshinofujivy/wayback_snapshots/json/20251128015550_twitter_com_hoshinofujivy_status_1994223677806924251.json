@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1994223677806924251",
+    "created_at": "2025-11-28T01:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T02:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994223677806924251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943341825487499264",
+          "start": 3,
+          "username": "dsxf234161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994223677806924251",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5174
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994118379997941914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dsxf234161: fuck you."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1994223677806924251",
+        "created_at": "2025-11-28T01:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T02:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994223677806924251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943341825487499264",
+              "start": 3,
+              "username": "dsxf234161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994223677806924251",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994118379997941914",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dsxf234161: fuck you."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943341825487499264",
+        "conversation_id": "1994118379997941914",
+        "created_at": "2025-11-27T18:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T19:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994118379997941914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BluebriarArts/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BluebriarArts/status/1795230248784601408",
+              "start": 10,
+              "url": "https://t.co/I7Qo2x52X6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994118379997941914",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1487,
+          "impression_count": 1448030,
+          "like_count": 60332,
+          "quote_count": 93,
+          "reply_count": 234,
+          "retweet_count": 5174
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795230248784601408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fuck you. https://t.co/I7Qo2x52X6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_ @vicoOci_olvidar|日本語學習者｜世界和平萬歲｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "vicoOci_olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 2625,
+          "like_count": 28836,
+          "listed_count": 4,
+          "media_count": 610,
+          "tweet_count": 6463
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T16:09:44.000Z",
+        "description": "pfp: @DinoPiss , banner: @kidneyyybeans",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "DinoPiss"
+              },
+              {
+                "end": 39,
+                "start": 25,
+                "username": "kidneyyybeans"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/gimmicks",
+                "end": 23,
+                "expanded_url": "http://discord.gg/gimmicks",
+                "start": 0,
+                "url": "https://t.co/AClRmGMukz"
+              }
+            ]
+          }
+        },
+        "id": "1943341825487499264",
+        "name": "weather",
+        "pinned_tweet_id": "1991214650680127929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981999709511192576/73FTJgUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34270,
+          "following_count": 190,
+          "like_count": 6216,
+          "listed_count": 17,
+          "media_count": 310,
+          "tweet_count": 2660
+        },
+        "url": "https://t.co/AClRmGMukz",
+        "username": "dsxf234161",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022105972660146176"
+      ],
+      "media_source_tweet_id": [
+        "2022289654024695972"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2022571960161722462",
+    "created_at": "2026-02-14T07:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T08:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022571960161722462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1652145307604459521",
+          "start": 3,
+          "username": "Minoru_Trix"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oEgz2Np84N",
+          "end": 61,
+          "expanded_url": "https://x.com/Minoru_Trix/status/2022289654024695972/video/1",
+          "media_key": "13_2022105972660146176",
+          "start": 38,
+          "url": "https://t.co/oEgz2Np84N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022571960161722462",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022289654024695972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minoru_Trix: Viernes de Frieren 🍵 https://t.co/oEgz2Np84N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11050,
+        "height": 720,
+        "media_key": "13_2022105972660146176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022105972660146176/img/jCGFqtur-jE6xv9X.jpg",
+        "public_metrics": {
+          "view_count": 55883
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022105972660146176/vid/avc1/314x270/5HtXqYzISqePjwLx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022105972660146176/vid/avc1/420x360/u46zLD_OSoBvwkaK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022105972660146176/vid/avc1/842x720/TfbfulBSSBrlafYF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022105972660146176/pl/XWsoztLyBcelZn76.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022105972660146176"
+          ],
+          "media_source_tweet_id": [
+            "2022289654024695972"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2022571960161722462",
+        "created_at": "2026-02-14T07:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022571960161722462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1652145307604459521",
+              "start": 3,
+              "username": "Minoru_Trix"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEgz2Np84N",
+              "end": 61,
+              "expanded_url": "https://x.com/Minoru_Trix/status/2022289654024695972/video/1",
+              "media_key": "13_2022105972660146176",
+              "start": 38,
+              "url": "https://t.co/oEgz2Np84N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022571960161722462",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022289654024695972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minoru_Trix: Viernes de Frieren 🍵 https://t.co/oEgz2Np84N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022105972660146176"
+          ]
+        },
+        "author_id": "1652145307604459521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2022289654024695972",
+        "created_at": "2026-02-13T12:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022289654024695972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEgz2Np84N",
+              "end": 44,
+              "expanded_url": "https://x.com/Minoru_Trix/status/2022289654024695972/video/1",
+              "media_key": "13_2022105972660146176",
+              "start": 21,
+              "url": "https://t.co/oEgz2Np84N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022289654024695972",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 168956,
+          "like_count": 8707,
+          "quote_count": 26,
+          "reply_count": 33,
+          "retweet_count": 1154
+        },
+        "reply_settings": "everyone",
+        "text": "Viernes de Frieren 🍵 https://t.co/oEgz2Np84N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 2986,
+          "like_count": 34569,
+          "listed_count": 4,
+          "media_count": 802,
+          "tweet_count": 7799
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-29T02:58:45.000Z",
+        "description": "Anime🎆 | Manga📔 | Novelas Ligeras📖\nSubo memes que me encuentro por ahí \nLector de 𝐊𝐚𝐨𝐫𝐮 𝐇𝐚𝐧a 🌟\nMeta: 30k Seguidores\nALT:@Minoru_Trixx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minoru_Trixx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minorutrix",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minorutrix",
+                "start": 0,
+                "url": "https://t.co/F1VorkD7yD"
+              }
+            ]
+          }
+        },
+        "id": "1652145307604459521",
+        "location": "Familia Fujiwara (He/They)",
+        "name": "𝙈𝙞𝙣𝙤𝙧𝙪 ☕🍩",
+        "pinned_tweet_id": "2019048300264190215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006897630530482176/pQIuFbE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29598,
+          "following_count": 2432,
+          "like_count": 9698,
+          "listed_count": 33,
+          "media_count": 2795,
+          "tweet_count": 4259
+        },
+        "url": "https://t.co/F1VorkD7yD",
+        "username": "Minoru_Trix",
+        "verified": false
+      }
+    ]
+  }
+}

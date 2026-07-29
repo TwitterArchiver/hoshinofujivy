@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2056170595625410666",
+    "created_at": "2026-05-18T01:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056186049320325518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "41188622",
+          "start": 0,
+          "username": "TheSoil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056186049320325518",
+    "in_reply_to_user_id": "41188622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056179108036718992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheSoil 孩子上小学，心理咨询承担不起，无社会福利"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2056170595625410666",
+        "created_at": "2026-05-18T01:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056186049320325518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "41188622",
+              "start": 0,
+              "username": "TheSoil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056186049320325518",
+        "in_reply_to_user_id": "41188622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056179108036718992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSoil 孩子上小学，心理咨询承担不起，无社会福利"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "41188622",
+        "conversation_id": "2056170595625410666",
+        "created_at": "2026-05-18T01:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056179108036718992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056179108036718992",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056170595625410666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 孩子什麼年齡階段？心理諮詢條件如何？社會福利如何？…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10924,
+          "following_count": 4306,
+          "like_count": 46241,
+          "listed_count": 35,
+          "media_count": 2299,
+          "tweet_count": 14031
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-19T19:29:15.000Z",
+        "description": "生於三年自然災害長在十年文革大亂的上海，在任何痛苦情況下拒絕悲觀. 西方哲學和法律背景. 深度讀書+古典音樂，轉平凡經驗為深刻的時光. 樂與文明推友交流互動. 對於不禮貌的不爭論只拉黑.",
+        "id": "41188622",
+        "location": "British Columbia, Canada",
+        "name": "Yixi🇨🇦🍁",
+        "pinned_tweet_id": "2055365905195094496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030720813805219840/BJdp2Zor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 815,
+          "like_count": 36468,
+          "listed_count": 22,
+          "media_count": 1653,
+          "tweet_count": 24458
+        },
+        "username": "TheSoil",
+        "verified": false
+      }
+    ]
+  }
+}

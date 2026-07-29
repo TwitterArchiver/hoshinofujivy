@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2033833611854741892",
+    "created_at": "2026-03-17T15:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033927510631846093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1360041072680783875",
+          "start": 0,
+          "username": "eveyino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033927510631846093",
+    "in_reply_to_user_id": "1360041072680783875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033927001623687395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eveyino 嗯\n所以我辞职了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2033833611854741892",
+        "created_at": "2026-03-17T15:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033927510631846093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1360041072680783875",
+              "start": 0,
+              "username": "eveyino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033927510631846093",
+        "in_reply_to_user_id": "1360041072680783875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033927001623687395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eveyino 嗯\n所以我辞职了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360041072680783875",
+        "conversation_id": "2033833611854741892",
+        "created_at": "2026-03-17T15:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033927001623687395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033927001623687395",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033833611854741892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 实事求是地讲，你这种脑子就不该从事食品行业。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6633,
+          "following_count": 3862,
+          "like_count": 39132,
+          "listed_count": 18,
+          "media_count": 1199,
+          "tweet_count": 9699
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-12T01:40:55.000Z",
+        "description": "PhD🇨🇳🇯🇵🇳🇿 Angel Investor w/ 異ノバブル針💸 Alpha Caller @TheApeList_ 🔔 Bitcoiner/Trader Extraordinaire📈 Trilingual moon vibes 🚀 用泡泡针刺破谬误的泡泡。逻辑|生活|旅行|电影|游戏|投资",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "TheApeList_"
+              }
+            ]
+          }
+        },
+        "id": "1360041072680783875",
+        "location": "NGC 2419",
+        "name": "Eve 异野夕 w/ 异の泡泡针",
+        "pinned_tweet_id": "2029420361306259658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023238325885415424/BLb7D1XS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29109,
+          "following_count": 3617,
+          "like_count": 2638,
+          "listed_count": 95,
+          "media_count": 642,
+          "tweet_count": 17835
+        },
+        "username": "eveyino",
+        "verified": true
+      }
+    ]
+  }
+}

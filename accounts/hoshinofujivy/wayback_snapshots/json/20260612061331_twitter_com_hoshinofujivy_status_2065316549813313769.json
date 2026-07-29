@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2065280108576055422",
+    "created_at": "2026-06-12T06:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065316549813313769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2548490508",
+          "start": 0,
+          "username": "xaxuez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065316549813313769",
+    "in_reply_to_user_id": "2548490508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065299025843360220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xaxuez 真羡慕你那么幸运"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2065280108576055422",
+        "created_at": "2026-06-12T06:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065316549813313769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2548490508",
+              "start": 0,
+              "username": "xaxuez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065316549813313769",
+        "in_reply_to_user_id": "2548490508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065299025843360220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xaxuez 真羡慕你那么幸运"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2548490508",
+        "conversation_id": "2065280108576055422",
+        "created_at": "2026-06-12T05:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065299025843360220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065299025843360220",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065280108576055422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 你用一个中国学生给代替了。我的高中，硬件条件可能不算很好，但学校尽可能提供了一个自由主义的环境，就这么被人一个地图炮给覆盖掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11924,
+          "following_count": 4356,
+          "like_count": 48912,
+          "listed_count": 37,
+          "media_count": 2762,
+          "tweet_count": 15860
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-05T17:44:07.000Z",
+        "description": "是个喜欢とある系列的肥宅",
+        "id": "2548490508",
+        "location": "楚",
+        "name": "Xaxuez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706516181631500288/UR_PiRjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 563,
+          "like_count": 6037,
+          "listed_count": 9,
+          "media_count": 46,
+          "tweet_count": 2460
+        },
+        "username": "xaxuez",
+        "verified": false
+      }
+    ]
+  }
+}

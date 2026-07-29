@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2073998586120163696",
+    "created_at": "2026-07-06T05:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074000539449446715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2068651148383555584",
+          "start": 0,
+          "username": "LunieJukenor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074000539449446715",
+    "in_reply_to_user_id": "2068651148383555584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073998586120163696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LunieJukenor 啊？？？学过心理学的表姐居然这么没同理心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "16_2073998564502786048",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMhStLXb0AAJSwd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMhStLXb0AAJSwd.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2073998586120163696",
+        "created_at": "2026-07-06T05:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074000539449446715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2068651148383555584",
+              "start": 0,
+              "username": "LunieJukenor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074000539449446715",
+        "in_reply_to_user_id": "2068651148383555584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073998586120163696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunieJukenor 啊？？？学过心理学的表姐居然这么没同理心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073998564502786048"
+          ]
+        },
+        "author_id": "2068651148383555584",
+        "conversation_id": "2073998586120163696",
+        "created_at": "2026-07-06T05:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073998586120163696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKvj94I6sM",
+              "end": 162,
+              "expanded_url": "https://x.com/LunieJukenor/status/2073998586120163696/photo/1",
+              "media_key": "16_2073998564502786048",
+              "start": 139,
+              "url": "https://t.co/JKvj94I6sM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073998586120163696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "陌生人，你願意聽聽我這個殘疾人的苦衷嗎？\n我叫牧野，出生在西南大地，祖籍卻遠在華東。在外公身旁，我度過了生命中最開心、最純真的四年。那段時光彷彿永恆的陽光，灑滿了溫暖與笑聲。我曾天真地以為幸福可以一直延續，卻不知命運早已在暗處悄然將我的軌道扭轉，帶我走向漫長而孤獨的荊棘之路。\n我天生視神經壞死，病情嚴重，醫學上幾乎沒有痊癒的可能。父親為了我，帶著我輾轉北京協和醫院與武警醫院等各大醫院，耗盡心力，卻始終一無所獲。醫生冷冷地扔下一句話：「好好保養，早晚會瞎。」\n那一刻，家裡的氣氛徹底變了。我從此被視為累贅，事事做不好，反應遲緩，只能靠聽力勉強辨識這個世界。效率低下得令人絕望，我卻無力改變。這就是無法更改的殘酷現實。表姐劉，一九九八年出生，畢業於南京師範大學應用心理學，現於上海祝家港一帶從事補課教學。她心機深沉，手段毒辣，毫無半點同情。在幼稚園畫畫時，我單純喜歡黑色，便把人物衣服塗黑，她卻嘲笑我是「黑砒霜」。姑姑身材豐滿，她私下叫「大肥豬」。為了推卸責任，她們竟把一切都誣指成是我說的，讓我無辜 背上「白眼狼、白膽豬」的惡名。那種被親人出賣的痛，至今仍像針一樣扎在心裡。自幼不擅言辭，我長期成為欺凌的對象。\n從小學到初中、高中，我始終是班上的差生。父親嚴厲批評我的愚鈍，說我永遠跟不上別人的步伐。他遇事只教「看結構、分析原理」，彷彿世間萬物在他眼中都簡單明瞭。他畢業於重慶大學這所九八五名校，成就斐然，而我卻成了家裡無用的廢物。幾乎每天遭受打罵，被強迫向前，卻最終一事無成。那種被親生父親視為失敗者的感覺，壓得我幾乎喘不過氣。高中時，痛苦達到了頂點。人人渴求高分與榮譽，我卻因動作遲緩、反應慢半拍而遭受歧視。班主任付艷脾氣急躁，軍訓第一天便因我腰帶繫慢，對我大吼大叫。同學張代渝、歐陽成怡為我取了極其惡劣的外號「鍋皮」。每當這些聲音響起，我的心便像被撕裂一樣疼痛。高一壓力沉重，新知識如潮水般湧來。我自知難以抗衡，但憑著初中基礎勉強應付，勉強獲得一點尊重。也有女生向我請教問題。在與穆的交往中，我萌生了青澀的情愫。她得到我的解答後，竟拿走我的表白信，添油加醋地控告我猥褻、流氓。全班的眼神瞬間變得異樣，她轉頭便與新來的數學學霸好上。那一刻，我徹底明白，根源皆因我是殘疾人——視力衰退、腦筋遲鈍、反應不及他人。我一心助人，卻始終無法把事做好。在那些自視高人一等的眼中，殘缺者毫無人權，如同蟲蟻可任意踐踏。高二新冠疫情期間，我渴望成為志願者，喜歡走在最前幫助他人。班主任卻看都不看一眼，斷言我幹不了，哪怕是最簡單的任務。或許我真的就是這樣。\n我努力擦黑板，卻分不清黑灰，被同學恥笑為瞎子，他們更故意掀翻我的桌椅，欺凌接踵而來。學校荒誕至極：一位老師竟不知印度洋戰爭為何物，卻站在講台上批評我「有待考證」；我想與同學一同清理垃圾，卻遭無情拒絕。如此校園，真不愧「支那豬」之名。另一件痛心的事：我好不容易找到一本用來證明自己學習的書籍，卻經歷了從小被嫌棄到大的無數酸楚。童年至今的唯一機會，為何要拱手讓給欺凌我的人？憑什麼？我的努力難道不需要代價？我一步步爬上來，難道不累嗎？結果，教師帶頭，全班影印盜版書籍，完全無視版權，赤裸裸展現貪婪。這果然是「滯納豬」才有的素質。高中時，我努力拼搏數理化，最後補習生物，因為它計算較少、易於理解。生物老師許亞（中共學校團委書記）卻不看好我，認為我瞧不起她。我知道自己落後甚多，需要時間補救，她卻處處刁難。我咳嗽劇烈，扯下口罩，她指責我殺死全班同學；肚子不適，每早需要上廁所，她與付艷都阻攔不許，害得我日日嘔吐，痛苦不堪。回想最純真的年紀，我多麼渴望成為共青團員。那是我的夢想，樂於奉獻，勇於犧牲。入團名單卻暗中內定，我的努力全因自身條件化為烏有。共青團在這裡竟姓許。我始終不解，為何共青團人可肆意踐踏他人尊嚴。在他們眼中，一切以發展為先，阻礙者皆是垃圾，不值一提，一腳踩死也無所謂。於是我盡力而為，卻失去愛情、學業、朋友，甚至失去自己。然而，為何欺凌我的張代渝，竟能以共黨人身份強行與韓至桐在小黑屋厮混，卻順利考上警察大學？為何他們能輕易找到父親的微信，肆意挑撥我們的父子關係？為何？這些不公，像無形的枷鎖，壓在我殘疾的身體上，也壓在我的靈魂深處。我只是想好好活著，卻一次次被世界推向更深的黑暗。陌生人，謝謝你願意聽完我的故事。這些話，我終於敢完整說出"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "陌生人，你願意聽聽我這個殘疾人的苦衷嗎？\n我叫牧野，出生在西南大地，祖籍卻遠在華東。在外公身旁，我度過了生命中最開心、最純真的四年。那段時光彷彿永恆的陽光，灑滿了溫暖與笑聲。我曾天真地以為幸福可以一直延續，卻不知命運早已在暗處悄然將我的軌道扭轉，帶我走向漫長而孤獨的荊棘之路。 https://t.co/JKvj94I6sM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12460,
+          "following_count": 4391,
+          "like_count": 50355,
+          "listed_count": 38,
+          "media_count": 3120,
+          "tweet_count": 17213
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-21T11:05:08.000Z",
+        "description": "Coming from Singapore.And I wish all of you can be yourself honestly.",
+        "id": "2068651148383555584",
+        "location": "North Region, Singapore",
+        "name": "牧野のみず",
+        "pinned_tweet_id": "2073998586120163696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073927110570520576/V8fLqLqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 21,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "LunieJukenor",
+        "verified": true
+      }
+    ]
+  }
+}

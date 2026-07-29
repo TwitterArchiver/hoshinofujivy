@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Steak",
+          "id": "825065204106948608",
+          "name": "Steak"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Steak",
+          "id": "825065204106948608",
+          "name": "Steak"
+        }
+      }
+    ],
+    "conversation_id": "2030961665261609367",
+    "created_at": "2026-03-09T10:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T11:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030961665261609367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dokuneee/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/dokuneee/status/2030921006458765359",
+          "start": 3,
+          "url": "https://t.co/q45meeJUcF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030961665261609367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030921006458765359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好饿 https://t.co/q45meeJUcF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2030921000922333184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9H49rbQAABbeF.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          }
+        ],
+        "conversation_id": "2030961665261609367",
+        "created_at": "2026-03-09T10:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030961665261609367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dokuneee/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/dokuneee/status/2030921006458765359",
+              "start": 3,
+              "url": "https://t.co/q45meeJUcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030961665261609367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030921006458765359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好饿 https://t.co/q45meeJUcF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030921000922333184"
+          ]
+        },
+        "author_id": "1149342259998937089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Steak",
+              "id": "825065204106948608",
+              "name": "Steak"
+            }
+          }
+        ],
+        "conversation_id": "2030921006458765359",
+        "created_at": "2026-03-09T08:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030921006458765359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTNN6jujtJ",
+              "end": 46,
+              "expanded_url": "https://x.com/dokuneee/status/2030921006458765359/photo/1",
+              "media_key": "3_2030921000922333184",
+              "start": 23,
+              "url": "https://t.co/TTNN6jujtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030921006458765359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 412353,
+          "like_count": 2502,
+          "quote_count": 644,
+          "reply_count": 1134,
+          "retweet_count": 247
+        },
+        "reply_settings": "everyone",
+        "text": "ステーキの焼き加減はどの程度をお好みですか？ https://t.co/TTNN6jujtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6010,
+          "following_count": 3837,
+          "like_count": 37602,
+          "listed_count": 17,
+          "media_count": 1064,
+          "tweet_count": 9096
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-11T15:38:43.000Z",
+        "description": "【夜も恋も、男を虜に】「都合のいい女」から「忘れられない女」へ（※旧『女の本音』）",
+        "id": "1149342259998937089",
+        "name": "どく姉",
+        "pinned_tweet_id": "1945770451197649348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910325538033737729/1Yq9nQIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53677,
+          "following_count": 2682,
+          "like_count": 35355,
+          "listed_count": 96,
+          "media_count": 3476,
+          "tweet_count": 29423
+        },
+        "username": "dokuneee",
+        "verified": true
+      }
+    ]
+  }
+}

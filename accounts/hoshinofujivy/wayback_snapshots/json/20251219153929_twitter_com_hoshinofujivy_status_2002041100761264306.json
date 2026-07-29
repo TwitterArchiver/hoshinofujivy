@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001685824795283456"
+      ],
+      "media_source_tweet_id": [
+        "2001685862590140545"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1537182142450372608",
+          "name": "AI image generation"
+        }
+      }
+    ],
+    "conversation_id": "2002041100761264306",
+    "created_at": "2025-12-19T15:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002041100761264306"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "世界地図帳",
+          "probability": 0.6842,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "AIイラスト"
+        },
+        {
+          "end": 48,
+          "start": 42,
+          "tag": "AIart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "226219855",
+          "start": 3,
+          "username": "yomikakiyomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXEbjLG6Og",
+          "end": 72,
+          "expanded_url": "https://x.com/yomikakiyomi/status/2001685862590140545/photo/1",
+          "media_key": "3_2001685824795283456",
+          "start": 49,
+          "url": "https://t.co/wXEbjLG6Og"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002041100761264306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001685862590140545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yomikakiyomi: 旅の軌跡\nテーマ「世界地図帳」\n#AIイラスト #AIart https://t.co/wXEbjLG6Og"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2001685824795283456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dqpvrbkAA9ssN.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001685824795283456"
+          ],
+          "media_source_tweet_id": [
+            "2001685862590140545"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2002041100761264306",
+        "created_at": "2025-12-19T15:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002041100761264306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "世界地図帳",
+              "probability": 0.6842,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "AIart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "226219855",
+              "start": 3,
+              "username": "yomikakiyomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXEbjLG6Og",
+              "end": 72,
+              "expanded_url": "https://x.com/yomikakiyomi/status/2001685862590140545/photo/1",
+              "media_key": "3_2001685824795283456",
+              "start": 49,
+              "url": "https://t.co/wXEbjLG6Og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002041100761264306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001685862590140545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yomikakiyomi: 旅の軌跡\nテーマ「世界地図帳」\n#AIイラスト #AIart https://t.co/wXEbjLG6Og"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001685824795283456"
+          ]
+        },
+        "author_id": "226219855",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "2001685862590140545",
+        "created_at": "2025-12-18T16:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T17:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001685862590140545"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "世界地図帳",
+              "probability": 0.7608,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "AIイラスト"
+            },
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "AIart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXEbjLG6Og",
+              "end": 54,
+              "expanded_url": "https://x.com/yomikakiyomi/status/2001685862590140545/photo/1",
+              "media_key": "3_2001685824795283456",
+              "start": 31,
+              "url": "https://t.co/wXEbjLG6Og"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001685862590140545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 9202,
+          "like_count": 847,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "旅の軌跡\nテーマ「世界地図帳」\n#AIイラスト #AIart https://t.co/wXEbjLG6Og"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子家",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 2764,
+          "like_count": 31489,
+          "listed_count": 4,
+          "media_count": 675,
+          "tweet_count": 6974
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2010-12-13T16:42:08.000Z",
+        "description": "#AIイラスト AI生成が楽しいです。 加筆、下書きありで色々工夫しています。 無言フォロー・リポスト失礼します。 コメント苦手なので応答は最小限になります。 無断転載、出会い系、投資、NFTはお断り。\nPatreon➡️ https://t.co/daeU2pxIWE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "AIイラスト"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/cw/yomikakiyomi",
+                "end": 135,
+                "expanded_url": "https://www.patreon.com/cw/yomikakiyomi",
+                "start": 112,
+                "url": "https://t.co/daeU2pxIWE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/2699967",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/2699967",
+                "start": 0,
+                "url": "https://t.co/XxCJs9pY0N"
+              }
+            ]
+          }
+        },
+        "id": "226219855",
+        "location": "gifu.japan",
+        "name": "よ〜みん",
+        "pinned_tweet_id": "2001885114696110269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843322953112625152/dHBdYV2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8775,
+          "following_count": 2649,
+          "like_count": 121208,
+          "listed_count": 84,
+          "media_count": 1843,
+          "tweet_count": 58302
+        },
+        "url": "https://t.co/XxCJs9pY0N",
+        "username": "yomikakiyomi",
+        "verified": true
+      }
+    ]
+  }
+}

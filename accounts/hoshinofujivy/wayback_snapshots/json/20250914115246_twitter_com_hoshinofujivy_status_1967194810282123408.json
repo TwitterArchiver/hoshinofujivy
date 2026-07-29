@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1967194810282123408",
+    "created_at": "2025-09-14T11:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967194810282123408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683060453528965120",
+          "start": 3,
+          "username": "NationalPureVF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967194810282123408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967194366759567657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NationalPureVF4: 睡門偉大🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1967194810282123408",
+        "created_at": "2025-09-14T11:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967194810282123408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1683060453528965120",
+              "start": 3,
+              "username": "NationalPureVF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967194810282123408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967194366759567657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NationalPureVF4: 睡門偉大🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683060453528965120",
+        "conversation_id": "1967194366759567657",
+        "created_at": "2025-09-14T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967194366759567657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HotmailfromSH/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/HotmailfromSH/status/1966857405729583396",
+              "start": 6,
+              "url": "https://t.co/y7H5vysLdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967194366759567657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966857405729583396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡門偉大🙏 https://t.co/y7H5vysLdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @huahuojiang_ @k1_6r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "username": "k1_6r"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1915635148323995880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 2487,
+          "like_count": 24613,
+          "listed_count": 6,
+          "media_count": 508,
+          "tweet_count": 5720
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "過氣的中推圈偶像-織田真理子，織田集團的大小姐，德意志第四帝國元首，別稱：真理子/軟糯真理醬/元首/Veritatis/薇蕾娜•奧登•馮•萊因哈特\n 裏帳@vnationvendetta \n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu  @_Weace_ @realpresidenTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 143,
+                "start": 135,
+                "username": "_Weace_"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "realpresidenTy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "羽丘女子學園",
+        "name": "魅魔元首醬-薇蕾娜•馮•萊因哈特",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966771067063857153/w21lRqFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1659,
+          "following_count": 1086,
+          "like_count": 65386,
+          "listed_count": 17,
+          "media_count": 1072,
+          "tweet_count": 29060
+        },
+        "username": "NationalPureVF4",
+        "verified": false
+      }
+    ]
+  }
+}

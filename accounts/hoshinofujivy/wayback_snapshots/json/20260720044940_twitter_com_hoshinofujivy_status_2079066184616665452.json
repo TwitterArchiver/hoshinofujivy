@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2079065397912117642",
+    "created_at": "2026-07-20T04:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079066184616665452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satoricry2/sta…",
+          "end": 34,
+          "expanded_url": "https://x.com/satoricry2/status/2068168388036456548?s=20",
+          "start": 11,
+          "url": "https://t.co/u58SoY9wbC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079066184616665452",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068168388036456548",
+        "type": "quoted"
+      },
+      {
+        "id": "2079065397912117642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原帖在这里，我只是汉化https://t.co/u58SoY9wbC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2636,
+        "media_key": "3_2068168181974491136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOcAP5a4AA6TPh.jpg",
+        "width": 1871
+      },
+      {
+        "height": 1628,
+        "media_key": "3_2079065359567761408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpS7d3bMAAm585.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2079065397912117642",
+        "created_at": "2026-07-20T04:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079066184616665452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satoricry2/sta…",
+              "end": 34,
+              "expanded_url": "https://x.com/satoricry2/status/2068168388036456548?s=20",
+              "start": 11,
+              "url": "https://t.co/u58SoY9wbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079066184616665452",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068168388036456548",
+            "type": "quoted"
+          },
+          {
+            "id": "2079065397912117642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原帖在这里，我只是汉化https://t.co/u58SoY9wbC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068168181974491136"
+          ]
+        },
+        "author_id": "2042836722820747266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2068168388036456548",
+        "created_at": "2026-06-20T03:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T04:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068168388036456548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2uLBonioQ",
+              "end": 39,
+              "expanded_url": "https://x.com/satoricry2/status/2068168388036456548/photo/1",
+              "media_key": "3_2068168181974491136",
+              "start": 16,
+              "url": "https://t.co/L2uLBonioQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068168388036456548",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16569,
+          "impression_count": 1980917,
+          "like_count": 80699,
+          "quote_count": 166,
+          "reply_count": 166,
+          "retweet_count": 5176
+        },
+        "reply_settings": "everyone",
+        "text": "真の強者がギャルに敗北する漫画 https://t.co/L2uLBonioQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079065359567761408"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2079065397912117642",
+        "created_at": "2026-07-20T04:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079065397912117642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzmq0MW8tl",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2079065397912117642/photo/1",
+              "media_key": "3_2079065359567761408",
+              "start": 8,
+              "url": "https://t.co/dzmq0MW8tl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079065397912117642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强者败给了辣妹 https://t.co/dzmq0MW8tl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12970,
+          "following_count": 4398,
+          "like_count": 51719,
+          "listed_count": 23,
+          "media_count": 3386,
+          "tweet_count": 18125
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T05:28:17.000Z",
+        "description": "アホな漫画描いてます！よろしくお願いします！\nメイン→@satoricry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "satoricry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70563248",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70563248",
+                "start": 0,
+                "url": "https://t.co/gtRwD98EVl"
+              }
+            ]
+          }
+        },
+        "id": "2042836722820747266",
+        "location": "日本",
+        "name": "暗井さとり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042837326834077700/__8PKsBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14325,
+          "following_count": 0,
+          "like_count": 63,
+          "listed_count": 59,
+          "media_count": 17,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/gtRwD98EVl",
+        "username": "satoricry2",
+        "verified": true
+      }
+    ]
+  }
+}

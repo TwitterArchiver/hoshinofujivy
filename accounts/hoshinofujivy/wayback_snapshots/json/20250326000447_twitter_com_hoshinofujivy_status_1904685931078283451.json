@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1904685931078283451",
+    "created_at": "2025-03-26T00:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T01:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904685931078283451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2497458150",
+          "start": 3,
+          "username": "fuckeveryword"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904685931078283451",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23495
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904305221783986455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuckeveryword: fuck you"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1904685931078283451",
+        "created_at": "2025-03-26T00:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T01:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904685931078283451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2497458150",
+              "start": 3,
+              "username": "fuckeveryword"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904685931078283451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23495
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904305221783986455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuckeveryword: fuck you"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2497458150",
+        "conversation_id": "1904305221783986455",
+        "created_at": "2025-03-24T22:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T23:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904305221783986455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904305221783986455",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6945,
+          "impression_count": 5946277,
+          "like_count": 175073,
+          "quote_count": 1894,
+          "reply_count": 1894,
+          "retweet_count": 23495
+        },
+        "reply_settings": "everyone",
+        "text": "fuck you"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野藤（真理子翼骑兵团团长）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903466341862088704/Hsuu7fb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 2135,
+          "like_count": 11727,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 3322
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-16T01:03:46.000Z",
+        "description": "Fuck every word in the English language. Expected completion in 2025.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckeveryword.com",
+                "end": 23,
+                "expanded_url": "http://fuckeveryword.com",
+                "start": 0,
+                "url": "https://t.co/kBl8iddaVS"
+              }
+            ]
+          }
+        },
+        "id": "2497458150",
+        "name": "fuck every word",
+        "pinned_tweet_id": "1904305221783986455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477304353460477954/22GX6xG6_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126024,
+          "following_count": 9,
+          "like_count": 4178,
+          "listed_count": 417,
+          "media_count": 1,
+          "tweet_count": 93534
+        },
+        "url": "https://t.co/kBl8iddaVS",
+        "username": "fuckeveryword",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2060570938559942884",
+    "created_at": "2026-05-30T04:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060586349858889809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1342802361605971969",
+          "start": 0,
+          "username": "MadreperlaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060586349858889809",
+    "in_reply_to_user_id": "1342802361605971969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060571808542441828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MadreperlaB 我的行程也很紧\n有时间的话可以约"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2060570938559942884",
+        "created_at": "2026-05-30T04:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060586349858889809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1342802361605971969",
+              "start": 0,
+              "username": "MadreperlaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060586349858889809",
+        "in_reply_to_user_id": "1342802361605971969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060571808542441828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MadreperlaB 我的行程也很紧\n有时间的话可以约"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342802361605971969",
+        "conversation_id": "2060570938559942884",
+        "created_at": "2026-05-30T03:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060571808542441828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060571808542441828",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060570938559942884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 希望碰不到吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11568,
+          "following_count": 4323,
+          "like_count": 47106,
+          "listed_count": 39,
+          "media_count": 2483,
+          "tweet_count": 14847
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-26T12:00:12.000Z",
+        "description": "予備の垢です\nまだ闇の発言\n反事は無い\n\nメインはこちら\n@alpi_bianco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "alpi_bianco"
+              }
+            ]
+          }
+        },
+        "id": "1342802361605971969",
+        "name": "Madreperla_bianco",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342867190970609664/w7QLCEs3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 450,
+          "like_count": 8604,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 832
+        },
+        "username": "MadreperlaB",
+        "verified": false
+      }
+    ]
+  }
+}

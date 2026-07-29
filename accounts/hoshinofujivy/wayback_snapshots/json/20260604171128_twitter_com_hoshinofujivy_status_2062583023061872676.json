@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062578180163338436",
+    "created_at": "2026-06-04T17:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062583023061872676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "40851097",
+          "start": 0,
+          "username": "skd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062583023061872676",
+    "in_reply_to_user_id": "40851097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062578180163338436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skd7 打错字了，店家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062578180163338436",
+        "created_at": "2026-06-04T17:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062583023061872676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "40851097",
+              "start": 0,
+              "username": "skd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062583023061872676",
+        "in_reply_to_user_id": "40851097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062578180163338436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skd7 打错字了，店家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "40851097",
+        "conversation_id": "2062578180163338436",
+        "created_at": "2026-06-04T16:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062578180163338436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2062573228175008038",
+              "start": 12,
+              "url": "https://t.co/0GyaYYydJb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062578180163338436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062573228175008038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "どこのコンビニだろう？ https://t.co/0GyaYYydJb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11659,
+          "following_count": 4339,
+          "like_count": 48270,
+          "listed_count": 38,
+          "media_count": 2651,
+          "tweet_count": 15399
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-18T10:46:57.000Z",
+        "description": "多様性のあるメイド喫茶と秋葉原とオタクその周辺文化を盛り上げたい。谷根千、渋谷（原宿&表参道含）、北海道（胆振・日高）、web、競馬、ダイエット、人権ネタ、街づくり等。コンセプトカフェに言及するメディア、団体監視。政治家やメディア関係者など秋葉原を基本的に無料で案内します。事実と公益性大事。https://t.co/fUUAwgrQ37",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/skd7",
+                "end": 169,
+                "expanded_url": "http://note.com/skd7",
+                "start": 146,
+                "url": "https://t.co/fUUAwgrQ37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skd7.com",
+                "end": 23,
+                "expanded_url": "http://www.skd7.com/",
+                "start": 0,
+                "url": "https://t.co/62uap9DwFy"
+              }
+            ]
+          }
+        },
+        "id": "40851097",
+        "location": "千代田区外神田7丁目(現実では外神田は6丁目まで)",
+        "name": "やん",
+        "pinned_tweet_id": "2057769576239428045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000804628824/61c39816217bc3b0d90696bd74737763_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33286,
+          "following_count": 9338,
+          "like_count": 7736,
+          "listed_count": 790,
+          "media_count": 11739,
+          "tweet_count": 212138
+        },
+        "url": "https://t.co/62uap9DwFy",
+        "username": "skd7",
+        "verified": true
+      }
+    ]
+  }
+}

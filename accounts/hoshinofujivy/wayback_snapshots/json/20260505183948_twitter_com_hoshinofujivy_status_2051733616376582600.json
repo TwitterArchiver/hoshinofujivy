@@ -1,0 +1,529 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040667043",
+          "name": "CNN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040667043",
+          "name": "CNN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2051733616376582600",
+    "created_at": "2026-05-05T18:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051733616376582600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kyodo_official…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/kyodo_official/status/2051600430967431280",
+          "start": 48,
+          "url": "https://t.co/nyqIdQwkv7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051733616376582600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051600430967431280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么多年...终于有了结果\nMU5735，逝者可以安息了\n讽刺的是，相关报道无法在国内平台看到 https://t.co/nyqIdQwkv7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2051733616376582600",
+        "created_at": "2026-05-05T18:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051733616376582600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kyodo_official…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/kyodo_official/status/2051600430967431280",
+              "start": 48,
+              "url": "https://t.co/nyqIdQwkv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051733616376582600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051600430967431280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么多年...终于有了结果\nMU5735，逝者可以安息了\n讽刺的是，相关报道无法在国内平台看到 https://t.co/nyqIdQwkv7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1240672056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2051600430967431280",
+        "created_at": "2026-05-05T09:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051600430967431280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【広州共同】米CNNテレビは5日までに、中国広西チワン族自治区梧州で2022年に中国東方航空機が墜落...",
+              "display_url": "news.jp/i/142433292645…",
+              "end": 57,
+              "expanded_url": "https://news.jp/i/1424332926458560630?c=39550187727945729",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2051600473434796032/VKBBl-wm?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051600473434796032/VKBBl-wm?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 34,
+              "status": 200,
+              "title": "中国機墜落、燃料を故意に停止か　CNN報道、132人全員が死亡 | NEWSjp",
+              "unwound_url": "https://news.jp/i/1424332926458560630?c=39550187727945729",
+              "url": "https://t.co/K82IPfda2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051600430967431280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1488,
+          "impression_count": 8657408,
+          "like_count": 7247,
+          "quote_count": 444,
+          "reply_count": 391,
+          "retweet_count": 2181
+        },
+        "reply_settings": "everyone",
+        "text": "中国機墜落、燃料を故意に停止か － CNN報道、132人全員が死亡\nhttps://t.co/K82IPfda2w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10036,
+          "following_count": 4273,
+          "like_count": 45261,
+          "listed_count": 34,
+          "media_count": 2105,
+          "tweet_count": 13336
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-04T06:41:52.000Z",
+        "description": "国内、海外のニュースを取材、編集して全国の新聞社、NHK、民間放送局、海外メディアに配信する共同通信社の公式アカウントです。国内外の最新ニュースをお届けします。最新ニュースは47NEWSでもhttps://t.co/SlycQIMLGh 公式LINEはこちらhttps://t.co/g8zADlR2vj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "47news.jp",
+                "end": 118,
+                "expanded_url": "http://47news.jp",
+                "start": 95,
+                "url": "https://t.co/SlycQIMLGh"
+              },
+              {
+                "display_url": "x.gd/P7pEZ",
+                "end": 152,
+                "expanded_url": "https://x.gd/P7pEZ",
+                "start": 129,
+                "url": "https://t.co/g8zADlR2vj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kyodonews.jp",
+                "end": 23,
+                "expanded_url": "http://www.kyodonews.jp/",
+                "start": 0,
+                "url": "https://t.co/yIVceaPHwT"
+              }
+            ]
+          }
+        },
+        "id": "1240672056",
+        "location": "東京都港区東新橋1-7-1",
+        "name": "共同通信公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/954321542577405952/Hoc3Ph5V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417382,
+          "following_count": 118,
+          "like_count": 1291,
+          "listed_count": 10490,
+          "media_count": 9461,
+          "tweet_count": 637858
+        },
+        "url": "https://t.co/yIVceaPHwT",
+        "username": "kyodo_official",
+        "verified": true
+      }
+    ]
+  }
+}

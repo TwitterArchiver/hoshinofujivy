@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932679474010845184"
+      ],
+      "media_source_tweet_id": [
+        "1932679604550127728"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1932692208500814179",
+    "created_at": "2025-06-11T06:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T07:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932692208500814179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909553877739085825",
+          "start": 3,
+          "username": "Tokyo8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IU7VBqMW0G",
+          "end": 52,
+          "expanded_url": "https://x.com/Tokyo8964/status/1932679604550127728/video/1",
+          "media_key": "13_1932679474010845184",
+          "start": 29,
+          "url": "https://t.co/IU7VBqMW0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932692208500814179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932679604550127728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tokyo8964: 典中典之日语学不下去怎么办 https://t.co/IU7VBqMW0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24193,
+        "height": 1280,
+        "media_key": "13_1932679474010845184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932679474010845184/img/hWyr5sUzzn922eO3.jpg",
+        "public_metrics": {
+          "view_count": 143
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932679474010845184/vid/avc1/320x568/BCNZcnzvhxST7FAt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932679474010845184/vid/avc1/480x852/NOjVDQOtbC_QOXwz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932679474010845184/vid/avc1/720x1280/P9RDK5-AIdnrvO91.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932679474010845184/pl/x7b4VnHhjJyEh2vd.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932679474010845184"
+          ],
+          "media_source_tweet_id": [
+            "1932679604550127728"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932692208500814179",
+        "created_at": "2025-06-11T06:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932692208500814179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909553877739085825",
+              "start": 3,
+              "username": "Tokyo8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IU7VBqMW0G",
+              "end": 52,
+              "expanded_url": "https://x.com/Tokyo8964/status/1932679604550127728/video/1",
+              "media_key": "13_1932679474010845184",
+              "start": 29,
+              "url": "https://t.co/IU7VBqMW0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932692208500814179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932679604550127728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tokyo8964: 典中典之日语学不下去怎么办 https://t.co/IU7VBqMW0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932679474010845184"
+          ]
+        },
+        "author_id": "1909553877739085825",
+        "conversation_id": "1932679604550127728",
+        "created_at": "2025-06-11T06:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T07:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932679604550127728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IU7VBqMW0G",
+              "end": 37,
+              "expanded_url": "https://x.com/Tokyo8964/status/1932679604550127728/video/1",
+              "media_key": "13_1932679474010845184",
+              "start": 14,
+              "url": "https://t.co/IU7VBqMW0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932679604550127728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 330,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "典中典之日语学不下去怎么办 https://t.co/IU7VBqMW0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 2416,
+          "like_count": 20453,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 4780
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "前b站小世界抽象TV主播 你永远是中国人的发明者 07无药男娘 🇯🇵日本東京留学生 成分复杂：鉴证｜抽象｜二次元｜神友｜自由民主｜反共｜LGBTQ🏳️‍🌈｜女裝｜舞萌痴｜永雏塔菲｜東雪蓮 ｜平常会更新日常生活或者爱国TV 互fo扩列请私信 接东京线下 （粉红网左会拉黑）逃生舱@heshan8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 138,
+                "username": "heshan8964"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象耶格尔🌊",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932528020864278528/HPLrrfDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 440,
+          "like_count": 551,
+          "listed_count": 10,
+          "media_count": 163,
+          "tweet_count": 309
+        },
+        "username": "Tokyo8964",
+        "verified": false
+      }
+    ]
+  }
+}

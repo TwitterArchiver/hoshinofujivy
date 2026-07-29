@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2056767147595149620",
+    "created_at": "2026-05-20T03:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T04:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056944583142179026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "205207735",
+          "start": 0,
+          "username": "Hanuo96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056944583142179026",
+    "in_reply_to_user_id": "205207735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056912596368847316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanuo96 如果高敏感导致他无心学习呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2056767147595149620",
+        "created_at": "2026-05-20T03:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056944583142179026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "205207735",
+              "start": 0,
+              "username": "Hanuo96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056944583142179026",
+        "in_reply_to_user_id": "205207735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056912596368847316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanuo96 如果高敏感导致他无心学习呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "205207735",
+        "conversation_id": "2056767147595149620",
+        "created_at": "2026-05-20T01:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056912596368847316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056912596368847316",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056767147595149620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 高敏不影响智力，在中国大陆，只要考得好，就是老师眼里的宝。美国那种social大于天的环境才是高敏地狱吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10987,
+          "following_count": 4305,
+          "like_count": 46332,
+          "listed_count": 35,
+          "media_count": 2335,
+          "tweet_count": 14170
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-20T11:08:19.000Z",
+        "description": "",
+        "id": "205207735",
+        "location": "Tilburg, Nederland",
+        "name": "Hanus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762436208003801088/Fxks1oQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 64,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 1776
+        },
+        "username": "Hanuo96",
+        "verified": false
+      }
+    ]
+  }
+}

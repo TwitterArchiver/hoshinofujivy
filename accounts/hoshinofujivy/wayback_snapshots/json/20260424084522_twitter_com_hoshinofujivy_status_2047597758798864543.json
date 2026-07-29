@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2047597758798864543",
+    "created_at": "2026-04-24T08:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047597758798864543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2042082331763114021",
+          "start": 109,
+          "url": "https://t.co/k6ox9uAWky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047597758798864543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在那段时间里，我有一位同事印象蛮深刻的\n他是一位大叔，35岁了，与众不同的是，他的左半部分脸被烧伤，左眼已经失明了。第一次遇见他，你会被他「恐怖」的外貌吓到，而且他身材魁梧，似乎一拳就能把我打飞，但是不能被外貌所迷惑\n\n我经常和那位大叔相遇，一起等单，顺路的话还会一起送过去，有时候系统给我派单紧张，也是他帮我送(功劳算他的），店家出餐紧张时，我个子矮年纪小，经常被忽略，我也不好意思催单，他在的时候也会大声呼喊，帮我催单......\n\n有时我很好奇，他一只眼看路，不怕遇到危险吗，当然，照顾到人家的自尊心，我也从来没问过。\n\n没单子的时候，我们就闲聊\n他问我：你那么小就出来跑外卖，这在孩子里面太难得了\n\n我说，我自己都不知道该做什么，说白了，就是不想学。\n\n他像长辈那样的语气，说：有条件的话好好学习吧，要不是家里出了事，我也不会跑外卖。\n\n奇怪的是，我对他的「苦口婆心」并不抵触，在以前的话，我肯定会一脸不屑。\n\n我没有问他家出的什么事，笑了笑，讲了我上学时一些趣事，比如我逃课去麦当劳打工，尽可能让他了解我的心态。\n\n我不想讲什么心灵鸡汤，我本人最讨厌鸡汤之类的东西\n什么家国，民族，奋斗，梦想，伟大复兴之流，不过是哄小孩的把戏\n\n我讲这些，只是想表明，我在一点点剔除宏大叙事的毒瘤，把我的心，安放在闪闪发光的个人上"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042082331763114021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在那段时间里，我有一位同事印象蛮深刻的\n他是一位大叔，35岁了，与众不同的是，他的左半部分脸被烧伤，左眼已经失明了。第一次遇见他，你会被他「恐怖」的外貌吓到，而且他身材魁梧，似乎一拳就能把我打飞，但是不能被外貌所迷惑 https://t.co/k6ox9uAWky"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2047597758798864543",
+        "created_at": "2026-04-24T08:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047597758798864543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2042082331763114021",
+              "start": 109,
+              "url": "https://t.co/k6ox9uAWky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047597758798864543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在那段时间里，我有一位同事印象蛮深刻的\n他是一位大叔，35岁了，与众不同的是，他的左半部分脸被烧伤，左眼已经失明了。第一次遇见他，你会被他「恐怖」的外貌吓到，而且他身材魁梧，似乎一拳就能把我打飞，但是不能被外貌所迷惑\n\n我经常和那位大叔相遇，一起等单，顺路的话还会一起送过去，有时候系统给我派单紧张，也是他帮我送(功劳算他的），店家出餐紧张时，我个子矮年纪小，经常被忽略，我也不好意思催单，他在的时候也会大声呼喊，帮我催单......\n\n有时我很好奇，他一只眼看路，不怕遇到危险吗，当然，照顾到人家的自尊心，我也从来没问过。\n\n没单子的时候，我们就闲聊\n他问我：你那么小就出来跑外卖，这在孩子里面太难得了\n\n我说，我自己都不知道该做什么，说白了，就是不想学。\n\n他像长辈那样的语气，说：有条件的话好好学习吧，要不是家里出了事，我也不会跑外卖。\n\n奇怪的是，我对他的「苦口婆心」并不抵触，在以前的话，我肯定会一脸不屑。\n\n我没有问他家出的什么事，笑了笑，讲了我上学时一些趣事，比如我逃课去麦当劳打工，尽可能让他了解我的心态。\n\n我不想讲什么心灵鸡汤，我本人最讨厌鸡汤之类的东西\n什么家国，民族，奋斗，梦想，伟大复兴之流，不过是哄小孩的把戏\n\n我讲这些，只是想表明，我在一点点剔除宏大叙事的毒瘤，把我的心，安放在闪闪发光的个人上"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042082331763114021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在那段时间里，我有一位同事印象蛮深刻的\n他是一位大叔，35岁了，与众不同的是，他的左半部分脸被烧伤，左眼已经失明了。第一次遇见他，你会被他「恐怖」的外貌吓到，而且他身材魁梧，似乎一拳就能把我打飞，但是不能被外貌所迷惑 https://t.co/k6ox9uAWky"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2042082331763114021",
+        "created_at": "2026-04-09T03:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042082331763114021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2041779875128996168",
+              "start": 125,
+              "url": "https://t.co/kjEtdJoAYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042082331763114021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2025年，在临近九月份开学时，导员给我打电话：\n“你现在什么工作？”\n“外卖”\n“哦～一个月能赚个八九千吧？”\n我苦笑：“您看电视剧看多了吧”\n导员：\n“你确定要休学？”\n“确定！”\n导员的意思大概是，我暑假吃了劳动的苦，自然就想回学校吃学习的苦\n\n但是外卖虽然很苦，至少回报很明显，每天赚到的钱很可观，没有拿父母的生活费，心里自然也没有愧疚与负担，遇到刁钻的顾客，起码说说还是能说的过（也许我遇到的都是善良的人）\n\n与此同时，我在送外卖之余也接了家教，我的英语是强项，教了一个高一的学生。一小时50块，那一个暑假，家教赚了2000块\n\n跑了两个月外卖，赚差不多6000块。\n\n说实话，辛苦得很。前面上完课，紧接着上线跑外卖。午饭和晚饭是高峰期，肯定不能下线吃饭。但是我有一个绝招：两分钟内吃完饭，这是我在高中时期锻炼出来的技能。（怪讽刺的哈）\n\n衡水模式「锻炼」出了我做事雷厉风行的性格，这绝对是完美的「奴隶」\n\n但是能有自己的想法，放弃学业打工，也不见得这「奴隶」有多完美。\n\n我最喜欢跑的时段是通宵，这时候街上一个人也没有，单子也都是烧烤，方便携带，上线的人少，个人的单子很充足。小区保安睡着了，我可以轻易的溜进去。\n\n还记得一个顾客在订单备注是：「不要打电话，不要敲门，放在门口」但是他的楼层是15楼，我也是老实人，直接一口气爬了15楼，放在他家门口。因为电梯需要刷门禁卡，而我无法联系顾客，发信息也不理会，单子也无法转给别人。\n\n那两个月来，我的社交生活基本只在推特上。但是也不好意思发出来，一直很自卑。现在算是有勇气讲讲了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 74202,
+          "like_count": 342,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041779875128996168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2025年，在临近九月份开学时，导员给我打电话：\n“你现在什么工作？”\n“外卖”\n“哦～一个月能赚个八九千吧？”\n我苦笑：“您看电视剧看多了吧”\n导员：\n“你确定要休学？”\n“确定！”\n导员的意思大概是，我暑假吃了劳动的苦，自然就想回学校吃学习的苦 https://t.co/kjEtdJoAYH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9275,
+          "following_count": 4224,
+          "like_count": 44250,
+          "listed_count": 32,
+          "media_count": 1929,
+          "tweet_count": 12619
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

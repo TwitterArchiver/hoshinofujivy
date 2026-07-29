@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2044696982346977706",
+    "created_at": "2026-04-16T08:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044696982346977706"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2044691095813308697",
+          "start": 127,
+          "url": "https://t.co/nzSgJfMG0s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044696982346977706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044691095813308697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当年我一开始用的小牛加速器翻出来，经常崩溃断线\n\n后来在YouTube听说VPNgate，一个日本大学开发的项目，我就使用这款app上YouTube学习翻墙知识，最终也算是冲破了那道长城，来到更广阔的世界。\n\n只要自己愿意冲出舒适区，总会有东西暗中帮你 https://t.co/nzSgJfMG0s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 442,
+        "media_key": "3_2044690698935599104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAzW4GaAAAxHh-.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2044696982346977706",
+        "created_at": "2026-04-16T08:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044696982346977706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2044691095813308697",
+              "start": 127,
+              "url": "https://t.co/nzSgJfMG0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044696982346977706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044691095813308697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当年我一开始用的小牛加速器翻出来，经常崩溃断线\n\n后来在YouTube听说VPNgate，一个日本大学开发的项目，我就使用这款app上YouTube学习翻墙知识，最终也算是冲破了那道长城，来到更广阔的世界。\n\n只要自己愿意冲出舒适区，总会有东西暗中帮你 https://t.co/nzSgJfMG0s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044690698935599104"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2044691095813308697",
+        "created_at": "2026-04-16T08:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044691095813308697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4xY2SFU4a",
+              "end": 87,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2044691095813308697/photo/1",
+              "media_key": "3_2044690698935599104",
+              "start": 64,
+              "url": "https://t.co/M4xY2SFU4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044691095813308697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都说不要把身边人带出墙外了\n我很多好友听说我在推特上赚钱\n也想翻墙来看看，要我教给他\n我只告诉他：自己摸索吧，我也是自己摸索的 https://t.co/M4xY2SFU4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8742,
+          "following_count": 4145,
+          "like_count": 43533,
+          "listed_count": 29,
+          "media_count": 1777,
+          "tweet_count": 12080
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

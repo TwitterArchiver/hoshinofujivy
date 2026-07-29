@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900024864096083968"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1900024876586643653",
+    "created_at": "2025-03-13T03:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T04:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900024876586643653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqKnPFgOOG",
+          "end": 23,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1900024876586643653/photo/1",
+          "media_key": "3_1900024864096083968",
+          "start": 0,
+          "url": "https://t.co/tqKnPFgOOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900024876586643653",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/tqKnPFgOOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1539,
+        "media_key": "3_1900024864096083968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl4-jBDbYAA7iuC.jpg",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900024864096083968"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1900024876586643653",
+        "created_at": "2025-03-13T03:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T04:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900024876586643653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqKnPFgOOG",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1900024876586643653/photo/1",
+              "media_key": "3_1900024864096083968",
+              "start": 0,
+              "url": "https://t.co/tqKnPFgOOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900024876586643653",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tqKnPFgOOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 1995,
+          "like_count": 9169,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 2696
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

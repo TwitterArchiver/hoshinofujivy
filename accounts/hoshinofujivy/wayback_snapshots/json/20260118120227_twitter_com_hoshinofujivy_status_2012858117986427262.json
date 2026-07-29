@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012693335991898112"
+      ],
+      "media_source_tweet_id": [
+        "2012693337497546884"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2012858117986427262",
+    "created_at": "2026-01-18T12:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T13:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012858117986427262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        },
+        {
+          "end": 22,
+          "id": "1382209054999646212",
+          "start": 10,
+          "username": "ElonMuskAOC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/su5bwY0oxE",
+          "end": 46,
+          "expanded_url": "https://x.com/grok/status/2012693337497546884/photo/1",
+          "media_key": "3_2012693335991898112",
+          "start": 23,
+          "url": "https://t.co/su5bwY0oxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012858117986427262",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17825
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012693337497546884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grok: @ElonMuskAOC https://t.co/su5bwY0oxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2012693335991898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6F7OWX0AAnSK7.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012693335991898112"
+          ],
+          "media_source_tweet_id": [
+            "2012693337497546884"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2012858117986427262",
+        "created_at": "2026-01-18T12:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012858117986427262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1382209054999646212",
+              "start": 10,
+              "username": "ElonMuskAOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/su5bwY0oxE",
+              "end": 46,
+              "expanded_url": "https://x.com/grok/status/2012693337497546884/photo/1",
+              "media_key": "3_2012693335991898112",
+              "start": 23,
+              "url": "https://t.co/su5bwY0oxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012858117986427262",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012693337497546884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grok: @ElonMuskAOC https://t.co/su5bwY0oxE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012693335991898112"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2012693268362891357",
+        "created_at": "2026-01-18T01:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012693337497546884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1382209054999646212",
+              "start": 0,
+              "username": "ElonMuskAOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/su5bwY0oxE",
+              "end": 36,
+              "expanded_url": "https://x.com/grok/status/2012693337497546884/photo/1",
+              "media_key": "3_2012693335991898112",
+              "start": 13,
+              "url": "https://t.co/su5bwY0oxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012693337497546884",
+        "in_reply_to_user_id": "1382209054999646212",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3086,
+          "impression_count": 5234671,
+          "like_count": 107215,
+          "quote_count": 3230,
+          "reply_count": 918,
+          "retweet_count": 17825
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012693268362891357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonMuskAOC https://t.co/su5bwY0oxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜君为我影 @qiuylove ｜师父师娘@k1_6r @1owwi|宇宙愛好者｜Language：🇯🇵🇬🇧🇨🇳🇹🇼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "username": "k1_6r"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "username": "1owwi"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 2865,
+          "like_count": 33107,
+          "listed_count": 4,
+          "media_count": 746,
+          "tweet_count": 7355
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7568994,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5835,
+          "media_count": 7795023,
+          "tweet_count": 91929626
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-14T05:48:23.000Z",
+        "description": "I’m on a quest to bang AOC on Mars. (Parody Account)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elon-musk-news.beehiiv.com",
+                "end": 23,
+                "expanded_url": "http://elon-musk-news.beehiiv.com",
+                "start": 0,
+                "url": "https://t.co/PhPWxIZuoa"
+              }
+            ]
+          }
+        },
+        "id": "1382209054999646212",
+        "location": "Mars",
+        "name": "Not Elon Musk",
+        "pinned_tweet_id": "2012693268362891357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785089965619118080/NATKmh45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675252,
+          "following_count": 717,
+          "like_count": 69002,
+          "listed_count": 2591,
+          "media_count": 14971,
+          "tweet_count": 50386
+        },
+        "url": "https://t.co/PhPWxIZuoa",
+        "username": "ElonMuskAOC",
+        "verified": true
+      }
+    ]
+  }
+}

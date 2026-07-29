@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027607980204822532"
+      ],
+      "media_source_tweet_id": [
+        "2027608445688627621"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027781991773704650",
+    "created_at": "2026-02-28T16:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027781991773704650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "414E4E4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J7rxWzb0n3",
+          "end": 140,
+          "expanded_url": "https://x.com/414E4E4F/status/2027608445688627621/video/1",
+          "media_key": "13_2027607980204822532",
+          "start": 117,
+          "url": "https://t.co/J7rxWzb0n3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027781991773704650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 420
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027608445688627621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @414E4E4F: 哔哩哔哩UP主科技老男孩出了一期视频讲国产安卓和海外版安卓系统上的阉割，还讲了底层的反诈和各种为了“安全”的限制，甚至直接说了“墙内”这种可能触发封控的词，由于触碰到利益而可能被下架，作者开源了视频稿件… https://t.co/J7rxWzb0n3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 711040,
+        "height": 720,
+        "media_key": "13_2027607980204822532",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027607980204822532/img/EQZELpJ0OHKmmwrG.jpg",
+        "public_metrics": {
+          "view_count": 99562
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027607980204822532/vid/avc1/480x270/huZFlE_-aLqemn7S.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027607980204822532/vid/avc1/640x360/539iEuAzgvlV3Dra.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027607980204822532/vid/avc1/1280x720/yW3CdTOP1xekDcA7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027607980204822532/pl/l9bgx3NxDQJtqM03.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027607980204822532"
+          ],
+          "media_source_tweet_id": [
+            "2027608445688627621"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027781991773704650",
+        "created_at": "2026-02-28T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027781991773704650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "414E4E4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7rxWzb0n3",
+              "end": 140,
+              "expanded_url": "https://x.com/414E4E4F/status/2027608445688627621/video/1",
+              "media_key": "13_2027607980204822532",
+              "start": 117,
+              "url": "https://t.co/J7rxWzb0n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027781991773704650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027608445688627621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @414E4E4F: 哔哩哔哩UP主科技老男孩出了一期视频讲国产安卓和海外版安卓系统上的阉割，还讲了底层的反诈和各种为了“安全”的限制，甚至直接说了“墙内”这种可能触发封控的词，由于触碰到利益而可能被下架，作者开源了视频稿件… https://t.co/J7rxWzb0n3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027607980204822532"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "conversation_id": "2027608445688627621",
+        "created_at": "2026-02-28T04:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027608445688627621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J7rxWzb0n3",
+              "end": 125,
+              "expanded_url": "https://x.com/414E4E4F/status/2027608445688627621/video/1",
+              "media_key": "13_2027607980204822532",
+              "start": 102,
+              "url": "https://t.co/J7rxWzb0n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027608445688627621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/CLRffve",
+                "end": 162,
+                "expanded_url": "https://b23.tv/CLRffve",
+                "start": 139,
+                "url": "https://t.co/LCrIiiW3b5"
+              }
+            ]
+          },
+          "text": "哔哩哔哩UP主科技老男孩出了一期视频讲国产安卓和海外版安卓系统上的阉割，还讲了底层的反诈和各种为了“安全”的限制，甚至直接说了“墙内”这种可能触发封控的词，由于触碰到利益而可能被下架，作者开源了视频稿件\n\n原标题：【对比满血版Android，国产安卓阉割了哪些功能？-哔哩哔哩】https://t.co/LCrIiiW3b5\n\n极客湾的安卓厂商横评似乎开辟了墙内数码圈敢说敢开源的纪元，或许不久后，所有涉及（对国内数字设备企业的）评价和揭丑的视频与稿件，都会通过开源来避免封杀，让更多人看到真相"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1661,
+          "impression_count": 212145,
+          "like_count": 2502,
+          "quote_count": 22,
+          "reply_count": 69,
+          "retweet_count": 420
+        },
+        "reply_settings": "everyone",
+        "text": "哔哩哔哩UP主科技老男孩出了一期视频讲国产安卓和海外版安卓系统上的阉割，还讲了底层的反诈和各种为了“安全”的限制，甚至直接说了“墙内”这种可能触发封控的词，由于触碰到利益而可能被下架，作者开源了视频稿件 https://t.co/J7rxWzb0n3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4196,
+          "following_count": 3714,
+          "like_count": 36303,
+          "listed_count": 6,
+          "media_count": 952,
+          "tweet_count": 8590
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 超かぐや姫 | ナチョ､フブキ推し | ガジェット | チュウマイ | 撮影 | \nDM⇒FB",
+        "id": "1426015810472972298",
+        "name": "￴ ￴￴ ￴￴ ￴￴ ￴￴︎アノ￴",
+        "pinned_tweet_id": "2023323252895219917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024268033854984192/Vd_6AW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 878,
+          "like_count": 176702,
+          "listed_count": 0,
+          "media_count": 4549,
+          "tweet_count": 19148
+        },
+        "username": "414E4E4F",
+        "verified": true
+      }
+    ]
+  }
+}

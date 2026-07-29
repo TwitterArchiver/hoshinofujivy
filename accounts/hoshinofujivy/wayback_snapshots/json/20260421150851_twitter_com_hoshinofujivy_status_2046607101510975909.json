@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2046607101510975909",
+    "created_at": "2026-04-21T15:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046607101510975909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1070512168766865409",
+          "start": 3,
+          "username": "Redenix2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046607101510975909",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046528147433374005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Redenix2: 麻木的人多了，正常人看起来就像疯子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2046607101510975909",
+        "created_at": "2026-04-21T15:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046607101510975909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1070512168766865409",
+              "start": 3,
+              "username": "Redenix2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046607101510975909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046528147433374005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Redenix2: 麻木的人多了，正常人看起来就像疯子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070512168766865409",
+        "conversation_id": "2046528147433374005",
+        "created_at": "2026-04-21T09:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046528147433374005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2046524078920728714",
+              "start": 19,
+              "url": "https://t.co/3yiaYpok26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046528147433374005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046524078920728714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻木的人多了，正常人看起来就像疯子。 https://t.co/3yiaYpok26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9056,
+          "following_count": 4218,
+          "like_count": 44000,
+          "listed_count": 30,
+          "media_count": 1879,
+          "tweet_count": 12408
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-06T02:56:04.000Z",
+        "description": "A curious old child",
+        "id": "1070512168766865409",
+        "name": "Kid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042220229959585792/XN8mEtcA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 168,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 599
+        },
+        "username": "Redenix2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2052795310557348044",
+    "created_at": "2026-05-08T16:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052795310557348044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683060453528965120",
+          "start": 3,
+          "username": "NationalPureVF4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052795310557348044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052795189639700558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NationalPureVF4: 我就像一陣意識形態的微風，注定無法改變什麼，無足輕重，思想來的輕巧，去的也輕巧，只留下一片寂靜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2052795310557348044",
+        "created_at": "2026-05-08T16:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052795310557348044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1683060453528965120",
+              "start": 3,
+              "username": "NationalPureVF4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052795310557348044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052795189639700558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NationalPureVF4: 我就像一陣意識形態的微風，注定無法改變什麼，無足輕重，思想來的輕巧，去的也輕巧，只留下一片寂靜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683060453528965120",
+        "conversation_id": "2052795189639700558",
+        "created_at": "2026-05-08T16:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052795189639700558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052795189639700558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我就像一陣意識形態的微風，注定無法改變什麼，無足輕重，思想來的輕巧，去的也輕巧，只留下一片寂靜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10383,
+          "following_count": 4285,
+          "like_count": 45471,
+          "listed_count": 33,
+          "media_count": 2154,
+          "tweet_count": 13488
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "全中推圈推友的白月光\n時鐘塔十二君主創造科-巴留葉雷塔家的本家直系廢柴大小姐/死徒第二十三祖/兼職惡役英雄/待灌滿泡芙（？）/Beast I 候補/暈血\n別稱：薇蕾娜/真理子/軟糯真理醬/暈血姬\n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu @_Weace_ @YukinonCC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 108,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 136,
+                "start": 127,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "username": "_Weace_"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "YukinonCC"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "時鐘塔-現代魔術科艾梅洛教室",
+        "name": "✝︎真理子 ✝︎ 虹の吸血姫 (限界)",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032241233926766593/FMYw3z6V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 1164,
+          "like_count": 74033,
+          "listed_count": 19,
+          "media_count": 1275,
+          "tweet_count": 32909
+        },
+        "username": "NationalPureVF4",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1906310247683432583",
+    "created_at": "2025-03-30T11:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-30T12:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906310247683432583"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "mtf"
+        },
+        {
+          "end": 121,
+          "start": 117,
+          "tag": "糖与刀"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1902676570290200576",
+          "start": 3,
+          "username": "cabofficial2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/94qh",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/94qh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906310247683432583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906285281411739774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cabofficial2024: 《糖与刀》漫画第一话堂堂发布！\n“可是，真的有意义吗”\n“如果不去做的话，就什么都没有了吧”\nmtf文手邵枫霖扩列认识了自己的偶像芸子，却发现芸子也是mtf，她们会一起经历什么呢？\n#mtf #糖与刀 https://t.co/94qh…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_1906276707465900032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR0kMgbMAAV931.jpg",
+        "width": 1280
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1906276726193418240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnR0lSRacAA3yc7.jpg",
+        "width": 377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1906310247683432583",
+        "created_at": "2025-03-30T11:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T12:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906310247683432583"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "mtf"
+            },
+            {
+              "end": 121,
+              "start": 117,
+              "tag": "糖与刀"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1902676570290200576",
+              "start": 3,
+              "username": "cabofficial2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/94qh",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/94qh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906310247683432583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906285281411739774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cabofficial2024: 《糖与刀》漫画第一话堂堂发布！\n“可是，真的有意义吗”\n“如果不去做的话，就什么都没有了吧”\nmtf文手邵枫霖扩列认识了自己的偶像芸子，却发现芸子也是mtf，她们会一起经历什么呢？\n#mtf #糖与刀 https://t.co/94qh…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906276707465900032",
+            "3_1906276726193418240"
+          ]
+        },
+        "author_id": "1902676570290200576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1906285281411739774",
+        "created_at": "2025-03-30T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906285281411739774"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "mtf"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "糖与刀"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/94qhp0KIPs",
+              "end": 124,
+              "expanded_url": "https://x.com/cabofficial2024/status/1906285281411739774/photo/1",
+              "media_key": "3_1906276707465900032",
+              "start": 101,
+              "url": "https://t.co/94qhp0KIPs"
+            },
+            {
+              "display_url": "pic.x.com/94qhp0KIPs",
+              "end": 124,
+              "expanded_url": "https://x.com/cabofficial2024/status/1906285281411739774/photo/1",
+              "media_key": "3_1906276726193418240",
+              "start": 101,
+              "url": "https://t.co/94qhp0KIPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906285281411739774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 259,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "《糖与刀》漫画第一话堂堂发布！\n“可是，真的有意义吗”\n“如果不去做的话，就什么都没有了吧”\nmtf文手邵枫霖扩列认识了自己的偶像芸子，却发现芸子也是mtf，她们会一起经历什么呢？\n#mtf #糖与刀 https://t.co/94qhp0KIPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野真理藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903466341862088704/Hsuu7fb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 2138,
+          "like_count": 12467,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 3450
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T11:01:08.000Z",
+        "description": "长篇小说《糖与刀》堂堂连载！ 平凡的mtf高中生邵枫霖偶然认识到自己仰慕已久的偶像芸子，意外发现对方也是mtf，她们会一起经历什么呢？／／读者qq群：676146589",
+        "id": "1902676570290200576",
+        "name": "《糖与刀》制作组",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902678532029104128/ZDNv3Ehx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 6,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "cabofficial2024",
+        "verified": false
+      }
+    ]
+  }
+}

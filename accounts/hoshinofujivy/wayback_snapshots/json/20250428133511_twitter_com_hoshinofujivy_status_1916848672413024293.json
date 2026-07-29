@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1916846808766288337",
+    "created_at": "2025-04-28T13:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T14:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916848672413024293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1817429092716957696",
+          "start": 0,
+          "username": "AltEgoFujisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916848672413024293",
+    "in_reply_to_user_id": "1817429092716957696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916846808766288337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AltEgoFujisaki 懷疑是東方某大國偷電"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1916846808766288337",
+        "created_at": "2025-04-28T13:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916848672413024293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1817429092716957696",
+              "start": 0,
+              "username": "AltEgoFujisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916848672413024293",
+        "in_reply_to_user_id": "1817429092716957696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916846808766288337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AltEgoFujisaki 懷疑是東方某大國偷電"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817429092716957696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "1916846808766288337",
+        "created_at": "2025-04-28T13:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916846808766288337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbcchinese/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/bbcchinese/status/1916818004685283672",
+              "start": 27,
+              "url": "https://t.co/f9RgDpseYV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916846808766288337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916818004685283672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "西葡两国同时大规模停电怕不是cyber attack https://t.co/f9RgDpseYV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 2275,
+          "like_count": 16357,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 4069
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T05:17:41.000Z",
+        "description": "INFP-T丨東方(さとり❤️こいし) 丨ダンガンロンパ丨ゆずソフト丨偶像@GravitySwiss丨姐姐@Kirino_ki丨媽咪@qingshixiang258丨寶寶@AcetateFrag @OPPOFANS114514丨妹妹@KomejiMasao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "GravitySwiss"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Kirino_ki"
+              },
+              {
+                "end": 82,
+                "start": 66,
+                "username": "qingshixiang258"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "AcetateFrag"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "OPPOFANS114514"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "KomejiMasao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danganronpa.com",
+                "end": 23,
+                "expanded_url": "https://www.danganronpa.com/",
+                "start": 0,
+                "url": "https://t.co/2FjmhbyIXB"
+              }
+            ]
+          }
+        },
+        "id": "1817429092716957696",
+        "location": "Подгорица",
+        "name": "超高校級のテレパス: 古明地さとり🇬🇪🇺🇦🇮🇱",
+        "pinned_tweet_id": "1908407546618249654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916786890264788992/VwlaNyXk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1587,
+          "like_count": 55319,
+          "listed_count": 7,
+          "media_count": 1060,
+          "tweet_count": 13107
+        },
+        "url": "https://t.co/2FjmhbyIXB",
+        "username": "AltEgoFujisaki",
+        "verified": false
+      }
+    ]
+  }
+}

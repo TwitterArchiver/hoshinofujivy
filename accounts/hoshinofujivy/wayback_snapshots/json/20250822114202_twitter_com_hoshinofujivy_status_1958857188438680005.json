@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958856831339831298"
+      ],
+      "media_source_tweet_id": [
+        "1958856838004580403"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1958857188438680005",
+    "created_at": "2025-08-22T11:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T12:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958857188438680005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1781308864438345728",
+          "start": 3,
+          "username": "FoxRed695449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4yvWyagys",
+          "end": 41,
+          "expanded_url": "https://x.com/FoxRed695449/status/1958856838004580403/photo/1",
+          "media_key": "3_1958856831339831298",
+          "start": 18,
+          "url": "https://t.co/R4yvWyagys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958857188438680005",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958856838004580403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxRed695449: https://t.co/R4yvWyagys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1436,
+        "media_key": "3_1958856831339831298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9B6N3boAIBh_a.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958856831339831298"
+          ],
+          "media_source_tweet_id": [
+            "1958856838004580403"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1958857188438680005",
+        "created_at": "2025-08-22T11:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958857188438680005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1781308864438345728",
+              "start": 3,
+              "username": "FoxRed695449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4yvWyagys",
+              "end": 41,
+              "expanded_url": "https://x.com/FoxRed695449/status/1958856838004580403/photo/1",
+              "media_key": "3_1958856831339831298",
+              "start": 18,
+              "url": "https://t.co/R4yvWyagys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958857188438680005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958856838004580403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxRed695449: https://t.co/R4yvWyagys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958856831339831298"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1958856838004580403",
+        "created_at": "2025-08-22T11:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958856838004580403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4yvWyagys",
+              "end": 23,
+              "expanded_url": "https://x.com/FoxRed695449/status/1958856838004580403/photo/1",
+              "media_key": "3_1958856831339831298",
+              "start": 0,
+              "url": "https://t.co/R4yvWyagys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958856838004580403",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R4yvWyagys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1955587540188336450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957338607351709696/ZLE61Nkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 2482,
+          "like_count": 23909,
+          "listed_count": 4,
+          "media_count": 535,
+          "tweet_count": 5794
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "這裡是RedFox的2代目帳號｜跨性別女性🏳️‍⚧️｜夢想是成為社會工作者｜喜歡的ACG角色：白子（蔚藍檔案），阿米婭（明日方舟），艾瑪（約定的夢幻島）｜偏自由偏左｜接受不同的觀點，但反對人身攻擊｜「人既是人，有自由有責任決定遠景」｜@Eureka222323",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 117,
+                "username": "Eureka222323"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/redredfox002",
+                "end": 23,
+                "expanded_url": "https://t.me/redredfox002",
+                "start": 0,
+                "url": "https://t.co/nfLXZUDtJe"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "Hong Kong",
+        "name": "RedFox（2代目）🇲🇴🇭🇰",
+        "pinned_tweet_id": "1935658649357340749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893224815890231296/bTnI_id4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 696,
+          "like_count": 4138,
+          "listed_count": 7,
+          "media_count": 693,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/nfLXZUDtJe",
+        "username": "FoxRed695449",
+        "verified": false
+      }
+    ]
+  }
+}

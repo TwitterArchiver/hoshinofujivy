@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1899847583650189312"
+      ],
+      "media_source_tweet_id": [
+        "1899848152544600369"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1900114178205245690",
+    "created_at": "2025-03-13T09:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T10:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900114178205245690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790370144755351552",
+          "start": 3,
+          "username": "FurinaDF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IlzConEVrZ",
+          "end": 59,
+          "expanded_url": "https://x.com/FurinaDF/status/1899848152544600369/video/1",
+          "media_key": "7_1899847583650189312",
+          "start": 36,
+          "url": "https://t.co/IlzConEVrZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900114178205245690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899848152544600369",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FurinaDF: 小粉红还是太保守了\n来看越南人的爱国视频： https://t.co/IlzConEVrZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 185493,
+        "height": 720,
+        "media_key": "7_1899847583650189312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1899847583650189312/pu/img/lPWwMUWjsEk2r2NQ.jpg",
+        "public_metrics": {
+          "view_count": 2285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899847583650189312/pu/vid/avc1/480x270/yUAL0BFe64Jc-OvM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899847583650189312/pu/vid/avc1/640x360/uKdgHevRqNyl2m-r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1899847583650189312/pu/vid/avc1/1280x720/cZgsyGSyQWWGnZQe.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1899847583650189312/pu/pl/AE0DnIjbcI44oelL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1899847583650189312"
+          ],
+          "media_source_tweet_id": [
+            "1899848152544600369"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1900114178205245690",
+        "created_at": "2025-03-13T09:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900114178205245690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790370144755351552",
+              "start": 3,
+              "username": "FurinaDF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlzConEVrZ",
+              "end": 59,
+              "expanded_url": "https://x.com/FurinaDF/status/1899848152544600369/video/1",
+              "media_key": "7_1899847583650189312",
+              "start": 36,
+              "url": "https://t.co/IlzConEVrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900114178205245690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899848152544600369",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FurinaDF: 小粉红还是太保守了\n来看越南人的爱国视频： https://t.co/IlzConEVrZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1899847583650189312"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1899848152544600369",
+        "created_at": "2025-03-12T15:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T16:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899848152544600369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IlzConEVrZ",
+              "end": 45,
+              "expanded_url": "https://x.com/FurinaDF/status/1899848152544600369/video/1",
+              "media_key": "7_1899847583650189312",
+              "start": 22,
+              "url": "https://t.co/IlzConEVrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899848152544600369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4621,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "小粉红还是太保守了\n来看越南人的爱国视频： https://t.co/IlzConEVrZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1998,
+          "like_count": 9237,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2709
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "放下自己内心深处的执念吧，地球人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870862200082235393/gfYowbA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13395,
+          "following_count": 1693,
+          "like_count": 20327,
+          "listed_count": 43,
+          "media_count": 3569,
+          "tweet_count": 6929
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

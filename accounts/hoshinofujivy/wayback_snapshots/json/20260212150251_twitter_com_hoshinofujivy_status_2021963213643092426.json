@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2021942436533350501",
+    "created_at": "2026-02-12T15:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021963213643092426"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "bingo",
+          "probability": 0.8011,
+          "start": 10,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1830546768779755520",
+          "start": 0,
+          "username": "614yuki3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021963213643092426",
+    "in_reply_to_user_id": "1830546768779755520",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021961556175860204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@614yuki3 bingo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2021942436533350501",
+        "created_at": "2026-02-12T15:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021963213643092426"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "bingo",
+              "probability": 0.8011,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1830546768779755520",
+              "start": 0,
+              "username": "614yuki3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021963213643092426",
+        "in_reply_to_user_id": "1830546768779755520",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021961556175860204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@614yuki3 bingo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830546768779755520",
+        "conversation_id": "2021942436533350501",
+        "created_at": "2026-02-12T14:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021961556175860204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021961556175860204",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021942436533350501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy I love you too"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 2971,
+          "like_count": 34428,
+          "listed_count": 4,
+          "media_count": 795,
+          "tweet_count": 7750
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-02T10:02:57.000Z",
+        "description": "本帳已於2023JUL08轉生幻想鄉，發表一切內容純屬虛構，涉及人士均以遁入幻想\n白聖女更新了嗎 → @cecilia_updated",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "cecilia_updated"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/touhou",
+                "end": 23,
+                "expanded_url": "https://discord.gg/touhou",
+                "start": 0,
+                "url": "https://t.co/TzMCSHtSQI"
+              }
+            ]
+          }
+        },
+        "id": "1830546768779755520",
+        "location": "幻想郷",
+        "name": "無意識ユキさん",
+        "pinned_tweet_id": "2016454922494181844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009033235603607552/1Zm58nOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 160,
+          "like_count": 12519,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 409
+        },
+        "url": "https://t.co/TzMCSHtSQI",
+        "username": "614yuki3",
+        "verified": false
+      }
+    ]
+  }
+}

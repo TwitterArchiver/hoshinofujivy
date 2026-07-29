@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027959617440067584"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2027959686847468027",
+    "created_at": "2026-03-01T04:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027959686847468027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kcb2nntUan",
+          "end": 33,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2027959686847468027/video/1",
+          "media_key": "13_2027959617440067584",
+          "start": 10,
+          "url": "https://t.co/kcb2nntUan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027959686847468027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这不是领结，是手脚 https://t.co/kcb2nntUan"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6548,
+        "height": 540,
+        "media_key": "13_2027959617440067584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027959617440067584/img/sPgddInHEfVdBOiK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027959617440067584/vid/avc1/360x270/xt3xFkiJAPPa_QkZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027959617440067584/vid/avc1/480x360/3paXKaK20XQgbmCu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027959617440067584/vid/avc1/720x540/_TUawHYY9QdCqiBd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027959617440067584/pl/8tk44Od1Q3MfL76n.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027959617440067584"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2027959686847468027",
+        "created_at": "2026-03-01T04:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027959686847468027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kcb2nntUan",
+              "end": 33,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2027959686847468027/video/1",
+              "media_key": "13_2027959617440067584",
+              "start": 10,
+              "url": "https://t.co/kcb2nntUan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027959686847468027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这不是领结，是手脚 https://t.co/kcb2nntUan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4222,
+          "following_count": 3729,
+          "like_count": 36442,
+          "listed_count": 7,
+          "media_count": 963,
+          "tweet_count": 8644
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

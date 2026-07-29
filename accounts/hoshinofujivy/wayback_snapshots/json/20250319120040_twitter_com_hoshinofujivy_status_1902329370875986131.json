@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1902309844520202526",
+    "created_at": "2025-03-19T12:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T13:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902329370875986131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "Beta_Estradiol"
+        },
+        {
+          "end": 32,
+          "id": "1683060453528965120",
+          "start": 16,
+          "username": "NationalPureVF3"
+        },
+        {
+          "end": 49,
+          "id": "1683060453528965120",
+          "start": 33,
+          "username": "NationalPureVF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902329370875986131",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902314955048935629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beta_Estradiol @NationalPureVF3 @NationalPureVF3"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902314955048935629].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902314955048935629",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902314955048935629"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1902309844520202526",
+        "created_at": "2025-03-19T12:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T13:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902329370875986131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "Beta_Estradiol"
+            },
+            {
+              "end": 32,
+              "id": "1683060453528965120",
+              "start": 16,
+              "username": "NationalPureVF3"
+            },
+            {
+              "end": 49,
+              "id": "1683060453528965120",
+              "start": 33,
+              "username": "NationalPureVF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902329370875986131",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902314955048935629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beta_Estradiol @NationalPureVF3 @NationalPureVF3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@nationalpurevf3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf3"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902151745796820992/n45RKABv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 2065,
+          "like_count": 10467,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 3040
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞/表@imqiuy 限时放送：我想看@Ak1raQ_love变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "imqiuy"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Ak1raQ_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 321,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "Beta_Estradiol",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "一個英社主義瘋子，人類惡即人類愛\n主帳@NationalPureVF3 裏帳@vnationvendetta /不會也不懂鍵政\n老公 @Ludwig_von_Remi\n夥伴 @jawenzhu  @_Weace_ @xi1966516 @realpresidenTy 愛著藤醬主人 @hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "_Weace_"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "xi1966516"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "realpresidenTy"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "人類智識輪迴彼岸",
+        "name": "中推圈第一偶像 織田真理子（真理醬）",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877651377809457152/Ja78B10x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 937,
+          "like_count": 51065,
+          "listed_count": 14,
+          "media_count": 853,
+          "tweet_count": 22989
+        },
+        "username": "NationalPureVF3",
+        "verified": false
+      }
+    ]
+  }
+}

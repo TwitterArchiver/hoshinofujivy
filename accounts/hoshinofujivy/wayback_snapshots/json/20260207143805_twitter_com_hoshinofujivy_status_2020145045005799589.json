@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2020145045005799589",
+    "created_at": "2026-02-07T14:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020145045005799589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2020023426443014269",
+          "start": 24,
+          "url": "https://t.co/uvec5DZzvu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020145045005799589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020023426443014269",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天和家人商量了，明天出院，正好给老爹庆祝生日 https://t.co/uvec5DZzvu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2020145045005799589",
+        "created_at": "2026-02-07T14:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020145045005799589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2020023426443014269",
+              "start": 24,
+              "url": "https://t.co/uvec5DZzvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020145045005799589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020023426443014269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天和家人商量了，明天出院，正好给老爹庆祝生日 https://t.co/uvec5DZzvu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2020023426443014269",
+        "created_at": "2026-02-07T06:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020023426443014269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020023426443014269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周一就可以回家疗养啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 2943,
+          "like_count": 34049,
+          "listed_count": 4,
+          "media_count": 779,
+          "tweet_count": 7630
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

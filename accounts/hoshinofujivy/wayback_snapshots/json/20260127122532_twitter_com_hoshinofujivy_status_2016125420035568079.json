@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016027441962352648",
+        "3_2016027442713133056",
+        "3_2016027442692186112",
+        "3_2016027442696392705"
+      ],
+      "media_source_tweet_id": [
+        "2016027449520488951",
+        "2016027449520488951",
+        "2016027449520488951",
+        "2016027449520488951"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2016125420035568079",
+    "created_at": "2026-01-27T12:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T13:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016125420035568079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1331221058301542400",
+          "start": 3,
+          "username": "hachineko1208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dU1tDUGyTW",
+          "end": 65,
+          "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+          "media_key": "3_2016027441962352648",
+          "start": 42,
+          "url": "https://t.co/dU1tDUGyTW"
+        },
+        {
+          "display_url": "pic.x.com/dU1tDUGyTW",
+          "end": 65,
+          "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+          "media_key": "3_2016027442713133056",
+          "start": 42,
+          "url": "https://t.co/dU1tDUGyTW"
+        },
+        {
+          "display_url": "pic.x.com/dU1tDUGyTW",
+          "end": 65,
+          "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+          "media_key": "3_2016027442692186112",
+          "start": 42,
+          "url": "https://t.co/dU1tDUGyTW"
+        },
+        {
+          "display_url": "pic.x.com/dU1tDUGyTW",
+          "end": 65,
+          "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+          "media_key": "3_2016027442696392705",
+          "start": 42,
+          "url": "https://t.co/dU1tDUGyTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016125420035568079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016027449520488951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hachineko1208: 小八表情包part.03  \n\n意者自取喵~ https://t.co/dU1tDUGyTW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016125420035568079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016125420035568079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016125420035568079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2016027441962352648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_peRu-bAAg8iZB.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2016027442713133056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_peRxxbAAAFNKS.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2016027442692186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_peRxsbYAAWwIj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2016027442696392705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_peRxtbkAEHgP4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016027441962352648",
+            "3_2016027442713133056",
+            "3_2016027442692186112",
+            "3_2016027442696392705"
+          ]
+        },
+        "author_id": "1331221058301542400",
+        "conversation_id": "2016027449520488951",
+        "created_at": "2026-01-27T05:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016027449520488951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dU1tDUGyTW",
+              "end": 46,
+              "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+              "media_key": "3_2016027441962352648",
+              "start": 23,
+              "url": "https://t.co/dU1tDUGyTW"
+            },
+            {
+              "display_url": "pic.x.com/dU1tDUGyTW",
+              "end": 46,
+              "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+              "media_key": "3_2016027442713133056",
+              "start": 23,
+              "url": "https://t.co/dU1tDUGyTW"
+            },
+            {
+              "display_url": "pic.x.com/dU1tDUGyTW",
+              "end": 46,
+              "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+              "media_key": "3_2016027442692186112",
+              "start": 23,
+              "url": "https://t.co/dU1tDUGyTW"
+            },
+            {
+              "display_url": "pic.x.com/dU1tDUGyTW",
+              "end": 46,
+              "expanded_url": "https://x.com/hachineko1208/status/2016027449520488951/photo/1",
+              "media_key": "3_2016027442696392705",
+              "start": 23,
+              "url": "https://t.co/dU1tDUGyTW"
+            },
+            {
+              "display_url": "x.com/hachineko1208/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/hachineko1208/status/1941784183535485036",
+              "start": 47,
+              "url": "https://t.co/oPvjqREV6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016027449520488951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941784183535485036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小八表情包part.03  \n\n意者自取喵~ https://t.co/dU1tDUGyTW https://t.co/oPvjqREV6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 2890,
+          "like_count": 33470,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 7444
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "拋棄了一切榮譽與歸屬，深夜的復讐鬼\n福摩薩最兇殘的耄耋，是你今晚的噩夢\n#讓我們一同登上新高山",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 36,
+                "tag": "讓我們一同登上新高山"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "鬼滅ｼﾅ刃⚔️復讐ノ八猫",
+        "pinned_tweet_id": "2016027449520488951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016024152583634946/wBnnwheQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 767,
+          "like_count": 308070,
+          "listed_count": 8,
+          "media_count": 2922,
+          "tweet_count": 21572
+        },
+        "username": "hachineko1208",
+        "verified": false
+      }
+    ]
+  }
+}

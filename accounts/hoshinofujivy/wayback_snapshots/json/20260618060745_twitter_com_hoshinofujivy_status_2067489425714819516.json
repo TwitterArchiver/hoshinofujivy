@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2067485853350608945",
+    "created_at": "2026-06-18T06:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067489425714819516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2780777989",
+          "start": 0,
+          "username": "SANKO_TRADING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067489425714819516",
+    "in_reply_to_user_id": "2780777989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067485853350608945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SANKO_TRADING 是的，那个很复杂的汉字读作biang"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2067485853350608945",
+        "created_at": "2026-06-18T06:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067489425714819516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2780777989",
+              "start": 0,
+              "username": "SANKO_TRADING"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067489425714819516",
+        "in_reply_to_user_id": "2780777989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067485853350608945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SANKO_TRADING 是的，那个很复杂的汉字读作biang"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2780777989",
+        "conversation_id": "2067485853350608945",
+        "created_at": "2026-06-18T05:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067485853350608945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2067428512873722197",
+              "start": 28,
+              "url": "https://t.co/rc9JWFICmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067485853350608945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067428512873722197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "(･～･ ).｡oO(あれ？フォントが存在してたの？) https://t.co/rc9JWFICmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12047,
+          "following_count": 4368,
+          "like_count": 49113,
+          "listed_count": 36,
+          "media_count": 2856,
+          "tweet_count": 16137
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-30T15:46:21.000Z",
+        "description": "(･～･ ).｡oO（シュールストレミング専門店ではありませんからねっ）\n食品を中心に輸入・輸出している三幸貿易の公式です。\n宣伝はほとんどしません。\nポストの内容は当社の見解と概ね一致しています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.shopping.yahoo.co.jp/happyfood/",
+                "end": 23,
+                "expanded_url": "https://store.shopping.yahoo.co.jp/happyfood/",
+                "start": 0,
+                "url": "https://t.co/KWuGOJBVrM"
+              }
+            ]
+          }
+        },
+        "id": "2780777989",
+        "location": "東京 中央区",
+        "name": "三幸貿易公式",
+        "pinned_tweet_id": "1960357478639554976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/936832292818894848/NybF-LXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18385,
+          "following_count": 2322,
+          "like_count": 268327,
+          "listed_count": 198,
+          "media_count": 7215,
+          "tweet_count": 114568
+        },
+        "url": "https://t.co/KWuGOJBVrM",
+        "username": "SANKO_TRADING",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028347697519009792"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2028347725688050053",
+    "created_at": "2026-03-02T05:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028347725688050053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/76nSbmTHgr",
+          "end": 27,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2028347725688050053/photo/1",
+          "media_key": "3_2028347697519009792",
+          "start": 4,
+          "url": "https://t.co/76nSbmTHgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028347725688050053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小剧场 https://t.co/76nSbmTHgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2028347697519009792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYje_eaIAA0lXY.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028347697519009792"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2028347725688050053",
+        "created_at": "2026-03-02T05:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028347725688050053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76nSbmTHgr",
+              "end": 27,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2028347725688050053/photo/1",
+              "media_key": "3_2028347697519009792",
+              "start": 4,
+              "url": "https://t.co/76nSbmTHgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028347725688050053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小剧场 https://t.co/76nSbmTHgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4536,
+          "following_count": 3769,
+          "like_count": 36654,
+          "listed_count": 7,
+          "media_count": 971,
+          "tweet_count": 8709
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

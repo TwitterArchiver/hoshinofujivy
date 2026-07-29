@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896553646994952616",
+    "created_at": "2025-03-04T16:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T17:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896956582359073121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1151913018936053760",
+          "start": 0,
+          "username": "jacksonhinklle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896956582359073121",
+    "in_reply_to_user_id": "1151913018936053760",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896553646994952616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jacksonhinklle I love my country but not this guy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_1896536392143880192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlHZzOVWQAAZzxQ.jpg",
+        "width": 1278
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896553646994952616",
+        "created_at": "2025-03-04T16:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896956582359073121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1151913018936053760",
+              "start": 0,
+              "username": "jacksonhinklle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896956582359073121",
+        "in_reply_to_user_id": "1151913018936053760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896553646994952616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jacksonhinklle I love my country but not this guy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896536392143880192"
+          ]
+        },
+        "author_id": "1151913018936053760",
+        "conversation_id": "1896553646994952616",
+        "created_at": "2025-03-03T13:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T14:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896553646994952616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "China",
+              "probability": 0.9573,
+              "start": 34,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVnGLU3HFc",
+              "end": 67,
+              "expanded_url": "https://x.com/jacksonhinklle/status/1896553646994952616/photo/1",
+              "media_key": "3_1896536392143880192",
+              "start": 44,
+              "url": "https://t.co/QVnGLU3HFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896553646994952616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 597422,
+          "like_count": 9726,
+          "quote_count": 74,
+          "reply_count": 987,
+          "retweet_count": 619
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳 Raise your hand if you SUPPORT China! 🖐️ https://t.co/QVnGLU3HFc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1915,
+          "like_count": 7582,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 2290
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T17:53:59.000Z",
+        "description": "Follow: @LegitTargets & @ACPMain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "LegitTargets"
+              },
+              {
+                "end": 32,
+                "start": 24,
+                "username": "ACPMain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jacksonhinkle",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jacksonhinkle",
+                "start": 0,
+                "url": "https://t.co/xcyQcehzt2"
+              }
+            ]
+          }
+        },
+        "id": "1151913018936053760",
+        "location": "Miami, FL",
+        "name": "Jackson Hinkle 🇺🇸",
+        "pinned_tweet_id": "1896669521257390555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704552283193345/wMLFemzm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2880671,
+          "following_count": 489,
+          "like_count": 14793,
+          "listed_count": 6452,
+          "media_count": 12989,
+          "tweet_count": 25817
+        },
+        "url": "https://t.co/xcyQcehzt2",
+        "username": "jacksonhinklle",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026287953",
+          "name": "Ford"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10045564738",
+          "name": "Ford - Mustang"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Performance vehicles",
+          "id": "847529034674085888",
+          "name": "Performance vehicles"
+        }
+      }
+    ],
+    "conversation_id": "2029675384925499414",
+    "created_at": "2026-03-07T10:36:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:36:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030231099520258555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2641557771",
+          "start": 0,
+          "username": "WorldWideCarsTM"
+        },
+        {
+          "end": 29,
+          "id": "12221852",
+          "start": 17,
+          "username": "FordMustang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030231099520258555",
+    "in_reply_to_user_id": "2641557771",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029675384925499414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorldWideCarsTM @FordMustang so cool"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2029675379884015616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrbARtXwAAPkeY.jpg",
+        "width": 1022
+      },
+      {
+        "height": 626,
+        "media_key": "3_2029675380777373696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrbAVCXUAAlY4_.jpg",
+        "width": 946
+      },
+      {
+        "height": 623,
+        "media_key": "3_2029675381339332608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrbAXIWIAAmvGn.jpg",
+        "width": 850
+      },
+      {
+        "height": 694,
+        "media_key": "3_2029675382098550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCrbAZ9W4AAX1hW.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045564738",
+              "name": "Ford - Mustang"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Performance vehicles",
+              "id": "847529034674085888",
+              "name": "Performance vehicles"
+            }
+          }
+        ],
+        "conversation_id": "2029675384925499414",
+        "created_at": "2026-03-07T10:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030231099520258555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2641557771",
+              "start": 0,
+              "username": "WorldWideCarsTM"
+            },
+            {
+              "end": 29,
+              "id": "12221852",
+              "start": 17,
+              "username": "FordMustang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030231099520258555",
+        "in_reply_to_user_id": "2641557771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029675384925499414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorldWideCarsTM @FordMustang so cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029675379884015616",
+            "3_2029675380777373696",
+            "3_2029675381339332608",
+            "3_2029675382098550784"
+          ]
+        },
+        "author_id": "2641557771",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026287953",
+              "name": "Ford"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045564738",
+              "name": "Ford - Mustang"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10046942598",
+              "name": "Ford Latino"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Performance vehicles",
+              "id": "847529034674085888",
+              "name": "Performance vehicles"
+            }
+          }
+        ],
+        "conversation_id": "2029675384925499414",
+        "created_at": "2026-03-05T21:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T22:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029675384925499414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Ford Mustang",
+              "probability": 0.7061,
+              "start": 16,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcEkKmKBdR",
+              "end": 56,
+              "expanded_url": "https://x.com/WorldWideCarsTM/status/2029675384925499414/photo/1",
+              "media_key": "3_2029675379884015616",
+              "start": 33,
+              "url": "https://t.co/lcEkKmKBdR"
+            },
+            {
+              "display_url": "pic.x.com/lcEkKmKBdR",
+              "end": 56,
+              "expanded_url": "https://x.com/WorldWideCarsTM/status/2029675384925499414/photo/1",
+              "media_key": "3_2029675380777373696",
+              "start": 33,
+              "url": "https://t.co/lcEkKmKBdR"
+            },
+            {
+              "display_url": "pic.x.com/lcEkKmKBdR",
+              "end": 56,
+              "expanded_url": "https://x.com/WorldWideCarsTM/status/2029675384925499414/photo/1",
+              "media_key": "3_2029675381339332608",
+              "start": 33,
+              "url": "https://t.co/lcEkKmKBdR"
+            },
+            {
+              "display_url": "pic.x.com/lcEkKmKBdR",
+              "end": 56,
+              "expanded_url": "https://x.com/WorldWideCarsTM/status/2029675384925499414/photo/1",
+              "media_key": "3_2029675382098550784",
+              "start": 33,
+              "url": "https://t.co/lcEkKmKBdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029675384925499414",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1529,
+          "impression_count": 369078,
+          "like_count": 11725,
+          "quote_count": 124,
+          "reply_count": 76,
+          "retweet_count": 1221
+        },
+        "reply_settings": "everyone",
+        "text": "Blacked out '67 Ford Mustang 5.0 https://t.co/lcEkKmKBdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4720,
+          "following_count": 3840,
+          "like_count": 37476,
+          "listed_count": 10,
+          "media_count": 1046,
+          "tweet_count": 9040
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-06-25T19:34:03.000Z",
+        "description": "Make sure to checkout my other accounts for more daily content!  @DailyLamboTM / @DailyFerrariTM / @DailyGTRTM & Personal @WWCTM98",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "DailyLamboTM"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "DailyFerrariTM"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "DailyGTRTM"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "username": "WWCTM98"
+              }
+            ]
+          }
+        },
+        "id": "2641557771",
+        "location": "✉WorldWideCarsTMinfo@gmail.com",
+        "name": "𝑾𝒐𝒓𝒍𝒅𝑾𝒊𝒅𝒆𝑪𝒂𝒓𝒔™",
+        "pinned_tweet_id": "2029679014961373500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700579345461317632/2-BWg1F5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442051,
+          "following_count": 47,
+          "like_count": 757,
+          "listed_count": 752,
+          "media_count": 7523,
+          "tweet_count": 26495
+        },
+        "username": "WorldWideCarsTM",
+        "verified": true
+      },
+      {
+        "created_at": "2008-01-14T16:15:24.000Z",
+        "description": "If you think you can push your limits, you’re right. #READYSETFORD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 53,
+                "tag": "READYSETFORD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ford.to/FordMustang",
+                "end": 23,
+                "expanded_url": "http://ford.to/FordMustang",
+                "start": 0,
+                "url": "https://t.co/ZKtLerJ4Mw"
+              }
+            ]
+          }
+        },
+        "id": "12221852",
+        "location": "Dearborn, MI",
+        "name": "Ford Mustang",
+        "pinned_tweet_id": "1780974808311758904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965734734249512961/21cghtzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709199,
+          "following_count": 0,
+          "like_count": 9590,
+          "listed_count": 2137,
+          "media_count": 5947,
+          "tweet_count": 24669
+        },
+        "url": "https://t.co/ZKtLerJ4Mw",
+        "username": "FordMustang",
+        "verified": true
+      }
+    ]
+  }
+}

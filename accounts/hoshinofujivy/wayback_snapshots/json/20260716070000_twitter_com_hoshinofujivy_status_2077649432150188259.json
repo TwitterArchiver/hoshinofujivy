@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2077640351414931537",
+    "created_at": "2026-07-16T07:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077649432150188259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698883918936842240",
+          "start": 0,
+          "username": "GGX123123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077649432150188259",
+    "in_reply_to_user_id": "1698883918936842240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077647647943557351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GGX123123 我虽然穷，但我不会用b去赚钱，所以我的b事不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2077640351414931537",
+        "created_at": "2026-07-16T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077649432150188259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698883918936842240",
+              "start": 0,
+              "username": "GGX123123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077649432150188259",
+        "in_reply_to_user_id": "1698883918936842240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077647647943557351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GGX123123 我虽然穷，但我不会用b去赚钱，所以我的b事不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698883918936842240",
+        "conversation_id": "2077640351414931537",
+        "created_at": "2026-07-16T06:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077647647943557351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077647647943557351",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077640351414931537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 人穷B事多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12830,
+          "following_count": 4401,
+          "like_count": 51427,
+          "listed_count": 22,
+          "media_count": 3314,
+          "tweet_count": 17888
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-05T02:21:58.000Z",
+        "description": "行く川の流れは絶えずして\n\nEnglish/汉语/日本語",
+        "id": "1698883918936842240",
+        "location": "中南海",
+        "name": "Hellfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031005770545045504/ibMonF84_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 358,
+          "like_count": 34753,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 2441
+        },
+        "url": "",
+        "username": "GGX123123",
+        "verified": false
+      }
+    ]
+  }
+}

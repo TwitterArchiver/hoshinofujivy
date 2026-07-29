@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2023708737832452280",
+    "created_at": "2026-04-06T12:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041131562922889227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3400828220",
+          "start": 0,
+          "username": "ITZ_THUND3RB0LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041131562922889227",
+    "in_reply_to_user_id": "3400828220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041131355464167771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ITZ_THUND3RB0LT 被川普附体了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2023708737832452280",
+        "created_at": "2026-04-06T12:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041131562922889227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3400828220",
+              "start": 0,
+              "username": "ITZ_THUND3RB0LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041131562922889227",
+        "in_reply_to_user_id": "3400828220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041131355464167771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ITZ_THUND3RB0LT 被川普附体了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3400828220",
+        "conversation_id": "2023708737832452280",
+        "created_at": "2026-04-06T12:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041131355464167771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041131355464167771",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041130916207313218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 那就对了吗？推特肯定没人比我更精通欧美的厌世哲学还有生态哲学😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 4050,
+          "like_count": 42297,
+          "listed_count": 23,
+          "media_count": 1605,
+          "tweet_count": 11342
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-31T06:23:35.000Z",
+        "description": "消灭人类暴政!世界属于大自然",
+        "id": "3400828220",
+        "location": "地底世界",
+        "name": "西蒙小学生🇺🇸🇪🇺🇫🇷🇬🇧🇩🇰🇸🇪🇳🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038555974102036480/LlpheklK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 547,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1181
+        },
+        "username": "ITZ_THUND3RB0LT",
+        "verified": false
+      }
+    ]
+  }
+}

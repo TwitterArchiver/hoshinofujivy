@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896196061661913599",
+    "created_at": "2025-03-04T12:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T13:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896895768751124804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "623008025",
+          "start": 0,
+          "username": "gpuhell"
+        },
+        {
+          "end": 24,
+          "id": "1462090734438285313",
+          "start": 9,
+          "username": "pingle97588032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896895768751124804",
+    "in_reply_to_user_id": "623008025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896895396858978397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gpuhell @pingle97588032 新闻联播不是还有吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896196061661913599",
+        "created_at": "2025-03-04T12:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896895768751124804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "623008025",
+              "start": 0,
+              "username": "gpuhell"
+            },
+            {
+              "end": 24,
+              "id": "1462090734438285313",
+              "start": 9,
+              "username": "pingle97588032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896895768751124804",
+        "in_reply_to_user_id": "623008025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896895396858978397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpuhell @pingle97588032 新闻联播不是还有吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623008025",
+        "conversation_id": "1896196061661913599",
+        "created_at": "2025-03-04T12:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T13:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896895396858978397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1462090734438285313",
+              "start": 0,
+              "username": "pingle97588032"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公开数据查询平台，提供新闻联播、人民日报、参考消息、裁判文书等权威信息的实时更新和历史数据查询服务。",
+              "display_url": "cn.govopendata.com/renminribao/19…",
+              "end": 65,
+              "expanded_url": "https://cn.govopendata.com/renminribao/1989/06/04/",
+              "start": 42,
+              "status": 200,
+              "title": "1989年6月4日人民日报电子版,人民日报历史",
+              "unwound_url": "https://cn.govopendata.com/renminribao/1989/06/04/",
+              "url": "https://t.co/FU0aLYXMve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896895396858978397",
+        "in_reply_to_user_id": "623008025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896894476070854979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingle97588032 @hoshinofujivy 再例如当时的人民日报\nhttps://t.co/FU0aLYXMve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1889,
+          "like_count": 7542,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2276
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-30T17:57:55.000Z",
+        "description": "攻城狮/业余投机/右侧交易/游戏开发/Haskell/Rust/C++/Unity3D/C#/对java有偏见/RL/智商欠费/浅尝辄止故平庸/反乌托邦/竹林中/地狱变/手撕菠萝蜜/胸口碎榴莲/单机推特中/乐视一生黑（乐视已阵亡）/华为一生黑（迟早会阵亡 ）/中华跪族/器材党",
+        "id": "623008025",
+        "location": "上海, 中华人民共和国",
+        "name": "日常焦虑帝",
+        "pinned_tweet_id": "920799501685682177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/615147574568353792/6oT5F-Jr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 2197,
+          "like_count": 18369,
+          "listed_count": 8,
+          "media_count": 164,
+          "tweet_count": 2893
+        },
+        "username": "gpuhell",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T16:09:53.000Z",
+        "description": "软件工程专业+辅修日语（日本語学習者）。希望无论任何立场，种族，阶级，性别，人人平等，相互尊重，民主自由，世界大同，反对任何形式的极端主义，永远相信正义公平文明。以善恶辨是非而不是立场",
+        "id": "1462090734438285313",
+        "location": "华盛顿",
+        "name": "平乐🇺🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1462090832362627086/804VIX2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 1374,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 746
+        },
+        "username": "pingle97588032",
+        "verified": false
+      }
+    ]
+  }
+}

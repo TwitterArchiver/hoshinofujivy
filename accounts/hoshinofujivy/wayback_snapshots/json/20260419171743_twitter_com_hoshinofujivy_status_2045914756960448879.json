@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2045681296308146495",
+    "created_at": "2026-04-19T17:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T18:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045914756960448879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1945392337095680003",
+          "start": 0,
+          "username": "ln8491765587098"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045914756960448879",
+    "in_reply_to_user_id": "1945392337095680003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045912069455978596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln8491765587098 来来来，你给我背诵一遍高考志愿填报官网网址"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2045681296308146495",
+        "created_at": "2026-04-19T17:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045914756960448879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1945392337095680003",
+              "start": 0,
+              "username": "ln8491765587098"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045914756960448879",
+        "in_reply_to_user_id": "1945392337095680003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045912069455978596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln8491765587098 来来来，你给我背诵一遍高考志愿填报官网网址"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945392337095680003",
+        "conversation_id": "2045681296308146495",
+        "created_at": "2026-04-19T17:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045912069455978596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045912069455978596",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045681296308146495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 直接输网址呗，这还能吹谷歌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8954,
+          "following_count": 4182,
+          "like_count": 43846,
+          "listed_count": 30,
+          "media_count": 1844,
+          "tweet_count": 12308
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T07:57:40.000Z",
+        "description": "一个普通中国大陆网友，怼精日、粉蛆、恨国党、黄纳、极端男女权、地域黑、职黑水军、网暴犯、双标狗、杠精和历史发明家。相信历史可以有不同解读角度，但铁证如山的事实和黑白对错不容颠倒",
+        "id": "1945392337095680003",
+        "location": "中国🇨🇳",
+        "name": "过敏党的讲解石🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027235361093787648/m1UFxKmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 346
+        },
+        "username": "ln8491765587098",
+        "verified": false
+      }
+    ]
+  }
+}

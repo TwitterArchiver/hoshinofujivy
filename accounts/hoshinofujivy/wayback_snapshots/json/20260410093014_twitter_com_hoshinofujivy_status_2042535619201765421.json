@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2042180642973343937",
+    "created_at": "2026-04-10T09:30:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042535619201765421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042535619201765421",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042180642973343937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 我要明信片！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2042177481600634880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdFmX8bkAAypjm.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2042180642973343937",
+        "created_at": "2026-04-10T09:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042535619201765421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042535619201765421",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042180642973343937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 我要明信片！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042177481600634880"
+          ]
+        },
+        "author_id": "1331221058301542400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418275363914862596",
+              "name": "Patreon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418275363914862596",
+              "name": "Patreon"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2042180642973343937",
+        "created_at": "2026-04-09T09:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042180642973343937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3pcZiQmFp",
+              "end": 183,
+              "expanded_url": "https://x.com/hachineko1208/status/2042180642973343937/photo/1",
+              "media_key": "3_2042177481600634880",
+              "start": 160,
+              "url": "https://t.co/h3pcZiQmFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042180642973343937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 917,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Pixiv萬fo紀念活動🎉\n\n🔅活動1⃣\n留言本貼文參加抽獎\n頭獎：Patreon會籍1個月 8名\n次獎：小八手寫明信片 12名\n⚠️不重複中獎\n\n🔅活動2⃣\n於本貼文留言想要看到內容，將選取讚數前3高的回覆進行表決，做一期Patreon免費會員內容。\n⚠️可接受重複留言\n\n⏰接受留言期限至4/17(金)23:59止 https://t.co/h3pcZiQmFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8277,
+          "following_count": 4059,
+          "like_count": 42706,
+          "listed_count": 25,
+          "media_count": 1656,
+          "tweet_count": 11582
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢\n#讓我們一同登上新高山\n\n每週二深夜搭乘巴士到蟹堡王",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 18,
+                "tag": "讓我們一同登上新高山"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "鬼滅ｼﾅ刃⚔️復讐ノ八猫",
+        "pinned_tweet_id": "2042180642973343937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039570852417810432/0937B6p2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1648,
+          "following_count": 846,
+          "like_count": 354790,
+          "listed_count": 9,
+          "media_count": 2479,
+          "tweet_count": 24390
+        },
+        "username": "hachineko1208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2027585958749868134",
+    "created_at": "2026-02-28T03:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027585958749868134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2027584730254938589",
+          "start": 28,
+          "url": "https://t.co/sNB27wZzQW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027585958749868134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027584730254938589",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "终于可以证明给家人：即便现实生活没有社交，也可以赚到钱 https://t.co/sNB27wZzQW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 170,
+        "media_key": "3_2027584056284921856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNs9OMbwAAbcGl.png",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2027585958749868134",
+        "created_at": "2026-02-28T03:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027585958749868134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2027584730254938589",
+              "start": 28,
+              "url": "https://t.co/sNB27wZzQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027585958749868134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027584730254938589",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于可以证明给家人：即便现实生活没有社交，也可以赚到钱 https://t.co/sNB27wZzQW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027584056284921856"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2027584730254938589",
+        "created_at": "2026-02-28T03:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027584730254938589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "1683060453528965120",
+              "start": 66,
+              "username": "NationalPureVF4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxountIOc3",
+              "end": 111,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2027584730254938589/photo/1",
+              "media_key": "3_2027584056284921856",
+              "start": 88,
+              "url": "https://t.co/QxountIOc3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027584730254938589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "达成人生目标：躺着赚钱\n出车祸后，只能在床上躺着养伤，有时间经营自己的账号\n塞翁失马，焉知非福\n十分感谢twitter平台\n还有爱人@nationalpurevf4赞助的蓝标 https://t.co/QxountIOc3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4187,
+          "following_count": 3692,
+          "like_count": 36177,
+          "listed_count": 6,
+          "media_count": 943,
+          "tweet_count": 8537
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

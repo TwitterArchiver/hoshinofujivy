@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1900009222500475328",
+    "created_at": "2025-03-13T09:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T10:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900113215297839335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686352242130223104",
+          "start": 0,
+          "username": "cry314cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900113215297839335",
+    "in_reply_to_user_id": "1686352242130223104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900009222500475328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cry314cry 这是弃暗投明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_1900009214820704256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl4wUG9bYAAcIei.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1900009222500475328",
+        "created_at": "2025-03-13T09:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T10:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900113215297839335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686352242130223104",
+              "start": 0,
+              "username": "cry314cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900113215297839335",
+        "in_reply_to_user_id": "1686352242130223104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900009222500475328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cry314cry 这是弃暗投明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900009214820704256"
+          ]
+        },
+        "author_id": "1686352242130223104",
+        "conversation_id": "1900009222500475328",
+        "created_at": "2025-03-13T02:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T03:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900009222500475328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EkJtYTRRwS",
+              "end": 27,
+              "expanded_url": "https://x.com/cry314cry/status/1900009222500475328/photo/1",
+              "media_key": "3_1900009214820704256",
+              "start": 4,
+              "url": "https://t.co/EkJtYTRRwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900009222500475328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 21614,
+          "like_count": 345,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🤨🤨🤨 https://t.co/EkJtYTRRwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 1998,
+          "like_count": 9232,
+          "listed_count": 2,
+          "media_count": 224,
+          "tweet_count": 2705
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T12:24:48.000Z",
+        "description": "看我笑得多开心",
+        "id": "1686352242130223104",
+        "location": "手機",
+        "name": "Ψυχή",
+        "pinned_tweet_id": "1895509352406245718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896045366870740992/Hbl6T5Qg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 2020,
+          "like_count": 28584,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 5762
+        },
+        "username": "cry314cry",
+        "verified": false
+      }
+    ]
+  }
+}

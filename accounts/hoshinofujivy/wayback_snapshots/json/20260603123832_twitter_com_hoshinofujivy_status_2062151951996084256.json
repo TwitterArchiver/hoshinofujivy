@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061789305580720128"
+      ],
+      "media_source_tweet_id": [
+        "2061789308462182862"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062151951996084256",
+    "created_at": "2026-06-03T12:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062151951996084256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843586969248641024",
+          "start": 3,
+          "username": "snoopyb047"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mCZMqbopa7",
+          "end": 64,
+          "expanded_url": "https://x.com/snoopyb047/status/2061789308462182862/photo/1",
+          "media_key": "3_2061789305580720128",
+          "start": 41,
+          "url": "https://t.co/mCZMqbopa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062151951996084256",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 998
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061789308462182862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snoopyb047: Happy Pride Month Snoopy https://t.co/mCZMqbopa7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061789305580720128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzycxjWkAAgmer.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061789305580720128"
+          ],
+          "media_source_tweet_id": [
+            "2061789308462182862"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062151951996084256",
+        "created_at": "2026-06-03T12:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062151951996084256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843586969248641024",
+              "start": 3,
+              "username": "snoopyb047"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCZMqbopa7",
+              "end": 64,
+              "expanded_url": "https://x.com/snoopyb047/status/2061789308462182862/photo/1",
+              "media_key": "3_2061789305580720128",
+              "start": 41,
+              "url": "https://t.co/mCZMqbopa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062151951996084256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 998
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061789308462182862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snoopyb047: Happy Pride Month Snoopy https://t.co/mCZMqbopa7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061789305580720128"
+          ]
+        },
+        "author_id": "1843586969248641024",
+        "conversation_id": "2061789308462182862",
+        "created_at": "2026-06-02T12:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061789308462182862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mCZMqbopa7",
+              "end": 48,
+              "expanded_url": "https://x.com/snoopyb047/status/2061789308462182862/photo/1",
+              "media_key": "3_2061789305580720128",
+              "start": 25,
+              "url": "https://t.co/mCZMqbopa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061789308462182862",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 71434,
+          "like_count": 8020,
+          "quote_count": 20,
+          "reply_count": 100,
+          "retweet_count": 998
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Pride Month Snoopy https://t.co/mCZMqbopa7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11654,
+          "following_count": 4338,
+          "like_count": 48116,
+          "listed_count": 38,
+          "media_count": 2630,
+          "tweet_count": 15340
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T09:39:43.000Z",
+        "description": "account fan snoopy",
+        "id": "1843586969248641024",
+        "location": "United States",
+        "name": "Snoopy",
+        "pinned_tweet_id": "1998791530170237251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885080373614292992/98ETxv92_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152845,
+          "following_count": 1407,
+          "like_count": 3147,
+          "listed_count": 194,
+          "media_count": 2686,
+          "tweet_count": 3967
+        },
+        "username": "snoopyb047",
+        "verified": true
+      }
+    ]
+  }
+}

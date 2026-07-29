@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "2057940322139975730",
+    "created_at": "2026-05-22T21:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T22:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057940322139975730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eggoslug/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/eggoslug/status/2057585048577069127",
+          "start": 9,
+          "url": "https://t.co/jZEUbDvmRn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057940322139975730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057585048577069127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是安徽板面吗 https://t.co/jZEUbDvmRn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1752,
+        "media_key": "3_2057585041731964928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4CsaOXUAAIY7m.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1694,
+        "media_key": "3_2057585041799057408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4CsaeXEAAKRLU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2057940322139975730",
+        "created_at": "2026-05-22T21:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T22:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057940322139975730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eggoslug/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/eggoslug/status/2057585048577069127",
+              "start": 9,
+              "url": "https://t.co/jZEUbDvmRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057940322139975730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057585048577069127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是安徽板面吗 https://t.co/jZEUbDvmRn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057585041731964928",
+            "3_2057585041799057408"
+          ]
+        },
+        "author_id": "1572033976943972352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2057585048577069127",
+        "created_at": "2026-05-21T22:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057585048577069127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QD5JFPnTOH",
+              "end": 110,
+              "expanded_url": "https://x.com/eggoslug/status/2057585048577069127/photo/1",
+              "media_key": "3_2057585041731964928",
+              "start": 87,
+              "url": "https://t.co/QD5JFPnTOH"
+            },
+            {
+              "display_url": "pic.x.com/QD5JFPnTOH",
+              "end": 110,
+              "expanded_url": "https://x.com/eggoslug/status/2057585048577069127/photo/1",
+              "media_key": "3_2057585041799057408",
+              "start": 87,
+              "url": "https://t.co/QD5JFPnTOH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057585048577069127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 305661,
+          "like_count": 17007,
+          "quote_count": 42,
+          "reply_count": 39,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "someone just called this ramen in front of me while I was eating and now im pissed off https://t.co/QD5JFPnTOH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11178,
+          "following_count": 4313,
+          "like_count": 46426,
+          "listed_count": 35,
+          "media_count": 2376,
+          "tweet_count": 14352
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-20T01:24:49.000Z",
+        "description": "html angel ꒰ঌ˚꒪ ♬‧༝⁺🍋‍🟩.𝄞 ໒꒱ i cosplay sometimes",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pastabear",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pastabear",
+                "start": 0,
+                "url": "https://t.co/g9SgiScaV8"
+              }
+            ]
+          }
+        },
+        "id": "1572033976943972352",
+        "location": "23 / *ੈ𑁍༘⋆ ✚ loonaespa ults",
+        "name": "miri",
+        "pinned_tweet_id": "1991620194134028747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057540820878630912/587tHlul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26971,
+          "following_count": 819,
+          "like_count": 76015,
+          "listed_count": 43,
+          "media_count": 1579,
+          "tweet_count": 12842
+        },
+        "url": "https://t.co/g9SgiScaV8",
+        "username": "eggoslug",
+        "verified": false
+      }
+    ]
+  }
+}

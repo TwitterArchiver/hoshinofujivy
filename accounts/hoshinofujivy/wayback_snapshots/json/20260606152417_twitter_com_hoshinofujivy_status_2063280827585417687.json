@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "2063280827585417687",
+    "created_at": "2026-06-06T15:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063280827585417687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuroyei/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/kuroyei/status/2063243867403772236",
+          "start": 39,
+          "url": "https://t.co/TZNELhTMYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063280827585417687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063243867403772236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "名古屋，那边对我来说太远了\n我短期旅行，没有安排那边的行程\n\n我很想参观一下 https://t.co/TZNELhTMYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2063243863146541056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIdXKvasAA39bO.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2063280827585417687",
+        "created_at": "2026-06-06T15:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063280827585417687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuroyei/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kuroyei/status/2063243867403772236",
+              "start": 39,
+              "url": "https://t.co/TZNELhTMYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063280827585417687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063243867403772236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名古屋，那边对我来说太远了\n我短期旅行，没有安排那边的行程\n\n我很想参观一下 https://t.co/TZNELhTMYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063243863146541056"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "conversation_id": "2063243867403772236",
+        "created_at": "2026-06-06T12:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063243867403772236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBqqVCm7Y0",
+              "end": 146,
+              "expanded_url": "https://x.com/kuroyei/status/2063243867403772236/photo/1",
+              "media_key": "3_2063243863146541056",
+              "start": 123,
+              "url": "https://t.co/nBqqVCm7Y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063243867403772236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "昨日偶然、家の近くで「日中交流会」なるものが催されるのを知り、本日行ってみました。、、、がこのイベント、大失敗に終わりました😇\n\n来たのは中国人5人、日本人は主催者と僕の2人だけ\n主催者が何も考えていなかったのか、ビルの休憩エリアで交流するのみ\n\n途中で中国人2人は参加費1500円の返金を求め、主催者は WeChat で返金することを提案したが、「じゃあもう結構です」と去っていった\n（主催者には WeChat のお金を日本円に交換したいという思惑があったのだろう。でもその中国人は日本での生活が長く、恐らく WeChat Pay なんか使わない人）\n\n主催者は中国に1年留学した経験があり、HSK 6級も持っているみたいだけど、コミュニケーション能力に難があるのか、参加者と全然喋らないし中国語の発音も僕よりだいぶ下手だった\n\n昔東京で開催したときは参加費2500円でも80人集まったらしいけど、、\nここは名古屋だし難しいよねー\n\n僕は色々話題を持っているから中国人たちとけっこう喋れたけど、僕が来なかったらだいぶ地獄だっただろうなw\n\n僕は中国人2人と仲良くなれたので、得はした\nうち1人は最近名古屋に引っ越してきた留学生で、名古屋の中国人経営の料理店や物産店を紹介し、喜んでもらえた"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 26287,
+          "like_count": 228,
+          "quote_count": 9,
+          "reply_count": 22,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "昨日偶然、家の近くで「日中交流会」なるものが催されるのを知り、本日行ってみました。、、、がこのイベント、大失敗に終わりました😇\n\n来たのは中国人5人、日本人は主催者と僕の2人だけ\n主催者が何も考えていなかったのか、ビルの休憩エリアで交流するのみ https://t.co/nBqqVCm7Y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11712,
+          "following_count": 4349,
+          "like_count": 48483,
+          "listed_count": 37,
+          "media_count": 2686,
+          "tweet_count": 15511
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "name": "くろえいさん🥝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10503,
+          "following_count": 943,
+          "like_count": 127043,
+          "listed_count": 48,
+          "media_count": 9196,
+          "tweet_count": 37935
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true
+      }
+    ]
+  }
+}

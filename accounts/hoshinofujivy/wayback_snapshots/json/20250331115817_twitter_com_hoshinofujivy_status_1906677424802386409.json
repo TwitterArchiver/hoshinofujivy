@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906677414740246528"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1906677424802386409",
+    "created_at": "2025-03-31T11:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T12:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1906677424802386409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vUH3XJsEEh",
+          "end": 30,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1906677424802386409/photo/1",
+          "media_key": "3_1906677414740246528",
+          "start": 7,
+          "url": "https://t.co/vUH3XJsEEh"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/1906674908391972955",
+          "start": 31,
+          "url": "https://t.co/tNWyxnkqVi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906677424802386409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906674908391972955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吉他手在這裡 https://t.co/vUH3XJsEEh https://t.co/tNWyxnkqVi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1906674908391972955].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906674908391972955",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1906674908391972955"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_1906677414740246528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXhAbbaQAA3kZ1.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906677414740246528"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1906677424802386409",
+        "created_at": "2025-03-31T11:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T12:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906677424802386409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUH3XJsEEh",
+              "end": 30,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1906677424802386409/photo/1",
+              "media_key": "3_1906677414740246528",
+              "start": 7,
+              "url": "https://t.co/vUH3XJsEEh"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/1906674908391972955",
+              "start": 31,
+              "url": "https://t.co/tNWyxnkqVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906677424802386409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906674908391972955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吉他手在這裡 https://t.co/vUH3XJsEEh https://t.co/tNWyxnkqVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」本体是只猫｜Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 2147,
+          "like_count": 12681,
+          "listed_count": 1,
+          "media_count": 306,
+          "tweet_count": 3500
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

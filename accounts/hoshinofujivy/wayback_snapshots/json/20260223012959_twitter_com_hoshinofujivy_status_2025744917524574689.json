@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025744862830788609"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2025744917524574689",
+    "created_at": "2026-02-23T01:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T02:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025744917524574689"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNUEfaJcbj",
+          "end": 28,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2025744917524574689/photo/1",
+          "media_key": "3_2025744862830788609",
+          "start": 5,
+          "url": "https://t.co/mNUEfaJcbj"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2025095235546874258",
+          "start": 29,
+          "url": "https://t.co/kdJzIo9ZvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025744917524574689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025095235546874258",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "地月姐妹 https://t.co/mNUEfaJcbj https://t.co/kdJzIo9ZvU"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025744917524574689].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025744917524574689",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025744917524574689"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2025744862830788609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzkOEqaAAE0G1b.png",
+        "width": 510
+      },
+      {
+        "height": 841,
+        "media_key": "3_2025095228609482752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqVYYmbUAAZQrG.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025095228609482752"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2025095235546874258",
+        "created_at": "2026-02-21T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025095235546874258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdlJJAhzRM",
+              "end": 28,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2025095235546874258/photo/1",
+              "media_key": "3_2025095228609482752",
+              "start": 5,
+              "url": "https://t.co/RdlJJAhzRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025095235546874258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8407,
+          "impression_count": 2644360,
+          "like_count": 47298,
+          "quote_count": 204,
+          "reply_count": 233,
+          "retweet_count": 1981
+        },
+        "reply_settings": "everyone",
+        "text": "地球母亲 https://t.co/RdlJJAhzRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3969,
+          "following_count": 3578,
+          "like_count": 35196,
+          "listed_count": 6,
+          "media_count": 869,
+          "tweet_count": 8132
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

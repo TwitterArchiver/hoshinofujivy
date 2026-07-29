@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1900743361767895348",
+    "created_at": "2025-03-15T02:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T03:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900743361767895348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683060453528965120",
+          "start": 3,
+          "username": "NationalPureVF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900743361767895348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863127354547249448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NationalPureVF3: 或許世界根本不需要變革，也不需要救贖，日子人是多數派，世界並不糟到讓他們願意全身心投入變革，那也許現在這樣就足夠了\n我向世界屈服了嗎？或許吧\n我向惡魔妥協了嗎？或許吧\n我夢想著建立一個人人平等，無壓迫、無比較、無仇恨的世界，弱者得保護，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1900743361767895348].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1900743361767895348",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1900743361767895348"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863127351711674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdsodIIWsAAfG1K.jpg",
+        "width": 819
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863127351711674368"
+          ]
+        },
+        "author_id": "1683060453528965120",
+        "conversation_id": "1863127354547249448",
+        "created_at": "2024-12-01T07:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T08:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863127354547249448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXDN7FmCce",
+              "end": 167,
+              "expanded_url": "https://x.com/NationalPureVF3/status/1863127354547249448/photo/1",
+              "media_key": "3_1863127351711674368",
+              "start": 144,
+              "url": "https://t.co/QXDN7FmCce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863127354547249448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6486,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "或許世界根本不需要變革，也不需要救贖，日子人是多數派，世界並不糟到讓他們願意全身心投入變革，那也許現在這樣就足夠了\n我向世界屈服了嗎？或許吧\n我向惡魔妥協了嗎？或許吧\n我夢想著建立一個人人平等，無壓迫、無比較、無仇恨的世界，弱者得保護，強者受約束\n但是總有一天，我也需要從夢中醒來... https://t.co/QXDN7FmCce"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 2024,
+          "like_count": 9787,
+          "listed_count": 2,
+          "media_count": 240,
+          "tweet_count": 2845
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "一個英社主義瘋子，人類惡即人類愛\n主帳@NationalPureVF3 裏帳@vnationvendetta /不會也不懂鍵政\n老公 @Ludwig_von_Remi\n夥伴 @jawenzhu  @_Weace_ @xi1966516 @realpresidenTy 愛著藤醬主人 @hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 54,
+                "start": 38,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "_Weace_"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "xi1966516"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "realpresidenTy"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "人類智識輪迴彼岸",
+        "name": "中推圈第一偶像 織田真理子（真理醬）",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877651377809457152/Ja78B10x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 934,
+          "like_count": 50736,
+          "listed_count": 14,
+          "media_count": 847,
+          "tweet_count": 22825
+        },
+        "username": "NationalPureVF3",
+        "verified": false
+      }
+    ]
+  }
+}

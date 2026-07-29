@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2056948951404937528",
+    "created_at": "2026-05-20T05:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056964372132761845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1666425403890868224",
+          "start": 0,
+          "username": "Liberi_tki"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 54,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092?s=20",
+          "start": 31,
+          "url": "https://t.co/5sDOFlRtms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056964372132761845",
+    "in_reply_to_user_id": "1666425403890868224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047985434194776092",
+        "type": "quoted"
+      },
+      {
+        "id": "2056959717382197542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liberi_tki @grok 你问ai？\n我真的无语了\nhttps://t.co/5sDOFlRtms"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1212,
+        "media_key": "3_2047985304733388801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvnyLHakAE-8Kj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2316,
+        "media_key": "3_2047985382529396736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvn2s7bcAAFi3T.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2056948951404937528",
+        "created_at": "2026-05-20T05:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056964372132761845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1666425403890868224",
+              "start": 0,
+              "username": "Liberi_tki"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 54,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092?s=20",
+              "start": 31,
+              "url": "https://t.co/5sDOFlRtms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056964372132761845",
+        "in_reply_to_user_id": "1666425403890868224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047985434194776092",
+            "type": "quoted"
+          },
+          {
+            "id": "2056959717382197542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liberi_tki @grok 你问ai？\n我真的无语了\nhttps://t.co/5sDOFlRtms"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047985304733388801",
+            "3_2047985382529396736"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047985434194776092",
+        "created_at": "2026-04-25T10:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047985434194776092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39PjPwUVRc",
+              "end": 163,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092/photo/1",
+              "media_key": "3_2047985304733388801",
+              "start": 140,
+              "url": "https://t.co/39PjPwUVRc"
+            },
+            {
+              "display_url": "pic.x.com/39PjPwUVRc",
+              "end": 163,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092/photo/1",
+              "media_key": "3_2047985382529396736",
+              "start": 140,
+              "url": "https://t.co/39PjPwUVRc"
+            },
+            {
+              "display_url": "x.com/nekoeroemon/st…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/nekoeroemon/status/2047949292896448637",
+              "start": 164,
+              "url": "https://t.co/5KaOqF1asj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047985434194776092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/grok/share/3…",
+                "end": 190,
+                "expanded_url": "https://x.com/i/grok/share/30c97281e66d4a108339a0092edae803",
+                "start": 167,
+                "url": "https://t.co/Hx8pMYv0R9"
+              }
+            ]
+          },
+          "text": "我找到证据后，再次提问grok\n不出意料，grok否定了「照片为假」的答案，根据我的引导，它认为照片为真\n\n这很可笑....也在警示我们，ai再强大也不能把脑子交给它\n\n说是比人类检索能力强，它自己也陷入了信息茧房，因为grok只是机器，它会根据提问者的态度而选取与之相应的信息\n\n最后，我们回顾一下这张梗图\n愿我们不会成为图中的人\nhttps://t.co/Hx8pMYv0R9"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2056,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047949292896448637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我找到证据后，再次提问grok\n不出意料，grok否定了「照片为假」的答案，根据我的引导，它认为照片为真\n\n这很可笑....也在警示我们，ai再强大也不能把脑子交给它\n\n说是比人类检索能力强，它自己也陷入了信息茧房，因为grok只是机器，它会根据提问者的态度而选取与之相应的信息 https://t.co/39PjPwUVRc https://t.co/5KaOqF1asj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666425403890868224",
+        "conversation_id": "2056948951404937528",
+        "created_at": "2026-05-20T04:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056959717382197542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056959717382197542",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056948951404937528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy @grok 中国大陆的血槽姐事件为何让大众质疑献血？外界质疑的中国大陆器官活摘是否存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10994,
+          "following_count": 4307,
+          "like_count": 46348,
+          "listed_count": 35,
+          "media_count": 2338,
+          "tweet_count": 14188
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T12:43:12.000Z",
+        "description": "VividArmy-3903 Arknight-CN FF14-CN\n想要回关互关之类的可以私信( ˘ω˘)\n碎碎念 | 日常 | 会忍不住鉴证\n债务厌恶 | 嘴笨\n\nlapluma fbk alice enjoyer\n\n头像 pixiv@飞天卷饼猫",
+        "id": "1666425403890868224",
+        "location": "Sargon",
+        "name": "黎博利🐦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042867285615087622/PbQKOHUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 267,
+          "like_count": 27004,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2756
+        },
+        "username": "Liberi_tki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052556247870865408/oGdJ7sXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8754457,
+          "following_count": 4,
+          "like_count": 95,
+          "listed_count": 6873,
+          "media_count": 8950613,
+          "tweet_count": 126372762
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

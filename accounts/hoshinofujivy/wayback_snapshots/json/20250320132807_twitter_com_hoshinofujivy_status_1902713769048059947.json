@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1902705746384740365",
+    "created_at": "2025-03-20T13:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T14:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902713769048059947"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "參見吾皇",
+          "probability": 0.3574,
+          "start": 42,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "Beta_Estradiol"
+        },
+        {
+          "end": 27,
+          "id": "1224953820716945408",
+          "start": 16,
+          "username": "ChingteLai"
+        },
+        {
+          "end": 41,
+          "id": "597280883",
+          "start": 28,
+          "username": "AmChamTaiwan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902713769048059947",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902713607634534447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beta_Estradiol @ChingteLai @AmChamTaiwan 參見吾皇～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1902713607634534447].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1902713607634534447",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1902713607634534447"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1902705746384740365",
+        "created_at": "2025-03-20T13:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T14:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902713769048059947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "參見吾皇",
+              "probability": 0.3574,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "Beta_Estradiol"
+            },
+            {
+              "end": 27,
+              "id": "1224953820716945408",
+              "start": 16,
+              "username": "ChingteLai"
+            },
+            {
+              "end": 41,
+              "id": "597280883",
+              "start": 28,
+              "username": "AmChamTaiwan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902713769048059947",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902713607634534447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beta_Estradiol @ChingteLai @AmChamTaiwan 參見吾皇～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902151745796820992/n45RKABv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 2089,
+          "like_count": 10767,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 3115
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞/表@imqiuy 限时放送：我想看@Ak1raQ_love变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "imqiuy"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Ak1raQ_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 328,
+          "like_count": 3349,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "Beta_Estradiol",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361517,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1083,
+          "media_count": 333,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-02T10:16:21.000Z",
+        "description": "The American Chamber of Commerce in Taiwan. Improving the business environment in Taiwan for companies that want to be globally competitive.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amcham.com.tw",
+                "end": 23,
+                "expanded_url": "http://www.amcham.com.tw/",
+                "start": 0,
+                "url": "https://t.co/1vh9WthrxQ"
+              }
+            ]
+          }
+        },
+        "id": "597280883",
+        "location": "Taiwan",
+        "name": "AmCham Taiwan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509379300319195139/bHSlE2yV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6696,
+          "following_count": 302,
+          "like_count": 1828,
+          "listed_count": 97,
+          "media_count": 1205,
+          "tweet_count": 5087
+        },
+        "url": "https://t.co/1vh9WthrxQ",
+        "username": "AmChamTaiwan",
+        "verified": false
+      }
+    ]
+  }
+}

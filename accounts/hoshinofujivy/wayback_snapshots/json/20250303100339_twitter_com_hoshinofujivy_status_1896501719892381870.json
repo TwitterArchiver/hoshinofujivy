@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896501719892381870",
+    "created_at": "2025-03-03T10:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T11:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896501719892381870"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 25,
+          "tag": "China"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1153459165756624896",
+          "start": 3,
+          "username": "fkeverycountry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896501719892381870",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895898841481707771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fkeverycountry: Fuck #China🇨🇳."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1896501719892381870",
+        "created_at": "2025-03-03T10:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896501719892381870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 25,
+              "tag": "China"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1153459165756624896",
+              "start": 3,
+              "username": "fkeverycountry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896501719892381870",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895898841481707771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fkeverycountry: Fuck #China🇨🇳."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153459165756624896",
+        "conversation_id": "1895898841481707771",
+        "created_at": "2025-03-01T18:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T19:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895898841481707771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895898841481707771",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 197996,
+          "like_count": 2322,
+          "quote_count": 9,
+          "reply_count": 103,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "Fuck #China🇨🇳."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1825237974658990333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1841,
+          "like_count": 7220,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 2183
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-23T00:17:50.000Z",
+        "description": "Fuck every country in the world.",
+        "id": "1153459165756624896",
+        "location": "World",
+        "name": "Fuck Every Country",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154956217552445440/TUXZiv7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82550,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 64,
+          "media_count": 0,
+          "tweet_count": 26278
+        },
+        "username": "fkeverycountry",
+        "verified": true
+      }
+    ]
+  }
+}

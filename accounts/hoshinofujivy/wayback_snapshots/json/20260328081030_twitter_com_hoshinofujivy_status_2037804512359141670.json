@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2037718820685488223",
+    "created_at": "2026-03-28T08:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037804512359141670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        },
+        {
+          "end": 32,
+          "id": "1460443622533320712",
+          "start": 16,
+          "username": "_lidonhtingone_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037804512359141670",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037718820685488223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 @_lidonhtingone_ 我现在是残次奴隶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23614,
+        "height": 1246,
+        "media_key": "13_2037696093535055872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037696093535055872/img/Zhn4TyCGZbj5VUun.jpg",
+        "public_metrics": {
+          "view_count": 16024
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037696093535055872/vid/avc1/320x692/K_Zm7Dvlf94CV2Oc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037696093535055872/vid/avc1/480x1038/fwcBG0BSljC-CWQt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037696093535055872/vid/avc1/576x1246/TxjB9SsNrM2q2c-D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037696093535055872/pl/XDFDh5amYJ7nJVAO.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2037718820685488223",
+        "created_at": "2026-03-28T08:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037804512359141670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 32,
+              "id": "1460443622533320712",
+              "start": 16,
+              "username": "_lidonhtingone_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037804512359141670",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037718820685488223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @_lidonhtingone_ 我现在是残次奴隶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037696093535055872"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2037718820685488223",
+        "created_at": "2026-03-28T02:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037718820685488223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0CjLuBjNF",
+              "end": 28,
+              "expanded_url": "https://x.com/Rococo90933671/status/2037718820685488223/video/1",
+              "media_key": "13_2037696093535055872",
+              "start": 5,
+              "url": "https://t.co/a0CjLuBjNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037718820685488223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 33995,
+          "like_count": 254,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "笑不出来 https://t.co/a0CjLuBjNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7154,
+          "following_count": 3929,
+          "like_count": 40553,
+          "listed_count": 19,
+          "media_count": 1463,
+          "tweet_count": 10485
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9841,
+          "following_count": 2777,
+          "like_count": 32779,
+          "listed_count": 27,
+          "media_count": 3471,
+          "tweet_count": 19355
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-16T03:04:46.000Z",
+        "description": "114514",
+        "id": "1460443622533320712",
+        "location": "太原",
+        "name": "ldt🇨🇳",
+        "pinned_tweet_id": "2000217715953607131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678620505807507456/Re3gt1sv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 503,
+          "like_count": 476,
+          "listed_count": 1,
+          "media_count": 1316,
+          "tweet_count": 18601
+        },
+        "username": "_lidonhtingone_",
+        "verified": false
+      }
+    ]
+  }
+}

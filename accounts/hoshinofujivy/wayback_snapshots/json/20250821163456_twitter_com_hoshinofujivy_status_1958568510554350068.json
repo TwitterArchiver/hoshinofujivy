@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1958504105116307532",
+    "created_at": "2025-08-21T16:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T17:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958568510554350068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958568510554350068",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958504105116307532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 密码数据库不加盐？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_1958469108040671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy3hRwBXIAAarap.jpg",
+        "width": 697
+      },
+      {
+        "height": 1215,
+        "media_key": "3_1958469107889676288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy3hRvdXIAAYarF.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1958504105116307532",
+        "created_at": "2025-08-21T16:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T17:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958568510554350068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958568510554350068",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958504105116307532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 密码数据库不加盐？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958469108040671232",
+            "3_1958469107889676288"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1958504105116307532",
+        "created_at": "2025-08-21T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958504105116307532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6op3fcLm9X",
+              "end": 153,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1958504105116307532/photo/1",
+              "media_key": "3_1958469108040671232",
+              "start": 130,
+              "url": "https://t.co/6op3fcLm9X"
+            },
+            {
+              "display_url": "pic.x.com/6op3fcLm9X",
+              "end": 153,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1958504105116307532/photo/1",
+              "media_key": "3_1958469107889676288",
+              "start": 130,
+              "url": "https://t.co/6op3fcLm9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958504105116307532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "8月21日，有用户在 6chan 上打包出售 品葱（Pincong） 网站的数据库，内容包括用户 ID、用户名、登录账号、密码 以及 注册与登录IP地址 等敏感信息。\n\n品葱（Pincong） 是一个主要以中文为主的海外论坛，因讨论 政治、社会热点及时事话题 而知名，用户多为关注公共议题、表达批评意见或身处海外的华语群体，大部分具有自由主义政治取向，用户之间也经常分享突破网络审查的心得。\n\n消息引发广泛担忧，有网友指出，这批数据一旦被获取，可能被用于 监控、追踪甚至抓捕 持不同意见的用户。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 106355,
+          "like_count": 323,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "8月21日，有用户在 6chan 上打包出售 品葱（Pincong） 网站的数据库，内容包括用户 ID、用户名、登录账号、密码 以及 注册与登录IP地址 等敏感信息。\n\n品葱（Pincong） 是一个主要以中文为主的海外论坛，因讨论 政治、社会热点及时事话题 https://t.co/6op3fcLm9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1955587540188336450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957338607351709696/ZLE61Nkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 2481,
+          "like_count": 23830,
+          "listed_count": 4,
+          "media_count": 533,
+          "tweet_count": 5765
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084623,
+          "following_count": 983,
+          "like_count": 7958,
+          "listed_count": 8275,
+          "media_count": 33759,
+          "tweet_count": 40515
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

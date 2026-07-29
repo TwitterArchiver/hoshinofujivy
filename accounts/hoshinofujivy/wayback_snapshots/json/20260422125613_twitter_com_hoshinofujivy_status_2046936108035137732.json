@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2046847788370337993",
+    "created_at": "2026-04-22T12:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046936108035137732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926190382418644992",
+          "start": 0,
+          "username": "Ps0eTB3Swp14638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046936108035137732",
+    "in_reply_to_user_id": "1926190382418644992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046901676557173205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ps0eTB3Swp14638 成功了，现在是灵魂和你对话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2046847788370337993",
+        "created_at": "2026-04-22T12:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046936108035137732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926190382418644992",
+              "start": 0,
+              "username": "Ps0eTB3Swp14638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046936108035137732",
+        "in_reply_to_user_id": "1926190382418644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046901676557173205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ps0eTB3Swp14638 成功了，现在是灵魂和你对话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926190382418644992",
+        "conversation_id": "2046847788370337993",
+        "created_at": "2026-04-22T10:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046901676557173205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046901676557173205",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046847788370337993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 自杀成功了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9152,
+          "following_count": 4225,
+          "like_count": 44122,
+          "listed_count": 33,
+          "media_count": 1907,
+          "tweet_count": 12524
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T08:16:04.000Z",
+        "description": "10年程序员，摆脱困境，从0开始\n寻找人生出路，跟随时代科技前沿\n分享经验，资源，成长历程，以及各种副业探索变现方法",
+        "id": "1926190382418644992",
+        "name": "加冰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044320628766060545/a_n-A6Ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 251,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 297
+        },
+        "username": "Ps0eTB3Swp14638",
+        "verified": true
+      }
+    ]
+  }
+}

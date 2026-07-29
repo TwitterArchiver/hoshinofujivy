@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2071267359185342763",
+    "created_at": "2026-06-29T04:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071453955654386109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1359019841718374402",
+          "start": 0,
+          "username": "webyuin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071453955654386109",
+    "in_reply_to_user_id": "1359019841718374402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071334914864103816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@webyuin 当我看到法国入选五常，我就知道这东西的含金量还不如奥运金牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2071267359185342763",
+        "created_at": "2026-06-29T04:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071453955654386109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1359019841718374402",
+              "start": 0,
+              "username": "webyuin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071453955654386109",
+        "in_reply_to_user_id": "1359019841718374402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071334914864103816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@webyuin 当我看到法国入选五常，我就知道这东西的含金量还不如奥运金牌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359019841718374402",
+        "conversation_id": "2071267359185342763",
+        "created_at": "2026-06-28T20:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T21:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071334914864103816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071334914864103816",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071267359185342763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 再怎么选也是在五常里选啊。选个日本干嘛？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 4379,
+          "like_count": 49747,
+          "listed_count": 36,
+          "media_count": 3011,
+          "tweet_count": 16777
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-09T06:02:42.000Z",
+        "description": "",
+        "id": "1359019841718374402",
+        "name": "Klkl",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 845,
+          "like_count": 63,
+          "listed_count": 11,
+          "media_count": 27,
+          "tweet_count": 347
+        },
+        "url": "",
+        "username": "webyuin",
+        "verified": false
+      }
+    ]
+  }
+}

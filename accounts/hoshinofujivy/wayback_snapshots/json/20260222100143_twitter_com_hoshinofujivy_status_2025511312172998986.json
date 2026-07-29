@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2025418160430874818",
+    "created_at": "2026-02-22T10:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025511312172998986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1206820447662133248",
+          "start": 0,
+          "username": "Max760Japan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025511312172998986",
+    "in_reply_to_user_id": "1206820447662133248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025475239493468456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Max760Japan 我想确认一下是哪些角色，可以给我图片吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2025418160430874818",
+        "created_at": "2026-02-22T10:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025511312172998986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1206820447662133248",
+              "start": 0,
+              "username": "Max760Japan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025511312172998986",
+        "in_reply_to_user_id": "1206820447662133248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025475239493468456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Max760Japan 我想确认一下是哪些角色，可以给我图片吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1206820447662133248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2025418160430874818",
+        "created_at": "2026-02-22T07:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025475239493468456"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "モリガン",
+              "probability": 0.5611,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 27,
+              "normalized_text": "ナコルル",
+              "probability": 0.7864,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "イングリッド",
+              "probability": 0.417,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025475239493468456",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025418160430874818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 出来ればモリガンとナコルルとイングリッドの共演イラスト描いてほしいです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3580,
+          "following_count": 3542,
+          "like_count": 35084,
+          "listed_count": 6,
+          "media_count": 852,
+          "tweet_count": 8086
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-17T06:16:35.000Z",
+        "description": "私は、Max760です。 私はアメコミ、漫画、アニメ、ゲーム、政治、TF、自動車、サブカルと映画やF1、WRCの話をしたり保守でアマチュアの物書きです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/max760japan",
+                "end": 23,
+                "expanded_url": "http://note.com/max760japan",
+                "start": 0,
+                "url": "https://t.co/e5Eki3reDU"
+              }
+            ]
+          }
+        },
+        "id": "1206820447662133248",
+        "location": "New York, USA",
+        "name": "Max760",
+        "pinned_tweet_id": "1206896859953762305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020350526760873984/AH--LwOP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 4999,
+          "like_count": 82730,
+          "listed_count": 19,
+          "media_count": 2896,
+          "tweet_count": 105491
+        },
+        "url": "https://t.co/e5Eki3reDU",
+        "username": "Max760Japan",
+        "verified": false
+      }
+    ]
+  }
+}

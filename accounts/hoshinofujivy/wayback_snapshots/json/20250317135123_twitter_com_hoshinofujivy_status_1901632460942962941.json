@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1901619824150888948",
+    "created_at": "2025-03-17T13:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T14:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901632460942962941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889647549985988613",
+          "start": 0,
+          "username": "ZDTYGYHL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901632460942962941",
+    "in_reply_to_user_id": "1889647549985988613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901619824150888948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZDTYGYHL 又不是我要看的（杂鱼）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1901619824150888948",
+        "created_at": "2025-03-17T13:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T14:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901632460942962941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889647549985988613",
+              "start": 0,
+              "username": "ZDTYGYHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901632460942962941",
+        "in_reply_to_user_id": "1889647549985988613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901619824150888948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZDTYGYHL 又不是我要看的（杂鱼）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889647549985988613",
+        "conversation_id": "1901619824150888948",
+        "created_at": "2025-03-17T13:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T14:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901619824150888948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/1901165504745570346",
+              "start": 14,
+              "url": "https://t.co/tduCqOj1sn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901619824150888948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901165504745570346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这年头看黄都那么大胆了吗？ https://t.co/tduCqOj1sn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 2057,
+          "like_count": 10089,
+          "listed_count": 2,
+          "media_count": 253,
+          "tweet_count": 2950
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T12:08:27.000Z",
+        "description": "账号来回切换中",
+        "id": "1889647549985988613",
+        "location": "中华人民共和国 山东省 青岛市 市北区",
+        "name": "裁，环！",
+        "pinned_tweet_id": "1901521146593636458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901545486676586496/ThLdM42V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 108,
+          "like_count": 4335,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1062
+        },
+        "username": "ZDTYGYHL",
+        "verified": false
+      }
+    ]
+  }
+}

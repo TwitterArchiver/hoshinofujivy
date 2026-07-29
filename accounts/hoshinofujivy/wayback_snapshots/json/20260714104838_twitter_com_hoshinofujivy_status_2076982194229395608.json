@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076982178265841664",
+        "3_2076982186952343552"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2076982194229395608",
+    "created_at": "2026-07-14T10:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076982194229395608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vJKdhUe18W",
+          "end": 56,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2076982194229395608/photo/1",
+          "media_key": "3_2076982178265841664",
+          "start": 33,
+          "url": "https://t.co/vJKdhUe18W"
+        },
+        {
+          "display_url": "pic.x.com/vJKdhUe18W",
+          "end": 56,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2076982194229395608/photo/1",
+          "media_key": "3_2076982186952343552",
+          "start": 33,
+          "url": "https://t.co/vJKdhUe18W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076982194229395608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么这种视频点赞收藏量都那么高？？？\n\n随便一百度都能出来的吧 https://t.co/vJKdhUe18W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076982178265841664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLsSWxaQAAd_Y0.jpg",
+        "width": 955
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076982186952343552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLsS3IbwAAmfX2.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076982178265841664",
+            "3_2076982186952343552"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2076982194229395608",
+        "created_at": "2026-07-14T10:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076982194229395608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJKdhUe18W",
+              "end": 56,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2076982194229395608/photo/1",
+              "media_key": "3_2076982178265841664",
+              "start": 33,
+              "url": "https://t.co/vJKdhUe18W"
+            },
+            {
+              "display_url": "pic.x.com/vJKdhUe18W",
+              "end": 56,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2076982194229395608/photo/1",
+              "media_key": "3_2076982186952343552",
+              "start": 33,
+              "url": "https://t.co/vJKdhUe18W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076982194229395608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么这种视频点赞收藏量都那么高？？？\n\n随便一百度都能出来的吧 https://t.co/vJKdhUe18W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12733,
+          "following_count": 4400,
+          "like_count": 51218,
+          "listed_count": 29,
+          "media_count": 3276,
+          "tweet_count": 17720
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

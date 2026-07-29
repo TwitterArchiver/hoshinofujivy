@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022312875348623360"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2022312883900875123",
+    "created_at": "2026-02-13T14:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022312883900875123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bsvlvco688",
+          "end": 32,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2022312883900875123/photo/1",
+          "media_key": "3_2022312875348623360",
+          "start": 9,
+          "url": "https://t.co/Bsvlvco688"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022312883900875123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明刚刚换的背板 https://t.co/Bsvlvco688"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2022312875348623360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCy2G_agAAbPA-.jpg",
+        "width": 1560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022312875348623360"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2022312883900875123",
+        "created_at": "2026-02-13T14:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022312883900875123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bsvlvco688",
+              "end": 32,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2022312883900875123/photo/1",
+              "media_key": "3_2022312875348623360",
+              "start": 9,
+              "url": "https://t.co/Bsvlvco688"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022312883900875123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明刚刚换的背板 https://t.co/Bsvlvco688"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2429,
+          "following_count": 2980,
+          "like_count": 34505,
+          "listed_count": 4,
+          "media_count": 801,
+          "tweet_count": 7784
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

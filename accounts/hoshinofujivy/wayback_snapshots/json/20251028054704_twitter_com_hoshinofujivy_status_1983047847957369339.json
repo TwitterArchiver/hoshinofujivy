@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983047429801779201"
+      ],
+      "media_source_tweet_id": [
+        "1983047447606677644"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1983047847957369339",
+    "created_at": "2025-10-28T05:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983047847957369339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1808047925676986368",
+          "start": 3,
+          "username": "xxx_zzx71446"
+        },
+        {
+          "end": 37,
+          "id": "1622066090074607616",
+          "start": 23,
+          "username": "hoshinofujivy"
+        },
+        {
+          "end": 60,
+          "id": "1683060453528965120",
+          "start": 44,
+          "username": "NationalPureVF4"
+        },
+        {
+          "end": 78,
+          "id": "1622066090074607616",
+          "start": 64,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1AKmSC74c5",
+          "end": 107,
+          "expanded_url": "https://x.com/xxx_zzx71446/status/1983047447606677644/photo/1",
+          "media_key": "3_1983047429801779201",
+          "start": 84,
+          "url": "https://t.co/1AKmSC74c5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983047847957369339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983047447606677644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_zzx71446: 谢谢来自 @hoshinofujivy 的信件，祝贺@NationalPureVF4  和 @hoshinofujivy百年好合！ https://t.co/1AKmSC74c5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983047847957369339].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983047847957369339",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983047847957369339"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983047429801779201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UzIXoWIAEKnL1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983047429801779201"
+          ]
+        },
+        "author_id": "1808047925676986368",
+        "conversation_id": "1983047447606677644",
+        "created_at": "2025-10-28T05:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983047447606677644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1622066090074607616",
+              "start": 5,
+              "username": "hoshinofujivy"
+            },
+            {
+              "end": 42,
+              "id": "1683060453528965120",
+              "start": 26,
+              "username": "NationalPureVF4"
+            },
+            {
+              "end": 60,
+              "id": "1622066090074607616",
+              "start": 46,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AKmSC74c5",
+              "end": 89,
+              "expanded_url": "https://x.com/xxx_zzx71446/status/1983047447606677644/photo/1",
+              "media_key": "3_1983047429801779201",
+              "start": 66,
+              "url": "https://t.co/1AKmSC74c5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983047447606677644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢来自 @hoshinofujivy 的信件，祝贺@NationalPureVF4  和 @hoshinofujivy百年好合！ https://t.co/1AKmSC74c5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 2555,
+          "like_count": 26513,
+          "listed_count": 4,
+          "media_count": 558,
+          "tweet_count": 6060
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "",
+        "id": "1808047925676986368",
+        "location": "Kinmen County, Taiwan",
+        "name": "流光诺梦",
+        "pinned_tweet_id": "1944555453855551750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981046735225913344/HPTthMmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 385,
+          "like_count": 8822,
+          "listed_count": 4,
+          "media_count": 1236,
+          "tweet_count": 10428
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "過氣的中推圈偶像-織田真理子，織田集團的大小姐，德意志第四帝國元首，別稱：真理子/軟糯真理醬/元首/Veritatis/薇蕾娜\n 裏帳@vnationvendetta \n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu  @_Weace_ @realpresidenTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "username": "_Weace_"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "realpresidenTy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "羽丘女子學園",
+        "name": "魅魔元首醬-薇蕾娜•馮•萊因哈特",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966771067063857153/w21lRqFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1080,
+          "like_count": 66775,
+          "listed_count": 17,
+          "media_count": 1109,
+          "tweet_count": 29811
+        },
+        "username": "NationalPureVF4",
+        "verified": false
+      }
+    ]
+  }
+}

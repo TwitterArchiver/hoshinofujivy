@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1900789345604468736"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1900789356404888039",
+    "created_at": "2025-03-15T06:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T07:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900789356404888039"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8pW9sNeCE6",
+          "end": 41,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1900789356404888039/photo/1",
+          "media_key": "3_1900789345604468736",
+          "start": 18,
+          "url": "https://t.co/8pW9sNeCE6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900789356404888039",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉这是我的极限了\n神话段太难打了 https://t.co/8pW9sNeCE6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1900789345604468736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmD11smaAAAjEwC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900789345604468736"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900789356404888039",
+        "created_at": "2025-03-15T06:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T07:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900789356404888039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pW9sNeCE6",
+              "end": 41,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1900789356404888039/photo/1",
+              "media_key": "3_1900789345604468736",
+              "start": 18,
+              "url": "https://t.co/8pW9sNeCE6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900789356404888039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这是我的极限了\n神话段太难打了 https://t.co/8pW9sNeCE6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 2043,
+          "like_count": 9830,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2873
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1233118510399680514",
+          "name": "Trap"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1371911295511920640",
+          "name": "Trueno"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026295477",
+          "name": "Toyota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026295477",
+          "name": "Toyota"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      }
+    ],
+    "conversation_id": "2030121964212473943",
+    "created_at": "2026-03-07T03:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030121964212473943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/autoass/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/autoass/status/2030007618882748604",
+          "start": 9,
+          "url": "https://t.co/oqvlb3oKVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030121964212473943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030007618882748604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这辆车是真的想要 https://t.co/oqvlb3oKVD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19413,
+        "height": 1280,
+        "media_key": "7_2030007592735350784",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2030007592735350784/pu/img/hVG3XnKYCbo1Smfm.jpg",
+        "public_metrics": {
+          "view_count": 12713
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030007592735350784/pu/vid/avc1/320x568/qeXiAXHP3hy0Wqsu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030007592735350784/pu/vid/avc1/480x852/LEU29QXGsbrCqRat.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2030007592735350784/pu/vid/avc1/720x1280/IiE0_ZmMXrtEUacT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2030007592735350784/pu/pl/T6K_9gP8umnDvT1G.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1233118510399680514",
+              "name": "Trap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1371911295511920640",
+              "name": "Trueno"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2030121964212473943",
+        "created_at": "2026-03-07T03:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030121964212473943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/autoass/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/autoass/status/2030007618882748604",
+              "start": 9,
+              "url": "https://t.co/oqvlb3oKVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030121964212473943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030007618882748604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这辆车是真的想要 https://t.co/oqvlb3oKVD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2030007592735350784"
+          ]
+        },
+        "author_id": "840286695421595649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1233118510399680514",
+              "name": "Trap"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1371911295511920640",
+              "name": "Trueno"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026295477",
+              "name": "Toyota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          }
+        ],
+        "conversation_id": "2030007618882748604",
+        "created_at": "2026-03-06T19:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030007618882748604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Toyota AE-86 Sprinter Trueno",
+              "probability": 0.6203,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0V50mOm1xb",
+              "end": 52,
+              "expanded_url": "https://x.com/autoass/status/2030007618882748604/video/1",
+              "media_key": "7_2030007592735350784",
+              "start": 29,
+              "url": "https://t.co/0V50mOm1xb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030007618882748604",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 43148,
+          "like_count": 2368,
+          "quote_count": 20,
+          "reply_count": 10,
+          "retweet_count": 299
+        },
+        "reply_settings": "everyone",
+        "text": "Toyota AE-86 Sprinter Trueno https://t.co/0V50mOm1xb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4689,
+          "following_count": 3828,
+          "like_count": 37396,
+          "listed_count": 9,
+          "media_count": 1040,
+          "tweet_count": 8999
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-10T19:42:14.000Z",
+        "description": "Follower Goal: 505k 🔥\nInsta @ AutoassOfficial\nDM your car for a shoutout/ post. All types of cars welcome. DMs open.",
+        "id": "840286695421595649",
+        "location": "New York, USA",
+        "name": "Autoass Media",
+        "pinned_tweet_id": "2028640209567440988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862077554884030464/1IH4AwSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501346,
+          "following_count": 166,
+          "like_count": 21523,
+          "listed_count": 648,
+          "media_count": 10486,
+          "tweet_count": 15461
+        },
+        "username": "autoass",
+        "verified": true
+      }
+    ]
+  }
+}

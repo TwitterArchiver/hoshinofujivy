@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1926115826093982139",
+    "created_at": "2025-05-24T06:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T07:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926162581858799697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884959792390938624",
+          "start": 0,
+          "username": "mengqing5735"
+        },
+        {
+          "end": 24,
+          "id": "964534819664289792",
+          "start": 14,
+          "username": "SujitGund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926162581858799697",
+    "in_reply_to_user_id": "1884959792390938624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926115826093982139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengqing5735 @SujitGund 嗯，再见"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926115826093982139].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926115826093982139",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926115826093982139"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1926115826093982139",
+        "created_at": "2025-05-24T06:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T07:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926162581858799697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing5735"
+            },
+            {
+              "end": 24,
+              "id": "964534819664289792",
+              "start": 14,
+              "username": "SujitGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926162581858799697",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926115826093982139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing5735 @SujitGund 嗯，再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN25mg"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "織田信藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 2373,
+          "like_count": 19115,
+          "listed_count": 2,
+          "media_count": 399,
+          "tweet_count": 4479
+        },
+        "url": "https://t.co/CgxvdN25mg",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "梦情已淡推，祝好\nhttps://t.co/6zSxpOisfy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/SujitGund",
+                "end": 32,
+                "expanded_url": "https://x.com/SujitGund",
+                "start": 9,
+                "url": "https://t.co/6zSxpOisfy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/SujitGund",
+                "end": 23,
+                "expanded_url": "https://x.com/SujitGund",
+                "start": 0,
+                "url": "https://t.co/6zSxpOisfy"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "name": "梦情",
+        "pinned_tweet_id": "1926115826093982139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917588872252588032/_RNdNxeK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 1054,
+          "like_count": 13915,
+          "listed_count": 5,
+          "media_count": 364,
+          "tweet_count": 6658
+        },
+        "url": "https://t.co/6zSxpOisfy",
+        "username": "mengqing5735",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "鼓吹战争的，完全不了解我这个人就说我是支那猪的滚一边去 现在看X就是看个乐😅 推特千万不要设置出生日期，精神正常的药娘欢迎交朋友，跨➗滚一边去",
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "心思噶酱～",
+        "pinned_tweet_id": "1905993114470264903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885506654764228610/kg8iTPpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 101,
+          "like_count": 9751,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 3355
+        },
+        "username": "SujitGund",
+        "verified": false
+      }
+    ]
+  }
+}

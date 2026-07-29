@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1957296738236010968",
+    "created_at": "2025-08-28T12:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T13:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961041358673907719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saoweve"
+        },
+        {
+          "end": 18,
+          "id": "908312740455907330",
+          "start": 9,
+          "username": "qiuylove"
+        },
+        {
+          "end": 29,
+          "id": "1817821126640496640",
+          "start": 19,
+          "username": "MTNEKO123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961041358673907719",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957296738236010968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saoweve @qiuylove @MTNEKO123 面条喵发生什么事了…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [MTNEKO123].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "MTNEKO123",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "MTNEKO123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1957296738236010968",
+        "created_at": "2025-08-28T12:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T13:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961041358673907719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saoweve"
+            },
+            {
+              "end": 18,
+              "id": "908312740455907330",
+              "start": 9,
+              "username": "qiuylove"
+            },
+            {
+              "end": 29,
+              "id": "1817821126640496640",
+              "start": 19,
+              "username": "MTNEKO123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961041358673907719",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957296738236010968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saoweve @qiuylove @MTNEKO123 面条喵发生什么事了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1957296738236010968",
+        "created_at": "2025-08-18T04:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T05:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957296738236010968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817821126640496640",
+              "start": 3,
+              "username": "MTNEKO123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957296738236010968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3811,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "谁能把@MTNEKO123 盒子开了报警啊😭👊\n现在她自杀倾向很严重，需要重点关注"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1955587540188336450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960599713562157056/oV1hQL00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 2481,
+          "like_count": 24161,
+          "listed_count": 6,
+          "media_count": 546,
+          "tweet_count": 5899
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 不翻车 & 不是男娘从未女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1960677477581512828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959236243205804032/-RNaW-TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5950,
+          "following_count": 408,
+          "like_count": 31706,
+          "listed_count": 15,
+          "media_count": 1885,
+          "tweet_count": 17168
+        },
+        "username": "saoweve",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺一只出厂16年的MtF噢/😣未炸柜但被迫断糖😭/退役CChOer/INFP/les/sub/免费私信树洞 /回忆存档 @imqiuy /✈️https://t.co/BFK1NVA58J 我想看@Ak1raQ_love 变男娘🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 95,
+                "username": "imqiuy"
+              },
+              {
+                "end": 145,
+                "start": 133,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 129,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 106,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🏳️‍⚧️ 小秋月🎀🍥 🕯️",
+        "pinned_tweet_id": "1902942928017793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 545,
+          "like_count": 24796,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1817
+        },
+        "username": "qiuylove",
+        "verified": false
+      }
+    ]
+  }
+}

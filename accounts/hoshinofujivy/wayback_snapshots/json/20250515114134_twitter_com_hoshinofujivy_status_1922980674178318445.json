@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1922542093571875080",
+    "created_at": "2025-05-15T11:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T12:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922980674178318445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        },
+        {
+          "end": 27,
+          "id": "1699298317392580608",
+          "start": 15,
+          "username": "bakajinping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922980674178318445",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922542093571875080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 @bakajinping 欸\n小八的新頭像(*≧ω≦)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1922535882713899008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq44MwUaoAAJWCv.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_1922535927047421952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq44PVeWgAATYtU.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_1922537752475926529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq455lubAAE6fH5.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_1922539194850934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq47Ni_bAAAyvRV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1922542093571875080",
+        "created_at": "2025-05-15T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922980674178318445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            },
+            {
+              "end": 27,
+              "id": "1699298317392580608",
+              "start": 15,
+              "username": "bakajinping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922980674178318445",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922542093571875080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 @bakajinping 欸\n小八的新頭像(*≧ω≦)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922535882713899008",
+            "3_1922535927047421952",
+            "3_1922537752475926529",
+            "3_1922539194850934784"
+          ]
+        },
+        "author_id": "1331221058301542400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1922542093571875080",
+        "created_at": "2025-05-14T06:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T07:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922542093571875080"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "帶著小八去旅行"
+            },
+            {
+              "end": 24,
+              "start": 15,
+              "tag": "大東亞惡臭紀念日"
+            },
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "民國114年514報道"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkspVGYCMb",
+              "end": 138,
+              "expanded_url": "https://x.com/hachineko1208/status/1922542093571875080/photo/1",
+              "media_key": "3_1922535882713899008",
+              "start": 115,
+              "url": "https://t.co/AkspVGYCMb"
+            },
+            {
+              "display_url": "pic.x.com/AkspVGYCMb",
+              "end": 138,
+              "expanded_url": "https://x.com/hachineko1208/status/1922542093571875080/photo/1",
+              "media_key": "3_1922535927047421952",
+              "start": 115,
+              "url": "https://t.co/AkspVGYCMb"
+            },
+            {
+              "display_url": "pic.x.com/AkspVGYCMb",
+              "end": 138,
+              "expanded_url": "https://x.com/hachineko1208/status/1922542093571875080/photo/1",
+              "media_key": "3_1922537752475926529",
+              "start": 115,
+              "url": "https://t.co/AkspVGYCMb"
+            },
+            {
+              "display_url": "pic.x.com/AkspVGYCMb",
+              "end": 138,
+              "expanded_url": "https://x.com/hachineko1208/status/1922542093571875080/photo/1",
+              "media_key": "3_1922539194850934784",
+              "start": 115,
+              "url": "https://t.co/AkspVGYCMb"
+            },
+            {
+              "display_url": "x.com/hachineko1208/…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/hachineko1208/status/1918820367910818193",
+              "start": 139,
+              "url": "https://t.co/YeXPS7jVkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922542093571875080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1058,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918820367910818193",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#帶著小八去旅行\n\n為了慶祝 #大東亞惡臭紀念日，並且執行 #民國114年514報道，小八的禮物都已經讓郵差叔叔蓋上戳印，並從基隆新豐街郵局寄出了喵 ( 雖然郵局人員一早就接到那多信件而感到錯愕)，接下來小八要宣布下一個企劃喵~ https://t.co/AkspVGYCMb https://t.co/YeXPS7jVkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "最高領袖的影守护者·星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 2343,
+          "like_count": 18337,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 4382
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 備用帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "瘋唐小八猫 @北角銀行招財貓 @八通關山友會 🏔️萌寵",
+        "pinned_tweet_id": "1922542093571875080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922976398127300608/QynYvI5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 548,
+          "like_count": 143363,
+          "listed_count": 8,
+          "media_count": 1464,
+          "tweet_count": 7947
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "ㄅㄠみ",
+        "id": "1699298317392580608",
+        "location": "offline ",
+        "name": "🗷",
+        "pinned_tweet_id": "1913665546392150405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919683139288629251/pC_UxtN5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 716,
+          "like_count": 62223,
+          "listed_count": 4,
+          "media_count": 3583,
+          "tweet_count": 21077
+        },
+        "username": "bakajinping",
+        "verified": false
+      }
+    ]
+  }
+}

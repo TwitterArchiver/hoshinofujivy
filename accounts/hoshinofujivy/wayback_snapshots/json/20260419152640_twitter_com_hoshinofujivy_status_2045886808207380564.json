@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2045776993942397317",
+    "created_at": "2026-04-19T15:26:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:26:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045886808207380564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1452668476208783362",
+          "start": 0,
+          "username": "rtase9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045886808207380564",
+    "in_reply_to_user_id": "1452668476208783362",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045882164504576318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rtase9 懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2045776993942397317",
+        "created_at": "2026-04-19T15:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045886808207380564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1452668476208783362",
+              "start": 0,
+              "username": "rtase9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045886808207380564",
+        "in_reply_to_user_id": "1452668476208783362",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045882164504576318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rtase9 懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1452668476208783362",
+        "conversation_id": "2045776993942397317",
+        "created_at": "2026-04-19T15:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045882164504576318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045882164504576318",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045878429032308810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy N=直觉型，欢乐来源于下大棋，而不是吃喝玩乐；J=判断型，对完成计划很执着。总之，就是要先解放全人类，然后才解放自己。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8945,
+          "following_count": 4181,
+          "like_count": 43821,
+          "listed_count": 30,
+          "media_count": 1842,
+          "tweet_count": 12298
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-25T16:09:04.000Z",
+        "description": "",
+        "id": "1452668476208783362",
+        "name": "may",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506699130264965120/O9wFNlbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 101,
+          "like_count": 76329,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 10281
+        },
+        "username": "rtase9",
+        "verified": false
+      }
+    ]
+  }
+}

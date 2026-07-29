@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1896526940393394308",
+    "created_at": "2025-03-03T11:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896526940393394308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721381996960845824",
+          "start": 3,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896526940393394308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 253
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893270354778562919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laozhouhengmei: 在很长的一段时间里，习近平是我最希望不存在于世界的一个人。\n\n但如果今天灯神给我一个选择：习近平和川普，我可以选择让其中一人消失，我会选谁？\n\n我会毫不犹豫选择川普。\n\n我觉得习近平的很多问题都来自于他自身的认知不足，但川普是真正的坏。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_1893270346222182401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkY_WVJaoAE0Txh.jpg",
+        "width": 1064
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1893270346012467201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkY_WUXaoAEJ225.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1896526940393394308",
+        "created_at": "2025-03-03T11:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896526940393394308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721381996960845824",
+              "start": 3,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896526940393394308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893270354778562919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laozhouhengmei: 在很长的一段时间里，习近平是我最希望不存在于世界的一个人。\n\n但如果今天灯神给我一个选择：习近平和川普，我可以选择让其中一人消失，我会选谁？\n\n我会毫不犹豫选择川普。\n\n我觉得习近平的很多问题都来自于他自身的认知不足，但川普是真正的坏。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893270346222182401",
+            "3_1893270346012467201"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1893270354778562919",
+        "created_at": "2025-02-22T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893270354778562919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jV7qD6uds4",
+              "end": 169,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1893270354778562919/photo/1",
+              "media_key": "3_1893270346222182401",
+              "start": 146,
+              "url": "https://t.co/jV7qD6uds4"
+            },
+            {
+              "display_url": "pic.x.com/jV7qD6uds4",
+              "end": 169,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1893270354778562919/photo/1",
+              "media_key": "3_1893270346012467201",
+              "start": 146,
+              "url": "https://t.co/jV7qD6uds4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893270354778562919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在很长的一段时间里，习近平是我最希望不存在于世界的一个人。\n\n但如果今天灯神给我一个选择：习近平和川普，我可以选择让其中一人消失，我会选谁？\n\n我会毫不犹豫选择川普。\n\n我觉得习近平的很多问题都来自于他自身的认知不足，但川普是真正的坏。\n\n毕竟文革爆发的时候，习近平正好13岁小学刚毕业。\n\n14岁的时候父亲就被批斗，往后10年没有一个安稳受教育的环境。 所以习近平有这样的认知和价值观是正常的，甚至可以说，习近平自己也是中共的受害者。\n\n但川普有什么借口？他是个富二代，继承了父亲Fred Trump 巨额的财富（换算成2018年货币等同于10亿美元）。他从小接受精英教育，毕业于常青藤大学UPenn。\n\n他的一切行为，来源于他是一个没有核心价值观的人。他可以为了获取自己的利益不择手段；他撒谎成性，是一个没有是非观、没有同情心、唯利是图的，有文化的流氓。\n\n他跟习近平的差别，只是他生在一个制度和宪法不能让他完全胡作非为的国家。但即便如此，他都已经能如此肆无忌惮，你可以想象如果他出生在中国并获得权力，他必定会是一个比毛泽东更加凶残，更加无法无天的土皇帝。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 713132,
+          "like_count": 3038,
+          "quote_count": 57,
+          "reply_count": 713,
+          "retweet_count": 253
+        },
+        "reply_settings": "everyone",
+        "text": "在很长的一段时间里，习近平是我最希望不存在于世界的一个人。\n\n但如果今天灯神给我一个选择：习近平和川普，我可以选择让其中一人消失，我会选谁？\n\n我会毫不犹豫选择川普。\n\n我觉得习近平的很多问题都来自于他自身的认知不足，但川普是真正的坏。\n\n毕竟文革爆发的时候，习近平正好13岁小学刚毕业。… https://t.co/jV7qD6uds4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1825237974658990333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1846,
+          "like_count": 7270,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2202
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管4个月破10万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72888,
+          "following_count": 107,
+          "like_count": 7114,
+          "listed_count": 306,
+          "media_count": 393,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

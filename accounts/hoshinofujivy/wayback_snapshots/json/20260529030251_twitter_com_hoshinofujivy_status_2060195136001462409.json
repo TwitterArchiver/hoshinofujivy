@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2060058318761230653",
+    "created_at": "2026-05-29T03:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T04:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060195136001462409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "14281684",
+          "start": 0,
+          "username": "op14e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060195136001462409",
+    "in_reply_to_user_id": "14281684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060184215648600490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@op14e 前提是我能有两万块啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2060058318761230653",
+        "created_at": "2026-05-29T03:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T04:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060195136001462409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "14281684",
+              "start": 0,
+              "username": "op14e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060195136001462409",
+        "in_reply_to_user_id": "14281684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060184215648600490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@op14e 前提是我能有两万块啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14281684",
+        "conversation_id": "2060058318761230653",
+        "created_at": "2026-05-29T02:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060184215648600490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060184215648600490",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060058318761230653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 招行转出限额2W……跟吃土没啥区别……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11539,
+          "following_count": 4320,
+          "like_count": 46944,
+          "listed_count": 39,
+          "media_count": 2464,
+          "tweet_count": 14777
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-02T09:02:33.000Z",
+        "description": "颍川旧家 / 彩云之南 / 高级西点师 / AOPA飞手 / DJI农机飞手 / CISP / ACE / 无线电B / 赛博保安",
+        "id": "14281684",
+        "name": "墨默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611352734510514176/OGP1YdY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 678,
+          "like_count": 1939,
+          "listed_count": 8,
+          "media_count": 133,
+          "tweet_count": 7085
+        },
+        "username": "op14e",
+        "verified": false
+      }
+    ]
+  }
+}

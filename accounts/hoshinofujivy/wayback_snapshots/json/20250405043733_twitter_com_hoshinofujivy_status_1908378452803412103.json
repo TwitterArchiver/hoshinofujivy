@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1908378452803412103",
+    "created_at": "2025-04-05T04:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T05:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908378452803412103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683060453528965120",
+          "start": 3,
+          "username": "NationalPureVF3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908378452803412103",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908190793455775933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NationalPureVF3: 推友們來銳評一下我，好的壞的評價都可以喔~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1908378452803412103",
+        "created_at": "2025-04-05T04:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T05:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908378452803412103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1683060453528965120",
+              "start": 3,
+              "username": "NationalPureVF3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908378452803412103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908190793455775933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NationalPureVF3: 推友們來銳評一下我，好的壞的評價都可以喔~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683060453528965120",
+        "conversation_id": "1908190793455775933",
+        "created_at": "2025-04-04T16:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T17:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908190793455775933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kanpaku_Yakumo…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Kanpaku_Yakumo/status/1908164862209044903",
+              "start": 22,
+              "url": "https://t.co/Ww2J0y1SmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908190793455775933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 281,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908164862209044903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推友們來銳評一下我，好的壞的評價都可以喔~ https://t.co/Ww2J0y1SmK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」本体是只猫｜Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 2172,
+          "like_count": 13578,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3623
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "織田集團的大小姐，別稱：真理子/領袖/真理醬/軟糯真理醬\n主帳@NationalPureVF3 裏帳@vnationvendetta \n喜歡老公 @Ludwig_von_Remi\n夥伴 @jawenzhu  @_Weace_ @xi1966516 @realpresidenTy 愛藤醬主人 @hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Ludwig_von_Remi"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "_Weace_"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "xi1966516"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "realpresidenTy"
+              },
+              {
+                "end": 160,
+                "start": 146,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "羽丘女子學園",
+        "name": "中推圈第一偶像 織田真理子（真理醬）",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906964835004518400/XQ0kDbFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468,
+          "following_count": 970,
+          "like_count": 51955,
+          "listed_count": 13,
+          "media_count": 876,
+          "tweet_count": 23556
+        },
+        "username": "NationalPureVF3",
+        "verified": false
+      }
+    ]
+  }
+}

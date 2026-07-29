@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2066368552354062697",
+    "created_at": "2026-06-15T03:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066368552354062697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/potato_parqt/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/potato_parqt/status/2066282440382198241",
+          "start": 17,
+          "url": "https://t.co/r16z2nJKqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066368552354062697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066282440382198241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等我去刺探一下北京东燕郊的城中村 https://t.co/r16z2nJKqv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2066368552354062697",
+        "created_at": "2026-06-15T03:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066368552354062697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/potato_parqt/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/potato_parqt/status/2066282440382198241",
+              "start": 17,
+              "url": "https://t.co/r16z2nJKqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066368552354062697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066282440382198241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等我去刺探一下北京东燕郊的城中村 https://t.co/r16z2nJKqv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549182106890162176",
+        "conversation_id": "2066185377606750652",
+        "created_at": "2026-06-14T22:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T23:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066282440382198241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066282440382198241",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 446,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066185377606750652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 还是不一样的 大久保是大城市的地下红灯区 这应该对比北上广深的城里面广泛的线上站街 中国中等城市及以下更广泛的性交易是其他国家比拟不了的 遥遥领先"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12013,
+          "following_count": 4365,
+          "like_count": 49066,
+          "listed_count": 36,
+          "media_count": 2797,
+          "tweet_count": 15996
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T23:59:32.000Z",
+        "description": "I am lazy",
+        "id": "1549182106890162176",
+        "name": "potato_particle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714636123765350400/QUQhzrb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 204,
+          "like_count": 363,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 205
+        },
+        "username": "potato_parqt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1954901927134957568",
+        "13_1954901939231342592"
+      ],
+      "media_source_tweet_id": [
+        "1954902615827042610",
+        "1954902615827042610"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1955282460150837606",
+    "created_at": "2025-08-12T14:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955282460150837606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1700677004557950976",
+          "start": 3,
+          "username": "k1_6r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebt3x7cQ2n",
+          "end": 50,
+          "expanded_url": "https://x.com/k1_6r/status/1954902615827042610/video/1",
+          "media_key": "13_1954901927134957568",
+          "start": 27,
+          "url": "https://t.co/ebt3x7cQ2n"
+        },
+        {
+          "display_url": "pic.x.com/ebt3x7cQ2n",
+          "end": 50,
+          "expanded_url": "https://x.com/k1_6r/status/1954902615827042610/video/1",
+          "media_key": "13_1954901939231342592",
+          "start": 27,
+          "url": "https://t.co/ebt3x7cQ2n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955282460150837606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954902615827042610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k1_6r: 辽宁沈阳，我愿称之为最猛00后 https://t.co/ebt3x7cQ2n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955282460150837606].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955282460150837606",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955282460150837606"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68498,
+        "height": 720,
+        "media_key": "13_1954901927134957568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954901927134957568/img/WLR2Q34ytMUnhSPK.jpg",
+        "public_metrics": {
+          "view_count": 583
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954901927134957568/vid/avc1/480x270/DPx6XXdpnxPBYRxj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954901927134957568/vid/avc1/640x360/mmz83qKUVFDAzOfd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954901927134957568/vid/avc1/1280x720/zIU4cy9hEI5sLVBe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954901927134957568/pl/FE5MF5P1gytn_Pho.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 39077,
+        "height": 960,
+        "media_key": "13_1954901939231342592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1954901939231342592/img/JoanJug9MfmeU65z.jpg",
+        "public_metrics": {
+          "view_count": 456
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954901939231342592/vid/avc1/320x564/GZ-oBVz0SKE4IsMv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954901939231342592/vid/avc1/480x846/xCL-j5H7jeqoju3e.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1954901939231342592/vid/avc1/544x960/97lO8b0O_R9o7EL4.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1954901939231342592/pl/6QcTrnHpGnnzIbfD.m3u8?tag=14"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1954901927134957568",
+            "13_1954901939231342592"
+          ]
+        },
+        "author_id": "1700677004557950976",
+        "conversation_id": "1954902615827042610",
+        "created_at": "2025-08-11T13:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T14:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954902615827042610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebt3x7cQ2n",
+              "end": 39,
+              "expanded_url": "https://x.com/k1_6r/status/1954902615827042610/video/1",
+              "media_key": "13_1954901927134957568",
+              "start": 16,
+              "url": "https://t.co/ebt3x7cQ2n"
+            },
+            {
+              "display_url": "pic.x.com/ebt3x7cQ2n",
+              "end": 39,
+              "expanded_url": "https://x.com/k1_6r/status/1954902615827042610/video/1",
+              "media_key": "13_1954901939231342592",
+              "start": 16,
+              "url": "https://t.co/ebt3x7cQ2n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954902615827042610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1370,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "辽宁沈阳，我愿称之为最猛00后 https://t.co/ebt3x7cQ2n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ（山城归隐中）",
+        "pinned_tweet_id": "1952706899448836124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 2461,
+          "like_count": 23295,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 5609
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T01:06:38.000Z",
+        "description": "祝你天天开心！遇到有趣的人会主动关注！\n互fo请私信哦，发评论有时候可能看不到！",
+        "id": "1700677004557950976",
+        "name": "纳西妲妲",
+        "pinned_tweet_id": "1944766635719442729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937745373269032960/2RLy5Sxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 148,
+          "like_count": 1154,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 3115
+        },
+        "username": "k1_6r",
+        "verified": false
+      }
+    ]
+  }
+}

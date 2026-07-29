@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese recording artist, lyricist, model, and actress",
+          "id": "1070723960495435777",
+          "name": "Ayumi Hamasaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese recording artist, lyricist, model, and actress",
+          "id": "1070723960495435777",
+          "name": "Ayumi Hamasaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese recording artist, lyricist, model, and actress",
+          "id": "1070723960495435777",
+          "name": "Ayumi Hamasaki"
+        }
+      }
+    ],
+    "conversation_id": "1994670385644892566",
+    "created_at": "2025-11-29T07:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994670385644892566"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "浜崎あゆみ",
+          "probability": 0.9709,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 38,
+          "normalized_text": "Ayumi Hamasaki",
+          "probability": 0.8405,
+          "start": 25,
+          "type": "Person"
+        },
+        {
+          "end": 68,
+          "normalized_text": "上海",
+          "probability": 0.4978,
+          "start": 67,
+          "type": "Place"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Ayu",
+          "probability": 0.6679,
+          "start": 109,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1494323071",
+          "start": 3,
+          "username": "2030_TeamAyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Gy",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/Gy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994670385644892566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1071
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994313380128346590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @2030_TeamAyu: 浜崎あゆみ (Ayumi Hamasaki)\n\nステージを組み終えたばかりの公演の前日に要請を受け上海公演が中止となりました。\n現地の方々の心情に寄り添う為、不眠不休で準備してくれたAyu、全ての人達に感謝を。 https://t.co/Gy…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1994313377502613504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G605c1TaUAAQK3b.jpg",
+        "width": 1125
+      },
+      {
+        "height": 2000,
+        "media_key": "3_1994313377536196608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G605c1bawAANImE.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          }
+        ],
+        "conversation_id": "1994670385644892566",
+        "created_at": "2025-11-29T07:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994670385644892566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "浜崎あゆみ",
+              "probability": 0.9709,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Ayumi Hamasaki",
+              "probability": 0.8405,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "上海",
+              "probability": 0.4978,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Ayu",
+              "probability": 0.6679,
+              "start": 109,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1494323071",
+              "start": 3,
+              "username": "2030_TeamAyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Gy",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/Gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994670385644892566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1071
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994313380128346590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @2030_TeamAyu: 浜崎あゆみ (Ayumi Hamasaki)\n\nステージを組み終えたばかりの公演の前日に要請を受け上海公演が中止となりました。\n現地の方々の心情に寄り添う為、不眠不休で準備してくれたAyu、全ての人達に感謝を。 https://t.co/Gy…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994313377502613504",
+            "3_1994313377536196608"
+          ]
+        },
+        "author_id": "1494323071",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese recording artist, lyricist, model, and actress",
+              "id": "1070723960495435777",
+              "name": "Ayumi Hamasaki"
+            }
+          }
+        ],
+        "conversation_id": "1994313380128346590",
+        "created_at": "2025-11-28T07:52:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994313380128346590"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "浜崎あゆみ",
+              "probability": 0.9881,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 20,
+              "normalized_text": "Ayumi Hamasaki",
+              "probability": 0.8038,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "上海",
+              "probability": 0.4929,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 93,
+              "normalized_text": "Ayu",
+              "probability": 0.6676,
+              "start": 91,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GydWwIndw0",
+              "end": 129,
+              "expanded_url": "https://x.com/2030_TeamAyu/status/1994313380128346590/photo/1",
+              "media_key": "3_1994313377502613504",
+              "start": 106,
+              "url": "https://t.co/GydWwIndw0"
+            },
+            {
+              "display_url": "pic.x.com/GydWwIndw0",
+              "end": 129,
+              "expanded_url": "https://x.com/2030_TeamAyu/status/1994313380128346590/photo/1",
+              "media_key": "3_1994313377536196608",
+              "start": 106,
+              "url": "https://t.co/GydWwIndw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994313380128346590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 572469,
+          "like_count": 5265,
+          "quote_count": 134,
+          "reply_count": 0,
+          "retweet_count": 1071
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "浜崎あゆみ (Ayumi Hamasaki)\n\nステージを組み終えたばかりの公演の前日に要請を受け上海公演が中止となりました。\n現地の方々の心情に寄り添う為、不眠不休で準備してくれたAyu、全ての人達に感謝を。 https://t.co/GydWwIndw0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_ @vicoOci_olvidar|日本語學習者｜世界和平萬歲｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "vicoOci_olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 2643,
+          "like_count": 29146,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 6547
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-09T00:51:23.000Z",
+        "description": "浜崎あゆみ(Ayumi Hamasaki)さんを応援する活動をおこなっています。Fan Siteを制作。 画像、映像、情報、知識などをツイートしています。画像保存先https://t.co/iLrw5w8p0Y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "f.hatena.ne.jp/TeamAyu_S",
+                "end": 105,
+                "expanded_url": "http://f.hatena.ne.jp/TeamAyu_S",
+                "start": 82,
+                "url": "https://t.co/iLrw5w8p0Y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayumihamasaki.themedia.jp",
+                "end": 23,
+                "expanded_url": "https://ayumihamasaki.themedia.jp",
+                "start": 0,
+                "url": "https://t.co/YdDmlaVsPD"
+              }
+            ]
+          }
+        },
+        "id": "1494323071",
+        "location": "日本",
+        "name": "浜崎あゆみ ファンサイト Ayumi Hamasaki FAN SITE",
+        "pinned_tweet_id": "1144279726862684160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/623037480766341120/6dZ0GJ3l_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8468,
+          "following_count": 4,
+          "like_count": 1097,
+          "listed_count": 27,
+          "media_count": 975,
+          "tweet_count": 3413
+        },
+        "url": "https://t.co/YdDmlaVsPD",
+        "username": "2030_TeamAyu",
+        "verified": false
+      }
+    ]
+  }
+}

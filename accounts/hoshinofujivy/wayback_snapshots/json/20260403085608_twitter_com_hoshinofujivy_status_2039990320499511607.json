@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2039983358328164797",
+    "created_at": "2026-04-03T08:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039990320499511607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1561262672888434688",
+          "start": 0,
+          "username": "cai436"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 31,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2004152135332909438?s=20",
+          "start": 8,
+          "url": "https://t.co/WSgFzFeamP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039990320499511607",
+    "in_reply_to_user_id": "1561262672888434688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004152135332909438",
+        "type": "quoted"
+      },
+      {
+        "id": "2039989657224744971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai436 https://t.co/WSgFzFeamP大概就是这种情况"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2004152111706296320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AtuiYaUAAMZta.jpg",
+        "width": 2258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2039983358328164797",
+        "created_at": "2026-04-03T08:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039990320499511607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2004152135332909438?s=20",
+              "start": 8,
+              "url": "https://t.co/WSgFzFeamP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039990320499511607",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004152135332909438",
+            "type": "quoted"
+          },
+          {
+            "id": "2039989657224744971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 https://t.co/WSgFzFeamP大概就是这种情况"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004152111706296320"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2004152135332909438",
+        "created_at": "2025-12-25T11:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004152135332909438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Boj4CpKfh8",
+              "end": 56,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2004152135332909438/photo/1",
+              "media_key": "3_2004152111706296320",
+              "start": 33,
+              "url": "https://t.co/Boj4CpKfh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004152135332909438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3293,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲报：bilibili无法根据关键词搜索出《进击的巨人》相关内容 https://t.co/Boj4CpKfh8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561262672888434688",
+        "conversation_id": "2039983358328164797",
+        "created_at": "2026-04-03T08:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039989657224744971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039989657224744971",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039989346552668657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 确定这些是补档？这都是2020年的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7742,
+          "following_count": 3991,
+          "like_count": 41663,
+          "listed_count": 20,
+          "media_count": 1599,
+          "tweet_count": 11096
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-21T08:04:19.000Z",
+        "description": "这个人很懒，什么都没有写。",
+        "id": "1561262672888434688",
+        "location": "广东省茂名市",
+        "name": "蔡清晏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023455572448690176/c4ftqvFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 708,
+          "like_count": 11854,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2541
+        },
+        "username": "cai436",
+        "verified": false
+      }
+    ]
+  }
+}

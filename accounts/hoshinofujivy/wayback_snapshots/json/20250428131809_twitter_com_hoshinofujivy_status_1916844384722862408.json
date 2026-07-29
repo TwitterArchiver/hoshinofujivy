@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1785652965635960832"
+      ],
+      "media_source_tweet_id": [
+        "1785653018207420423"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1916844384722862408",
+    "created_at": "2025-04-28T13:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T14:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916844384722862408"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "CLANNAD",
+          "probability": 0.6859,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "春原",
+          "probability": 0.7669,
+          "start": 49,
+          "type": "Person"
+        },
+        {
+          "end": 69,
+          "normalized_text": "芽衣を泣かせるんじゃねぇ！",
+          "probability": 0.666,
+          "start": 57,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498292492701036547",
+          "start": 3,
+          "username": "FFFF_7_11_13"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZKXcKxl56",
+          "end": 110,
+          "expanded_url": "https://x.com/FFFF_7_11_13/status/1785653018207420423/video/1",
+          "media_key": "7_1785652965635960832",
+          "start": 87,
+          "url": "https://t.co/VZKXcKxl56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916844384722862408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1785653018207420423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FFFF_7_11_13: CLANNADより潮鳴り弾きました。\n久しぶりに弾きました…\n春原の名シーン「芽衣を泣かせるんじゃねぇ！」を観たら弾きたくなりました…✨ https://t.co/VZKXcKxl56"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103179,
+        "height": 1280,
+        "media_key": "7_1785652965635960832",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1785652965635960832/pu/img/3yyhCYLlXuT1-Gjt.jpg",
+        "public_metrics": {
+          "view_count": 2916
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1785652965635960832/pu/vid/avc1/320x568/IwNXIdvVTFp6agOJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1785652965635960832/pu/vid/avc1/480x852/TK-ojExLaF23eZk0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1785652965635960832/pu/vid/avc1/720x1280/HUV86IYEos_ukWI2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1785652965635960832/pu/pl/W1igM98fMGFJ4LTd.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1785652965635960832"
+          ],
+          "media_source_tweet_id": [
+            "1785653018207420423"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1916844384722862408",
+        "created_at": "2025-04-28T13:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916844384722862408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "CLANNAD",
+              "probability": 0.6859,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "春原",
+              "probability": 0.7669,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 69,
+              "normalized_text": "芽衣を泣かせるんじゃねぇ！",
+              "probability": 0.666,
+              "start": 57,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498292492701036547",
+              "start": 3,
+              "username": "FFFF_7_11_13"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZKXcKxl56",
+              "end": 110,
+              "expanded_url": "https://x.com/FFFF_7_11_13/status/1785653018207420423/video/1",
+              "media_key": "7_1785652965635960832",
+              "start": 87,
+              "url": "https://t.co/VZKXcKxl56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916844384722862408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1785653018207420423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FFFF_7_11_13: CLANNADより潮鳴り弾きました。\n久しぶりに弾きました…\n春原の名シーン「芽衣を泣かせるんじゃねぇ！」を観たら弾きたくなりました…✨ https://t.co/VZKXcKxl56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1785652965635960832"
+          ]
+        },
+        "author_id": "1498292492701036547",
+        "conversation_id": "1785653018207420423",
+        "created_at": "2024-05-01T12:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-01T13:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1785653018207420423"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "CLANNAD",
+              "probability": 0.6703,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "春原",
+              "probability": 0.7105,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 51,
+              "normalized_text": "芽衣を泣かせるんじゃねぇ！",
+              "probability": 0.7076,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZKXcKxl56",
+              "end": 92,
+              "expanded_url": "https://x.com/FFFF_7_11_13/status/1785653018207420423/video/1",
+              "media_key": "7_1785652965635960832",
+              "start": 69,
+              "url": "https://t.co/VZKXcKxl56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1785653018207420423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11115,
+          "like_count": 244,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "CLANNADより潮鳴り弾きました。\n久しぶりに弾きました…\n春原の名シーン「芽衣を泣かせるんじゃねぇ！」を観たら弾きたくなりました…✨ https://t.co/VZKXcKxl56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "中推圈第一偶像的主人 星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 2272,
+          "like_count": 16344,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 4065
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T13:42:33.000Z",
+        "description": "音楽は特に大好き、アニメや漫画も好き、key作品等、ピアノ練習中🎹 不定期で演奏投稿します！作曲もしてます！\n優しい人になりたい馬鹿です！\n初アルバムリリースしました→https://t.co/sa9wSzvOupマシュマロ→https://t.co/zBqIvXU07y?",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linkco.re/F1UHU0bb",
+                "end": 107,
+                "expanded_url": "https://linkco.re/F1UHU0bb",
+                "start": 84,
+                "url": "https://t.co/sa9wSzvOup"
+              },
+              {
+                "display_url": "marshmallow-qa.com/1y2l9z6ae9jvx83",
+                "end": 136,
+                "expanded_url": "https://marshmallow-qa.com/1y2l9z6ae9jvx83",
+                "start": 113,
+                "url": "https://t.co/zBqIvXU07y"
+              }
+            ]
+          }
+        },
+        "id": "1498292492701036547",
+        "location": "京都であって京都でないとこ",
+        "name": "あかつき",
+        "pinned_tweet_id": "1752291310084776300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552229136030380032/4BK6fZg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 1498,
+          "like_count": 13216,
+          "listed_count": 4,
+          "media_count": 1535,
+          "tweet_count": 5510
+        },
+        "username": "FFFF_7_11_13",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1648687081890390017"
+      ],
+      "media_source_tweet_id": [
+        "1648687198492069888"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1955234131694232018",
+    "created_at": "2025-08-12T11:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T12:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955234131694232018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "324391547",
+          "start": 3,
+          "username": "avogado6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3A5BvXVxHv",
+          "end": 41,
+          "expanded_url": "https://x.com/avogado6/status/1648687198492069888/photo/1",
+          "media_key": "3_1648687081890390017",
+          "start": 18,
+          "url": "https://t.co/3A5BvXVxHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955234131694232018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8231
+    },
+    "referenced_tweets": [
+      {
+        "id": "1648687198492069888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @avogado6: 抗って https://t.co/3A5BvXVxHv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3300,
+        "media_key": "3_1648687081890390017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FuFQKnXaIAE1D7y.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1648687081890390017"
+          ],
+          "media_source_tweet_id": [
+            "1648687198492069888"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1955234131694232018",
+        "created_at": "2025-08-12T11:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955234131694232018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "324391547",
+              "start": 3,
+              "username": "avogado6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3A5BvXVxHv",
+              "end": 41,
+              "expanded_url": "https://x.com/avogado6/status/1648687198492069888/photo/1",
+              "media_key": "3_1648687081890390017",
+              "start": 18,
+              "url": "https://t.co/3A5BvXVxHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955234131694232018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8231
+        },
+        "referenced_tweets": [
+          {
+            "id": "1648687198492069888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @avogado6: 抗って https://t.co/3A5BvXVxHv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1648687081890390017"
+          ]
+        },
+        "author_id": "324391547",
+        "conversation_id": "1648687198492069888",
+        "created_at": "2023-04-19T13:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-19T14:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1648687198492069888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3A5BvXVxHv",
+              "end": 27,
+              "expanded_url": "https://x.com/avogado6/status/1648687198492069888/photo/1",
+              "media_key": "3_1648687081890390017",
+              "start": 4,
+              "url": "https://t.co/3A5BvXVxHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1648687198492069888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1311,
+          "impression_count": 4069955,
+          "like_count": 108307,
+          "quote_count": 184,
+          "reply_count": 83,
+          "retweet_count": 8231
+        },
+        "reply_settings": "everyone",
+        "text": "抗って https://t.co/3A5BvXVxHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ（山城归隐中）",
+        "pinned_tweet_id": "1952706899448836124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 2461,
+          "like_count": 23269,
+          "listed_count": 2,
+          "media_count": 521,
+          "tweet_count": 5607
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-26T14:46:50.000Z",
+        "description": "化学が好きな一般人です。映像作品とか創ってます。https://t.co/lMOTGT5AX4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/28725264",
+                "end": 47,
+                "expanded_url": "http://nicovideo.jp/mylist/28725264",
+                "start": 24,
+                "url": "https://t.co/lMOTGT5AX4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "avogado6.com",
+                "end": 23,
+                "expanded_url": "https://www.avogado6.com/",
+                "start": 0,
+                "url": "https://t.co/C6ykDstxlb"
+              }
+            ]
+          }
+        },
+        "id": "324391547",
+        "name": "アボガド6",
+        "pinned_tweet_id": "1939613243791811021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/982977860804554753/2TGsjSo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488501,
+          "following_count": 22,
+          "like_count": 35,
+          "listed_count": 9055,
+          "media_count": 3419,
+          "tweet_count": 4098
+        },
+        "url": "https://t.co/C6ykDstxlb",
+        "username": "avogado6",
+        "verified": true
+      }
+    ]
+  }
+}

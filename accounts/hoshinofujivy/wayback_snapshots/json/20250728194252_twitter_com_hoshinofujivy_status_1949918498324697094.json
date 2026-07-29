@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1949918498324697094",
+    "created_at": "2025-07-28T19:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T20:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949918498324697094"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "A Star is Born",
+          "probability": 0.9432,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 52,
+          "normalized_text": "Jet Engines",
+          "probability": 0.6193,
+          "start": 42,
+          "type": "Other"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Herbig-Haro",
+          "probability": 0.5207,
+          "start": 82,
+          "type": "Person"
+        },
+        {
+          "end": 105,
+          "normalized_text": "HH111",
+          "probability": 0.471,
+          "start": 101,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "138882249",
+          "start": 3,
+          "username": "konstructivizm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949918498324697094",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949918280149586219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konstructivizm: A Star is Born — with Jet Engines!\n\nThis stunning image shows Herbig-Haro object HH111, a dramatic result of a newborn…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1949916769813929984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw9--JZWIAAVVPp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1949918498324697094",
+        "created_at": "2025-07-28T19:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T20:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949918498324697094"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "A Star is Born",
+              "probability": 0.9432,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Jet Engines",
+              "probability": 0.6193,
+              "start": 42,
+              "type": "Other"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Herbig-Haro",
+              "probability": 0.5207,
+              "start": 82,
+              "type": "Person"
+            },
+            {
+              "end": 105,
+              "normalized_text": "HH111",
+              "probability": 0.471,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "138882249",
+              "start": 3,
+              "username": "konstructivizm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949918498324697094",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949918280149586219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konstructivizm: A Star is Born — with Jet Engines!\n\nThis stunning image shows Herbig-Haro object HH111, a dramatic result of a newborn…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949916769813929984"
+          ]
+        },
+        "author_id": "138882249",
+        "conversation_id": "1949918280149586219",
+        "created_at": "2025-07-28T19:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T20:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949918280149586219"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "A Star is Born",
+              "probability": 0.8376,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Jet Engines",
+              "probability": 0.593,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Herbig-Haro",
+              "probability": 0.638,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "HH111",
+              "probability": 0.4345,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1y2kB9P0tm",
+              "end": 297,
+              "expanded_url": "https://x.com/konstructivizm/status/1949918280149586219/photo/1",
+              "media_key": "3_1949916769813929984",
+              "start": 274,
+              "url": "https://t.co/1y2kB9P0tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949918280149586219",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "A Star is Born — with Jet Engines!\n\nThis stunning image shows Herbig-Haro object HH111, a dramatic result of a newborn star blasting out high-speed jets of ionized gas.\n\nThese plasma jets collide with nearby clouds at hundreds of kilometers per second, lighting them up and forming structures like HH111. This one stretches 2.6 light-years and is powered by a young star buried in a dense cloud about 1,300–1,500 light-years away in Orion.\n\nThe image was taken in infrared by Hubble’s Wide Field Camera 3, allowing us to see through the dust and reveal what’s usually hidden.\n\nCredit: ESA/Hubble & NASA, B. Nisini"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "A Star is Born — with Jet Engines!\n\nThis stunning image shows Herbig-Haro object HH111, a dramatic result of a newborn star blasting out high-speed jets of ionized gas.\n\nThese plasma jets collide with nearby clouds at hundreds of kilometers per second, lighting them up and https://t.co/1y2kB9P0tm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN25mg"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ（山城归隐中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1495,
+          "following_count": 2465,
+          "like_count": 22891,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 5517
+        },
+        "url": "https://t.co/CgxvdN25mg",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-30T22:23:32.000Z",
+        "description": "Only New Content, news, articles, images, videos, and discussion\n#space,#FollowMe, #Nature, #astronomy, #Nasa,  #astrophotography, #science",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 65,
+                "tag": "space"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "FollowMe"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "Nature"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "tag": "astronomy"
+              },
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "Nasa"
+              },
+              {
+                "end": 129,
+                "start": 112,
+                "tag": "astrophotography"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "tag": "science"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mesonstars.com",
+                "end": 23,
+                "expanded_url": "http://mesonstars.com/",
+                "start": 0,
+                "url": "https://t.co/ninoxXwMlW"
+              }
+            ]
+          }
+        },
+        "id": "138882249",
+        "location": "France",
+        "name": "Black Hole",
+        "pinned_tweet_id": "1881052092174905414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1229760579650363392/LSX8S-Dq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758218,
+          "following_count": 40973,
+          "like_count": 25042,
+          "listed_count": 2722,
+          "media_count": 75035,
+          "tweet_count": 76885
+        },
+        "url": "https://t.co/ninoxXwMlW",
+        "username": "konstructivizm",
+        "verified": true
+      }
+    ]
+  }
+}

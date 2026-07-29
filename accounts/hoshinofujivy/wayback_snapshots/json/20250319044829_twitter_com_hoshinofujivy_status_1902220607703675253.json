@@ -1,0 +1,675 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557393705618657281",
+          "name": "Katie Hobbs"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1557393705618657281",
+          "name": "Katie Hobbs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518653065976369153",
+          "name": "United States political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1557393705618657281",
+          "name": "Katie Hobbs"
+        }
+      }
+    ],
+    "conversation_id": "1901997548090618171",
+    "created_at": "2025-03-19T04:48:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T05:48:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902220607703675253"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Ching",
+          "probability": 0.5546,
+          "start": 58,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1224953820716945408",
+          "start": 0,
+          "username": "ChingteLai"
+        },
+        {
+          "end": 26,
+          "id": "834166677579321345",
+          "start": 12,
+          "username": "GovernorHobbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902220607703675253",
+    "in_reply_to_user_id": "1224953820716945408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901997548090618171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChingteLai @GovernorHobbs Could we follow eachother?  Mr.Ching"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1901997297325756416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVAdvba0AAaCrY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1170,
+        "media_key": "3_1901997297317412864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVAdvZbgAAD4ba.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1126,
+        "media_key": "3_1901997297321558016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmVAdvaawAA4C_c.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557393705618657281",
+              "name": "Katie Hobbs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1557393705618657281",
+              "name": "Katie Hobbs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653065976369153",
+              "name": "United States political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557393705618657281",
+              "name": "Katie Hobbs"
+            }
+          }
+        ],
+        "conversation_id": "1901997548090618171",
+        "created_at": "2025-03-19T04:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T05:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902220607703675253"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Ching",
+              "probability": 0.5546,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1224953820716945408",
+              "start": 0,
+              "username": "ChingteLai"
+            },
+            {
+              "end": 26,
+              "id": "834166677579321345",
+              "start": 12,
+              "username": "GovernorHobbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902220607703675253",
+        "in_reply_to_user_id": "1224953820716945408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901997548090618171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChingteLai @GovernorHobbs Could we follow eachother?  Mr.Ching"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1901997297325756416",
+            "3_1901997297317412864",
+            "3_1901997297321558016"
+          ]
+        },
+        "author_id": "1224953820716945408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557393705618657281",
+              "name": "Katie Hobbs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1557393705618657281",
+              "name": "Katie Hobbs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653065976369153",
+              "name": "United States political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557393705618657281",
+              "name": "Katie Hobbs"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Arizona",
+              "id": "1004434267835809792",
+              "name": "Arizona"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1901997548090618171",
+        "created_at": "2025-03-18T14:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T15:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901997548090618171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Arizona",
+              "probability": 0.9797,
+              "start": 18,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Taiwan",
+              "probability": 0.9855,
+              "start": 52,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "TSMC",
+              "probability": 0.5856,
+              "start": 79,
+              "type": "Organization"
+            },
+            {
+              "end": 129,
+              "normalized_text": "Taiwan",
+              "probability": 0.9776,
+              "start": 124,
+              "type": "Place"
+            },
+            {
+              "end": 143,
+              "normalized_text": "Arizona",
+              "probability": 0.9832,
+              "start": 137,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "Arizona"
+            },
+            {
+              "end": 58,
+              "start": 51,
+              "tag": "Taiwan"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "834166677579321345",
+              "start": 28,
+              "username": "GovernorHobbs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6eBQ1b49C",
+              "end": 308,
+              "expanded_url": "https://x.com/ChingteLai/status/1901997548090618171/photo/1",
+              "media_key": "3_1901997297325756416",
+              "start": 285,
+              "url": "https://t.co/H6eBQ1b49C"
+            },
+            {
+              "display_url": "pic.x.com/H6eBQ1b49C",
+              "end": 308,
+              "expanded_url": "https://x.com/ChingteLai/status/1901997548090618171/photo/1",
+              "media_key": "3_1901997297317412864",
+              "start": 285,
+              "url": "https://t.co/H6eBQ1b49C"
+            },
+            {
+              "display_url": "pic.x.com/H6eBQ1b49C",
+              "end": 308,
+              "expanded_url": "https://x.com/ChingteLai/status/1901997548090618171/photo/1",
+              "media_key": "3_1901997297321558016",
+              "start": 285,
+              "url": "https://t.co/H6eBQ1b49C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901997548090618171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 29618,
+          "like_count": 885,
+          "quote_count": 6,
+          "reply_count": 102,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "Happy to welcome #Arizona's @GovernorHobbs back to #Taiwan. As we've seen from TSMC's historic investment, the ties between Taiwan &amp; Arizona are growing closer than ever. We look forward to expanding cooperation across high tech, trade, culture &amp; more to drive shared success. https://t.co/H6eBQ1b49C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@nationalpurevf3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf3"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902151745796820992/n45RKABv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 2064,
+          "like_count": 10371,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 3023
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361436,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1085,
+          "media_count": 332,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-21T22:23:28.000Z",
+        "description": "Official Twitter page of Governor Katie Hobbs. 24th Governor of Arizona. Mom, wife, social worker, AFSCME Member.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "azgovernor.gov",
+                "end": 23,
+                "expanded_url": "https://azgovernor.gov/",
+                "start": 0,
+                "url": "https://t.co/FjkPwOoHE1"
+              }
+            ]
+          }
+        },
+        "id": "834166677579321345",
+        "location": "Phoenix, AZ",
+        "name": "Governor Katie Hobbs",
+        "pinned_tweet_id": "1611161174216957952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620123654586769409/vOLRqVeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68548,
+          "following_count": 347,
+          "like_count": 893,
+          "listed_count": 674,
+          "media_count": 1816,
+          "tweet_count": 4179
+        },
+        "url": "https://t.co/FjkPwOoHE1",
+        "username": "GovernorHobbs",
+        "verified": true
+      }
+    ]
+  }
+}

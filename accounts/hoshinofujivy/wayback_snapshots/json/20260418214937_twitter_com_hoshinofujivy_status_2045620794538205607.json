@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045620787932196864"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2045620794538205607",
+    "created_at": "2026-04-18T21:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T22:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045620794538205607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IfvHx8rFrf",
+          "end": 34,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2045620794538205607/photo/1",
+          "media_key": "3_2045620787932196864",
+          "start": 11,
+          "url": "https://t.co/IfvHx8rFrf"
+        },
+        {
+          "display_url": "x.com/Web3454354/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Web3454354/status/2045505859510558932",
+          "start": 35,
+          "url": "https://t.co/CiWGYECJwL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045620794538205607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045505859510558932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的kfc要请不来了 https://t.co/IfvHx8rFrf https://t.co/CiWGYECJwL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2045620787932196864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOBRLnacAAsjkS.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045620787932196864"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2045620794538205607",
+        "created_at": "2026-04-18T21:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T22:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045620794538205607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfvHx8rFrf",
+              "end": 34,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2045620794538205607/photo/1",
+              "media_key": "3_2045620787932196864",
+              "start": 11,
+              "url": "https://t.co/IfvHx8rFrf"
+            },
+            {
+              "display_url": "x.com/Web3454354/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Web3454354/status/2045505859510558932",
+              "start": 35,
+              "url": "https://t.co/CiWGYECJwL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045620794538205607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045505859510558932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的kfc要请不来了 https://t.co/IfvHx8rFrf https://t.co/CiWGYECJwL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747926522395324416",
+        "conversation_id": "2045505859510558932",
+        "created_at": "2026-04-18T14:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045505859510558932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045505859510558932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 277283,
+          "like_count": 316,
+          "quote_count": 7,
+          "reply_count": 289,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "在公安工作的同学今天私下告诉我：不要再翻墙了 ！\n\n国家马上会开展雷霆手段整治翻墙行为！\n\n中文推博主会消失90%！\n\n各位兄弟姐妹，一定要保护好自己！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8869,
+          "following_count": 4158,
+          "like_count": 43741,
+          "listed_count": 29,
+          "media_count": 1827,
+          "tweet_count": 12238
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-18T10:19:27.000Z",
+        "description": "大圣资本Co-Founder/HTXDAO治理委员/HTX社区管理员/🦜鸟币志愿者/MEME专家/业余链上分析师/13年入圈老韭菜/21年MEME凭运气达到A8后凭实力亏完，回血ing。。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "htx.com.pk/invite/zh-cn/1…",
+                "end": 23,
+                "expanded_url": "https://www.htx.com.pk/invite/zh-cn/1h?invite_code=5b47a223",
+                "start": 0,
+                "url": "https://t.co/U227j1yKr6"
+              }
+            ]
+          }
+        },
+        "id": "1747926522395324416",
+        "location": "Everywhere",
+        "name": "PPP的梦想是买一辆二手车",
+        "pinned_tweet_id": "2021024538759512279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872900817210228737/OfJvn1e2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3808,
+          "following_count": 1951,
+          "like_count": 6434,
+          "listed_count": 7,
+          "media_count": 600,
+          "tweet_count": 13137
+        },
+        "url": "https://t.co/U227j1yKr6",
+        "username": "Web3454354",
+        "verified": true
+      }
+    ]
+  }
+}

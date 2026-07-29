@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1902656861398249920",
+    "created_at": "2025-03-20T11:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T12:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902687319939043353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1580529010160783361",
+          "start": 0,
+          "username": "maggie02980777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902687319939043353",
+    "in_reply_to_user_id": "1580529010160783361",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902687190116651073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maggie02980777 💕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1902656861398249920",
+        "created_at": "2025-03-20T11:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T12:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902687319939043353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1580529010160783361",
+              "start": 0,
+              "username": "maggie02980777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902687319939043353",
+        "in_reply_to_user_id": "1580529010160783361",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902687190116651073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maggie02980777 💕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580529010160783361",
+        "conversation_id": "1902656861398249920",
+        "created_at": "2025-03-20T11:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T12:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902687190116651073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902687190116651073",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902656861398249920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 感谢转推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902151745796820992/n45RKABv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 2087,
+          "like_count": 10734,
+          "listed_count": 2,
+          "media_count": 266,
+          "tweet_count": 3108
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T12:01:20.000Z",
+        "description": "In me the tiger sniffs the rose\n支持互粉互评互赞，来必回，拒绝黄推！（部分图片和视频来源网络，如有侵权，请联系删除）",
+        "id": "1580529010160783361",
+        "location": "Starry sea",
+        "name": "maggie（互fo互赞）",
+        "pinned_tweet_id": "1899731556899439101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600677310403080192/rxWVilax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11714,
+          "following_count": 11602,
+          "like_count": 58185,
+          "listed_count": 12,
+          "media_count": 684,
+          "tweet_count": 2894
+        },
+        "username": "maggie02980777",
+        "verified": false
+      }
+    ]
+  }
+}

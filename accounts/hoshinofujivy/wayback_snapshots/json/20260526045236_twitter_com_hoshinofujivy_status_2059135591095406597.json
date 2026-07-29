@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058942164210716672"
+      ],
+      "media_source_tweet_id": [
+        "2058942209563750823"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2059135591095406597",
+    "created_at": "2026-05-26T04:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059135591095406597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1754312906353823745",
+          "start": 3,
+          "username": "teruteru_desu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QI0wxL3HL6",
+          "end": 43,
+          "expanded_url": "https://x.com/teruteru_desu_/status/2058942209563750823/photo/1",
+          "media_key": "3_2058942164210716672",
+          "start": 20,
+          "url": "https://t.co/QI0wxL3HL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059135591095406597",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058942209563750823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @teruteru_desu_: https://t.co/QI0wxL3HL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1166,
+        "media_key": "3_2058942164210716672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLU_VbakAAxl5y.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058942164210716672"
+          ],
+          "media_source_tweet_id": [
+            "2058942209563750823"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2059135591095406597",
+        "created_at": "2026-05-26T04:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059135591095406597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1754312906353823745",
+              "start": 3,
+              "username": "teruteru_desu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QI0wxL3HL6",
+              "end": 43,
+              "expanded_url": "https://x.com/teruteru_desu_/status/2058942209563750823/photo/1",
+              "media_key": "3_2058942164210716672",
+              "start": 20,
+              "url": "https://t.co/QI0wxL3HL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059135591095406597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058942209563750823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @teruteru_desu_: https://t.co/QI0wxL3HL6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058942164210716672"
+          ]
+        },
+        "author_id": "1754312906353823745",
+        "conversation_id": "2058942209563750823",
+        "created_at": "2026-05-25T16:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058942209563750823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QI0wxL3HL6",
+              "end": 23,
+              "expanded_url": "https://x.com/teruteru_desu_/status/2058942209563750823/photo/1",
+              "media_key": "3_2058942164210716672",
+              "start": 0,
+              "url": "https://t.co/QI0wxL3HL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058942209563750823",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 23876,
+          "like_count": 2522,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QI0wxL3HL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11406,
+          "following_count": 4318,
+          "like_count": 46643,
+          "listed_count": 37,
+          "media_count": 2431,
+          "tweet_count": 14615
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T01:16:14.000Z",
+        "description": "好きなもの描く。\n \nご依頼はこちらから🖌\nMail：teruteruguitar@gmail.com\nSkima：https://t.co/zoLx36KSZX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skima.jp/profile?id=503…",
+                "end": 81,
+                "expanded_url": "https://skima.jp/profile?id=503763",
+                "start": 58,
+                "url": "https://t.co/zoLx36KSZX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/teruteru_desu_",
+                "end": 23,
+                "expanded_url": "https://lit.link/teruteru_desu_",
+                "start": 0,
+                "url": "https://t.co/hFZummcdjq"
+              }
+            ]
+          }
+        },
+        "id": "1754312906353823745",
+        "location": "DMに直接ご連絡していただいても大丈夫です🌱",
+        "name": "てるてる／Illustrator",
+        "pinned_tweet_id": "2050592110802555131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008204473014095874/-7HU2MXx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 95,
+          "like_count": 8738,
+          "listed_count": 8,
+          "media_count": 168,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/hFZummcdjq",
+        "username": "teruteru_desu_",
+        "verified": true
+      }
+    ]
+  }
+}

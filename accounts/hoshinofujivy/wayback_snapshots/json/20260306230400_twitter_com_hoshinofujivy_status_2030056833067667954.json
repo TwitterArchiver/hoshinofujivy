@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029951139119255554"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2030056833067667954",
+    "created_at": "2026-03-06T23:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030056833067667954"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "男娘"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "捆绑"
+        },
+        {
+          "end": 11,
+          "start": 8,
+          "tag": "户外"
+        },
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "足控"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "大棒"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5vkSsweiLb",
+          "end": 43,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2030056833067667954/photo/1",
+          "media_key": "3_2029951139119255554",
+          "start": 20,
+          "url": "https://t.co/5vkSsweiLb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030056833067667954",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#男娘 #捆绑 #户外 #足控 #大棒 https://t.co/5vkSsweiLb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2030056833067667954].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2030056833067667954",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2030056833067667954"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 716,
+        "media_key": "3_2029951139119255554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvVzk6aUAIPwDu.jpg",
+        "width": 948
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4694,
+          "following_count": 3829,
+          "like_count": 37378,
+          "listed_count": 9,
+          "media_count": 1038,
+          "tweet_count": 8990
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

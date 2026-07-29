@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2060682307640647819",
+    "created_at": "2026-05-30T12:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060692782390645151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "720609429721260033",
+          "start": 0,
+          "username": "o4DT4OO2zY9Oyol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060692782390645151",
+    "in_reply_to_user_id": "720609429721260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060688922519490875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o4DT4OO2zY9Oyol 我夸香港怎么了\n香港不是中国吗😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2060682307640647819",
+        "created_at": "2026-05-30T12:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060692782390645151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "720609429721260033",
+              "start": 0,
+              "username": "o4DT4OO2zY9Oyol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060692782390645151",
+        "in_reply_to_user_id": "720609429721260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060688922519490875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o4DT4OO2zY9Oyol 我夸香港怎么了\n香港不是中国吗😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "720609429721260033",
+        "conversation_id": "2060682307640647819",
+        "created_at": "2026-05-30T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060688922519490875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060688922519490875",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060682307640647819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 大膽🫵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11573,
+          "following_count": 4325,
+          "like_count": 47157,
+          "listed_count": 39,
+          "media_count": 2495,
+          "tweet_count": 14884
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-14T13:47:31.000Z",
+        "description": "...\n好麻煩的東西\n就看個推打打嘴砲\n麻煩那些登能兒想嘴\n我沒問題\n別搞什麼引用+封鎖\n真的很北七",
+        "id": "720609429721260033",
+        "location": "Taiwan",
+        "name": "潘以旋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046949686322544640/HDug8LAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 296,
+          "like_count": 9771,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 1625
+        },
+        "username": "o4DT4OO2zY9Oyol",
+        "verified": false
+      }
+    ]
+  }
+}

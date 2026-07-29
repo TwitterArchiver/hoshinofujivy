@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042971235110522883"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2042971243423711320",
+    "created_at": "2026-04-11T14:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T15:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042971243423711320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cr3QrFToMd",
+          "end": 37,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2042971243423711320/photo/1",
+          "media_key": "3_2042971235110522883",
+          "start": 14,
+          "url": "https://t.co/cr3QrFToMd"
+        },
+        {
+          "display_url": "x.com/Yuki192699/sta…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Yuki192699/status/2042890165572768223",
+          "start": 38,
+          "url": "https://t.co/YYhfRmmjgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042971243423711320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042890165572768223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来grok还可以翻译粤语 https://t.co/cr3QrFToMd https://t.co/YYhfRmmjgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1765,
+        "media_key": "3_2042971235110522883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFoXg6MakAMn6N4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042971235110522883"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2042971243423711320",
+        "created_at": "2026-04-11T14:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T15:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042971243423711320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cr3QrFToMd",
+              "end": 37,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2042971243423711320/photo/1",
+              "media_key": "3_2042971235110522883",
+              "start": 14,
+              "url": "https://t.co/cr3QrFToMd"
+            },
+            {
+              "display_url": "x.com/Yuki192699/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Yuki192699/status/2042890165572768223",
+              "start": 38,
+              "url": "https://t.co/YYhfRmmjgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042971243423711320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042890165572768223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来grok还可以翻译粤语 https://t.co/cr3QrFToMd https://t.co/YYhfRmmjgd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016514296495345664",
+        "conversation_id": "2042850640897228848",
+        "created_at": "2026-04-11T08:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042890165572768223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042890165572768223",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042850640897228848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy If it's a Chinese school, then we shouldn't blame our daughter"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8345,
+          "following_count": 4065,
+          "like_count": 42885,
+          "listed_count": 26,
+          "media_count": 1680,
+          "tweet_count": 11665
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-28T14:11:08.000Z",
+        "description": "中国に留学中の日本人女子です。よろしくお願いします✨",
+        "id": "2016514296495345664",
+        "location": "曼谷Bangkok",
+        "name": "シルビア",
+        "pinned_tweet_id": "2040292127750619431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042534946305380353/2daQEu0B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 178,
+          "like_count": 2591,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 162
+        },
+        "username": "Yuki192699",
+        "verified": false
+      }
+    ]
+  }
+}

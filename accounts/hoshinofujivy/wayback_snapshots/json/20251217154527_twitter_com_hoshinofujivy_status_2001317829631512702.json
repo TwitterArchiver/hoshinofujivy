@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001289194795409408",
+        "3_2001289194883395585",
+        "3_2001289194908659712",
+        "3_2001289194904461312"
+      ],
+      "media_source_tweet_id": [
+        "2001289243432480851",
+        "2001289243432480851",
+        "2001289243432480851",
+        "2001289243432480851"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2001317829631512702",
+    "created_at": "2025-12-17T15:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001317829631512702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1506637610352984065",
+          "start": 3,
+          "username": "JarrettYe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kypdwowp66",
+          "end": 61,
+          "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+          "media_key": "3_2001289194795409408",
+          "start": 38,
+          "url": "https://t.co/Kypdwowp66"
+        },
+        {
+          "display_url": "pic.x.com/Kypdwowp66",
+          "end": 61,
+          "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+          "media_key": "3_2001289194883395585",
+          "start": 38,
+          "url": "https://t.co/Kypdwowp66"
+        },
+        {
+          "display_url": "pic.x.com/Kypdwowp66",
+          "end": 61,
+          "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+          "media_key": "3_2001289194908659712",
+          "start": 38,
+          "url": "https://t.co/Kypdwowp66"
+        },
+        {
+          "display_url": "pic.x.com/Kypdwowp66",
+          "end": 61,
+          "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+          "media_key": "3_2001289194904461312",
+          "start": 38,
+          "url": "https://t.co/Kypdwowp66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001317829631512702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001289243432480851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JarrettYe: Nano Banana Pro 还是太好用了 https://t.co/Kypdwowp66"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001317829631512702].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001317829631512702",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001317829631512702"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2001289194795409408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YB61yboAADq6E.jpg",
+        "width": 896
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2001289194883395585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YB62HaMAEAjAr.jpg",
+        "width": 896
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2001289194908659712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YB62NbsAAcEEq.jpg",
+        "width": 896
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2001289194904461312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8YB62MboAAryvJ.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001289194795409408",
+            "3_2001289194883395585",
+            "3_2001289194908659712",
+            "3_2001289194904461312"
+          ]
+        },
+        "author_id": "1506637610352984065",
+        "conversation_id": "2001289243432480851",
+        "created_at": "2025-12-17T13:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001289243432480851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kypdwowp66",
+              "end": 46,
+              "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+              "media_key": "3_2001289194795409408",
+              "start": 23,
+              "url": "https://t.co/Kypdwowp66"
+            },
+            {
+              "display_url": "pic.x.com/Kypdwowp66",
+              "end": 46,
+              "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+              "media_key": "3_2001289194883395585",
+              "start": 23,
+              "url": "https://t.co/Kypdwowp66"
+            },
+            {
+              "display_url": "pic.x.com/Kypdwowp66",
+              "end": 46,
+              "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+              "media_key": "3_2001289194908659712",
+              "start": 23,
+              "url": "https://t.co/Kypdwowp66"
+            },
+            {
+              "display_url": "pic.x.com/Kypdwowp66",
+              "end": 46,
+              "expanded_url": "https://x.com/JarrettYe/status/2001289243432480851/photo/1",
+              "media_key": "3_2001289194904461312",
+              "start": 23,
+              "url": "https://t.co/Kypdwowp66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001289243432480851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 447,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Nano Banana Pro 还是太好用了 https://t.co/Kypdwowp66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子家",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 2732,
+          "like_count": 31314,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 6932
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-23T14:23:05.000Z",
+        "description": "Die-hard fan of spaced repetition. Creator of FSRS. \nInfluencer on ZhiHu with 100k+ followers. \nResearch Engineer at MaiMemo Inc. \nFounder of Thoughts Memo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "l-m-sherlock.github.io",
+                "end": 23,
+                "expanded_url": "https://l-m-sherlock.github.io",
+                "start": 0,
+                "url": "https://t.co/VQgi3Ir9oX"
+              }
+            ]
+          }
+        },
+        "id": "1506637610352984065",
+        "location": "China",
+        "name": "Jarrett Ye",
+        "pinned_tweet_id": "1981030936775954531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569996533449523200/kDUdelDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6063,
+          "following_count": 341,
+          "like_count": 15930,
+          "listed_count": 39,
+          "media_count": 448,
+          "tweet_count": 2312
+        },
+        "url": "https://t.co/VQgi3Ir9oX",
+        "username": "JarrettYe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1983041111171256735",
+    "created_at": "2025-10-28T05:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983041111171256735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SydManfred/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/SydManfred/status/1983032684533408213",
+          "start": 36,
+          "url": "https://t.co/1XiybXr7Kx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983041111171256735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983032684533408213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为在那些警察眼里，我已经成为了罪犯，他们觉得罪犯丢人（无论罪名如何） https://t.co/1XiybXr7Kx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1983041111171256735",
+        "created_at": "2025-10-28T05:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983041111171256735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SydManfred/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/SydManfred/status/1983032684533408213",
+              "start": 36,
+              "url": "https://t.co/1XiybXr7Kx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983041111171256735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983032684533408213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为在那些警察眼里，我已经成为了罪犯，他们觉得罪犯丢人（无论罪名如何） https://t.co/1XiybXr7Kx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840410233897807872",
+        "conversation_id": "1982735714581446727",
+        "created_at": "2025-10-28T04:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983032684533408213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983032684533408213",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982735714581446727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 我第一反应是难道被武警押送档次太低了？所以感到丢人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 2556,
+          "like_count": 26505,
+          "listed_count": 4,
+          "media_count": 558,
+          "tweet_count": 6057
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T03:53:08.000Z",
+        "description": "路过的毛粉，不懂经书所以不自称毛左。\n习惯以朴素价值观判断事物性质。\n间歇性发癫，欢迎不同立场的人来交流。\n讨厌反智、双标和不断诡辩转进的复读机。",
+        "id": "840410233897807872",
+        "name": "Syd-红莲3型卡米纳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773177238823022593/73RvnUDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 81,
+          "like_count": 1036,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 4354
+        },
+        "username": "SydManfred",
+        "verified": false
+      }
+    ]
+  }
+}

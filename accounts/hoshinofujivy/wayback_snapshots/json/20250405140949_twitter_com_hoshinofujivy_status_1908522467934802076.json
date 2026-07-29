@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1908522467934802076",
+    "created_at": "2025-04-05T14:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T15:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908522467934802076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839980597206495232",
+          "start": 3,
+          "username": "cy79p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908522467934802076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905965814106480780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cy79p: 发过这样图的我在春天死去的话 会显得讽刺吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1908522467934802076",
+        "created_at": "2025-04-05T14:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T15:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908522467934802076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839980597206495232",
+              "start": 3,
+              "username": "cy79p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908522467934802076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905965814106480780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cy79p: 发过这样图的我在春天死去的话 会显得讽刺吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839980597206495232",
+        "conversation_id": "1905965814106480780",
+        "created_at": "2025-03-29T12:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T13:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905965814106480780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cy79p/status/1…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/cy79p/status/1902365751421571144",
+              "start": 22,
+              "url": "https://t.co/p0GmtxrKjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905965814106480780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 819,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902365751421571144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发过这样图的我在春天死去的话 会显得讽刺吗 https://t.co/p0GmtxrKjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」本体是只猫｜Foeverlove @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野藤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 2177,
+          "like_count": 13741,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 3644
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T10:49:06.000Z",
+        "description": "不算明天明天 就赢过时间 ｜🏳️‍🌈🏳️‍⚧️｜你说我怎样我就是怎样的｜四分之一个酒蒙子｜42｜「瑪德琳娜電台」「花」@cy79p｜「存活千年」@sakura_yukihane｜「追逐月光」@tianjutangyunzi ｜ 「形容」@ryq59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 59,
+                "username": "cy79p"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "sakura_yukihane"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "tianjutangyunzi"
+              },
+              {
+                "end": 124,
+                "start": 118,
+                "username": "ryq59"
+              }
+            ]
+          }
+        },
+        "id": "1839980597206495232",
+        "name": "璟江别",
+        "pinned_tweet_id": "1904395995603181597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908187554161291264/z8uJXxku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 227,
+          "like_count": 3606,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 649
+        },
+        "username": "cy79p",
+        "verified": false
+      }
+    ]
+  }
+}

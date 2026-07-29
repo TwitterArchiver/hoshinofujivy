@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027909242615959554"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2027909329748402685",
+    "created_at": "2026-03-01T00:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T01:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027909329748402685"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 4,
+          "normalized_text": "狗和巴甫洛",
+          "probability": 0.4202,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j1syo5DrnP",
+          "end": 30,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2027909329748402685/photo/1",
+          "media_key": "3_2027909242615959554",
+          "start": 7,
+          "url": "https://t.co/j1syo5DrnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027909329748402685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗和巴甫洛夫 https://t.co/j1syo5DrnP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2027909242615959554",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSUtjrbEAIKVv-.jpg",
+        "width": 1622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027909242615959554"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2027909329748402685",
+        "created_at": "2026-03-01T00:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T01:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027909329748402685"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "狗和巴甫洛",
+              "probability": 0.4202,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1syo5DrnP",
+              "end": 30,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2027909329748402685/photo/1",
+              "media_key": "3_2027909242615959554",
+              "start": 7,
+              "url": "https://t.co/j1syo5DrnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027909329748402685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗和巴甫洛夫 https://t.co/j1syo5DrnP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4198,
+          "following_count": 3717,
+          "like_count": 36352,
+          "listed_count": 6,
+          "media_count": 955,
+          "tweet_count": 8606
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

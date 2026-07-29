@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2015048133106118989",
+    "created_at": "2026-01-24T13:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015048133106118989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/watoson_killer…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/watoson_killer/status/2014992588907086328",
+          "start": 15,
+          "url": "https://t.co/EdhEdDEevO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015048133106118989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014992588907086328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我希望我的tl多一点这种作品 https://t.co/EdhEdDEevO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39009,
+        "height": 720,
+        "media_key": "7_2014992549161693184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014992549161693184/pu/img/T_s2VLnD-aBYHAej.jpg",
+        "public_metrics": {
+          "view_count": 92063
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014992549161693184/pu/vid/avc1/320x320/NsEpnr0WnRyRvO-G.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014992549161693184/pu/vid/avc1/540x540/hLqDECAiABNtb31x.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014992549161693184/pu/vid/avc1/720x720/3jV8YqzK1CMoNA5M.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014992549161693184/pu/pl/T4CJrF14hQ8uuxuG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2015048133106118989",
+        "created_at": "2026-01-24T13:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015048133106118989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/watoson_killer…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/watoson_killer/status/2014992588907086328",
+              "start": 15,
+              "url": "https://t.co/EdhEdDEevO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015048133106118989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014992588907086328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我希望我的tl多一点这种作品 https://t.co/EdhEdDEevO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014992549161693184"
+          ]
+        },
+        "author_id": "1593909946571071488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2014992588907086328",
+        "created_at": "2026-01-24T09:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T10:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014992588907086328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/23yoUGXBVZ",
+              "end": 23,
+              "expanded_url": "https://x.com/watoson_killer/status/2014992588907086328/video/1",
+              "media_key": "7_2014992549161693184",
+              "start": 0,
+              "url": "https://t.co/23yoUGXBVZ"
+            },
+            {
+              "display_url": "x.com/soka_youth/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/soka_youth/status/2013479677881676137",
+              "start": 24,
+              "url": "https://t.co/ptcYwoPAky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014992588907086328",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1450,
+          "impression_count": 589483,
+          "like_count": 7815,
+          "quote_count": 253,
+          "reply_count": 43,
+          "retweet_count": 1738
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013479677881676137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/23yoUGXBVZ https://t.co/ptcYwoPAky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&中文",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 2875,
+          "like_count": 33307,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 7420
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T10:12:07.000Z",
+        "description": "変なスパム以外は堅実にフォロバしてます 淫ク☆ラブライブ ツイ廃 251→@Rex_died さけのみ界隈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Rex_died"
+              }
+            ]
+          }
+        },
+        "id": "1593909946571071488",
+        "name": "ヨハマニ🍺😈",
+        "pinned_tweet_id": "2004760043720507634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011357727319281664/OXgi88eB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 3698,
+          "like_count": 2943,
+          "listed_count": 10,
+          "media_count": 890,
+          "tweet_count": 2190
+        },
+        "username": "watoson_killer",
+        "verified": false
+      }
+    ]
+  }
+}

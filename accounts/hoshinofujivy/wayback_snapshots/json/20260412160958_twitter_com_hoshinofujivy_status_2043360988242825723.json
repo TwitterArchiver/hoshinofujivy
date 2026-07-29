@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2043360988242825723",
+    "created_at": "2026-04-12T16:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043360988242825723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x9w3nz3_060411…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/x9w3nz3_060411/status/2043358219930845272",
+          "start": 10,
+          "url": "https://t.co/eJgdGUbdDO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043360988242825723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043358219930845272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额，嘉豪又是什么梗 https://t.co/eJgdGUbdDO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2043360988242825723",
+        "created_at": "2026-04-12T16:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043360988242825723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x9w3nz3_060411…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/x9w3nz3_060411/status/2043358219930845272",
+              "start": 10,
+              "url": "https://t.co/eJgdGUbdDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043360988242825723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043358219930845272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额，嘉豪又是什么梗 https://t.co/eJgdGUbdDO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027997047908143105",
+        "conversation_id": "2043281670200279274",
+        "created_at": "2026-04-12T15:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043358219930845272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043358219930845272",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043281670200279274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 谁家嘉豪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8413,
+          "following_count": 4074,
+          "like_count": 43042,
+          "listed_count": 26,
+          "media_count": 1706,
+          "tweet_count": 11749
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-01T06:39:22.000Z",
+        "description": "喜欢冰激凌红茶",
+        "id": "2027997047908143105",
+        "location": "武汉",
+        "name": "我要吃臭鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028003916365848576/zqiitBqg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 32,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 93
+        },
+        "username": "x9w3nz3_060411",
+        "verified": false
+      }
+    ]
+  }
+}

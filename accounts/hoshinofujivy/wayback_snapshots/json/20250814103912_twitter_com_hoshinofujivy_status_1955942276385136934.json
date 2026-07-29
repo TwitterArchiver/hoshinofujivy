@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1906566315525181440",
+        "3_1906566315546226688"
+      ],
+      "media_source_tweet_id": [
+        "1906566337880891477",
+        "1906566337880891477"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1955942276385136934",
+    "created_at": "2025-08-14T10:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T11:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955942276385136934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YvhouSueED",
+          "end": 61,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1906566337880891477/photo/1",
+          "media_key": "3_1906566315525181440",
+          "start": 38,
+          "url": "https://t.co/YvhouSueED"
+        },
+        {
+          "display_url": "pic.x.com/YvhouSueED",
+          "end": 61,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1906566337880891477/photo/1",
+          "media_key": "3_1906566315546226688",
+          "start": 38,
+          "url": "https://t.co/YvhouSueED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955942276385136934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906566337880891477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 跨性别现身日\n现个身好了\n不好看勿喷 https://t.co/YvhouSueED"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955942276385136934].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955942276385136934",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955942276385136934"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1906566315525181440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnV79mmakAAcjaS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906566315546226688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnV79mrbsAALlBK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906566315525181440",
+            "3_1906566315546226688"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1906566337880891477",
+        "created_at": "2025-03-31T04:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T05:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906566337880891477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvhouSueED",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1906566337880891477/photo/1",
+              "media_key": "3_1906566315525181440",
+              "start": 19,
+              "url": "https://t.co/YvhouSueED"
+            },
+            {
+              "display_url": "pic.x.com/YvhouSueED",
+              "end": 42,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1906566337880891477/photo/1",
+              "media_key": "3_1906566315546226688",
+              "start": 19,
+              "url": "https://t.co/YvhouSueED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906566337880891477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 477,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别现身日\n现个身好了\n不好看勿喷 https://t.co/YvhouSueED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1952706899448836124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 2466,
+          "like_count": 23391,
+          "listed_count": 2,
+          "media_count": 524,
+          "tweet_count": 5632
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

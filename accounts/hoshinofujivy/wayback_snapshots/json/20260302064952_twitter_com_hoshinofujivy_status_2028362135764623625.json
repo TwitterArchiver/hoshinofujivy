@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2028112294224466105",
+    "created_at": "2026-03-02T06:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028362135764623625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1721434630061244416",
+          "start": 0,
+          "username": "Atan778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028362135764623625",
+    "in_reply_to_user_id": "1721434630061244416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028360506025910537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atan778 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2028112294224466105",
+        "created_at": "2026-03-02T06:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028362135764623625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1721434630061244416",
+              "start": 0,
+              "username": "Atan778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028362135764623625",
+        "in_reply_to_user_id": "1721434630061244416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028360506025910537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atan778 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721434630061244416",
+        "conversation_id": "2028112294224466105",
+        "created_at": "2026-03-02T06:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028360506025910537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028360506025910537",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028112294224466105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 这特么是生活不能自理的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4546,
+          "following_count": 3772,
+          "like_count": 36674,
+          "listed_count": 7,
+          "media_count": 973,
+          "tweet_count": 8719
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T07:49:45.000Z",
+        "description": "Web3 无业游民 | 币圈老韭菜 | 主要是个固执的人 | 新晋 NFT 抹布窝 | Rcn Club 社区成员|不定时开启抽奖模式|所有推文不做投资建议|社区打造，项目发掘，广交好友~🥥🥥🥥合作私聊#KOL#nft",
+        "id": "1721434630061244416",
+        "name": "ATan_🥥",
+        "pinned_tweet_id": "2011632201079869674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016802934970064896/wiWalz2w_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5737,
+          "following_count": 2449,
+          "like_count": 8908,
+          "listed_count": 7,
+          "media_count": 238,
+          "tweet_count": 7738
+        },
+        "username": "Atan778",
+        "verified": true
+      }
+    ]
+  }
+}

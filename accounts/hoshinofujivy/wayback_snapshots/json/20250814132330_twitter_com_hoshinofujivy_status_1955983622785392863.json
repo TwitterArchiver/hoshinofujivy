@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1955983622785392863",
+    "created_at": "2025-08-14T13:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T14:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955983622785392863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1721381996960845824",
+          "start": 3,
+          "username": "laozhouhengmei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955983622785392863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955615831196668240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laozhouhengmei: 今晚参加新加坡渣打银行内部私行会议。\n\n会后跟一些其他的参会人聊天，再次发现海外华人对中国过去10年来在习近平的折腾下所发生的巨变几乎是一无所知。\n\n我听到一个客户经理在跟她的客户说中国还有不错的投资机会，后面我跟他们说，千万别再投中国了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1955615645535772673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO-EX1bIAEte-c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1955615645535711232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO-EX1aMAArbDJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1955615645544136704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyO-EX3awAALQar.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955983622785392863",
+        "created_at": "2025-08-14T13:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T14:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955983622785392863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1721381996960845824",
+              "start": 3,
+              "username": "laozhouhengmei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955983622785392863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955615831196668240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laozhouhengmei: 今晚参加新加坡渣打银行内部私行会议。\n\n会后跟一些其他的参会人聊天，再次发现海外华人对中国过去10年来在习近平的折腾下所发生的巨变几乎是一无所知。\n\n我听到一个客户经理在跟她的客户说中国还有不错的投资机会，后面我跟他们说，千万别再投中国了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955615645535772673",
+            "3_1955615645535711232",
+            "3_1955615645544136704"
+          ]
+        },
+        "author_id": "1721381996960845824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955615831196668240",
+        "created_at": "2025-08-13T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955615831196668240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jHBrH8ZDco",
+              "end": 144,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1955615831196668240/photo/1",
+              "media_key": "3_1955615645535772673",
+              "start": 121,
+              "url": "https://t.co/jHBrH8ZDco"
+            },
+            {
+              "display_url": "pic.x.com/jHBrH8ZDco",
+              "end": 144,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1955615831196668240/photo/1",
+              "media_key": "3_1955615645535711232",
+              "start": 121,
+              "url": "https://t.co/jHBrH8ZDco"
+            },
+            {
+              "display_url": "pic.x.com/jHBrH8ZDco",
+              "end": 144,
+              "expanded_url": "https://x.com/laozhouhengmei/status/1955615831196668240/photo/1",
+              "media_key": "3_1955615645544136704",
+              "start": 121,
+              "url": "https://t.co/jHBrH8ZDco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955615831196668240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今晚参加新加坡渣打银行内部私行会议。\n\n会后跟一些其他的参会人聊天，再次发现海外华人对中国过去10年来在习近平的折腾下所发生的巨变几乎是一无所知。\n\n我听到一个客户经理在跟她的客户说中国还有不错的投资机会，后面我跟他们说，千万别再投中国了。\n\n在我说到习近平开倒车的时候，他们完全不理解。居然问：“他不是一直在反腐吗？”  如此这样粗浅并且是十几年前的信息。\n\n他们对于中国媒体过去10几年来的越来越封闭（媒体姓党），对于习近平搞个人崇拜等等完全不知情。\n\n能参加这个会议的，都是关心全球经济的高净值人群，但依然是这样。\n\n还是印证了我一直在说的：防火墙是双向的 — 不仅外面的消息进不去，里面的坏消息也出不来。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 428815,
+          "like_count": 1396,
+          "quote_count": 11,
+          "reply_count": 327,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "今晚参加新加坡渣打银行内部私行会议。\n\n会后跟一些其他的参会人聊天，再次发现海外华人对中国过去10年来在习近平的折腾下所发生的巨变几乎是一无所知。\n\n我听到一个客户经理在跟她的客户说中国还有不错的投资机会，后面我跟他们说，千万别再投中国了。 https://t.co/jHBrH8ZDco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」里人格@luvnasa/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_ @k1_6r(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "luvnasa"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 83,
+                "start": 74,
+                "username": "qiuylove"
+              },
+              {
+                "end": 99,
+                "start": 86,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 100,
+                "username": "k1_6r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1952706899448836124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 2467,
+          "like_count": 23420,
+          "listed_count": 2,
+          "media_count": 525,
+          "tweet_count": 5638
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T04:20:35.000Z",
+        "description": "原本是墙内时政批判类头部主播，微信视频号被下架几十个10万+，目前墙内已全面封杀。油管9个月破25万订阅。大马华人，美国8年，上海15年（2008~2023），现在新加坡；斯坦福计算机系，前金融企业CEO。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@laozhou77",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@laozhou77",
+                "start": 0,
+                "url": "https://t.co/u18vxiBPVW"
+              }
+            ]
+          }
+        },
+        "id": "1721381996960845824",
+        "name": "老周横眉",
+        "pinned_tweet_id": "1777320976809881823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382562730577920/qJqUJz8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90972,
+          "following_count": 110,
+          "like_count": 9382,
+          "listed_count": 365,
+          "media_count": 657,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/u18vxiBPVW",
+        "username": "laozhouhengmei",
+        "verified": true
+      }
+    ]
+  }
+}

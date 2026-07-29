@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069227792949215232"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      }
+    ],
+    "conversation_id": "2069227861870051453",
+    "created_at": "2026-06-23T01:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069227861870051453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QA1DCZqf4R",
+          "end": 119,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2069227861870051453/photo/1",
+          "media_key": "3_2069227792949215232",
+          "start": 96,
+          "url": "https://t.co/QA1DCZqf4R"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2062159873505374356",
+          "start": 120,
+          "url": "https://t.co/P0VhQ9Bmpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069227861870051453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从5.29-6.22，从香港到东京到国内，已经见过10个朋友了\n\n其实，我去哪所城市，是因为那里有朋友我才会去\n\n过去几个月，已经有很多朋友离开了，退网的退网，自杀的自杀，或是被家长强制断联\n\n即便这样的情况下，我还能找到很多朋友，和他们经历很多神奇的事情，比如反诈骗、演谍战片、走出失恋阴影....大家真的很厉害\n\n很多人觉得，为了见所谓网友，不值得花这么多钱.但是赚钱本身就是为了让自己快乐，如果能远赴千里见一面，让更多人快乐，也是一种美事\n\n远方还有更多的人，等我！"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062159873505374356",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从5.29-6.22，从香港到东京到国内，已经见过10个朋友了\n\n其实，我去哪所城市，是因为那里有朋友我才会去\n\n过去几个月，已经有很多朋友离开了，退网的退网，自杀的自杀，或是被家长强制断联 https://t.co/QA1DCZqf4R https://t.co/P0VhQ9Bmpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1339,
+        "media_key": "3_2069227792949215232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdftuYagAAVd6I.jpg",
+        "width": 1079
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2062159860851228672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ5Dd7gbQAAaylH.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069227792949215232"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2069227861870051453",
+        "created_at": "2026-06-23T01:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069227861870051453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QA1DCZqf4R",
+              "end": 119,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2069227861870051453/photo/1",
+              "media_key": "3_2069227792949215232",
+              "start": 96,
+              "url": "https://t.co/QA1DCZqf4R"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2062159873505374356",
+              "start": 120,
+              "url": "https://t.co/P0VhQ9Bmpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069227861870051453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从5.29-6.22，从香港到东京到国内，已经见过10个朋友了\n\n其实，我去哪所城市，是因为那里有朋友我才会去\n\n过去几个月，已经有很多朋友离开了，退网的退网，自杀的自杀，或是被家长强制断联\n\n即便这样的情况下，我还能找到很多朋友，和他们经历很多神奇的事情，比如反诈骗、演谍战片、走出失恋阴影....大家真的很厉害\n\n很多人觉得，为了见所谓网友，不值得花这么多钱.但是赚钱本身就是为了让自己快乐，如果能远赴千里见一面，让更多人快乐，也是一种美事\n\n远方还有更多的人，等我！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062159873505374356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从5.29-6.22，从香港到东京到国内，已经见过10个朋友了\n\n其实，我去哪所城市，是因为那里有朋友我才会去\n\n过去几个月，已经有很多朋友离开了，退网的退网，自杀的自杀，或是被家长强制断联 https://t.co/QA1DCZqf4R https://t.co/P0VhQ9Bmpi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062159860851228672"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          }
+        ],
+        "conversation_id": "2062159873505374356",
+        "created_at": "2026-06-03T13:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062159873505374356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3AMwzVlYl",
+              "end": 170,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2062159873505374356/photo/1",
+              "media_key": "3_2062159860851228672",
+              "start": 147,
+              "url": "https://t.co/H3AMwzVlYl"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2013603943385837717",
+              "start": 171,
+              "url": "https://t.co/13AfnWGhsK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062159873505374356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你说一个人独自出国旅行会不会孤独？\n会的，但是至少不痛苦....\n\n老实说，我和国内的人（我的家人，朋友，同学）完全没有共同话题.我所喜欢的东西，他们完全不懂，也不想了解，久而久之，我在国内就没了共同话题的人....身在家乡，却为异客，难言的孤独，只会给我痛苦\n\n换句话说，我早已习惯独自一人\n\n出来旅行后，身边的环境不停的变化，我会遇到很多善良的人，我不停的感受温暖并传递温暖，心里也不断开阔起来\n\n到国外后，我的精力比在国内还要旺盛，这是探索欲使然。倘若让我宅在家里，沉溺于网络，只会让我心情越发压抑。\n\n人的心应该有归属？我不这么认为。吾心安处，即是吾乡。旅行充满着探索，充满了和陌生人的交集，我是独自一人，但又不是独自一人\n\n我很喜欢那样的感觉，无论去哪里，都会有认识的陌生人，也就是四海为家"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3272,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013603943385837717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说一个人独自出国旅行会不会孤独？\n会的，但是至少不痛苦....\n\n老实说，我和国内的人（我的家人，朋友，同学）完全没有共同话题.我所喜欢的东西，他们完全不懂，也不想了解，久而久之，我在国内就没了共同话题的人....身在家乡，却为异客，难言的孤独，只会给我痛苦\n\n换句话说，我早已习惯独自一人 https://t.co/H3AMwzVlYl https://t.co/13AfnWGhsK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12084,
+          "following_count": 4364,
+          "like_count": 49312,
+          "listed_count": 36,
+          "media_count": 2928,
+          "tweet_count": 16403
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

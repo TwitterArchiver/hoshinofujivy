@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930780071037685760"
+      ],
+      "media_source_tweet_id": [
+        "1930780073906639218"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1930823348768092662",
+    "created_at": "2025-06-06T03:05:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T04:05:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930823348768092662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900123741272887296",
+          "start": 3,
+          "username": "linxiaoshu25"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ererq1tOpx",
+          "end": 47,
+          "expanded_url": "https://x.com/linxiaoshu25/status/1930780073906639218/photo/1",
+          "media_key": "3_1930780071037685760",
+          "start": 24,
+          "url": "https://t.co/Ererq1tOpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930823348768092662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930780073906639218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linxiaoshu25: 新的复制文 https://t.co/Ererq1tOpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1930780071037685760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsuCPrGa0AA2ibt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930780071037685760"
+          ],
+          "media_source_tweet_id": [
+            "1930780073906639218"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1930823348768092662",
+        "created_at": "2025-06-06T03:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T04:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930823348768092662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900123741272887296",
+              "start": 3,
+              "username": "linxiaoshu25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ererq1tOpx",
+              "end": 47,
+              "expanded_url": "https://x.com/linxiaoshu25/status/1930780073906639218/photo/1",
+              "media_key": "3_1930780071037685760",
+              "start": 24,
+              "url": "https://t.co/Ererq1tOpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930823348768092662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930780073906639218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linxiaoshu25: 新的复制文 https://t.co/Ererq1tOpx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930780071037685760"
+          ]
+        },
+        "author_id": "1900123741272887296",
+        "conversation_id": "1930780073906639218",
+        "created_at": "2025-06-06T00:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T01:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930780073906639218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ererq1tOpx",
+              "end": 29,
+              "expanded_url": "https://x.com/linxiaoshu25/status/1930780073906639218/photo/1",
+              "media_key": "3_1930780071037685760",
+              "start": 6,
+              "url": "https://t.co/Ererq1tOpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930780073906639218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新的复制文 https://t.co/Ererq1tOpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 2375,
+          "like_count": 19830,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 4599
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T09:56:48.000Z",
+        "description": "这里没有东西",
+        "id": "1900123741272887296",
+        "name": "f&m(mini)",
+        "pinned_tweet_id": "1924681418501980502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929420106200969216/knOJtZi5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 693,
+          "like_count": 8790,
+          "listed_count": 1,
+          "media_count": 370,
+          "tweet_count": 2345
+        },
+        "username": "linxiaoshu25",
+        "verified": false
+      }
+    ]
+  }
+}

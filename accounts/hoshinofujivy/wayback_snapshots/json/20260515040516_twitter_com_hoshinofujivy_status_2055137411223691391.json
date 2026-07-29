@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2055115447100682597",
+    "created_at": "2026-05-15T04:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055137411223691391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "837992628964605952",
+          "start": 0,
+          "username": "kid4wang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055137411223691391",
+    "in_reply_to_user_id": "837992628964605952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055137010239877366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kid4wang 学校又不教"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2055115447100682597",
+        "created_at": "2026-05-15T04:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055137411223691391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "837992628964605952",
+              "start": 0,
+              "username": "kid4wang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055137411223691391",
+        "in_reply_to_user_id": "837992628964605952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055137010239877366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kid4wang 学校又不教"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "837992628964605952",
+        "conversation_id": "2055115447100682597",
+        "created_at": "2026-05-15T04:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055137010239877366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055137010239877366",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055115447100682597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 置身事外，把酒临风，不问世事，寄情山水，宠辱不惊，命里有时终须有，命里无时莫强求，你是一句不提啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10821,
+          "following_count": 4301,
+          "like_count": 45890,
+          "listed_count": 35,
+          "media_count": 2239,
+          "tweet_count": 13776
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-04T11:46:26.000Z",
+        "description": "",
+        "id": "837992628964605952",
+        "name": "kid_wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523481866812071936/jPChT9_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 13,
+          "like_count": 21548,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 3584
+        },
+        "username": "kid4wang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016356093409296387"
+      ],
+      "media_source_tweet_id": [
+        "2017900732973006906"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2017943171079323778",
+    "created_at": "2026-02-01T12:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T13:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017943171079323778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1408996496230391814",
+          "start": 3,
+          "username": "ima_AI123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U0VCCaq9Ry",
+          "end": 42,
+          "expanded_url": "https://x.com/ima_AI123/status/2017900732973006906/photo/1",
+          "media_key": "3_2016356093409296387",
+          "start": 19,
+          "url": "https://t.co/U0VCCaq9Ry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017943171079323778",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017900732973006906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ima_AI123: 静電気 https://t.co/U0VCCaq9Ry"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2016356093409296387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uJLxBbAAM1TmB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016356093409296387"
+          ],
+          "media_source_tweet_id": [
+            "2017900732973006906"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2017943171079323778",
+        "created_at": "2026-02-01T12:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017943171079323778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1408996496230391814",
+              "start": 3,
+              "username": "ima_AI123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0VCCaq9Ry",
+              "end": 42,
+              "expanded_url": "https://x.com/ima_AI123/status/2017900732973006906/photo/1",
+              "media_key": "3_2016356093409296387",
+              "start": 19,
+              "url": "https://t.co/U0VCCaq9Ry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017943171079323778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017900732973006906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ima_AI123: 静電気 https://t.co/U0VCCaq9Ry"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016356093409296387"
+          ]
+        },
+        "author_id": "1408996496230391814",
+        "conversation_id": "2017900732973006906",
+        "created_at": "2026-02-01T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017900732973006906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U0VCCaq9Ry",
+              "end": 27,
+              "expanded_url": "https://x.com/ima_AI123/status/2017900732973006906/photo/1",
+              "media_key": "3_2016356093409296387",
+              "start": 4,
+              "url": "https://t.co/U0VCCaq9Ry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017900732973006906",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 44273,
+          "like_count": 2668,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 223
+        },
+        "reply_settings": "everyone",
+        "text": "静電気 https://t.co/U0VCCaq9Ry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 2924,
+          "like_count": 33745,
+          "listed_count": 4,
+          "media_count": 772,
+          "tweet_count": 7554
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-27T03:52:14.000Z",
+        "description": "少女たちの日常とファンタジー AI+加筆修正 白猫の名前はイマ、黒猫の名前はルリです🐈‍⬛　4コマ+1のまとめ→ https://t.co/6yMn8VhJlM 🐈‍⬛Amazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/3Nxl2Yn",
+                "end": 80,
+                "expanded_url": "https://amzn.to/3Nxl2Yn",
+                "start": 57,
+                "url": "https://t.co/6yMn8VhJlM"
+              }
+            ]
+          }
+        },
+        "id": "1408996496230391814",
+        "name": "イマ",
+        "pinned_tweet_id": "2014171161555501254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657073333882728448/2PQKhm70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48682,
+          "following_count": 1965,
+          "like_count": 134921,
+          "listed_count": 312,
+          "media_count": 2151,
+          "tweet_count": 2910
+        },
+        "username": "ima_AI123",
+        "verified": true
+      }
+    ]
+  }
+}

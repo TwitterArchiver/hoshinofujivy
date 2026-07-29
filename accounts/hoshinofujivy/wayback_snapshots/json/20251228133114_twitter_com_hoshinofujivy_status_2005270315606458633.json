@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2005240363448148144",
+    "created_at": "2025-12-28T13:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T14:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005270315606458633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "zuifeiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005270315606458633",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005240363448148144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuifeiwu 大陆会延迟上线吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2005240363448148144].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2005240363448148144",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2005240363448148144"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2005240363448148144",
+        "created_at": "2025-12-28T13:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005270315606458633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "zuifeiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005270315606458633",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005240363448148144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuifeiwu 大陆会延迟上线吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子家",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 2789,
+          "like_count": 31970,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 7102
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "坚定的六花主义者    坂下六花思想是不落的太阳",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "坂下りっか🍬",
+        "pinned_tweet_id": "1895694448933409172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755984772776755200/PpEKO3Iv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 1415,
+          "like_count": 52950,
+          "listed_count": 12,
+          "media_count": 516,
+          "tweet_count": 17966
+        },
+        "username": "zuifeiwu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1987464995672822233",
+    "created_at": "2025-11-10T08:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T09:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987795416310771818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774702294052884481",
+          "start": 0,
+          "username": "Adam_F_White"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987795416310771818",
+    "in_reply_to_user_id": "1774702294052884481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987789293461586095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adam_F_White 崩的手"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1987464995672822233",
+        "created_at": "2025-11-10T08:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T09:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987795416310771818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774702294052884481",
+              "start": 0,
+              "username": "Adam_F_White"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987795416310771818",
+        "in_reply_to_user_id": "1774702294052884481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987789293461586095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adam_F_White 崩的手"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774702294052884481",
+        "conversation_id": "1987464995672822233",
+        "created_at": "2025-11-10T07:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T08:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987789293461586095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987789293461586095",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987464995672822233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 好危險的說\n琴弦崩在臉上就是一條長長的血痕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 2568,
+          "like_count": 27386,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 6191
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T07:36:33.000Z",
+        "description": "P(|X-E(X)|≥ε)≤ε⁻²Var(X)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1818627197?spm…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1818627197?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/QseiPp7CMT"
+              }
+            ]
+          }
+        },
+        "id": "1774702294052884481",
+        "location": "平壤特別市   金日成綜合大學",
+        "name": "𝑨𝒅𝒂𝒎 𝑭 𝑾𝒉𝒊𝒕𝒆",
+        "pinned_tweet_id": "1859166773506928792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954529444653400064/QYblE_8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 655,
+          "like_count": 37046,
+          "listed_count": 4,
+          "media_count": 2355,
+          "tweet_count": 10100
+        },
+        "url": "https://t.co/QseiPp7CMT",
+        "username": "Adam_F_White",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2061639235468443684",
+    "created_at": "2026-06-02T15:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061829206762508788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807122882612592640",
+          "start": 0,
+          "username": "JIA_ARPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061829206762508788",
+    "in_reply_to_user_id": "1807122882612592640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061822846251548718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIA_ARPK 不知道哪里好玩\n下次来大阪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2061639235468443684",
+        "created_at": "2026-06-02T15:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061829206762508788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807122882612592640",
+              "start": 0,
+              "username": "JIA_ARPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061829206762508788",
+        "in_reply_to_user_id": "1807122882612592640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061822846251548718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIA_ARPK 不知道哪里好玩\n下次来大阪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807122882612592640",
+        "conversation_id": "2061639235468443684",
+        "created_at": "2026-06-02T14:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061822846251548718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061822846251548718",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061786560207688008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 来都来了居然只去东京，东京真的有那么好玩吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11618,
+          "following_count": 4331,
+          "like_count": 47804,
+          "listed_count": 38,
+          "media_count": 2590,
+          "tweet_count": 15208
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T18:44:15.000Z",
+        "description": "看看动漫读读小说玩玩游戏打打音游推推旮旯给木\nACGN重度爱好者\n\n和正常人可以交流 殖人支黑骂我我也不介意骂回去 你觉得我是粉红我就是\n目前去过5大洲共65个国家\n欢迎互fo",
+        "id": "1807122882612592640",
+        "name": "XF5UJIA",
+        "pinned_tweet_id": "2049864702726226161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019771953780019200/gyw66cOX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 427,
+          "like_count": 818,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 624
+        },
+        "username": "JIA_ARPK",
+        "verified": false
+      }
+    ]
+  }
+}

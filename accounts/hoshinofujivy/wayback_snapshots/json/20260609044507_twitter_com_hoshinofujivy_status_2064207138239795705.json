@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2064181834670641647",
+    "created_at": "2026-06-09T04:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T05:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064207138239795705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2883160699",
+          "start": 0,
+          "username": "chimo_pso2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064207138239795705",
+    "in_reply_to_user_id": "2883160699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064201178993574009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chimo_pso2 那是街头广告\n宣传的业务是安装瓦片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2064181834670641647",
+        "created_at": "2026-06-09T04:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064207138239795705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2883160699",
+              "start": 0,
+              "username": "chimo_pso2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064207138239795705",
+        "in_reply_to_user_id": "2883160699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064201178993574009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chimo_pso2 那是街头广告\n宣传的业务是安装瓦片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2883160699",
+        "conversation_id": "2064181834670641647",
+        "created_at": "2026-06-09T04:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T05:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064201178993574009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064201178993574009",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064181834670641647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 一枚目の、壁に赤色で描かれている数字はどういう意味ですか(?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11802,
+          "following_count": 4349,
+          "like_count": 48652,
+          "listed_count": 37,
+          "media_count": 2715,
+          "tweet_count": 15640
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-30T09:17:59.000Z",
+        "description": "",
+        "id": "2883160699",
+        "location": "佐渡外交部",
+        "name": "ちも",
+        "pinned_tweet_id": "2061248567881396288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049356230997708800/8YAqAtSU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 559,
+          "like_count": 59533,
+          "listed_count": 8,
+          "media_count": 2265,
+          "tweet_count": 25960
+        },
+        "username": "chimo_pso2",
+        "verified": false
+      }
+    ]
+  }
+}

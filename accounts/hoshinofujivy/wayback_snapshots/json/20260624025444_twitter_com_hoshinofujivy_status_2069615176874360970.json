@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2069609254865228048",
+    "created_at": "2026-06-24T02:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069615176874360970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3230829258",
+          "start": 0,
+          "username": "alpi_bianco"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069615176874360970",
+    "in_reply_to_user_id": "3230829258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069614857692098992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alpi_bianco 我一直觉得我生活在宗教国家，因为我一旦质疑，就会引来灾祸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2069609254865228048",
+        "created_at": "2026-06-24T02:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069615176874360970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3230829258",
+              "start": 0,
+              "username": "alpi_bianco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069615176874360970",
+        "in_reply_to_user_id": "3230829258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069614857692098992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alpi_bianco 我一直觉得我生活在宗教国家，因为我一旦质疑，就会引来灾祸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3230829258",
+        "conversation_id": "2069609254865228048",
+        "created_at": "2026-06-24T02:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069614857692098992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069614857692098992",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069609254865228048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 再說就是東大的統治觀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12096,
+          "following_count": 4361,
+          "like_count": 49396,
+          "listed_count": 36,
+          "media_count": 2950,
+          "tweet_count": 16480
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-30T16:36:30.000Z",
+        "description": "始めて9年のお花　\nお気に入りのFLOWER KNIGHTは多数→ \nネリネ フリージア クレソン ビオラ シャボンソウ ステラ ヘリオトロープ ハナモモ アズキ パキラ etc。 \nてぃ✨くる先生と風瑛先生の絵が好き  日本語が苦手なんです。\nお花　とエンクリ以外は遠慮ください\n1989/06/04 天安門事件",
+        "id": "3230829258",
+        "location": "ベルガモットバレー→⬜ｋ",
+        "name": "Neptune@FKG 💎🐬 🧼 🌸🍑 🥜",
+        "pinned_tweet_id": "2013247849115586685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592192238141919232/cmeWQpwn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 3559,
+          "like_count": 495264,
+          "listed_count": 18,
+          "media_count": 9501,
+          "tweet_count": 74162
+        },
+        "url": "",
+        "username": "alpi_bianco",
+        "verified": true
+      }
+    ]
+  }
+}

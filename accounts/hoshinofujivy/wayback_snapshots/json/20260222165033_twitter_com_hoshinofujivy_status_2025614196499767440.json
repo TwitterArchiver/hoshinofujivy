@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025614132377206784"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2025614196499767440",
+    "created_at": "2026-02-22T16:50:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025614196499767440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kkxZH0DXww",
+          "end": 39,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2025614196499767440/photo/1",
+          "media_key": "3_2025614132377206784",
+          "start": 16,
+          "url": "https://t.co/kkxZH0DXww"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2025603889308008464",
+          "start": 40,
+          "url": "https://t.co/OkZhgzHhjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025614196499767440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025603889308008464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种情况我也是不知道怎么解释呀 https://t.co/kkxZH0DXww https://t.co/OkZhgzHhjj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1090,
+        "media_key": "3_2025614132377206784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxtUjxawAAscIJ.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025614132377206784"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2025614196499767440",
+        "created_at": "2026-02-22T16:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025614196499767440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkxZH0DXww",
+              "end": 39,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2025614196499767440/photo/1",
+              "media_key": "3_2025614132377206784",
+              "start": 16,
+              "url": "https://t.co/kkxZH0DXww"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2025603889308008464",
+              "start": 40,
+              "url": "https://t.co/OkZhgzHhjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025614196499767440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025603889308008464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种情况我也是不知道怎么解释呀 https://t.co/kkxZH0DXww https://t.co/OkZhgzHhjj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2025512249155039326",
+        "created_at": "2026-02-22T16:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025603889308008464"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Taiwan",
+              "probability": 0.9326,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Mariko",
+              "probability": 0.5471,
+              "start": 72,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "754345572337790976",
+              "start": 0,
+              "username": "escapefrommelos"
+            },
+            {
+              "end": 27,
+              "id": "1455858119762927623",
+              "start": 17,
+              "username": "wotancore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025603889308008464",
+        "in_reply_to_user_id": "754345572337790976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025596801496100977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@escapefrommelos @wotancore the one i love is from Taiwan，whose name is Mariko(真理子）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3866,
+          "following_count": 3573,
+          "like_count": 35165,
+          "listed_count": 6,
+          "media_count": 865,
+          "tweet_count": 8120
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

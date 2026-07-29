@@ -1,0 +1,569 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026319212",
+          "name": "McDonald's"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1914218388114772314",
+    "created_at": "2025-04-21T07:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T08:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914218388114772314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ano_staff/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/ano_staff/status/1868461044072423612",
+          "start": 13,
+          "url": "https://t.co/hAEp6mgY9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914218388114772314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868461044072423612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在hk看到后印象特别深刻 https://t.co/hAEp6mgY9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40000,
+        "height": 720,
+        "media_key": "7_1868291134331719680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1868291134331719680/pu/img/xhiP-vunA0vfKFl6.jpg",
+        "public_metrics": {
+          "view_count": 52836
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868291134331719680/pu/vid/avc1/480x270/35kmvOzB70bBTM5g.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868291134331719680/pu/vid/avc1/640x360/XvUvXGJNWFuA1vqa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1868291134331719680/pu/vid/avc1/1280x720/v_ldawCKqLftpGgq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1868291134331719680/pu/pl/w7rJPQ8gyc6eEnpe.m3u8?tag=12&v=be6"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1914218388114772314",
+        "created_at": "2025-04-21T07:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T08:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914218388114772314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ano_staff/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/ano_staff/status/1868461044072423612",
+              "start": 13,
+              "url": "https://t.co/hAEp6mgY9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914218388114772314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868461044072423612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在hk看到后印象特别深刻 https://t.co/hAEp6mgY9R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868291134331719680"
+          ]
+        },
+        "author_id": "1301354886844395520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026319212",
+              "name": "McDonald's"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1868461044072423612",
+        "created_at": "2024-12-16T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868461044072423612"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "香港マクドナルド",
+              "probability": 0.3469,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 47,
+              "normalized_text": "マックグリドルシリーズ",
+              "probability": 0.3836,
+              "start": 37,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "香港",
+              "probability": 0.8225,
+              "start": 65,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezqeYsCn9u",
+              "end": 136,
+              "expanded_url": "https://x.com/ano_staff/status/1868461044072423612/video/1",
+              "media_key": "7_1868291134331719680",
+              "start": 113,
+              "url": "https://t.co/ezqeYsCn9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868461044072423612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 169902,
+          "like_count": 3177,
+          "quote_count": 63,
+          "reply_count": 12,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "【Ad】\nあのが、12月17日より香港マクドナルドの朝食タイムに大人気の「マックグリドルシリーズ」とコラボレーション決定🍔🍟\n香港のマックグリドル復活のプロモーションビデオが公開されましたので、ぜひチェックしてみてください！ https://t.co/ezqeYsCn9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 2255,
+          "like_count": 15494,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 3911
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-03T03:05:03.000Z",
+        "description": "【あの / ano】本人アカウント：@aNo2mass",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "aNo2mass"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ano-official.com",
+                "end": 23,
+                "expanded_url": "https://ano-official.com/",
+                "start": 0,
+                "url": "https://t.co/WEdXdo7oTX"
+              }
+            ]
+          }
+        },
+        "id": "1301354886844395520",
+        "location": "TOY'S FACTORY",
+        "name": "あの STAFF",
+        "pinned_tweet_id": "1913188256705044560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912885230303924224/KpmVYvu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84217,
+          "following_count": 9,
+          "like_count": 2859,
+          "listed_count": 305,
+          "media_count": 1780,
+          "tweet_count": 5753
+        },
+        "url": "https://t.co/WEdXdo7oTX",
+        "username": "ano_staff",
+        "verified": false
+      }
+    ]
+  }
+}

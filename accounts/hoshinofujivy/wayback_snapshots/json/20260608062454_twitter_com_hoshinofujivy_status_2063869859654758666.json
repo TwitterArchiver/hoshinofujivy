@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2063846422282440787",
+    "created_at": "2026-06-08T06:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063869859654758666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955831159507836930",
+          "start": 0,
+          "username": "Raster_DNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063869859654758666",
+    "in_reply_to_user_id": "1955831159507836930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063869681828860137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raster_DNA 表象这样我也心满意足"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063869681828860137].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063869681828860137",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063869681828860137"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2063846422282440787",
+        "created_at": "2026-06-08T06:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063869859654758666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955831159507836930",
+              "start": 0,
+              "username": "Raster_DNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063869859654758666",
+        "in_reply_to_user_id": "1955831159507836930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063869681828860137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raster_DNA 表象这样我也心满意足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11752,
+          "following_count": 4353,
+          "like_count": 48579,
+          "listed_count": 37,
+          "media_count": 2707,
+          "tweet_count": 15596
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T03:18:22.000Z",
+        "description": "至今的人生中DNA启动过5次，\n但5段人生全都在教我怎么爱你",
+        "id": "1955831159507836930",
+        "location": "虛空/恒納蘭那",
+        "name": "千草-3.6-hypercube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059862136625696768/uu2MCfJl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 156,
+          "like_count": 35387,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 3998
+        },
+        "username": "Raster_DNA",
+        "verified": false
+      }
+    ]
+  }
+}

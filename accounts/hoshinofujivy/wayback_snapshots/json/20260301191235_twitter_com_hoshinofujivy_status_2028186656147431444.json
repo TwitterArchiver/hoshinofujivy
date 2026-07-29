@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2028148260506886145"
+      ],
+      "media_source_tweet_id": [
+        "2028148273899254225"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2028186656147431444",
+    "created_at": "2026-03-01T19:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T20:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028186656147431444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1370466691940036609",
+          "start": 3,
+          "username": "anime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vd2h0MgPNs",
+          "end": 35,
+          "expanded_url": "https://x.com/anime_/status/2028148273899254225/video/1",
+          "media_key": "7_2028148260506886145",
+          "start": 12,
+          "url": "https://t.co/vd2h0MgPNs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028186656147431444",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028148273899254225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_: https://t.co/vd2h0MgPNs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20333,
+        "height": 404,
+        "media_key": "7_2028148260506886145",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2028148260506886145/pu/img/9IT3xiUEs8_mYYx7.jpg",
+        "public_metrics": {
+          "view_count": 52318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028148260506886145/pu/vid/avc1/480x270/7n67_eupk0o6-mtW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2028148260506886145/pu/vid/avc1/720x404/hLVx-VAU8Lvvwl5T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2028148260506886145/pu/pl/MPC-ciSoMZeVJunR.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028148260506886145"
+          ],
+          "media_source_tweet_id": [
+            "2028148273899254225"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2028186656147431444",
+        "created_at": "2026-03-01T19:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T20:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028186656147431444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1370466691940036609",
+              "start": 3,
+              "username": "anime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vd2h0MgPNs",
+              "end": 35,
+              "expanded_url": "https://x.com/anime_/status/2028148273899254225/video/1",
+              "media_key": "7_2028148260506886145",
+              "start": 12,
+              "url": "https://t.co/vd2h0MgPNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028186656147431444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028148273899254225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_: https://t.co/vd2h0MgPNs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2028148260506886145"
+          ]
+        },
+        "author_id": "1370466691940036609",
+        "conversation_id": "2028148273899254225",
+        "created_at": "2026-03-01T16:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028148273899254225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vd2h0MgPNs",
+              "end": 23,
+              "expanded_url": "https://x.com/anime_/status/2028148273899254225/video/1",
+              "media_key": "7_2028148260506886145",
+              "start": 0,
+              "url": "https://t.co/vd2h0MgPNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028148273899254225",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 408,
+          "impression_count": 77361,
+          "like_count": 1250,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vd2h0MgPNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4464,
+          "following_count": 3763,
+          "like_count": 36581,
+          "listed_count": 7,
+          "media_count": 966,
+          "tweet_count": 8672
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-12T20:08:48.000Z",
+        "description": "aesthetic anime clips & images",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/animes_aesthet…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/animes_aesthetic",
+                "start": 0,
+                "url": "https://t.co/xTuYW5oALy"
+              }
+            ]
+          }
+        },
+        "id": "1370466691940036609",
+        "name": "Anime Aesthetics",
+        "pinned_tweet_id": "2027945092388999431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879794189543559168/DGGYw4iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861694,
+          "following_count": 100,
+          "like_count": 5834,
+          "listed_count": 2598,
+          "media_count": 12700,
+          "tweet_count": 13367
+        },
+        "url": "https://t.co/xTuYW5oALy",
+        "username": "anime_",
+        "verified": true
+      }
+    ]
+  }
+}

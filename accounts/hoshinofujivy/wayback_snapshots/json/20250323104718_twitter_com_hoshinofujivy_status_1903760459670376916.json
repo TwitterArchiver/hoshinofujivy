@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903760272252399617"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1903760459670376916",
+    "created_at": "2025-03-23T10:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T11:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903760459670376916"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "北京",
+          "probability": 0.4226,
+          "start": 1,
+          "type": "Place"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ppYGxWN6LD",
+          "end": 27,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1903760459670376916/photo/1",
+          "media_key": "3_1903760272252399617",
+          "start": 4,
+          "url": "https://t.co/ppYGxWN6LD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903760459670376916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回北京 https://t.co/ppYGxWN6LD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903760272252399617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmuD4Y0a8AE-m2h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903760272252399617"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1903760459670376916",
+        "created_at": "2025-03-23T10:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T11:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903760459670376916"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "北京",
+              "probability": 0.4226,
+              "start": 1,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppYGxWN6LD",
+              "end": 27,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1903760459670376916/photo/1",
+              "media_key": "3_1903760272252399617",
+              "start": 4,
+              "url": "https://t.co/ppYGxWN6LD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903760459670376916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回北京 https://t.co/ppYGxWN6LD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 56,
+                "start": 40,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野藤（真理部防卫官）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903466341862088704/Hsuu7fb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1121,
+          "following_count": 2128,
+          "like_count": 11280,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 3245
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

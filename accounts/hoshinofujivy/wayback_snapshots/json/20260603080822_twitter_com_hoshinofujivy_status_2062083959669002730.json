@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062066595808301139",
+    "created_at": "2026-06-03T08:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062083959669002730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1222502225429164032",
+          "start": 0,
+          "username": "taku80280807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062083959669002730",
+    "in_reply_to_user_id": "1222502225429164032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062083846469009555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taku80280807 还没用过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062066595808301139",
+        "created_at": "2026-06-03T08:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062083959669002730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1222502225429164032",
+              "start": 0,
+              "username": "taku80280807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062083959669002730",
+        "in_reply_to_user_id": "1222502225429164032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062083846469009555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taku80280807 还没用过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222502225429164032",
+        "conversation_id": "2062066595808301139",
+        "created_at": "2026-06-03T08:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062083846469009555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062083846469009555",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062066595808301139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 雅虎呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11650,
+          "following_count": 4338,
+          "like_count": 48069,
+          "listed_count": 38,
+          "media_count": 2617,
+          "tweet_count": 15317
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-29T12:50:45.000Z",
+        "description": "一个普通的温和安那其，主张唤醒人们的良知。博爱至上，普世至上，道德至上。我相信人类的良知。人类文明会更近一步，不会一直沉迷于利益斗争，不会一直只会选神给予的A、B选项。我们一定可以用自己的力量创造出C选项。毕竟我们的进化就是从打破了大自然的进化论开始的——进化了大脑。 期望我们可以成为英雄/唯心无神论",
+        "id": "1222502225429164032",
+        "location": "乌托邦",
+        "name": "taku伦",
+        "pinned_tweet_id": "1726463151263375615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1222502420313325569/UznKAufX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 492,
+          "like_count": 13431,
+          "listed_count": 8,
+          "media_count": 909,
+          "tweet_count": 7289
+        },
+        "username": "taku80280807",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2047902826425352212",
+    "created_at": "2026-04-25T04:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047902826425352212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TaoRay/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/TaoRay/status/2047880980145271121",
+          "start": 12,
+          "url": "https://t.co/ORKvZdcmjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047902826425352212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047880980145271121",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "华为又怎么了？？？？？ https://t.co/ORKvZdcmjr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2047902826425352212",
+        "created_at": "2026-04-25T04:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047902826425352212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TaoRay/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/TaoRay/status/2047880980145271121",
+              "start": 12,
+              "url": "https://t.co/ORKvZdcmjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047902826425352212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047880980145271121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华为又怎么了？？？？？ https://t.co/ORKvZdcmjr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1333407168054386688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2047880980145271121",
+        "created_at": "2026-04-25T03:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047880980145271121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047880980145271121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 70733,
+          "like_count": 258,
+          "quote_count": 3,
+          "reply_count": 76,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "华为终于口碑塌房了。这么多年来憋在我心中的恶气，终于中国的广大网友们帮我出气了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9306,
+          "following_count": 4229,
+          "like_count": 44347,
+          "listed_count": 32,
+          "media_count": 1938,
+          "tweet_count": 12647
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-30T13:47:12.000Z",
+        "description": "这是我唯一的社媒账号，没有WhatsApp和群，注意辨别网上和评论区的冒名骗子！我有一个自由的人生。自由不是你能干一切想干的事情，而是你可以拒绝一切不想干的事情。投资分享不构成建议。我从来不拉群，不主动私信推荐金融产品，请大家勿上当。点赞转发只代表值得一看，不一定代表赞同。会定期捐助福音事工，可私信。",
+        "id": "1333407168054386688",
+        "location": "随心所欲，四海为家",
+        "name": "陶瑞 TaoRay",
+        "pinned_tweet_id": "1980115481924403484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831174696240631808/URProuQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123257,
+          "following_count": 183,
+          "like_count": 14741,
+          "listed_count": 765,
+          "media_count": 966,
+          "tweet_count": 9019
+        },
+        "username": "TaoRay",
+        "verified": true
+      }
+    ]
+  }
+}

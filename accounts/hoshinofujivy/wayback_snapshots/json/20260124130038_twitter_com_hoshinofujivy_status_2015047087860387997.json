@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1082288068311146504",
+          "name": "Kenshi Yonezu"
+        }
+      }
+    ],
+    "conversation_id": "2015047087860387997",
+    "created_at": "2026-01-24T13:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015047087860387997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lesbideo25/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/lesbideo25/status/2014642992888611089",
+          "start": 2,
+          "url": "https://t.co/wKoEkgsKEz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015047087860387997",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014642992888611089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤣 https://t.co/wKoEkgsKEz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_2014642956469452800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VzGEmawAAAkTS.jpg",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "2015047087860387997",
+        "created_at": "2026-01-24T13:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015047087860387997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lesbideo25/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/lesbideo25/status/2014642992888611089",
+              "start": 2,
+              "url": "https://t.co/wKoEkgsKEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015047087860387997",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014642992888611089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣 https://t.co/wKoEkgsKEz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014642956469452800"
+          ]
+        },
+        "author_id": "1860951699797721088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1082288068311146504",
+              "name": "Kenshi Yonezu"
+            }
+          }
+        ],
+        "conversation_id": "2014642992888611089",
+        "created_at": "2026-01-23T10:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014642992888611089"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "米津玄",
+              "probability": 0.4766,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wr0iIUxOwi",
+              "end": 40,
+              "expanded_url": "https://x.com/Lesbideo25/status/2014642992888611089/photo/1",
+              "media_key": "3_2014642956469452800",
+              "start": 17,
+              "url": "https://t.co/Wr0iIUxOwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014642992888611089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 627,
+          "impression_count": 461755,
+          "like_count": 15382,
+          "quote_count": 79,
+          "reply_count": 17,
+          "retweet_count": 1029
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "友達の教科書に米津玄師いたwww https://t.co/Wr0iIUxOwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&中文",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 2873,
+          "like_count": 33303,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 7416
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-25T07:40:45.000Z",
+        "description": "ツイ廃ヴィラン連合\n🗝 ＠bn6xt \nsub @lesbideo14 \n✨アイコン✨ @yurisapi0601",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 12,
+                "username": "bn6xt"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "lesbideo14"
+              },
+              {
+                "end": 57,
+                "start": 44,
+                "username": "yurisapi0601"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lite.tiktok.com/t/ZSHKUAxNqwkw…",
+                "end": 23,
+                "expanded_url": "https://lite.tiktok.com/t/ZSHKUAxNqwkwX-Yf5sy/",
+                "start": 0,
+                "url": "https://t.co/Z5X8AzlBiz"
+              }
+            ]
+          }
+        },
+        "id": "1860951699797721088",
+        "location": "↓tiktokliteのリンク踏んでください↓",
+        "name": "べにま",
+        "pinned_tweet_id": "2013221959623115116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014098930896621568/2REvcIoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3201,
+          "following_count": 231,
+          "like_count": 6372,
+          "listed_count": 11,
+          "media_count": 368,
+          "tweet_count": 4395
+        },
+        "url": "https://t.co/Z5X8AzlBiz",
+        "username": "Lesbideo25",
+        "verified": false
+      }
+    ]
+  }
+}

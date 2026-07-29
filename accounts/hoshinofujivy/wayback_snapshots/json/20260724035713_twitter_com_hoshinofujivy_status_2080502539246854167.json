@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2080441201560588552",
+    "created_at": "2026-07-24T03:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T04:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080502539246854167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1053157503461027840",
+          "start": 0,
+          "username": "yifengchen28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080502539246854167",
+    "in_reply_to_user_id": "1053157503461027840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080499982256439610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifengchen28 额，你家大伯是立党吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2080441201560588552",
+        "created_at": "2026-07-24T03:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080502539246854167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1053157503461027840",
+              "start": 0,
+              "username": "yifengchen28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080502539246854167",
+        "in_reply_to_user_id": "1053157503461027840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080499982256439610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifengchen28 额，你家大伯是立党吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1053157503461027840",
+        "conversation_id": "2080441201560588552",
+        "created_at": "2026-07-24T03:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T04:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080499982256439610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080499982256439610",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080441201560588552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 大伯还每天玩一个叫x的软件，用英语跟别人对线，天天喊纳什么克，非常浅薄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」|  头像自设，名为星野藤｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13315,
+          "following_count": 4404,
+          "like_count": 51827,
+          "listed_count": 24,
+          "media_count": 3463,
+          "tweet_count": 18262
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-19T05:34:50.000Z",
+        "description": "维尼写诗 维尼禁止 维尼做不可能的事 维尼学会弹琴写词 维尼失去理智",
+        "id": "1053157503461027840",
+        "name": "维尼写诗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1326575939766026240/FQKS_O04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5105,
+          "following_count": 6534,
+          "like_count": 450126,
+          "listed_count": 24,
+          "media_count": 1014,
+          "tweet_count": 47589
+        },
+        "url": "",
+        "username": "yifengchen28",
+        "verified": false
+      }
+    ]
+  }
+}

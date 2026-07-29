@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062367777412067742",
+    "created_at": "2026-06-04T03:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062370816013271128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "31663234",
+          "start": 0,
+          "username": "say_myosaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062370816013271128",
+    "in_reply_to_user_id": "31663234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062369642589638848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@say_myosaka 山梨县"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062367777412067742",
+        "created_at": "2026-06-04T03:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062370816013271128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "31663234",
+              "start": 0,
+              "username": "say_myosaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062370816013271128",
+        "in_reply_to_user_id": "31663234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062369642589638848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@say_myosaka 山梨县"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "31663234",
+        "conversation_id": "2062367777412067742",
+        "created_at": "2026-06-04T03:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062369642589638848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062369642589638848",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062367777412067742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 你这啥东京酒店那么大阪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11661,
+          "following_count": 4340,
+          "like_count": 48200,
+          "listed_count": 38,
+          "media_count": 2637,
+          "tweet_count": 15368
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-16T05:47:18.000Z",
+        "description": "日本大阪の出身である\nおおさかファースト",
+        "id": "31663234",
+        "location": "Suita-shi, Osaka",
+        "name": "Say My Name",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796529020710064129/O9fqFzU2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 581,
+          "like_count": 192,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 3476
+        },
+        "username": "say_myosaka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1749728724701093889",
+        "3_1749728738236121089"
+      ],
+      "media_source_tweet_id": [
+        "1749728762261012752",
+        "1749728762261012752"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2039940596127949144",
+    "created_at": "2026-04-03T05:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T06:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039940596127949144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431776320019517445",
+          "start": 3,
+          "username": "KiraRettosei"
+        },
+        {
+          "end": 42,
+          "id": "1705046542502305792",
+          "start": 33,
+          "username": "Dethelly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3jNbsPmYlp",
+          "end": 110,
+          "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+          "media_key": "3_1749728724701093889",
+          "start": 87,
+          "url": "https://t.co/3jNbsPmYlp"
+        },
+        {
+          "display_url": "pic.x.com/3jNbsPmYlp",
+          "end": 110,
+          "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+          "media_key": "3_1749728738236121089",
+          "start": 87,
+          "url": "https://t.co/3jNbsPmYlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039940596127949144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "1749728762261012752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraRettosei: 小朋友们不要死！\n\n今天凌晨 @Dethelly 在性别焦虑的打击下自杀身亡。\n她死后，逝者母亲向作为朋友的我了解情况，以下是发言节选： https://t.co/3jNbsPmYlp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1749728724701093889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEhJATEbIAE2Fsp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_1749728738236121089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEhJBFfbQAEhsmw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1749728724701093889",
+            "3_1749728738236121089"
+          ],
+          "media_source_tweet_id": [
+            "1749728762261012752",
+            "1749728762261012752"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2039940596127949144",
+        "created_at": "2026-04-03T05:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T06:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039940596127949144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431776320019517445",
+              "start": 3,
+              "username": "KiraRettosei"
+            },
+            {
+              "end": 42,
+              "id": "1705046542502305792",
+              "start": 33,
+              "username": "Dethelly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 110,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728724701093889",
+              "start": 87,
+              "url": "https://t.co/3jNbsPmYlp"
+            },
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 110,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728738236121089",
+              "start": 87,
+              "url": "https://t.co/3jNbsPmYlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039940596127949144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749728762261012752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraRettosei: 小朋友们不要死！\n\n今天凌晨 @Dethelly 在性别焦虑的打击下自杀身亡。\n她死后，逝者母亲向作为朋友的我了解情况，以下是发言节选： https://t.co/3jNbsPmYlp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1749728724701093889",
+            "3_1749728738236121089"
+          ]
+        },
+        "author_id": "1431776320019517445",
+        "conversation_id": "1749728762261012752",
+        "created_at": "2024-01-23T09:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-23T10:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1749728762261012752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1705046542502305792",
+              "start": 15,
+              "username": "Dethelly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 92,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728724701093889",
+              "start": 69,
+              "url": "https://t.co/3jNbsPmYlp"
+            },
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 92,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728738236121089",
+              "start": 69,
+              "url": "https://t.co/3jNbsPmYlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1749728762261012752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 150116,
+          "like_count": 609,
+          "quote_count": 76,
+          "reply_count": 95,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友们不要死！\n\n今天凌晨 @Dethelly 在性别焦虑的打击下自杀身亡。\n她死后，逝者母亲向作为朋友的我了解情况，以下是发言节选： https://t.co/3jNbsPmYlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7721,
+          "following_count": 3986,
+          "like_count": 41573,
+          "listed_count": 20,
+          "media_count": 1594,
+          "tweet_count": 11047
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n在电影学院里绽放青春吧！",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1965938386826572050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 2919,
+          "like_count": 41608,
+          "listed_count": 7,
+          "media_count": 1002,
+          "tweet_count": 18548
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T02:29:19.000Z",
+        "description": "infp//糖很缺钱，请给我口令红包",
+        "id": "1705046542502305792",
+        "name": "糖～100％纯度🚩Bombard The Headquarters",
+        "pinned_tweet_id": "1748918342323462605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743414080873132032/L0CstOKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 76,
+          "like_count": 0,
+          "listed_count": 9,
+          "media_count": 7,
+          "tweet_count": 39
+        },
+        "username": "Dethelly",
+        "verified": false
+      }
+    ]
+  }
+}

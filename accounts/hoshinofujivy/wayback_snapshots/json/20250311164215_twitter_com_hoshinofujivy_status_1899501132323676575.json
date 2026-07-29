@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899298639216066561"
+      ],
+      "media_source_tweet_id": [
+        "1899298645931172055"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1899501132323676575",
+    "created_at": "2025-03-11T16:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T17:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899501132323676575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "259611996",
+          "start": 3,
+          "username": "bearbig"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3p2B7ND3AS",
+          "end": 47,
+          "expanded_url": "https://x.com/bearbig/status/1899298645931172055/photo/1",
+          "media_key": "3_1899298639216066561",
+          "start": 24,
+          "url": "https://t.co/3p2B7ND3AS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899501132323676575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899298645931172055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bearbig: 个人的清净刷推小技巧 https://t.co/3p2B7ND3AS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_1899298639216066561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GluqDKjbQAEgd5L.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899298639216066561"
+          ],
+          "media_source_tweet_id": [
+            "1899298645931172055"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1899501132323676575",
+        "created_at": "2025-03-11T16:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T17:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899501132323676575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "259611996",
+              "start": 3,
+              "username": "bearbig"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p2B7ND3AS",
+              "end": 47,
+              "expanded_url": "https://x.com/bearbig/status/1899298645931172055/photo/1",
+              "media_key": "3_1899298639216066561",
+              "start": 24,
+              "url": "https://t.co/3p2B7ND3AS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899501132323676575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899298645931172055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bearbig: 个人的清净刷推小技巧 https://t.co/3p2B7ND3AS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899298639216066561"
+          ]
+        },
+        "author_id": "259611996",
+        "conversation_id": "1899298645931172055",
+        "created_at": "2025-03-11T03:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T04:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899298645931172055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3p2B7ND3AS",
+              "end": 34,
+              "expanded_url": "https://x.com/bearbig/status/1899298645931172055/photo/1",
+              "media_key": "3_1899298639216066561",
+              "start": 11,
+              "url": "https://t.co/3p2B7ND3AS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899298645931172055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 81580,
+          "like_count": 492,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "个人的清净刷推小技巧 https://t.co/3p2B7ND3AS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1976,
+          "like_count": 8788,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 2601
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-02T06:53:54.000Z",
+        "description": "Product Designer @Xero, 10 year+ podcaster and author of 2 books. Love things around design, tech and productivity.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 17,
+                "username": "Xero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bearliu.substack.com",
+                "end": 23,
+                "expanded_url": "https://bearliu.substack.com/",
+                "start": 0,
+                "url": "https://t.co/FHmZzjmbVl"
+              }
+            ]
+          }
+        },
+        "id": "259611996",
+        "location": "English learning  👉",
+        "name": "Bear Liu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/803996540696084480/Z-uk8--s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95733,
+          "following_count": 2310,
+          "like_count": 3339,
+          "listed_count": 546,
+          "media_count": 5242,
+          "tweet_count": 13477
+        },
+        "url": "https://t.co/FHmZzjmbVl",
+        "username": "bearbig",
+        "verified": true
+      }
+    ]
+  }
+}

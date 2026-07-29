@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1982827977168834902",
+    "created_at": "2025-10-27T16:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T17:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982843721625502021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "zuifeiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982843721625502021",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982842155849945519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuifeiwu 看他粉丝挺多的，想蹭他流量😼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1982842155849945519].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982842155849945519",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1982842155849945519"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1982827977168834902",
+        "created_at": "2025-10-27T16:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T17:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982843721625502021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "zuifeiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982843721625502021",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982842155849945519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuifeiwu 看他粉丝挺多的，想蹭他流量😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 2546,
+          "like_count": 26390,
+          "listed_count": 4,
+          "media_count": 557,
+          "tweet_count": 6034
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "坚定的六花主义者    坂下六花思想是不落的太阳",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "坂下りっか🍬",
+        "pinned_tweet_id": "1895694448933409172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755984772776755200/PpEKO3Iv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 1419,
+          "like_count": 52920,
+          "listed_count": 12,
+          "media_count": 507,
+          "tweet_count": 17709
+        },
+        "username": "zuifeiwu",
+        "verified": false
+      }
+    ]
+  }
+}

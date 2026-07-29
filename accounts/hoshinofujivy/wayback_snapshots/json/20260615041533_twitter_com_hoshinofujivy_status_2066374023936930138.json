@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2066374023936930138",
+    "created_at": "2026-06-15T04:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066374023936930138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SB_Puzzlerlee/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/SB_Puzzlerlee/status/2066372942662132091",
+          "start": 6,
+          "url": "https://t.co/3VfKvjSUu5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066374023936930138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066372942662132091",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下午出发去 https://t.co/3VfKvjSUu5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2066374023936930138",
+        "created_at": "2026-06-15T04:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066374023936930138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SB_Puzzlerlee/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/SB_Puzzlerlee/status/2066372942662132091",
+              "start": 6,
+              "url": "https://t.co/3VfKvjSUu5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066374023936930138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066372942662132091",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下午出发去 https://t.co/3VfKvjSUu5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2066349956194295933",
+        "created_at": "2026-06-15T04:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066372942662132091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066372942662132091",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066349956194295933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 去西安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12014,
+          "following_count": 4366,
+          "like_count": 49067,
+          "listed_count": 36,
+          "media_count": 2800,
+          "tweet_count": 16001
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee为什么天天拿我䒑他女马的贴文当宝供着，因为拼图者野爹之一@domesere早已得出拼图者是恋母癖的结论/小号@maybe_FuckU/狗与@careforme123禁止入内⛔️/报名拼图者野爹请点下方链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "domesere"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20556…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2055632908568887528",
+                "start": 0,
+                "url": "https://t.co/LIaeSkwnh0"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "QLD,Australia",
+        "name": "Sager Wang🍥🏳️‍⚧️（拼图者已急哭）",
+        "pinned_tweet_id": "2062151847935426640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062692357095424/Dj3gLHPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 1219,
+          "like_count": 1720,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 6448
+        },
+        "url": "https://t.co/LIaeSkwnh0",
+        "username": "SB_Puzzlerlee",
+        "verified": false
+      }
+    ]
+  }
+}

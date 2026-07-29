@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      }
+    ],
+    "conversation_id": "2077623276961218804",
+    "created_at": "2026-07-16T05:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077623276961218804"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bxieus/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/bxieus/status/2077475570439659637",
+          "start": 9,
+          "url": "https://t.co/TK9xkkwV0B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077623276961218804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077475570439659637",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好恐怖..... https://t.co/TK9xkkwV0B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9334,
+        "height": 960,
+        "media_key": "13_2077472323003682816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077472323003682816/img/P_1I6dOd_3zbASTd.jpg",
+        "public_metrics": {
+          "view_count": 372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472323003682816/vid/avc1/320x564/slLy_pqRdfqQPL6U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472323003682816/vid/avc1/480x846/WO4t1xtBqkxYho3k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472323003682816/vid/avc1/544x960/Ft_YddagWqZ5Thu8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077472323003682816/pl/UvTVuHJigMG8MHCO.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 30185,
+        "height": 1280,
+        "media_key": "13_2077472366221787136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077472366221787136/img/tUaMxBeAnm3eUgxM.jpg",
+        "public_metrics": {
+          "view_count": 218
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472366221787136/vid/avc1/320x568/X-oT2CK2k07fRu6b.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472366221787136/vid/avc1/480x852/ySpH7IkHj27OvVa1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472366221787136/vid/avc1/720x1280/Gl-wLRoZ88OcKRDg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077472366221787136/pl/WptNfgMtjRWMSAnX.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 14999,
+        "height": 960,
+        "media_key": "13_2077472387465879552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077472387465879552/img/Uy9PtRQ7wprSBSqc.jpg",
+        "public_metrics": {
+          "view_count": 173
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472387465879552/vid/avc1/320x564/w9bUoDxY8M9M-E1u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472387465879552/vid/avc1/480x846/GDxaugkF_mGwr2Rv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472387465879552/vid/avc1/544x960/6vLokuzlZpMkH9O8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077472387465879552/pl/oQyKwIEgzurIFfPz.m3u8"
+          }
+        ],
+        "width": 544
+      },
+      {
+        "duration_ms": 22662,
+        "height": 960,
+        "media_key": "13_2077472403261640704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077472403261640704/img/0GrklD6iOYQn_HGg.jpg",
+        "public_metrics": {
+          "view_count": 119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472403261640704/vid/avc1/320x564/xzmwfA5Rlt2iK5fe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472403261640704/vid/avc1/480x846/fp0RUI0RyQGxRD6r.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077472403261640704/vid/avc1/544x960/lNhY-XFFyTnhrRgz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077472403261640704/pl/tKk0FHiQdONCkWD8.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          }
+        ],
+        "conversation_id": "2077623276961218804",
+        "created_at": "2026-07-16T05:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077623276961218804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bxieus/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/bxieus/status/2077475570439659637",
+              "start": 9,
+              "url": "https://t.co/TK9xkkwV0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077623276961218804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077475570439659637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恐怖..... https://t.co/TK9xkkwV0B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077472323003682816",
+            "13_2077472366221787136",
+            "13_2077472387465879552",
+            "13_2077472403261640704"
+          ]
+        },
+        "author_id": "3044247194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          }
+        ],
+        "conversation_id": "2077475570439659637",
+        "created_at": "2026-07-15T19:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077475570439659637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IT3dL8Z3G6",
+              "end": 293,
+              "expanded_url": "https://x.com/bxieus/status/2077475570439659637/video/1",
+              "media_key": "13_2077472323003682816",
+              "start": 270,
+              "url": "https://t.co/IT3dL8Z3G6"
+            },
+            {
+              "display_url": "pic.x.com/IT3dL8Z3G6",
+              "end": 293,
+              "expanded_url": "https://x.com/bxieus/status/2077475570439659637/video/1",
+              "media_key": "13_2077472366221787136",
+              "start": 270,
+              "url": "https://t.co/IT3dL8Z3G6"
+            },
+            {
+              "display_url": "pic.x.com/IT3dL8Z3G6",
+              "end": 293,
+              "expanded_url": "https://x.com/bxieus/status/2077475570439659637/video/1",
+              "media_key": "13_2077472387465879552",
+              "start": 270,
+              "url": "https://t.co/IT3dL8Z3G6"
+            },
+            {
+              "display_url": "pic.x.com/IT3dL8Z3G6",
+              "end": 293,
+              "expanded_url": "https://x.com/bxieus/status/2077475570439659637/video/1",
+              "media_key": "13_2077472403261640704",
+              "start": 270,
+              "url": "https://t.co/IT3dL8Z3G6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077475570439659637",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "(Animal torture scene, viewer discretion STRONGLY advised) Recently a video circulating on Chinese social media showed a group of teenagers abusing and torturing a dog. The footage sparked public outrage and ignited heated discussions regarding animal welfare, parental responsibility, and animal protection.\n\nThe video shows a stray dog—approximately one year old—and her puppies being beaten and set on fire by a group of teenagers around the age of twelve. After being uploaded to Douyin, the video drew strong condemnation from numerous netizens.\n\nThe incident occurred in Jieyang (揭阳), Guangdong Province where economic development is ahead of other places in China.\n\nAs of today, China still has no laws for animal protection.  They don't even protect human being, anyway."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1425,
+          "like_count": 32,
+          "quote_count": 7,
+          "reply_count": 11,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "(Animal torture scene, viewer discretion STRONGLY advised) Recently a video circulating on Chinese social media showed a group of teenagers abusing and torturing a dog. The footage sparked public outrage and ignited heated discussions regarding animal welfare, parental https://t.co/IT3dL8Z3G6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12829,
+          "following_count": 4400,
+          "like_count": 51417,
+          "listed_count": 22,
+          "media_count": 3309,
+          "tweet_count": 17877
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-26T18:00:18.000Z",
+        "description": "I know I am hated by CCP.  I am honored to be labeled as being forgetful to my origin, or even called a traitor by CCP.  I stand with universal values.",
+        "id": "3044247194",
+        "name": "Bin Xie",
+        "pinned_tweet_id": "1710116681488486622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/580430758122258433/9MJxX1FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28133,
+          "following_count": 478,
+          "like_count": 27864,
+          "listed_count": 205,
+          "media_count": 3574,
+          "tweet_count": 12299
+        },
+        "url": "",
+        "username": "bxieus",
+        "verified": true
+      }
+    ]
+  }
+}

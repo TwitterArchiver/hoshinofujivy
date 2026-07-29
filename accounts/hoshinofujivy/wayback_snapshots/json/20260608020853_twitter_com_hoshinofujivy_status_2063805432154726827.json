@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2063586591835353168",
+    "created_at": "2026-06-08T02:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063805432154726827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "445382559",
+          "start": 0,
+          "username": "fbigojay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063805432154726827",
+    "in_reply_to_user_id": "445382559",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063799021223993590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fbigojay 300"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2063586591835353168",
+        "created_at": "2026-06-08T02:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063805432154726827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "445382559",
+              "start": 0,
+              "username": "fbigojay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063805432154726827",
+        "in_reply_to_user_id": "445382559",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063799021223993590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fbigojay 300"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "445382559",
+        "conversation_id": "2063586591835353168",
+        "created_at": "2026-06-08T01:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063799021223993590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063799021223993590",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063586591835353168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 大学在读吗？签证大概花了多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11751,
+          "following_count": 4354,
+          "like_count": 48560,
+          "listed_count": 37,
+          "media_count": 2700,
+          "tweet_count": 15576
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-24T10:12:27.000Z",
+        "description": "チャイナの体にジャパンの魂を宿っている",
+        "id": "445382559",
+        "location": "世界の中心",
+        "name": "石崎サルシ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2236820479/9bb909a41057fbd39152eee9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 49,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1137
+        },
+        "username": "fbigojay",
+        "verified": false
+      }
+    ]
+  }
+}

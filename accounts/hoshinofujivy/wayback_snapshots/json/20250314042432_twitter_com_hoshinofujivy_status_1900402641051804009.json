@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1900402641051804009",
+    "created_at": "2025-03-14T04:24:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T05:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900402641051804009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3479135658",
+          "start": 3,
+          "username": "SolarHeavy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900402641051804009",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857742493778845942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @SolarHeavy: whoa have you heard this song?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1900402641051804009",
+        "created_at": "2025-03-14T04:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T05:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900402641051804009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3479135658",
+              "start": 3,
+              "username": "SolarHeavy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900402641051804009",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857742493778845942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @SolarHeavy: whoa have you heard this song?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3479135658",
+        "conversation_id": "1857742493778845942",
+        "created_at": "2024-11-16T11:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T12:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857742493778845942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857742493778845942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 857,
+          "impression_count": 24522921,
+          "like_count": 7691,
+          "quote_count": 32,
+          "reply_count": 103,
+          "retweet_count": 405
+        },
+        "reply_settings": "verified",
+        "text": "whoa have you heard this song?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 2008,
+          "like_count": 9650,
+          "listed_count": 2,
+          "media_count": 235,
+          "tweet_count": 2792
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-07T07:08:10.000Z",
+        "description": "100% Indie Musician | Multi Genre",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/solarheavy",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/solarheavy",
+                "start": 0,
+                "url": "https://t.co/fMcRkJDTzS"
+              }
+            ]
+          }
+        },
+        "id": "3479135658",
+        "name": "Solar Heavy",
+        "pinned_tweet_id": "1882709624966537505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757416842757632000/-YbcuHoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63205,
+          "following_count": 162,
+          "like_count": 52638,
+          "listed_count": 281,
+          "media_count": 2205,
+          "tweet_count": 18678
+        },
+        "url": "https://t.co/fMcRkJDTzS",
+        "username": "SolarHeavy",
+        "verified": true
+      }
+    ]
+  }
+}

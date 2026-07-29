@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023725500741672960"
+      ],
+      "media_source_tweet_id": [
+        "2023725522744906091"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2023918649132937647",
+    "created_at": "2026-02-18T00:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T01:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023918649132937647"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "東京国際空港",
+          "probability": 0.7066,
+          "start": 15,
+          "type": "Place"
+        },
+        {
+          "end": 25,
+          "normalized_text": "羽田空港",
+          "probability": 0.6938,
+          "start": 22,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 53,
+          "tag": "管制塔ちゃんプロジェクト"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "羽田空港"
+        },
+        {
+          "end": 78,
+          "start": 73,
+          "tag": "羽田エア"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "822466142383898624",
+          "start": 3,
+          "username": "Saiun_san"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6XRuI3mMuk",
+          "end": 102,
+          "expanded_url": "https://x.com/Saiun_san/status/2023725522744906091/photo/1",
+          "media_key": "3_2023725500741672960",
+          "start": 79,
+          "url": "https://t.co/6XRuI3mMuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023918649132937647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023725522744906091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Saiun_san: 東京国際空港(羽田空港)の管制塔擬人化【羽田 エア】の三面図です！✈︎♡\n\n#管制塔ちゃんプロジェクト #羽田空港 #羽田エア https://t.co/6XRuI3mMuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2896,
+        "media_key": "3_2023725500741672960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW3nuqbYAAdI6K.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023725500741672960"
+          ],
+          "media_source_tweet_id": [
+            "2023725522744906091"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2023918649132937647",
+        "created_at": "2026-02-18T00:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023918649132937647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "東京国際空港",
+              "probability": 0.7066,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "羽田空港",
+              "probability": 0.6938,
+              "start": 22,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 53,
+              "tag": "管制塔ちゃんプロジェクト"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "羽田空港"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "羽田エア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "822466142383898624",
+              "start": 3,
+              "username": "Saiun_san"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XRuI3mMuk",
+              "end": 102,
+              "expanded_url": "https://x.com/Saiun_san/status/2023725522744906091/photo/1",
+              "media_key": "3_2023725500741672960",
+              "start": 79,
+              "url": "https://t.co/6XRuI3mMuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023918649132937647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023725522744906091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Saiun_san: 東京国際空港(羽田空港)の管制塔擬人化【羽田 エア】の三面図です！✈︎♡\n\n#管制塔ちゃんプロジェクト #羽田空港 #羽田エア https://t.co/6XRuI3mMuk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023725500741672960"
+          ]
+        },
+        "author_id": "822466142383898624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2023725522744906091",
+        "created_at": "2026-02-17T11:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023725522744906091"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "東京国際空港",
+              "probability": 0.625,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 10,
+              "normalized_text": "羽田空港",
+              "probability": 0.7014,
+              "start": 7,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 38,
+              "tag": "管制塔ちゃんプロジェクト"
+            },
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "羽田空港"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "羽田エア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6XRuI3mMuk",
+              "end": 87,
+              "expanded_url": "https://x.com/Saiun_san/status/2023725522744906091/photo/1",
+              "media_key": "3_2023725500741672960",
+              "start": 64,
+              "url": "https://t.co/6XRuI3mMuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023725522744906091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 76160,
+          "like_count": 2541,
+          "quote_count": 43,
+          "reply_count": 14,
+          "retweet_count": 378
+        },
+        "reply_settings": "everyone",
+        "text": "東京国際空港(羽田空港)の管制塔擬人化【羽田 エア】の三面図です！✈︎♡\n\n#管制塔ちゃんプロジェクト #羽田空港 #羽田エア https://t.co/6XRuI3mMuk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- ｜一生挚爱@nationalpurevf4｜来吧，我的故事很多｜Language：🇯🇵🇩🇪🇬🇧&Chinese（TC&SC）｜AIart｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1998890721911435591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 3006,
+          "like_count": 34799,
+          "listed_count": 5,
+          "media_count": 817,
+          "tweet_count": 7960
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-20T15:29:43.000Z",
+        "description": "✈マルチクリエイターの航空系Vtuber | illust | cosplay | #管制塔ちゃんプロジェクト | SFJ✈♡ | 22歳　ALL▷#ぐも通信簿　FA▷#ぐもアート　ﾌｧﾝﾏ▷🌈☁\n各リンク集▷🔗https://t.co/Hz3S6HAeLO",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 42,
+                "tag": "管制塔ちゃんプロジェクト"
+              },
+              {
+                "end": 80,
+                "start": 74,
+                "tag": "ぐも通信簿"
+              },
+              {
+                "end": 90,
+                "start": 84,
+                "tag": "ぐもアート"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "potofu.me/ayagumo",
+                "end": 129,
+                "expanded_url": "http://potofu.me/ayagumo",
+                "start": 106,
+                "url": "https://t.co/Hz3S6HAeLO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Saiun_san",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@Saiun_san",
+                "start": 0,
+                "url": "https://t.co/w1Vzaw3zkU"
+              }
+            ]
+          }
+        },
+        "id": "822466142383898624",
+        "location": "✈管制塔を擬人化してる人【タグ】→#管制塔ちゃんプロジェクト",
+        "name": "ayagumo先生🌈☁航空系VTuber",
+        "pinned_tweet_id": "1959719581486043256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913372185286352896/2ybSphp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4286,
+          "following_count": 199,
+          "like_count": 150287,
+          "listed_count": 75,
+          "media_count": 1519,
+          "tweet_count": 27985
+        },
+        "url": "https://t.co/w1Vzaw3zkU",
+        "username": "Saiun_san",
+        "verified": true
+      }
+    ]
+  }
+}

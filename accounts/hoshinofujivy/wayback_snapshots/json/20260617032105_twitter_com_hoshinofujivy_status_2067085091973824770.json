@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2066847293924667739",
+    "created_at": "2026-06-17T03:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T04:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067085091973824770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696129913093595136",
+          "start": 0,
+          "username": "zi_qing45371"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 37,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2067082630999499090?s=20",
+          "start": 14,
+          "url": "https://t.co/rMhBlrK7gR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067085091973824770",
+    "in_reply_to_user_id": "1696129913093595136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067082630999499090",
+        "type": "quoted"
+      },
+      {
+        "id": "2066875966610370934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zi_qing45371 https://t.co/rMhBlrK7gR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1102,
+        "media_key": "3_2067082609587548161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_ArnnacAEaMYW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2066847293924667739",
+        "created_at": "2026-06-17T03:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067085091973824770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696129913093595136",
+              "start": 0,
+              "username": "zi_qing45371"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 37,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2067082630999499090?s=20",
+              "start": 14,
+              "url": "https://t.co/rMhBlrK7gR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067085091973824770",
+        "in_reply_to_user_id": "1696129913093595136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067082630999499090",
+            "type": "quoted"
+          },
+          {
+            "id": "2066875966610370934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zi_qing45371 https://t.co/rMhBlrK7gR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067082609587548161"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2067082630999499090",
+        "created_at": "2026-06-17T03:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067082630999499090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7FeAv3Crb",
+              "end": 66,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2067082630999499090/photo/1",
+              "media_key": "3_2067082609587548161",
+              "start": 43,
+              "url": "https://t.co/i7FeAv3Crb"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2066847293924667739",
+              "start": 67,
+              "url": "https://t.co/sbLLGhIvE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067082630999499090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066847293924667739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些说「到处都是」的人，我可以反驳\n\n我跑过的这几个城市，就只在西安、北京、天津见过 https://t.co/i7FeAv3Crb https://t.co/sbLLGhIvE3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696129913093595136",
+        "conversation_id": "2066847293924667739",
+        "created_at": "2026-06-16T13:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066875966610370934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066875966610370934",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066847293924667739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy ？？？？这玩意不遍地是吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12029,
+          "following_count": 4367,
+          "like_count": 49113,
+          "listed_count": 36,
+          "media_count": 2841,
+          "tweet_count": 16083
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-28T11:58:06.000Z",
+        "description": "是我自己，也只是我自己",
+        "id": "1696129913093595136",
+        "name": "清炖肘子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782815243129032704/8gQ6RV_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 105,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 634
+        },
+        "username": "zi_qing45371",
+        "verified": false
+      }
+    ]
+  }
+}

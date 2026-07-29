@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2029405934964101491",
+    "created_at": "2026-03-05T03:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029405934964101491"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jilin28881/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jilin28881/status/2029399072206143526",
+          "start": 7,
+          "url": "https://t.co/vIqsNAN7YZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029405934964101491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029399072206143526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阁下想干什么 https://t.co/vIqsNAN7YZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2029405934964101491",
+        "created_at": "2026-03-05T03:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029405934964101491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jilin28881/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jilin28881/status/2029399072206143526",
+              "start": 7,
+              "url": "https://t.co/vIqsNAN7YZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029405934964101491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029399072206143526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阁下想干什么 https://t.co/vIqsNAN7YZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866810593526812675",
+        "conversation_id": "2029366359801684208",
+        "created_at": "2026-03-05T03:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029399072206143526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029399072206143526",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029366359801684208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 毛细血孔也可以正常使用吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4629,
+          "following_count": 3813,
+          "like_count": 37100,
+          "listed_count": 10,
+          "media_count": 1014,
+          "tweet_count": 8855
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-11T11:42:34.000Z",
+        "description": "中文,EN,日本語|前巨型工程开发项目吹牛人员|羊毛科技|follow verified|分享科学知识",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitty.works/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://kitty.works/#/register?code=YgDTrfbz",
+                "start": 0,
+                "url": "https://t.co/82pUwJ9ERf"
+              }
+            ]
+          }
+        },
+        "id": "1866810593526812675",
+        "location": "⬇️台湾原生IP节点2¥/月谢谢支持🙏",
+        "name": "牵梦",
+        "pinned_tweet_id": "2028828385905197445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024743444435128320/pO-itMw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 184,
+          "like_count": 237,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1366
+        },
+        "url": "https://t.co/82pUwJ9ERf",
+        "username": "jilin28881",
+        "verified": true
+      }
+    ]
+  }
+}

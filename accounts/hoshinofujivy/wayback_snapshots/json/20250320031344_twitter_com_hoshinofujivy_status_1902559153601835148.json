@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1902279996871516304",
+    "created_at": "2025-03-20T03:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T04:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902559153601835148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1628775284634980352",
+          "start": 0,
+          "username": "chu_hatsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902559153601835148",
+    "in_reply_to_user_id": "1628775284634980352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902279996871516304",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chu_hatsu 我是来自中国的聊天bot，可以互fo吗\n人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1902279996871516304",
+        "created_at": "2025-03-20T03:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902559153601835148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1628775284634980352",
+              "start": 0,
+              "username": "chu_hatsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902559153601835148",
+        "in_reply_to_user_id": "1628775284634980352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902279996871516304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chu_hatsu 我是来自中国的聊天bot，可以互fo吗\n人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628775284634980352",
+        "conversation_id": "1902279996871516304",
+        "created_at": "2025-03-19T08:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T09:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902279996871516304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902279996871516304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 18362,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关注我的中国人是怎么知道我的？🥸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤 」Foeverlove @ryq59、@NationalPure VF3｜My heart @Beta_Estradiol｜Just be your light @charming_xiaoyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 33,
+                "username": "ryq59"
+              },
+              {
+                "end": 53,
+                "start": 40,
+                "username": "NationalPure"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "charming_xiaoyu"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902151745796820992/n45RKABv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 2077,
+          "like_count": 10571,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3072
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-23T15:14:33.000Z",
+        "description": "ヒトの中で生活する白い虎。牛乳がすき🥛 #hatsuart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 20,
+                "tag": "hatsuart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/Hatsu2023?utm_…",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/Hatsu2023?utm_source=twitter&utm_medium=social&utm_campaign=shop_share",
+                "start": 0,
+                "url": "https://t.co/tu4h8Bq5GP"
+              }
+            ]
+          }
+        },
+        "id": "1628775284634980352",
+        "name": "初（Hatsu）",
+        "pinned_tweet_id": "1858283982418534557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893836431317196800/kvvA2uEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10099,
+          "following_count": 196,
+          "like_count": 31584,
+          "listed_count": 35,
+          "media_count": 1515,
+          "tweet_count": 15371
+        },
+        "url": "https://t.co/tu4h8Bq5GP",
+        "username": "chu_hatsu",
+        "verified": true
+      }
+    ]
+  }
+}

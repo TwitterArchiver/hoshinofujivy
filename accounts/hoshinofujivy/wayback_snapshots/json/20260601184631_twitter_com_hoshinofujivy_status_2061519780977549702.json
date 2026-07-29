@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2061486886968029542",
+    "created_at": "2026-06-01T18:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061519780977549702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2445363991",
+          "start": 0,
+          "username": "Geiketsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061519780977549702",
+    "in_reply_to_user_id": "2445363991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061514338188534123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Geiketsu 有什么好处吗\n我看也不含电解质呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2061486886968029542",
+        "created_at": "2026-06-01T18:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061519780977549702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2445363991",
+              "start": 0,
+              "username": "Geiketsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061519780977549702",
+        "in_reply_to_user_id": "2445363991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061514338188534123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Geiketsu 有什么好处吗\n我看也不含电解质呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2445363991",
+        "conversation_id": "2061486886968029542",
+        "created_at": "2026-06-01T18:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061514338188534123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061514338188534123",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061486886968029542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 这种无糖的碳酸水，我每天都得喝4瓶……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11582,
+          "following_count": 4331,
+          "like_count": 47608,
+          "listed_count": 39,
+          "media_count": 2563,
+          "tweet_count": 15116
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-15T12:11:25.000Z",
+        "description": "东京常驻，动漫迷，游戏狂，日剧爱好者+资深吃货！专业Cloud Engineer & SRE。分享日本的点点滴滴！",
+        "id": "2445363991",
+        "location": "東京",
+        "name": "Geiketsu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000186560818675712/GgIU_cka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4949,
+          "following_count": 1683,
+          "like_count": 55422,
+          "listed_count": 34,
+          "media_count": 2084,
+          "tweet_count": 21263
+        },
+        "username": "Geiketsu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2042086235842449721",
+    "created_at": "2026-04-09T07:52:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T08:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042148703532888526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1258310879273029633",
+          "start": 0,
+          "username": "eternalhao1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20420…",
+          "end": 43,
+          "expanded_url": "https://x.com/i/status/2042082331763114021",
+          "start": 20,
+          "url": "https://t.co/myK4XkJgsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042148703532888526",
+    "in_reply_to_user_id": "1258310879273029633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042082331763114021",
+        "type": "quoted"
+      },
+      {
+        "id": "2042147660195623179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eternalhao1 您老少上网吧\nhttps://t.co/myK4XkJgsu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2042086235842449721",
+        "created_at": "2026-04-09T07:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042148703532888526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1258310879273029633",
+              "start": 0,
+              "username": "eternalhao1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20420…",
+              "end": 43,
+              "expanded_url": "https://x.com/i/status/2042082331763114021",
+              "start": 20,
+              "url": "https://t.co/myK4XkJgsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042148703532888526",
+        "in_reply_to_user_id": "1258310879273029633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042082331763114021",
+            "type": "quoted"
+          },
+          {
+            "id": "2042147660195623179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eternalhao1 您老少上网吧\nhttps://t.co/myK4XkJgsu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2042082331763114021",
+        "created_at": "2026-04-09T03:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042082331763114021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2041779875128996168",
+              "start": 125,
+              "url": "https://t.co/kjEtdJoAYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042082331763114021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2025年，在临近九月份开学时，导员给我打电话：\n“你现在什么工作？”\n“外卖”\n“哦～一个月能赚个八九千吧？”\n我苦笑：“您看电视剧看多了吧”\n导员：\n“你确定要休学？”\n“确定！”\n导员的意思大概是，我暑假吃了劳动的苦，自然就想回学校吃学习的苦\n\n但是外卖虽然很苦，至少回报很明显，每天赚到的钱很可观，没有拿父母的生活费，心里自然也没有愧疚与负担，遇到刁钻的顾客，起码说说还是能说的过（也许我遇到的都是善良的人）\n\n与此同时，我在送外卖之余也接了家教，我的英语是强项，教了一个高一的学生。一小时50块，那一个暑假，家教赚了2000块\n\n跑了两个月外卖，赚差不多6000块。\n\n说实话，辛苦得很。前面上完课，紧接着上线跑外卖。午饭和晚饭是高峰期，肯定不能下线吃饭。但是我有一个绝招：两分钟内吃完饭，这是我在高中时期锻炼出来的技能。（怪讽刺的哈）\n\n衡水模式「锻炼」出了我做事雷厉风行的性格，这绝对是完美的「奴隶」\n\n但是能有自己的想法，放弃学业打工，也不见得这「奴隶」有多完美。\n\n我最喜欢跑的时段是通宵，这时候街上一个人也没有，单子也都是烧烤，方便携带，上线的人少，个人的单子很充足。小区保安睡着了，我可以轻易的溜进去。\n\n还记得一个顾客在订单备注是：「不要打电话，不要敲门，放在门口」但是他的楼层是15楼，我也是老实人，直接一口气爬了15楼，放在他家门口。因为电梯需要刷门禁卡，而我无法联系顾客，发信息也不理会，单子也无法转给别人。\n\n那两个月来，我的社交生活基本只在推特上。但是也不好意思发出来，一直很自卑。现在算是有勇气讲讲了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16615,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041779875128996168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2025年，在临近九月份开学时，导员给我打电话：\n“你现在什么工作？”\n“外卖”\n“哦～一个月能赚个八九千吧？”\n我苦笑：“您看电视剧看多了吧”\n导员：\n“你确定要休学？”\n“确定！”\n导员的意思大概是，我暑假吃了劳动的苦，自然就想回学校吃学习的苦 https://t.co/kjEtdJoAYH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258310879273029633",
+        "conversation_id": "2042086235842449721",
+        "created_at": "2026-04-09T07:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042147660195623179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042147660195623179",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042086235842449721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 网上不都是8 9千吗，你的为啥这么点，被人搞了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8181,
+          "following_count": 4058,
+          "like_count": 42555,
+          "listed_count": 25,
+          "media_count": 1640,
+          "tweet_count": 11520
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-07T08:21:13.000Z",
+        "description": "不关注政治  | 一个爱生活的Software Engineer｜头发正在渐渐变少 |会不定期分享一些有意思的视频 ｜ 有趣的灵魂万里挑一 ｜交朋友 | 癌症病人家属",
+        "id": "1258310879273029633",
+        "location": "Syria",
+        "name": "象牙山 王大拿🩴",
+        "pinned_tweet_id": "1411254607624347650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574578277749903360/1J1HUG7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 328,
+          "like_count": 2040,
+          "listed_count": 10,
+          "media_count": 642,
+          "tweet_count": 7164
+        },
+        "username": "eternalhao1",
+        "verified": false
+      }
+    ]
+  }
+}

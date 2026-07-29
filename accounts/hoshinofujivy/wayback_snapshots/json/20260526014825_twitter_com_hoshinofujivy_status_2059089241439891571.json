@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2058939409819668546",
+    "created_at": "2026-05-26T01:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059089241439891571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4687433964",
+          "start": 0,
+          "username": "SprieCoding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059089241439891571",
+    "in_reply_to_user_id": "4687433964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059069253211570227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SprieCoding 哈哈哈哈哈，说晚了，我机票都订好啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2058939409819668546",
+        "created_at": "2026-05-26T01:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059089241439891571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4687433964",
+              "start": 0,
+              "username": "SprieCoding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059089241439891571",
+        "in_reply_to_user_id": "4687433964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059069253211570227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SprieCoding 哈哈哈哈哈，说晚了，我机票都订好啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4687433964",
+        "conversation_id": "2058939409819668546",
+        "created_at": "2026-05-26T00:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059069253211570227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059069253211570227",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058939409819668546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 不要拍照，不要充电，不要。。。\n算了，你还是别去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜luv whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ（藤）",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11399,
+          "following_count": 4316,
+          "like_count": 46578,
+          "listed_count": 38,
+          "media_count": 2425,
+          "tweet_count": 14572
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-01T06:06:58.000Z",
+        "description": "btc、eth、bnb坚定持有者｜AI浪潮中的踏浪人，卷不死就往死里卷｜比亚迪微微微小股东｜拥抱科技，分享学习过程中的成果｜分享生活的点点滴滴 | 蓝V必回，诚信互关",
+        "id": "4687433964",
+        "location": "Wall Street",
+        "name": "周周",
+        "pinned_tweet_id": "2050800695239127479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049230864546942976/Yx_GuQEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 1955,
+          "like_count": 1025,
+          "listed_count": 5,
+          "media_count": 527,
+          "tweet_count": 3649
+        },
+        "username": "SprieCoding",
+        "verified": true
+      }
+    ]
+  }
+}

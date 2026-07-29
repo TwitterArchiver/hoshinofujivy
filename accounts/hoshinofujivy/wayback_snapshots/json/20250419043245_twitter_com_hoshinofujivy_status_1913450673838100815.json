@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1913275057255887070",
+    "created_at": "2025-04-19T04:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T05:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913450673838100815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "Beta_Estradiol"
+        },
+        {
+          "end": 25,
+          "id": "1690570637499154432",
+          "start": 16,
+          "username": "saonanaa"
+        },
+        {
+          "end": 41,
+          "id": "1626584045101666304",
+          "start": 26,
+          "username": "liychn30019070"
+        },
+        {
+          "end": 54,
+          "id": "1663066129923981312",
+          "start": 42,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 71,
+          "id": "1700935161301655552",
+          "start": 55,
+          "username": "qingshixiang258"
+        },
+        {
+          "end": 87,
+          "id": "1885436187046817792",
+          "start": 72,
+          "username": "CrimSeraph_QwQ"
+        },
+        {
+          "end": 101,
+          "id": "1431776320019517445",
+          "start": 88,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913450673838100815",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913348358703558841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beta_Estradiol @saonanaa @liychn30019070 @Ak1raQ_love @qingshixiang258 @CrimSeraph_QwQ @KiraRettosei 就是啊\n我妹妹这么可爱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1913348358703558841].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1913348358703558841",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1913348358703558841"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1913275057255887070",
+        "created_at": "2025-04-19T04:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T05:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913450673838100815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "Beta_Estradiol"
+            },
+            {
+              "end": 25,
+              "id": "1690570637499154432",
+              "start": 16,
+              "username": "saonanaa"
+            },
+            {
+              "end": 41,
+              "id": "1626584045101666304",
+              "start": 26,
+              "username": "liychn30019070"
+            },
+            {
+              "end": 54,
+              "id": "1663066129923981312",
+              "start": 42,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 71,
+              "id": "1700935161301655552",
+              "start": 55,
+              "username": "qingshixiang258"
+            },
+            {
+              "end": 87,
+              "id": "1885436187046817792",
+              "start": 72,
+              "username": "CrimSeraph_QwQ"
+            },
+            {
+              "end": 101,
+              "id": "1431776320019517445",
+              "start": 88,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913450673838100815",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913348358703558841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beta_Estradiol @saonanaa @liychn30019070 @Ak1raQ_love @qingshixiang258 @CrimSeraph_QwQ @KiraRettosei 就是啊\n我妹妹这么可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 2248,
+          "like_count": 15338,
+          "listed_count": 2,
+          "media_count": 348,
+          "tweet_count": 3890
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "Stand with🇹🇼🇺🇦/里推/一只09的MtF噢/未炸柜但被迫断糖/化竞生/INFP/sub/免费私信树洞/表@imqiuy 限时放送：我想看@Ak1raQ_love变男娘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 58,
+                "username": "imqiuy"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Ak1raQ_love"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/0ETzV…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/0ETzVTcvLjjxCuzT9xMjmV?si=367bbafcc369445b",
+                "start": 0,
+                "url": "https://t.co/qLU5z1lJqT"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🍥小秋月🏳️‍⚧",
+        "pinned_tweet_id": "1902942928017793151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821401822323679232/gjmZ-8lh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 358,
+          "like_count": 6651,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/qLU5z1lJqT",
+        "username": "Beta_Estradiol",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "我的简介就是我自己",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1912179262884569254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909077249778950144/qMpk70Sg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 338,
+          "like_count": 20574,
+          "listed_count": 16,
+          "media_count": 1210,
+          "tweet_count": 11300
+        },
+        "username": "saonanaa",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-17T14:07:41.000Z",
+        "description": "只是一个普通的中国初中生而已",
+        "id": "1626584045101666304",
+        "location": "中国 浙江",
+        "name": "羽宸(初三地狱版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881635207822159872/sqkcvlzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 1735,
+          "like_count": 31933,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 3314
+        },
+        "username": "liychn30019070",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "悟已往之不谏，知来者之可追 | 🥺♥️ | 小秋月🥰@Beta_Estradiol",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "Beta_Estradiol"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Eutopia",
+        "name": "PNSK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903825910736027648/SHkmnvvz_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 1029,
+          "like_count": 132129,
+          "listed_count": 6,
+          "media_count": 1028,
+          "tweet_count": 5585
+        },
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T18:12:06.000Z",
+        "description": "这里是青石巷，可以叫我青|遇到烦心事的话可以来找我碎碎念，青欢迎所有人|偶尔会emo，请无视|喜欢被叫姐姐和妈妈（唔～❤️｜很高兴认识你｜很好的朋友@_akitayura｜超喜欢的宝藏@AltEgoFujisaki和@AcetateFrag",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "_akitayura"
+              },
+              {
+                "end": 107,
+                "start": 92,
+                "username": "AltEgoFujisaki"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "AcetateFrag"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E9%9D%92%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E9%9D%92%E7%9F%B3%E5%B7%B7",
+                "start": 0,
+                "url": "https://t.co/YIQfZV5t3b"
+              }
+            ]
+          }
+        },
+        "id": "1700935161301655552",
+        "location": "？？？",
+        "name": "青石巷🍃🕊️",
+        "pinned_tweet_id": "1901659365607625161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909653788056768512/HVX8zDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 804,
+          "like_count": 16516,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 7537
+        },
+        "url": "https://t.co/YIQfZV5t3b",
+        "username": "qingshixiang258",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/信仰钱💴/热爱二次元的私宅(特别是Miku🥰)/我只是在阴暗地盯着所有人👀/有任何事可✉️/广告一律ban了😾/阴暗丑陋的哥布林想要成为吸血鬼👿/想要创造新世界💻",
+        "id": "1885436187046817792",
+        "location": "Between Hell and Heaven",
+        "name": "CrimsonSeraph✟升天✟",
+        "pinned_tweet_id": "1908293344473858145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 120,
+          "like_count": 7902,
+          "listed_count": 2,
+          "media_count": 333,
+          "tweet_count": 4361
+        },
+        "username": "CrimSeraph_QwQ",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n高中三年生，淡网。",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Hangzhou,China",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1896573786364994016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 2659,
+          "like_count": 38339,
+          "listed_count": 7,
+          "media_count": 923,
+          "tweet_count": 16070
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

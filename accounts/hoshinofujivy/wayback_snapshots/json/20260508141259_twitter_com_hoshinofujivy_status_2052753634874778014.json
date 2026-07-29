@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052752562403831808",
+        "3_2052752560713584640"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2052753634874778014",
+    "created_at": "2026-05-08T14:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052753634874778014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QSf1tYZqc9",
+          "end": 125,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2052753634874778014/photo/1",
+          "media_key": "3_2052752562403831808",
+          "start": 102,
+          "url": "https://t.co/QSf1tYZqc9"
+        },
+        {
+          "display_url": "pic.x.com/QSf1tYZqc9",
+          "end": 125,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2052753634874778014/photo/1",
+          "media_key": "3_2052752560713584640",
+          "start": 102,
+          "url": "https://t.co/QSf1tYZqc9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052753634874778014",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你在百度搜索Twitter\n搜索结果除了一个打不开的推特官网\n还有一个推特中国区登陆，仔细看的话，是一条广告\n打开链接，是卖推特账号的，甚至还给你个性化打造「老司机账号」\n不得不说，这信息差太赚钱了 https://t.co/QSf1tYZqc9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1550,
+        "media_key": "3_2052752562403831808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzXlF3acAA3X8P.jpg",
+        "width": 1752
+      },
+      {
+        "height": 1249,
+        "media_key": "3_2052752560713584640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzXk_kbUAAh6AW.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052752562403831808",
+            "3_2052752560713584640"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2052753634874778014",
+        "created_at": "2026-05-08T14:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052753634874778014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QSf1tYZqc9",
+              "end": 125,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2052753634874778014/photo/1",
+              "media_key": "3_2052752562403831808",
+              "start": 102,
+              "url": "https://t.co/QSf1tYZqc9"
+            },
+            {
+              "display_url": "pic.x.com/QSf1tYZqc9",
+              "end": 125,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2052753634874778014/photo/1",
+              "media_key": "3_2052752560713584640",
+              "start": 102,
+              "url": "https://t.co/QSf1tYZqc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052753634874778014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你在百度搜索Twitter\n搜索结果除了一个打不开的推特官网\n还有一个推特中国区登陆，仔细看的话，是一条广告\n打开链接，是卖推特账号的，甚至还给你个性化打造「老司机账号」\n不得不说，这信息差太赚钱了 https://t.co/QSf1tYZqc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10378,
+          "following_count": 4286,
+          "like_count": 45464,
+          "listed_count": 33,
+          "media_count": 2154,
+          "tweet_count": 13482
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

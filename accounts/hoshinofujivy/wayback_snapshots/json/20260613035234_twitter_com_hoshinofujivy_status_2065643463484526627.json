@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2065643463484526627",
+    "created_at": "2026-06-13T03:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065643463484526627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bloodcode12/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/bloodcode12/status/2065307344716619891",
+          "start": 17,
+          "url": "https://t.co/BgVzQN0GdR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065643463484526627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065307344716619891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有可能，你活在另一种谎言呢？ https://t.co/BgVzQN0GdR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2065643463484526627",
+        "created_at": "2026-06-13T03:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065643463484526627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bloodcode12/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/bloodcode12/status/2065307344716619891",
+              "start": 17,
+              "url": "https://t.co/BgVzQN0GdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065643463484526627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065307344716619891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有可能，你活在另一种谎言呢？ https://t.co/BgVzQN0GdR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552855301434613760",
+        "conversation_id": "2065278778105016396",
+        "created_at": "2026-06-12T05:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065307344716619891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065307344716619891",
+        "in_reply_to_user_id": "1552855301434613760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065307091280019686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 嘛，多说无益，反正既然你信奉一种谎言，那也没必要继续交流了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11972,
+          "following_count": 4357,
+          "like_count": 48969,
+          "listed_count": 36,
+          "media_count": 2773,
+          "tweet_count": 15896
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T03:16:06.000Z",
+        "description": "僕達に見える世界は　実在と嘘の境界",
+        "id": "1552855301434613760",
+        "name": "God eater",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584895074931859456/IOUWTPcZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 210,
+          "like_count": 9702,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 2888
+        },
+        "username": "bloodcode12",
+        "verified": false
+      }
+    ]
+  }
+}

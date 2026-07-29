@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1979562239758827588",
+    "created_at": "2025-10-19T10:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T11:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979855848206905827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        },
+        {
+          "end": 17,
+          "id": "1621259482704625671",
+          "start": 10,
+          "username": "Qinioo"
+        },
+        {
+          "end": 29,
+          "id": "1875115728166342656",
+          "start": 18,
+          "username": "3253212MCZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979855848206905827",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979825672702013456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove @Qinioo @3253212MCZ axql"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1979825672702013456].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1979825672702013456",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1979825672702013456"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1979562239758827588",
+        "created_at": "2025-10-19T10:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979855848206905827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            },
+            {
+              "end": 17,
+              "id": "1621259482704625671",
+              "start": 10,
+              "username": "Qinioo"
+            },
+            {
+              "end": 29,
+              "id": "1875115728166342656",
+              "start": 18,
+              "username": "3253212MCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979855848206905827",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979825672702013456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove @Qinioo @3253212MCZ axql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "k1_6r"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 2518,
+          "like_count": 26117,
+          "listed_count": 3,
+          "media_count": 543,
+          "tweet_count": 5953
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺一只出厂16年的MtF噢/😣未炸柜但被迫断糖😭/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVA58J / ❤️主人@3253212MCZ/我想看@Ak1raQ_love 变女孩子🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "3253212MCZ"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 115,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 92,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🏳️‍⚧️ 小秋月🎀🍥 🕯️",
+        "pinned_tweet_id": "1973961514311881091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 647,
+          "like_count": 35001,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2299
+        },
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "🏳️‍⚧️MtF|正體🇹🇼/简体🇨🇳\n💙@ObjectShadow💚\nフォローをくれてありがとうございます!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "ObjectShadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GftYz"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Io",
+        "pinned_tweet_id": "1959513688395960345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 1522,
+          "like_count": 17789,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/eL7t3GftYz",
+        "username": "Qinioo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜 | 178cm超大只 | ❤️‍🩹抑郁症自愈 |🍬糖：2025.7.6 |MIKU重度依赖 |🌈闺蜜招募中|❤️ 对象 @qiuylove | 💌努力互fo |❤️‍🔥分享欲旺| Q:285299219 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天散步中～",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 684,
+          "like_count": 3290,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 2348
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      }
+    ]
+  }
+}

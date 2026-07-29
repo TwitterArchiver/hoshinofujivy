@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2061856927534182752",
+    "created_at": "2026-06-02T17:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T18:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061856927534182752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mickylee1235/s…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/mickylee1235/status/2061756008763191321",
+          "start": 65,
+          "url": "https://t.co/oQSO8vXTGu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061856927534182752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061756008763191321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "痛心......我真的很喜欢日本的古建筑\n\n我本来想去京都的，就是太远\n\n那边保留了很多唐朝的建筑风格\n\n希望极端分子可以少一点 https://t.co/oQSO8vXTGu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41099,
+        "height": 1920,
+        "media_key": "13_2061755830656196608",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061755830656196608/img/AdH6MfPj65jA6SbN.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061755830656196608/vid/avc1/720x1280/aGi9ot76BFstFT9x.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061755830656196608/vid/avc1/1080x1920/KNabjlWKW4GRte02.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061755830656196608/pl/cZdWYCs0fXY9JXZy.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061755830656196608/vid/avc1/320x568/DCrUW-s0loh_idbk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061755830656196608/vid/avc1/480x852/Yb58SjtWEUQfbxFD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2061856927534182752",
+        "created_at": "2026-06-02T17:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T18:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061856927534182752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mickylee1235/s…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/mickylee1235/status/2061756008763191321",
+              "start": 65,
+              "url": "https://t.co/oQSO8vXTGu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061856927534182752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061756008763191321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痛心......我真的很喜欢日本的古建筑\n\n我本来想去京都的，就是太远\n\n那边保留了很多唐朝的建筑风格\n\n希望极端分子可以少一点 https://t.co/oQSO8vXTGu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061755830656196608"
+          ]
+        },
+        "author_id": "1510072938359246849",
+        "conversation_id": "2061756008763191321",
+        "created_at": "2026-06-02T10:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061756008763191321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgUnnforHU",
+              "end": 141,
+              "expanded_url": "https://x.com/mickylee1235/status/2061756008763191321/video/1",
+              "media_key": "13_2061755830656196608",
+              "start": 118,
+              "url": "https://t.co/wgUnnforHU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061756008763191321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🚨2026年5月20日，日本又一座千年古寺庙被人故意放火烧毁，这已经是今年的第8个被烧毁的神社和寺庙，穆斯林正在全力且多方位地进攻日本国，真为日本🇯🇵担心，因为日本是当今世界文明的灯塔，也是唯一的没有被穆斯林祸害和占领的文明发达国家。 https://t.co/wgUnnforHU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11621,
+          "following_count": 4333,
+          "like_count": 47908,
+          "listed_count": 39,
+          "media_count": 2594,
+          "tweet_count": 15242
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-02T01:54:36.000Z",
+        "description": "The world was originally very simple— all the chaos comes from within people's hearts.  世界原本很簡單──所有的混亂都源自於人們的內心。",
+        "id": "1510072938359246849",
+        "location": "Andromeda Galaxy",
+        "name": "mickey",
+        "pinned_tweet_id": "2022055174651752884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017648937482452993/l8GP_c7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3288,
+          "following_count": 1256,
+          "like_count": 47919,
+          "listed_count": 9,
+          "media_count": 8106,
+          "tweet_count": 44014
+        },
+        "username": "mickylee1235",
+        "verified": true
+      }
+    ]
+  }
+}

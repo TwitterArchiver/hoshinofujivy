@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2038124377485808049",
+    "created_at": "2026-03-29T05:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038124377485808049"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EzraRan_/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/EzraRan_/status/2037812202401652982",
+          "start": 8,
+          "url": "https://t.co/eNUGd3OUWu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038124377485808049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037812202401652982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这张图真的很美 https://t.co/eNUGd3OUWu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_2037812199713107968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfDZhrbcAAWrhn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2038124377485808049",
+        "created_at": "2026-03-29T05:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038124377485808049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EzraRan_/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/EzraRan_/status/2037812202401652982",
+              "start": 8,
+              "url": "https://t.co/eNUGd3OUWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038124377485808049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037812202401652982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张图真的很美 https://t.co/eNUGd3OUWu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037812199713107968"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2037777181603197437",
+        "created_at": "2026-03-28T08:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037812202401652982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zj92t2j09F",
+              "end": 29,
+              "expanded_url": "https://x.com/EzraRan_/status/2037812202401652982/photo/1",
+              "media_key": "3_2037812199713107968",
+              "start": 6,
+              "url": "https://t.co/Zj92t2j09F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037812202401652982",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9100,
+          "like_count": 263,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037777181603197437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补个原图： https://t.co/Zj92t2j09F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7254,
+          "following_count": 3956,
+          "like_count": 40822,
+          "listed_count": 19,
+          "media_count": 1490,
+          "tweet_count": 10632
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "Become who you are.\n社會自由。レン エジュラ\n「我希望我的生活與選擇，能夠由我本身來決定，而不取決於任何外界的力量。我希望成為我自己的意志，而不是別人意志的工具；希望成為主體，而不是他人行為的對象；我希望我的行為出於我自己的理性、有意識之目的，而不是出於外來的原因。」\n–以賽亞•柏林《兩種自由概念》",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 2262,
+          "like_count": 30356,
+          "listed_count": 5,
+          "media_count": 1285,
+          "tweet_count": 9598
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

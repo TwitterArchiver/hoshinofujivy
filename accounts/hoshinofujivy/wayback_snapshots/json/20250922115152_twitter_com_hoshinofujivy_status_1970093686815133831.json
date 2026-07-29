@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970065573557198848"
+      ],
+      "media_source_tweet_id": [
+        "1970065583451558277"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1970093686815133831",
+    "created_at": "2025-09-22T11:51:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T12:51:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970093686815133831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683060453528965120",
+          "start": 3,
+          "username": "NationalPureVF4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XHWcVoSJXX",
+          "end": 130,
+          "expanded_url": "https://x.com/NationalPureVF4/status/1970065583451558277/photo/1",
+          "media_key": "3_1970065573557198848",
+          "start": 107,
+          "url": "https://t.co/XHWcVoSJXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970093686815133831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970065583451558277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NationalPureVF4: 苦澀的失敗者曾一度墜往地獄，\n但必然裹挾著業火重新歸來...\n因為，仇恨永遠高於一切。\n\n二戰？所謂的世界反法西斯戰爭嗎？\n\n一切都還沒完呢，奮鬥...\n\n「才剛剛開始」 https://t.co/XHWcVoSJXX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1970093686815133831].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1970093686815133831",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1970093686815133831"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "「一個只懂得抗議的國家，是一個沒有骨頭的國家！\n一個只懂得抗議的政府，是一個沒有骨頭的政府！\n當我們的尊嚴、領土、生存的空間都遭受踐踏的時候，還不知羞恥地抗議的政府，我們是不需要的！你們最後也會拋棄它們的！」\n\n「在發動戰爭和進行戰爭時，是非問題是無關緊要的，緊要的是勝利！\n大自然的全部工作是強者與弱者之間的劇烈鬥爭——強者統治弱者的永恆勝利。\n如果不是這樣，整個大自然就只有衰亡。\n違背這個基本規律的國家也將衰亡。」\n\n「這個時代的奇蹟就是，你們發現了我，這茫茫人海中的一個無名小卒。」",
+        "height": 1229,
+        "media_key": "3_1970065573557198848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cUM4gaYAATNqx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970065573557198848"
+          ]
+        },
+        "author_id": "1683060453528965120",
+        "conversation_id": "1970065583451558277",
+        "created_at": "2025-09-22T10:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970065583451558277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XHWcVoSJXX",
+              "end": 109,
+              "expanded_url": "https://x.com/NationalPureVF4/status/1970065583451558277/photo/1",
+              "media_key": "3_1970065573557198848",
+              "start": 86,
+              "url": "https://t.co/XHWcVoSJXX"
+            },
+            {
+              "display_url": "x.com/NationalPureVF…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/NationalPureVF4/status/1970063441466662989",
+              "start": 110,
+              "url": "https://t.co/hvGsedEDmy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970065583451558277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970063441466662989",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苦澀的失敗者曾一度墜往地獄，\n但必然裹挾著業火重新歸來...\n因為，仇恨永遠高於一切。\n\n二戰？所謂的世界反法西斯戰爭嗎？\n\n一切都還沒完呢，奮鬥...\n\n「才剛剛開始」 https://t.co/XHWcVoSJXX https://t.co/hvGsedEDmy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @huahuojiang_ @k1_6r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "username": "k1_6r"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1915635148323995880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 2498,
+          "like_count": 24983,
+          "listed_count": 6,
+          "media_count": 518,
+          "tweet_count": 5777
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T10:24:22.000Z",
+        "description": "過氣的中推圈偶像-織田真理子，織田集團的大小姐，德意志第四帝國元首，別稱：真理子/軟糯真理醬/元首/Veritatis/薇蕾娜•奧登•馮•萊因哈特\n 裏帳@vnationvendetta \n最愛的藤醬主人老公 @hoshinofujivy \n夥伴 @jawenzhu  @_Weace_ @realpresidenTy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 77,
+                "username": "vnationvendetta"
+              },
+              {
+                "end": 119,
+                "start": 105,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jawenzhu"
+              },
+              {
+                "end": 143,
+                "start": 135,
+                "username": "_Weace_"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "realpresidenTy"
+              }
+            ]
+          }
+        },
+        "id": "1683060453528965120",
+        "location": "羽丘女子學園",
+        "name": "魅魔元首醬-薇蕾娜•馮•萊因哈特",
+        "pinned_tweet_id": "1863127354547249448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966771067063857153/w21lRqFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1082,
+          "like_count": 65843,
+          "listed_count": 17,
+          "media_count": 1087,
+          "tweet_count": 29258
+        },
+        "username": "NationalPureVF4",
+        "verified": false
+      }
+    ]
+  }
+}

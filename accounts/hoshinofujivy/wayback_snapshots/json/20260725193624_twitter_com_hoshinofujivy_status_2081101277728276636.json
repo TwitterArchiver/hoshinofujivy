@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2081101277728276636",
+    "created_at": "2026-07-25T19:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T20:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081101277728276636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2080953657512935687",
+          "start": 8,
+          "url": "https://t.co/tNDI55DPOW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081101277728276636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080953657512935687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无所谓我会出手 https://t.co/tNDI55DPOW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2081101277728276636",
+        "created_at": "2026-07-25T19:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T20:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081101277728276636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2080953657512935687",
+              "start": 8,
+              "url": "https://t.co/tNDI55DPOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081101277728276636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080953657512935687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无所谓我会出手 https://t.co/tNDI55DPOW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2080953657512935687",
+        "created_at": "2026-07-25T09:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080953657512935687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080953657512935687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5689,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我们提出了一个观点, 如果谁今天往杭州扔一颗核弹, 明天中推就只剩鉴证和瑟瑟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」|  头像自设，名为星野藤｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13392,
+          "following_count": 4401,
+          "like_count": 51951,
+          "listed_count": 24,
+          "media_count": 3500,
+          "tweet_count": 18343
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 247,
+          "like_count": 10660,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

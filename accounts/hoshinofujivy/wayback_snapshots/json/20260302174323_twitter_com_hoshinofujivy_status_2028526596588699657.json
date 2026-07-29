@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2028360791490183535",
+    "created_at": "2026-03-02T17:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028526596588699657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3317811422",
+          "start": 0,
+          "username": "jkwd007"
+        },
+        {
+          "end": 17,
+          "id": "1433678976564662273",
+          "start": 9,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028526596588699657",
+    "in_reply_to_user_id": "3317811422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028451572817228268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkwd007 @hsn8086 蝙蝠女侠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2028360791490183535",
+        "created_at": "2026-03-02T17:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028526596588699657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3317811422",
+              "start": 0,
+              "username": "jkwd007"
+            },
+            {
+              "end": 17,
+              "id": "1433678976564662273",
+              "start": 9,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028526596588699657",
+        "in_reply_to_user_id": "3317811422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028451572817228268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkwd007 @hsn8086 蝙蝠女侠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3317811422",
+        "conversation_id": "2028360791490183535",
+        "created_at": "2026-03-02T12:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028451572817228268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028451572817228268",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028360791490183535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 这个性别不对啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4595,
+          "following_count": 3778,
+          "like_count": 36784,
+          "listed_count": 8,
+          "media_count": 978,
+          "tweet_count": 8752
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-17T14:05:38.000Z",
+        "description": "来都来了，顺手点个关注吧，蓝v互关，永不取消。主营方向：分享大奶大长腿，真实spa探店，真实线下老师，需要联系",
+        "id": "3317811422",
+        "location": "TOKYO",
+        "name": "斯文禽兽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/645878049297182720/BgR1GPkT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 1350,
+          "like_count": 961,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 3273
+        },
+        "username": "jkwd007",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118313,
+          "following_count": 1040,
+          "like_count": 51486,
+          "listed_count": 272,
+          "media_count": 19611,
+          "tweet_count": 29593
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

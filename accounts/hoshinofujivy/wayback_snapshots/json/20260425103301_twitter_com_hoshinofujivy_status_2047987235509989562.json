@@ -1,0 +1,638 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1163696440150917120",
+          "name": "Business Insider"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2047985434194776092",
+    "created_at": "2026-04-25T10:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047987235509989562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 23,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2047979117799493918?s=20",
+          "start": 0,
+          "url": "https://t.co/fvUGDAKbb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047987235509989562",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047979117799493918",
+        "type": "quoted"
+      },
+      {
+        "id": "2047985434194776092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/fvUGDAKbb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047978734389776384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvhzurbUAAtqiz.jpg",
+        "width": 955
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047979033053499392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGviFHSaEAAZpRR.jpg",
+        "width": 955
+      },
+      {
+        "height": 1212,
+        "media_key": "3_2047985304733388801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvnyLHakAE-8Kj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2316,
+        "media_key": "3_2047985382529396736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvn2s7bcAAFi3T.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1163696440150917120",
+              "name": "Business Insider"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047985434194776092",
+        "created_at": "2026-04-25T10:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047987235509989562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047979117799493918?s=20",
+              "start": 0,
+              "url": "https://t.co/fvUGDAKbb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047987235509989562",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047979117799493918",
+            "type": "quoted"
+          },
+          {
+            "id": "2047985434194776092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/fvUGDAKbb5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047978734389776384",
+            "3_2047979033053499392"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1163696440150917120",
+              "name": "Business Insider"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047979117799493918",
+        "created_at": "2026-04-25T10:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047979117799493918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "She was an active participant.",
+              "display_url": "businessinsider.com/13-photos-of-h…",
+              "end": 78,
+              "expanded_url": "https://www.businessinsider.com/13-photos-of-hillary-clinton-in-high-school-2016-3#-13",
+              "images": [
+                {
+                  "height": 498,
+                  "url": "https://pbs.twimg.com/news_img/2047964894792974337/CLvjFhTZ?format=jpg&name=orig",
+                  "width": 996
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047964894792974337/CLvjFhTZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "Here are 13 photos of Hillary Clinton in high school",
+              "unwound_url": "https://www.businessinsider.com/13-photos-of-hillary-clinton-in-high-school-2016-3#-13",
+              "url": "https://t.co/ROZ6orq2q6"
+            },
+            {
+              "description": "Reconnect with friends from high school, find reunions, view yearbook photos and more.",
+              "display_url": "classmates.com",
+              "end": 117,
+              "expanded_url": "http://classmates.com",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2047112228722409473/jYIZQznw?format=jpg&name=orig",
+                  "width": 400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047112228722409473/jYIZQznw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 94,
+              "status": 200,
+              "title": "Reconnect with friends from high school, find reunions, view yearbook photos and more.",
+              "unwound_url": "https://www.classmates.com/",
+              "url": "https://t.co/N2JYHUVvjB"
+            },
+            {
+              "display_url": "pic.x.com/8WJZT9vtGF",
+              "end": 194,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047979117799493918/photo/1",
+              "media_key": "3_2047978734389776384",
+              "start": 171,
+              "url": "https://t.co/8WJZT9vtGF"
+            },
+            {
+              "display_url": "pic.x.com/8WJZT9vtGF",
+              "end": 194,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047979117799493918/photo/1",
+              "media_key": "3_2047979033053499392",
+              "start": 171,
+              "url": "https://t.co/8WJZT9vtGF"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 218,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2047911302773784848",
+              "start": 195,
+              "url": "https://t.co/VhHJyXEX4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047979117799493918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "businessinsider.com/13-photos-of-h…",
+                "end": 78,
+                "expanded_url": "https://www.businessinsider.com/13-photos-of-hillary-clinton-in-high-school-2016-3#-13",
+                "start": 55,
+                "url": "https://t.co/S25Qo91IjN"
+              },
+              {
+                "display_url": "classmates.com",
+                "end": 117,
+                "expanded_url": "http://classmates.com",
+                "start": 94,
+                "url": "https://t.co/oqhCsKgCYZ"
+              }
+            ]
+          },
+          "text": "这张照片被grok怀疑为假\n我根据图片检索，\n在网站business insider找到了这张图\n相关文章链接https://t.co/S25Qo91IjN\n\n根据网站描述，图片来源于网站https://t.co/oqhCsKgCYZ，这里收录了希拉里就读的缅因南高中的照片，\n可惜当我打开她的个人档案时，总是反馈打开失败，真相就停在这里了\n\n不知道有没有人可以帮我解决这个问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047911302773784848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张照片被grok怀疑为假\n我根据图片检索，\n在网站business insider找到了这张图\n相关文章链接https://t.co/ROZ6orq2q6\n\n根据网站描述，图片来源于网站https://t.co/N2JYHUVvjB，这里收录了希拉里就读的缅因南高中的照片，\n可惜当我打开她的个人档案时，总是反馈打开失败，真相就停在这里了 https://t.co/8WJZT9vtGF https://t.co/VhHJyXEX4R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047985304733388801",
+            "3_2047985382529396736"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2047985434194776092",
+        "created_at": "2026-04-25T10:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047985434194776092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/39PjPwUVRc",
+              "end": 163,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092/photo/1",
+              "media_key": "3_2047985304733388801",
+              "start": 140,
+              "url": "https://t.co/39PjPwUVRc"
+            },
+            {
+              "display_url": "pic.x.com/39PjPwUVRc",
+              "end": 163,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2047985434194776092/photo/1",
+              "media_key": "3_2047985382529396736",
+              "start": 140,
+              "url": "https://t.co/39PjPwUVRc"
+            },
+            {
+              "display_url": "x.com/nekoeroemon/st…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/nekoeroemon/status/2047949292896448637",
+              "start": 164,
+              "url": "https://t.co/5KaOqF1asj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047985434194776092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/i/grok/share/3…",
+                "end": 190,
+                "expanded_url": "https://x.com/i/grok/share/30c97281e66d4a108339a0092edae803",
+                "start": 167,
+                "url": "https://t.co/Hx8pMYv0R9"
+              }
+            ]
+          },
+          "text": "我找到证据后，再次提问grok\n不出意料，grok否定了「照片为假」的答案，根据我的引导，它认为照片为真\n\n这很可笑....也在警示我们，ai再强大也不能把脑子交给它\n\n说是比人类检索能力强，它自己也陷入了信息茧房，因为grok只是机器，它会根据提问者的态度而选取与之相应的信息\n\n最后，我们回顾一下这张梗图\n愿我们不会成为图中的人\nhttps://t.co/Hx8pMYv0R9"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047949292896448637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我找到证据后，再次提问grok\n不出意料，grok否定了「照片为假」的答案，根据我的引导，它认为照片为真\n\n这很可笑....也在警示我们，ai再强大也不能把脑子交给它\n\n说是比人类检索能力强，它自己也陷入了信息茧房，因为grok只是机器，它会根据提问者的态度而选取与之相应的信息 https://t.co/39PjPwUVRc https://t.co/5KaOqF1asj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9333,
+          "following_count": 4232,
+          "like_count": 44354,
+          "listed_count": 32,
+          "media_count": 1948,
+          "tweet_count": 12664
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1979006780207173965",
+    "created_at": "2025-10-17T02:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T03:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979006780207173965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979006780207173965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978820923043037526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 刚看到的天问：\n\n“你说，等打完台湾，咱们进北京还需要进京证吗？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1979006780207173965",
+        "created_at": "2025-10-17T02:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T03:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979006780207173965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979006780207173965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978820923043037526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 刚看到的天问：\n\n“你说，等打完台湾，咱们进北京还需要进京证吗？”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111942564",
+        "conversation_id": "1978820923043037526",
+        "created_at": "2025-10-16T13:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978820923043037526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978820923043037526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17816,
+          "like_count": 171,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "刚看到的天问：\n\n“你说，等打完台湾，咱们进北京还需要进京证吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "k1_6r"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 2511,
+          "like_count": 26050,
+          "listed_count": 3,
+          "media_count": 541,
+          "tweet_count": 5935
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1732176179971436769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973082103421001728/VfZVoz4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42507,
+          "following_count": 1739,
+          "like_count": 31009,
+          "listed_count": 161,
+          "media_count": 4954,
+          "tweet_count": 37789
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

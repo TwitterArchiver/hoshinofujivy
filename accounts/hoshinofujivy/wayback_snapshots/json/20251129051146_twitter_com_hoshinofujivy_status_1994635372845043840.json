@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1994422400818262326",
+    "created_at": "2025-11-29T05:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994635372845043840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1455610289408274432",
+          "start": 0,
+          "username": "weiobo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 31,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1994634641878519944",
+          "start": 8,
+          "url": "https://t.co/ehNlwzGRDH"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/1994634641878519944",
+          "start": 32,
+          "url": "https://t.co/XCOiTlc0OH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994635372845043840",
+    "in_reply_to_user_id": "1455610289408274432",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994634641878519944",
+        "type": "quoted"
+      },
+      {
+        "id": "1994618948604858490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiobo https://t.co/ehNlwzGRDH https://t.co/XCOiTlc0OH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1994422400818262326",
+        "created_at": "2025-11-29T05:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994635372845043840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1455610289408274432",
+              "start": 0,
+              "username": "weiobo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 31,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1994634641878519944",
+              "start": 8,
+              "url": "https://t.co/ehNlwzGRDH"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/1994634641878519944",
+              "start": 32,
+              "url": "https://t.co/XCOiTlc0OH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994635372845043840",
+        "in_reply_to_user_id": "1455610289408274432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994634641878519944",
+            "type": "quoted"
+          },
+          {
+            "id": "1994618948604858490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiobo https://t.co/ehNlwzGRDH https://t.co/XCOiTlc0OH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1994634641878519944",
+        "created_at": "2025-11-29T05:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994634641878519944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/1994596732873970143",
+              "start": 75,
+              "url": "https://t.co/zCd29WIZhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994634641878519944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994596732873970143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢大家的关照，检查结果出来了：头部破了一层皮，头骨未损伤.\n由于落地过猛，肩部关节处错位，右侧肋骨有几根稍许断开，静养一个月就能痊愈\n内脏均无损伤 https://t.co/zCd29WIZhF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455610289408274432",
+        "conversation_id": "1994422400818262326",
+        "created_at": "2025-11-29T04:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994618948604858490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994618948604858490",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994422400818262326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 保险起见，做CT检查看看吧，有时候外伤不显但也可能会有其他组织受伤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_ @vicoOci_olvidar|日本語學習者｜世界和平萬歲｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "vicoOci_olvidar"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 2638,
+          "like_count": 29086,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 6532
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-02T18:58:39.000Z",
+        "description": "以下三种生物不是人的几率很高：支持台独的，支持乌克兰的，支持以色列的。\n以下一种生物不是人的概率较高：\n信教的\n以后再补",
+        "id": "1455610289408274432",
+        "location": "北京",
+        "name": "weiobo",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 218,
+          "like_count": 18,
+          "listed_count": 11,
+          "media_count": 15,
+          "tweet_count": 3649
+        },
+        "username": "weiobo",
+        "verified": false
+      }
+    ]
+  }
+}

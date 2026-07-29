@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001820941341569024"
+      ],
+      "media_source_tweet_id": [
+        "2001820944009228377"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2001852908128866351",
+    "created_at": "2025-12-19T03:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T04:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001852908128866351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "新头像"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830958225422008320",
+          "start": 3,
+          "username": "castlegbqr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGkfBVTdtv",
+          "end": 44,
+          "expanded_url": "https://x.com/castlegbqr/status/2001820944009228377/photo/1",
+          "media_key": "3_2001820941341569024",
+          "start": 21,
+          "url": "https://t.co/KGkfBVTdtv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001852908128866351",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001820944009228377",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @castlegbqr: #新头像 https://t.co/KGkfBVTdtv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 656,
+        "media_key": "3_2001820941341569024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8flikCaMAAQFNp.jpg",
+        "width": 656
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001820941341569024"
+          ],
+          "media_source_tweet_id": [
+            "2001820944009228377"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2001852908128866351",
+        "created_at": "2025-12-19T03:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T04:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001852908128866351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "新头像"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830958225422008320",
+              "start": 3,
+              "username": "castlegbqr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGkfBVTdtv",
+              "end": 44,
+              "expanded_url": "https://x.com/castlegbqr/status/2001820944009228377/photo/1",
+              "media_key": "3_2001820941341569024",
+              "start": 21,
+              "url": "https://t.co/KGkfBVTdtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001852908128866351",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001820944009228377",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @castlegbqr: #新头像 https://t.co/KGkfBVTdtv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001820941341569024"
+          ]
+        },
+        "author_id": "1830958225422008320",
+        "conversation_id": "2001820944009228377",
+        "created_at": "2025-12-19T01:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001820944009228377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新头像"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGkfBVTdtv",
+              "end": 28,
+              "expanded_url": "https://x.com/castlegbqr/status/2001820944009228377/photo/1",
+              "media_key": "3_2001820941341569024",
+              "start": 5,
+              "url": "https://t.co/KGkfBVTdtv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001820944009228377",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#新头像 https://t.co/KGkfBVTdtv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜互为形影 @qiuylove @vicoOci_olvidar｜与君共生@k1_6r @charlotte1020w|日本語學習者｜世界和平萬歲｜宇宙愛好者｜AI画师初学者｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "vicoOci_olvidar"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "username": "k1_6r"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "charlotte1020w"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子家",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 2763,
+          "like_count": 31435,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 6966
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T13:17:46.000Z",
+        "description": "",
+        "id": "1830958225422008320",
+        "location": "太平洋合众国",
+        "name": "高堡奇人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001820667977830402/JqFSEShE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 416,
+          "like_count": 10998,
+          "listed_count": 4,
+          "media_count": 329,
+          "tweet_count": 1930
+        },
+        "username": "castlegbqr",
+        "verified": false
+      }
+    ]
+  }
+}

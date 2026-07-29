@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027203832510603264"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2027203848079810713",
+    "created_at": "2026-02-27T02:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027203848079810713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ScFbwC2c0",
+          "end": 23,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2027203848079810713/photo/1",
+          "media_key": "3_2027203832510603264",
+          "start": 0,
+          "url": "https://t.co/4ScFbwC2c0"
+        },
+        {
+          "display_url": "x.com/cj3214567667/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/cj3214567667/status/2026888455326937461",
+          "start": 24,
+          "url": "https://t.co/hv6TTFgIsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027203848079810713",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026888455326937461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/4ScFbwC2c0 https://t.co/hv6TTFgIsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_2027203832510603264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCITJSQa4AAPmtJ.jpg",
+        "width": 1254
+      },
+      {
+        "duration_ms": 392597,
+        "height": 720,
+        "media_key": "13_2026678922700873728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026678922700873728/img/OclY6H2JvbTv6jQo.jpg",
+        "public_metrics": {
+          "view_count": 94637
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026678922700873728/vid/avc1/480x270/sQO85Qs0P7BGuv0e.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026678922700873728/vid/avc1/640x360/RP8p_plP2XUip00W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026678922700873728/vid/avc1/1280x720/K_y4aZvRTRxaxyeB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026678922700873728/pl/qjXjH4WBmIi8v_T_.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027203832510603264"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2027203848079810713",
+        "created_at": "2026-02-27T02:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027203848079810713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ScFbwC2c0",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2027203848079810713/photo/1",
+              "media_key": "3_2027203832510603264",
+              "start": 0,
+              "url": "https://t.co/4ScFbwC2c0"
+            },
+            {
+              "display_url": "x.com/cj3214567667/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cj3214567667/status/2026888455326937461",
+              "start": 24,
+              "url": "https://t.co/hv6TTFgIsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027203848079810713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026888455326937461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4ScFbwC2c0 https://t.co/hv6TTFgIsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026678922700873728"
+          ]
+        },
+        "author_id": "1654774887251329024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026888455326937461",
+        "created_at": "2026-02-26T05:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026888455326937461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WorHn9ZXTr",
+              "end": 173,
+              "expanded_url": "https://x.com/cj3214567667/status/2026888455326937461/video/1",
+              "media_key": "13_2026678922700873728",
+              "start": 150,
+              "url": "https://t.co/WorHn9ZXTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026888455326937461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1009,
+          "impression_count": 217807,
+          "like_count": 1633,
+          "quote_count": 5,
+          "reply_count": 46,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "“中式恐怖的尽头”《入彀》刷屏了！  \n\n这部原创聊斋风惊悚短片一上线就让人背脊发凉：阴森古宅、诡谲笔试，连死去多年的鬼魂都得排队“考公”上岸。\n  \n纯正中式恐怖味儿拉满，细节处处渗人，看完深夜不敢关灯。  \n\nB站播放已破百万，弹幕全是“太真实了”“细思极恐”。\n\n来源B站up主：休息的小狗崽 https://t.co/WorHn9ZXTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4163,
+          "following_count": 3682,
+          "like_count": 36045,
+          "listed_count": 6,
+          "media_count": 931,
+          "tweet_count": 8460
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T09:07:45.000Z",
+        "description": "❤️分享各种好用的效率工具和AI  \n💼互联网运营项目负责人\n📄不定时分享|运营案例 \n✨深度思考，用大脑撬动世界\n↓各类学习资料，免费分享↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qcnifjtytj3j.feishu.cn/wiki/LrV0wFFHP…",
+                "end": 23,
+                "expanded_url": "https://qcnifjtytj3j.feishu.cn/wiki/LrV0wFFHPiHk7wkSjGHc6qK4n1q?from=from_copylink",
+                "start": 0,
+                "url": "https://t.co/Xph2l3ZQUq"
+              }
+            ]
+          }
+        },
+        "id": "1654774887251329024",
+        "name": "白骏知识分享",
+        "pinned_tweet_id": "2025168119967482260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808032405116407811/4iIJMgZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85079,
+          "following_count": 810,
+          "like_count": 1347,
+          "listed_count": 445,
+          "media_count": 5124,
+          "tweet_count": 7061
+        },
+        "url": "https://t.co/Xph2l3ZQUq",
+        "username": "cj3214567667",
+        "verified": true
+      }
+    ]
+  }
+}

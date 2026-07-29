@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1987118214007169263",
+    "created_at": "2025-11-08T11:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T12:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987118214007169263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790006276162048000",
+          "start": 3,
+          "username": "Freunsigned"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987118214007169263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987097493231050798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freunsigned: 致所有APP一封信：我想点开京东我tm自己会点开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1987118214007169263",
+        "created_at": "2025-11-08T11:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T12:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987118214007169263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790006276162048000",
+              "start": 3,
+              "username": "Freunsigned"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987118214007169263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987097493231050798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freunsigned: 致所有APP一封信：我想点开京东我tm自己会点开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "conversation_id": "1987097493231050798",
+        "created_at": "2025-11-08T09:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T10:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987097493231050798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bkyssj/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/bkyssj/status/1987004685203747176",
+              "start": 26,
+              "url": "https://t.co/ejxDcpatBs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987097493231050798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987004685203747176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "致所有APP一封信：我想点开京东我tm自己会点开。 https://t.co/ejxDcpatBs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 2569,
+          "like_count": 27275,
+          "listed_count": 4,
+          "media_count": 574,
+          "tweet_count": 6174
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "𝕴 𝖌𝖑𝖎𝖒𝖕𝖘𝖊 𝖇𝖚𝖙 𝖆 𝖘𝖍𝖆𝖉𝖔𝖜\n𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 ||  🇺🇸🇨🇦🇯🇵🇸🇬 || 可以叫我小福喵",
+        "id": "1790006276162048000",
+        "location": "浙江",
+        "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝 ⵣ🇭🇰🇲🇴(退役版",
+        "pinned_tweet_id": "1982810466498773301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970079770223505408/Bmyp5Lv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 669,
+          "like_count": 18857,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 3464
+        },
+        "username": "Freunsigned",
+        "verified": false
+      }
+    ]
+  }
+}

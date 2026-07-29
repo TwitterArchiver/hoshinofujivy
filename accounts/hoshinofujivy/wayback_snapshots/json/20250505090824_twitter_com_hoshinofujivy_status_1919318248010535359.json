@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1918636068179509688",
+    "created_at": "2025-05-05T09:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T10:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919318248010535359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594302945218158593",
+          "start": 0,
+          "username": "svaghglm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919318248010535359",
+    "in_reply_to_user_id": "1594302945218158593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918636068179509688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@svaghglm 吸引我的反而是车\n一直想拥有一辆奔驰的smart"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919318248010535359].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919318248010535359",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919318248010535359"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_1918636052912222208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqBdUyMXMAAbcfC.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918636052912222208"
+          ]
+        },
+        "author_id": "1594302945218158593",
+        "conversation_id": "1918636068179509688",
+        "created_at": "2025-05-03T11:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T12:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918636068179509688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NhOfpfsMvs",
+              "end": 30,
+              "expanded_url": "https://x.com/svaghglm/status/1918636068179509688/photo/1",
+              "media_key": "3_1918636052912222208",
+              "start": 7,
+              "url": "https://t.co/NhOfpfsMvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918636068179509688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1936,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥：欸🤓👆 https://t.co/NhOfpfsMvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "qiuylove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "最高領袖的影守护者·星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 2339,
+          "like_count": 17467,
+          "listed_count": 2,
+          "media_count": 387,
+          "tweet_count": 4255
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T12:13:48.000Z",
+        "description": "再键政即司马/09物化政/INTP/心眼不宽/99%支黑过敏请滚/偶像：@GoodsanJeff/同学技术宅：@tonyhaozhe /Kranke：@NationalPureVF3/\n反极端/战地重度依赖/尽力互fo/上学寄信请挂号/转生：@svaghglm2nd/星怒同志：@baojiangdilei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "GoodsanJeff"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "tonyhaozhe"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "svaghglm2nd"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "baojiangdilei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sanitf1",
+                "end": 23,
+                "expanded_url": "http://t.me/sanitf1",
+                "start": 0,
+                "url": "https://t.co/SGFNeyjkSf"
+              }
+            ]
+          }
+        },
+        "id": "1594302945218158593",
+        "location": "法烏克斯要塞B點廢棄炮塔后||中华人民共和国PRC",
+        "name": "中推圈第一庸醫 有針筒但是不會救人就會苟在法烏克斯要塞D點薩尼鐵塔🇨🇳🇵🇸🥘（退政）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916448773007716352/Ew8n4LGN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 1547,
+          "like_count": 20966,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/SGFNeyjkSf",
+        "username": "svaghglm",
+        "verified": false
+      }
+    ]
+  }
+}

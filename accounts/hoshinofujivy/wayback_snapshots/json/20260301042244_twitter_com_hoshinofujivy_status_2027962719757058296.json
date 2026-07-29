@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2027962213278093543",
+    "created_at": "2026-03-01T04:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T05:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027962719757058296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375769014396329985",
+          "start": 0,
+          "username": "gra5s_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027962719757058296",
+    "in_reply_to_user_id": "1375769014396329985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027962213278093543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gra5s_awa 回复你的推文"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2027962205141143553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTE4YdbEAEKfME.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2027962213278093543",
+        "created_at": "2026-03-01T04:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027962719757058296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375769014396329985",
+              "start": 0,
+              "username": "gra5s_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027962719757058296",
+        "in_reply_to_user_id": "1375769014396329985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027962213278093543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gra5s_awa 回复你的推文"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027962205141143553"
+          ]
+        },
+        "author_id": "1375769014396329985",
+        "conversation_id": "2027962213278093543",
+        "created_at": "2026-03-01T04:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027962213278093543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxfFRf8EwW",
+              "end": 29,
+              "expanded_url": "https://x.com/gra5s_awa/status/2027962213278093543/photo/1",
+              "media_key": "3_2027962205141143553",
+              "start": 6,
+              "url": "https://t.co/RxfFRf8EwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027962213278093543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突击检查！ https://t.co/RxfFRf8EwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4220,
+          "following_count": 3733,
+          "like_count": 36462,
+          "listed_count": 7,
+          "media_count": 964,
+          "tweet_count": 8649
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-27T11:21:47.000Z",
+        "description": "漢語｜EN｜日本語 大一｜现居武汉｜微宅｜成分复杂喵",
+        "id": "1375769014396329985",
+        "name": "风笛bagpipe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026573161769349121/e4V5I3Mf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 140,
+          "like_count": 1017,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1244
+        },
+        "username": "gra5s_awa",
+        "verified": false
+      }
+    ]
+  }
+}

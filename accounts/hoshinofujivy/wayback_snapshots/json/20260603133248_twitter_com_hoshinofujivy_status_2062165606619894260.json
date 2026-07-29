@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062165606619894260",
+    "created_at": "2026-06-03T13:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062165606619894260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oredaidai/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/oredaidai/status/2061646026818109639",
+          "start": 19,
+          "url": "https://t.co/YhhoYv2CwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062165606619894260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061646026818109639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "额.....这个很难吗，我明天回东京 https://t.co/YhhoYv2CwU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062165606619894260",
+        "created_at": "2026-06-03T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062165606619894260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oredaidai/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/oredaidai/status/2061646026818109639",
+              "start": 19,
+              "url": "https://t.co/YhhoYv2CwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062165606619894260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061646026818109639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "额.....这个很难吗，我明天回东京 https://t.co/YhhoYv2CwU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279636618874195968",
+        "conversation_id": "2061639235468443684",
+        "created_at": "2026-06-02T03:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061646026818109639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061646026818109639",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1346,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061639235468443684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 测试题来了\n请找到银座线的新宿站入口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11658,
+          "following_count": 4338,
+          "like_count": 48138,
+          "listed_count": 38,
+          "media_count": 2631,
+          "tweet_count": 15349
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-05T04:42:32.000Z",
+        "description": "素代々です\nsudaidaidesu\n散歩上手",
+        "id": "1279636618874195968",
+        "location": "Chez moi",
+        "name": "Sudaidai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903293756218150914/owi6evDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 5957,
+          "like_count": 31699,
+          "listed_count": 5,
+          "media_count": 656,
+          "tweet_count": 26141
+        },
+        "username": "oredaidai",
+        "verified": false
+      }
+    ]
+  }
+}

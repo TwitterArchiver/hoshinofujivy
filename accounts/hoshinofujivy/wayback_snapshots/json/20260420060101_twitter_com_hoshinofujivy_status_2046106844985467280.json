@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2046103904979664896"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2046106844985467280",
+    "created_at": "2026-04-20T06:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046106844985467280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bXmqPnraGW",
+          "end": 168,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2046106844985467280/video/1",
+          "media_key": "13_2046103904979664896",
+          "start": 145,
+          "url": "https://t.co/bXmqPnraGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046106844985467280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "哈哈哈哈哈哈，终于找到这个视频了\n记得当年高一，学校做「高考动员大会」\n学校请了专业讲师，给我们做励志演讲\n\n吹捧了一遍华为多么牛，祖国多么强大，看的我们热血沸腾，顺便给我们放映这个视频\n（讲师怕是不知道此视频的BGM是美国乐队Two Steps From Hell的《victory》）\n\n还要我们面对着国旗和任正非的照片大声喊出：我要考xxx大学，外加一句「请党放心，强国有我」\n我是班级三好学生，当然做了表率，怪自豪的\n所以我对粉红的态度都是先礼后兵\n因为那就是曾经的我"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈哈哈，终于找到这个视频了\n记得当年高一，学校做「高考动员大会」\n学校请了专业讲师，给我们做励志演讲\n\n吹捧了一遍华为多么牛，祖国多么强大，看的我们热血沸腾，顺便给我们放映这个视频\n（讲师怕是不知道此视频的BGM是美国乐队Two Steps From Hell的《victory》） https://t.co/bXmqPnraGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 202166,
+        "height": 1280,
+        "media_key": "13_2046103904979664896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2046103904979664896/img/w4qvB0mN6xC9imgq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046103904979664896/vid/avc1/320x568/NPz0GYuUIcHJDCGN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046103904979664896/vid/avc1/480x852/5c8ahw1SeWAhKae6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2046103904979664896/vid/avc1/720x1280/OCmoNMMgIZLKz3Rj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2046103904979664896/pl/A6YeUpQlwuwRRr6A.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2046103904979664896"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2046106844985467280",
+        "created_at": "2026-04-20T06:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046106844985467280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXmqPnraGW",
+              "end": 168,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2046106844985467280/video/1",
+              "media_key": "13_2046103904979664896",
+              "start": 145,
+              "url": "https://t.co/bXmqPnraGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046106844985467280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哈哈哈哈哈哈，终于找到这个视频了\n记得当年高一，学校做「高考动员大会」\n学校请了专业讲师，给我们做励志演讲\n\n吹捧了一遍华为多么牛，祖国多么强大，看的我们热血沸腾，顺便给我们放映这个视频\n（讲师怕是不知道此视频的BGM是美国乐队Two Steps From Hell的《victory》）\n\n还要我们面对着国旗和任正非的照片大声喊出：我要考xxx大学，外加一句「请党放心，强国有我」\n我是班级三好学生，当然做了表率，怪自豪的\n所以我对粉红的态度都是先礼后兵\n因为那就是曾经的我"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈哈哈，终于找到这个视频了\n记得当年高一，学校做「高考动员大会」\n学校请了专业讲师，给我们做励志演讲\n\n吹捧了一遍华为多么牛，祖国多么强大，看的我们热血沸腾，顺便给我们放映这个视频\n（讲师怕是不知道此视频的BGM是美国乐队Two Steps From Hell的《victory》） https://t.co/bXmqPnraGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8984,
+          "following_count": 4209,
+          "like_count": 43890,
+          "listed_count": 30,
+          "media_count": 1857,
+          "tweet_count": 12337
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

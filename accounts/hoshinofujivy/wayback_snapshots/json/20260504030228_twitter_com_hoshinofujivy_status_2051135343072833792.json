@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2050756162111635722",
+    "created_at": "2026-05-04T03:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051135343072833792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1236872126440726529",
+          "start": 0,
+          "username": "sdcat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051135343072833792",
+    "in_reply_to_user_id": "1236872126440726529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051110622075740463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sdcat2 md，我们衡水四点不比哈佛四点差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2050756162111635722",
+        "created_at": "2026-05-04T03:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051135343072833792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1236872126440726529",
+              "start": 0,
+              "username": "sdcat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051135343072833792",
+        "in_reply_to_user_id": "1236872126440726529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051110622075740463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sdcat2 md，我们衡水四点不比哈佛四点差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236872126440726529",
+        "conversation_id": "2050756162111635722",
+        "created_at": "2026-05-04T01:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051110622075740463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051110622075740463",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050756162111635722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 哈佛凌晨几点来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9861,
+          "following_count": 4272,
+          "like_count": 45049,
+          "listed_count": 34,
+          "media_count": 2073,
+          "tweet_count": 13222
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T04:32:01.000Z",
+        "description": "在日中国人，在職心理学研究者，日中バイリンガル，新興宗教被害者家族，政治体制多様性重視，工業党，中日双语， 国际主义，泛性恋，女性主义，男性主义，LGBT支持。支持政治体制多元化，不回避问题是为了更好地解决问题，相信任何事情都可以通过沟通解决。欢迎follow（拒绝私信）",
+        "id": "1236872126440726529",
+        "location": "日本",
+        "name": "鳴かない猫🇨🇳🇯🇵",
+        "pinned_tweet_id": "1238412778710286337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1236872465093029889/NWLBctCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3663,
+          "following_count": 235,
+          "like_count": 83991,
+          "listed_count": 60,
+          "media_count": 1762,
+          "tweet_count": 89340
+        },
+        "username": "sdcat2",
+        "verified": false
+      }
+    ]
+  }
+}

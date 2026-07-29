@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070649088585211904"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2070649692091019544",
+    "created_at": "2026-06-26T23:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070649692091019544"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X0TVDv1JkX",
+          "end": 67,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2070649692091019544/photo/1",
+          "media_key": "3_2070649088585211904",
+          "start": 44,
+          "url": "https://t.co/X0TVDv1JkX"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2070646090010091945",
+          "start": 68,
+          "url": "https://t.co/fmOAWkqjnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070649692091019544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070646090010091945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道原因了\n\n因为我的心里阴影就是来自这里\n\n我深知自己逃不出，因此现在只能选择和解 https://t.co/X0TVDv1JkX https://t.co/fmOAWkqjnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1561,
+        "media_key": "3_2070649088585211904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxsYBOboAAcqM2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1622,
+        "media_key": "3_2070646079448924160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLxpo3UbwAABBG-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070649088585211904"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2070649692091019544",
+        "created_at": "2026-06-26T23:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070649692091019544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X0TVDv1JkX",
+              "end": 67,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2070649692091019544/photo/1",
+              "media_key": "3_2070649088585211904",
+              "start": 44,
+              "url": "https://t.co/X0TVDv1JkX"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2070646090010091945",
+              "start": 68,
+              "url": "https://t.co/fmOAWkqjnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070649692091019544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070646090010091945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道原因了\n\n因为我的心里阴影就是来自这里\n\n我深知自己逃不出，因此现在只能选择和解 https://t.co/X0TVDv1JkX https://t.co/fmOAWkqjnk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070646079448924160"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Destinations",
+              "id": "857603051657482241",
+              "name": "Destinations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194367046898733056",
+              "name": "Asia Pacific travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1308801514140360705",
+              "name": "Taiwan travel"
+            }
+          }
+        ],
+        "conversation_id": "2070646090010091945",
+        "created_at": "2026-06-26T23:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070646090010091945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mn918HwOjK",
+              "end": 124,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2070646090010091945/photo/1",
+              "media_key": "3_2070646079448924160",
+              "start": 101,
+              "url": "https://t.co/mn918HwOjK"
+            },
+            {
+              "display_url": "x.com/ripo0079/statu…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/ripo0079/status/2070358450396414414",
+              "start": 125,
+              "url": "https://t.co/KTp8Cm6Vh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070646090010091945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070358450396414414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经历过政治高压的我，不会对任何国家政府或者意识形态产生好感了\n\n毕竟天下乌鸦一般黑\n\n但是我所爱的，成为了具体的人比如中国人、日本人、美国人、台湾人\n.....\n\n我不是圣贤，我无法原谅无故伤害我的人 https://t.co/mn918HwOjK https://t.co/KTp8Cm6Vh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12227,
+          "following_count": 4376,
+          "like_count": 49587,
+          "listed_count": 37,
+          "media_count": 2982,
+          "tweet_count": 16615
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2026910231574540288",
+    "created_at": "2026-02-26T06:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026911582224265725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1004555905113862144",
+          "start": 0,
+          "username": "Rescuenomono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026911582224265725",
+    "in_reply_to_user_id": "1004555905113862144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026910677949100214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rescuenomono 诶（不许捣乱）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2026910231574540288",
+        "created_at": "2026-02-26T06:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026911582224265725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1004555905113862144",
+              "start": 0,
+              "username": "Rescuenomono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026911582224265725",
+        "in_reply_to_user_id": "1004555905113862144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026910677949100214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rescuenomono 诶（不许捣乱）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004555905113862144",
+        "conversation_id": "2026910231574540288",
+        "created_at": "2026-02-26T06:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026910677949100214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026910677949100214",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026910231574540288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 那叫脊椎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜一生挚爱@nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 3664,
+          "like_count": 35871,
+          "listed_count": 6,
+          "media_count": 919,
+          "tweet_count": 8396
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-07T02:49:26.000Z",
+        "description": "雑垢。 GBF垢？それは時代の遺物だ！",
+        "id": "1004555905113862144",
+        "location": "不在這裡",
+        "name": "證件的阿卡恩特",
+        "pinned_tweet_id": "2010003842658926831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007157306702884864/33Z0sG7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 78,
+          "like_count": 5191,
+          "listed_count": 1,
+          "media_count": 664,
+          "tweet_count": 11562
+        },
+        "username": "Rescuenomono",
+        "verified": false
+      }
+    ]
+  }
+}

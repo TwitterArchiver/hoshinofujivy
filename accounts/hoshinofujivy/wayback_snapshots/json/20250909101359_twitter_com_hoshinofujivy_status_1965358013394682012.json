@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1912183134659158105",
+    "created_at": "2025-09-09T10:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965358013394682012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1808047925676986368",
+          "start": 0,
+          "username": "xxx_zzx71446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965358013394682012",
+    "in_reply_to_user_id": "1808047925676986368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965357911468900452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_zzx71446 现在还没有～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1912183134659158105",
+        "created_at": "2025-09-09T10:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965358013394682012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1808047925676986368",
+              "start": 0,
+              "username": "xxx_zzx71446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965358013394682012",
+        "in_reply_to_user_id": "1808047925676986368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965357911468900452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_zzx71446 现在还没有～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808047925676986368",
+        "conversation_id": "1912183134659158105",
+        "created_at": "2025-09-09T10:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965357911468900452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965357911468900452",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912183134659158105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 然后几个月后发现服务器关了😐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @huahuojiang_ @k1_6r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "huahuojiang_"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "username": "k1_6r"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 2481,
+          "like_count": 24299,
+          "listed_count": 6,
+          "media_count": 500,
+          "tweet_count": 5663
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T08:00:16.000Z",
+        "description": "",
+        "id": "1808047925676986368",
+        "location": "Kinmen County, Taiwan",
+        "name": "8̴̫̒0̵̞͠3̵͙͂5̶̢̍0̷͙̍9̶͔͗9̶̅ͅ6̸͖͛𓋹𓇳𓆣",
+        "pinned_tweet_id": "1944555453855551750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924768965156282368/29gInSfo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 387,
+          "like_count": 8289,
+          "listed_count": 2,
+          "media_count": 1171,
+          "tweet_count": 9833
+        },
+        "username": "xxx_zzx71446",
+        "verified": false
+      }
+    ]
+  }
+}

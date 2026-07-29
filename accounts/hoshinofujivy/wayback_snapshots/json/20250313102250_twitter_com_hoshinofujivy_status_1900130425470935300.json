@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1900053184707780612"
+      ],
+      "media_source_tweet_id": [
+        "1900053291427660139"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1900130425470935300",
+    "created_at": "2025-03-13T10:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T11:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900130425470935300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1538118998092816384",
+          "start": 3,
+          "username": "xibaozi36064237"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hdInMj77l0",
+          "end": 65,
+          "expanded_url": "https://x.com/xibaozi36064237/status/1900053291427660139/video/1",
+          "media_key": "7_1900053184707780612",
+          "start": 42,
+          "url": "https://t.co/hdInMj77l0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900130425470935300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900053291427660139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xibaozi36064237: 我終於搞懂中國傻逼是如何養成的啦 🤣🤣🤣 https://t.co/hdInMj77l0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19207,
+        "height": 1280,
+        "media_key": "7_1900053184707780612",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900053184707780612/pu/img/SGCLpdTie8GASZdu.jpg",
+        "public_metrics": {
+          "view_count": 3233
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900053184707780612/pu/vid/avc1/320x568/nRKD3wsf60YbeSJl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900053184707780612/pu/vid/avc1/480x852/tTOAK8DRAJ3xDpCW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900053184707780612/pu/vid/avc1/720x1280/OMU_IXvr5QFXl9dV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900053184707780612/pu/pl/7Rg_sZPqjDNorZp6.m3u8?tag=12&v=acb"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900053184707780612"
+          ],
+          "media_source_tweet_id": [
+            "1900053291427660139"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1900130425470935300",
+        "created_at": "2025-03-13T10:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T11:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900130425470935300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1538118998092816384",
+              "start": 3,
+              "username": "xibaozi36064237"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdInMj77l0",
+              "end": 65,
+              "expanded_url": "https://x.com/xibaozi36064237/status/1900053291427660139/video/1",
+              "media_key": "7_1900053184707780612",
+              "start": 42,
+              "url": "https://t.co/hdInMj77l0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900130425470935300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900053291427660139",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xibaozi36064237: 我終於搞懂中國傻逼是如何養成的啦 🤣🤣🤣 https://t.co/hdInMj77l0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900053184707780612"
+          ]
+        },
+        "author_id": "1538118998092816384",
+        "conversation_id": "1900053291427660139",
+        "created_at": "2025-03-13T05:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T06:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900053291427660139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdInMj77l0",
+              "end": 44,
+              "expanded_url": "https://x.com/xibaozi36064237/status/1900053291427660139/video/1",
+              "media_key": "7_1900053184707780612",
+              "start": 21,
+              "url": "https://t.co/hdInMj77l0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900053291427660139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5724,
+          "like_count": 56,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我終於搞懂中國傻逼是如何養成的啦 🤣🤣🤣 https://t.co/hdInMj77l0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1999,
+          "like_count": 9253,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 2715
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-18T11:19:24.000Z",
+        "description": "",
+        "id": "1538118998092816384",
+        "name": "支性難改",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573547916446367744/XwGfkW8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18253,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 81,
+          "media_count": 7011,
+          "tweet_count": 7041
+        },
+        "username": "xibaozi36064237",
+        "verified": false
+      }
+    ]
+  }
+}

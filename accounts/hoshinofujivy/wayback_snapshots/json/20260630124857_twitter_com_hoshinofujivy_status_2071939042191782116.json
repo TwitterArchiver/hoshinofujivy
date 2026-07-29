@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071939034893447169"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2071939042191782116",
+    "created_at": "2026-06-30T12:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071939042191782116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UnccZCJv5i",
+          "end": 57,
+          "expanded_url": "https://x.com/hoshinofujivy/status/2071939042191782116/photo/1",
+          "media_key": "3_2071939034893447169",
+          "start": 34,
+          "url": "https://t.co/UnccZCJv5i"
+        },
+        {
+          "display_url": "x.com/ichijisaru/sta…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/ichijisaru/status/2071922831202685315",
+          "start": 58,
+          "url": "https://t.co/RIb6F9S8hL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071939042191782116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071922831202685315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有道理，怪不得我走了这么多城市还是觉得压抑，原来是集中在北方的问题 https://t.co/UnccZCJv5i https://t.co/RIb6F9S8hL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2071939034893447169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEBkxsW8AEkdKb.jpg",
+        "width": 875
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071939034893447169"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2071939042191782116",
+        "created_at": "2026-06-30T12:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071939042191782116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnccZCJv5i",
+              "end": 57,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2071939042191782116/photo/1",
+              "media_key": "3_2071939034893447169",
+              "start": 34,
+              "url": "https://t.co/UnccZCJv5i"
+            },
+            {
+              "display_url": "x.com/ichijisaru/sta…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/ichijisaru/status/2071922831202685315",
+              "start": 58,
+              "url": "https://t.co/RIb6F9S8hL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071939042191782116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071922831202685315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有道理，怪不得我走了这么多城市还是觉得压抑，原来是集中在北方的问题 https://t.co/UnccZCJv5i https://t.co/RIb6F9S8hL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "885375083853692928",
+        "conversation_id": "2071891108830106038",
+        "created_at": "2026-06-30T11:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071922831202685315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071922831202685315",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071891108830106038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 哥们儿，听我一句劝。你这不是中国日本的问题，是你心理有点问题。\n1.我建议你看下心理医生（不是贬低你，但是你这个心态可能有点问题，也许医生才可以解决，日本肯定是不能解决）\n2.你可以去南方的城市旅居一下，比如成都，重庆，南宁，昆明。甚至比较悠闲的旅居城市：大理之类的。\n再比较比较。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12333,
+          "following_count": 4380,
+          "like_count": 49846,
+          "listed_count": 36,
+          "media_count": 3042,
+          "tweet_count": 16861
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2017-07-13T05:47:24.000Z",
+        "description": "绝对不是二次猿，谢谢。",
+        "id": "885375083853692928",
+        "location": "Japan",
+        "name": "一次猿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761625418896195584/1bQtwYKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 63,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3450
+        },
+        "url": "",
+        "username": "ichijisaru",
+        "verified": true
+      }
+    ]
+  }
+}

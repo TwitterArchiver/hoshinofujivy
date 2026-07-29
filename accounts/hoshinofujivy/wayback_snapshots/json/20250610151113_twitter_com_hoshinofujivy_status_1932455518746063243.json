@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932455497694896128"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1932443280811413893",
+    "created_at": "2025-06-10T15:11:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T16:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932455518746063243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        },
+        {
+          "end": 29,
+          "id": "1870301995124563968",
+          "start": 15,
+          "username": "toyama_chiayi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1w3qQdbWM",
+          "end": 53,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1932455518746063243/photo/1",
+          "media_key": "3_1932455497694896128",
+          "start": 30,
+          "url": "https://t.co/t1w3qQdbWM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932455518746063243",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932444247707603201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 @toyama_chiayi https://t.co/t1w3qQdbWM"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932444247707603201].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932444247707603201",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932444247707603201"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1932455497694896128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtF2CVxa4AAdQW4.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932455497694896128"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1932443280811413893",
+        "created_at": "2025-06-10T15:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T16:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932455518746063243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            },
+            {
+              "end": 29,
+              "id": "1870301995124563968",
+              "start": 15,
+              "username": "toyama_chiayi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1w3qQdbWM",
+              "end": 53,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1932455518746063243/photo/1",
+              "media_key": "3_1932455497694896128",
+              "start": 30,
+              "url": "https://t.co/t1w3qQdbWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932455518746063243",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932444247707603201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 @toyama_chiayi https://t.co/t1w3qQdbWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」/ Forever Love @NationalPureVF3/ My heart @qiuylove / @huahuojiang_(不知道怎么介绍）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "qiuylove"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1321,
+          "following_count": 2415,
+          "like_count": 20422,
+          "listed_count": 2,
+          "media_count": 424,
+          "tweet_count": 4771
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 備用帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "小八猫 💚 戰鬥錄 @北角銀行招財貓 @八通關山友會 🏔️萌寵",
+        "pinned_tweet_id": "1922542093571875080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923353067103428608/LMrB1-7M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 625,
+          "like_count": 169829,
+          "listed_count": 8,
+          "media_count": 1832,
+          "tweet_count": 10159
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T02:55:33.000Z",
+        "description": "追求福爾摩沙成為一個法理獨立的國家，願中華民國殖民政府從此消失。我討厭的人有各種左膠、各類華人（如民國派、柯粉、英粉、紅支、港支等等），本賬一概不歡迎左膠和任何華人，任何華人和左膠看到請退散，不然直接b。",
+        "id": "1870301995124563968",
+        "location": "Chiayi, Taiwan",
+        "name": "戸山義秀🟩⬜ @北角共和國駐福摩薩大使館大使",
+        "pinned_tweet_id": "1925823169899680038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923436116780449792/379_v0zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 196,
+          "like_count": 1155,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 638
+        },
+        "username": "toyama_chiayi",
+        "verified": false
+      }
+    ]
+  }
+}

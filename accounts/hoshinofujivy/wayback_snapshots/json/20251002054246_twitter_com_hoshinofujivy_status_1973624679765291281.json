@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973174768171098113"
+      ],
+      "media_source_tweet_id": [
+        "1973311941062885381"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1973624679765291281",
+    "created_at": "2025-10-02T05:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T06:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973624679765291281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1228994980040994817",
+          "start": 3,
+          "username": "cheribon1204"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EhDEVH2FC",
+          "end": 44,
+          "expanded_url": "https://x.com/cheribon1204/status/1973311941062885381/photo/1",
+          "media_key": "3_1973174768171098113",
+          "start": 21,
+          "url": "https://t.co/8EhDEVH2FC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973624679765291281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3884
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973311941062885381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cheribon1204: 白線 https://t.co/8EhDEVH2FC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1973174768171098113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2If_1CaIAEPxA9.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973174768171098113"
+          ],
+          "media_source_tweet_id": [
+            "1973311941062885381"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1973624679765291281",
+        "created_at": "2025-10-02T05:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T06:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973624679765291281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1228994980040994817",
+              "start": 3,
+              "username": "cheribon1204"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EhDEVH2FC",
+              "end": 44,
+              "expanded_url": "https://x.com/cheribon1204/status/1973311941062885381/photo/1",
+              "media_key": "3_1973174768171098113",
+              "start": 21,
+              "url": "https://t.co/8EhDEVH2FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973624679765291281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3884
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973311941062885381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cheribon1204: 白線 https://t.co/8EhDEVH2FC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973174768171098113"
+          ]
+        },
+        "author_id": "1228994980040994817",
+        "conversation_id": "1973311941062885381",
+        "created_at": "2025-10-01T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973311941062885381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EhDEVH2FC",
+              "end": 26,
+              "expanded_url": "https://x.com/cheribon1204/status/1973311941062885381/photo/1",
+              "media_key": "3_1973174768171098113",
+              "start": 3,
+              "url": "https://t.co/8EhDEVH2FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973311941062885381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2904,
+          "impression_count": 515958,
+          "like_count": 35360,
+          "quote_count": 53,
+          "reply_count": 53,
+          "retweet_count": 3884
+        },
+        "reply_settings": "everyone",
+        "text": "白線 https://t.co/8EhDEVH2FC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」Foeverlove @NationalpureVF4｜My heart @qiuylove｜We are unity @k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "qiuylove"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "username": "k1_6r"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 2500,
+          "like_count": 25383,
+          "listed_count": 6,
+          "media_count": 532,
+          "tweet_count": 5848
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-16T10:50:23.000Z",
+        "description": "絵を描くのが好きな人 pixiv: https://t.co/L3LeCIolDn\nご依頼の相談はDMまたは【cheribon1204@gmail.com】まで",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/cheribon",
+                "end": 41,
+                "expanded_url": "https://pixiv.me/cheribon",
+                "start": 18,
+                "url": "https://t.co/L3LeCIolDn"
+              }
+            ]
+          }
+        },
+        "id": "1228994980040994817",
+        "name": "ちぇりぼん",
+        "pinned_tweet_id": "1969265264014606469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895502600901943296/clW5KT1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 127,
+          "like_count": 2165,
+          "listed_count": 49,
+          "media_count": 363,
+          "tweet_count": 1702
+        },
+        "username": "cheribon1204",
+        "verified": true
+      }
+    ]
+  }
+}

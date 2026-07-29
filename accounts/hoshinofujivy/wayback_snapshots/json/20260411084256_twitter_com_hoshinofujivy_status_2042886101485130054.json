@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2042851157589266798",
+    "created_at": "2026-04-11T08:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042886101485130054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1487703652160528387",
+          "start": 0,
+          "username": "birdhk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042886101485130054",
+    "in_reply_to_user_id": "1487703652160528387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042885552031305948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@birdhk3 说说看，破绽在哪里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2042851157589266798",
+        "created_at": "2026-04-11T08:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042886101485130054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1487703652160528387",
+              "start": 0,
+              "username": "birdhk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042886101485130054",
+        "in_reply_to_user_id": "1487703652160528387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042885552031305948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@birdhk3 说说看，破绽在哪里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487703652160528387",
+        "conversation_id": "2042851157589266798",
+        "created_at": "2026-04-11T08:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042885552031305948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042885552031305948",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042851157589266798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 六人间还能上什么档次啊！（另，这个AI有点差劲，破绽太多）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8318,
+          "following_count": 4063,
+          "like_count": 42854,
+          "listed_count": 26,
+          "media_count": 1674,
+          "tweet_count": 11645
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-30T08:26:55.000Z",
+        "description": "旧号已注销，这是新号。一个苟且偷生的大陆人。",
+        "id": "1487703652160528387",
+        "name": "bird hk",
+        "pinned_tweet_id": "1537410804034568193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487703863540867079/J4Xz0vw__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 228,
+          "like_count": 4828,
+          "listed_count": 7,
+          "media_count": 9,
+          "tweet_count": 15019
+        },
+        "username": "birdhk3",
+        "verified": false
+      }
+    ]
+  }
+}

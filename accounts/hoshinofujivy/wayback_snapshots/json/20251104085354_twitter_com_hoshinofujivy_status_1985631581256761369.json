@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985631570150244354"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1985631581256761369",
+    "created_at": "2025-11-04T08:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T09:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985631581256761369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W1g9cA395u",
+          "end": 42,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1985631581256761369/photo/1",
+          "media_key": "3_1985631570150244354",
+          "start": 19,
+          "url": "https://t.co/W1g9cA395u"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/1983547757374923018",
+          "start": 43,
+          "url": "https://t.co/oQUmvC59gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985631581256761369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983547757374923018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后幻想变成巨人，把警察一个个嚼碎😋 https://t.co/W1g9cA395u https://t.co/oQUmvC59gg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985631581256761369].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985631581256761369",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985631581256761369"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 305,
+        "media_key": "3_1985631570150244354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G45hZImbQAIEwAU.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1983547757374923018",
+        "created_at": "2025-10-29T14:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T15:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983547757374923018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/1981201710589890934",
+              "start": 119,
+              "url": "https://t.co/i6XwCX55c8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983547757374923018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 816,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981201710589890934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以说深有体会，当着警察面要持刀自杀就是我极端情绪化下的表现，当然被他们强制干预了，戴上手铐\n\n不过解除手铐后我还是在手腕狠咬了一口，我自残从来是就地取材......\n\n对于其他人的自杀自残我只能是理解，毕竟真的无法阻止他....... https://t.co/i6XwCX55c8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 永恒之心@NationalpureVF4｜君为我影 @qiuylove｜与君共生@k1_6r @huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 75,
+                "start": 69,
+                "username": "k1_6r"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "huahuojiang_"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1965297883357610340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965295541690212352/ZxZ83UiV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 2570,
+          "like_count": 27101,
+          "listed_count": 4,
+          "media_count": 571,
+          "tweet_count": 6161
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      }
+    ]
+  }
+}

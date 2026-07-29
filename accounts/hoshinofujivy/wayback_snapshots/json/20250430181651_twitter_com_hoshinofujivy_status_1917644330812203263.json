@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917644317944078337"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "1917297001089360287",
+    "created_at": "2025-04-30T18:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917644330812203263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1531216207004807168",
+          "start": 0,
+          "username": "Szszyi"
+        },
+        {
+          "end": 19,
+          "id": "1563211924392660992",
+          "start": 8,
+          "username": "TZ19976042"
+        },
+        {
+          "end": 30,
+          "id": "1597257668313260033",
+          "start": 20,
+          "username": "Minokakay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sc0S3zqgP0",
+          "end": 72,
+          "expanded_url": "https://x.com/hoshinofujivy/status/1917644330812203263/photo/1",
+          "media_key": "3_1917644317944078337",
+          "start": 49,
+          "url": "https://t.co/sc0S3zqgP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917644330812203263",
+    "in_reply_to_user_id": "1531216207004807168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917633431154090145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Szszyi @TZ19976042 @Minokakay 农业银行可以给学生办理0额度信用卡 https://t.co/sc0S3zqgP0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917644317944078337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpzXWNiaYAEkTrW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917644317944078337"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "1917297001089360287",
+        "created_at": "2025-04-30T18:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917644330812203263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1531216207004807168",
+              "start": 0,
+              "username": "Szszyi"
+            },
+            {
+              "end": 19,
+              "id": "1563211924392660992",
+              "start": 8,
+              "username": "TZ19976042"
+            },
+            {
+              "end": 30,
+              "id": "1597257668313260033",
+              "start": 20,
+              "username": "Minokakay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc0S3zqgP0",
+              "end": 72,
+              "expanded_url": "https://x.com/hoshinofujivy/status/1917644330812203263/photo/1",
+              "media_key": "3_1917644317944078337",
+              "start": 49,
+              "url": "https://t.co/sc0S3zqgP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917644330812203263",
+        "in_reply_to_user_id": "1531216207004807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917633431154090145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Szszyi @TZ19976042 @Minokakay 农业银行可以给学生办理0额度信用卡 https://t.co/sc0S3zqgP0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1531216207004807168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Horoscope",
+              "id": "1068226612380889088",
+              "name": "Horoscope"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Astrology",
+              "id": "1102600979491381248",
+              "name": "Astrology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1917297001089360287",
+        "created_at": "2025-04-30T17:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917633431154090145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563211924392660992",
+              "start": 0,
+              "username": "TZ19976042"
+            },
+            {
+              "end": 22,
+              "id": "1597257668313260033",
+              "start": 12,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917633431154090145",
+        "in_reply_to_user_id": "1563211924392660992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917512215890124929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TZ19976042 @Minokakay 我刚刚办了工行星座卡，不过0额度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CgxvdN2DbO"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 2332,
+          "like_count": 16936,
+          "listed_count": 2,
+          "media_count": 380,
+          "tweet_count": 4167
+        },
+        "url": "https://t.co/CgxvdN2DbO",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T10:09:35.000Z",
+        "description": "本来无一物，何处惹尘埃。",
+        "id": "1531216207004807168",
+        "location": "艾恩葛朗特",
+        "name": "yurnero",
+        "pinned_tweet_id": "1769354648853647404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831005680066818048/ejId5z3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 249,
+          "like_count": 3810,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 1472
+        },
+        "username": "Szszyi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-26T17:09:09.000Z",
+        "description": "CS在读；退役OI、ACM选手；爱好研究形式科学、社会科学，抽象策略游戏；惊恐障碍已痊愈，MDD治疗中",
+        "id": "1563211924392660992",
+        "location": "Min",
+        "name": "Spaghetti Coder",
+        "pinned_tweet_id": "1569716401291800577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833352040875233280/V3D-1Kng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 68,
+          "like_count": 177,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 931
+        },
+        "username": "TZ19976042",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买药找@ChosekiNoraneko\nMino私人TG https://t.co/jLmgEIa7Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "ChosekiNoraneko"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/minokakay",
+                "end": 127,
+                "expanded_url": "http://t.me/minokakay",
+                "start": 104,
+                "url": "https://t.co/jLmgEIa7Rt"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（日雌泰补色诺",
+        "pinned_tweet_id": "1916475690863726978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 866,
+          "like_count": 41419,
+          "listed_count": 29,
+          "media_count": 880,
+          "tweet_count": 16829
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

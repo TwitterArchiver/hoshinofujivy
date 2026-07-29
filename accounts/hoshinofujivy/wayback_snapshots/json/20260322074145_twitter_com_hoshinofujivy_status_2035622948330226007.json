@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2035622533878435919",
+    "created_at": "2026-03-22T07:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T08:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035622948330226007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919717073451941889",
+          "start": 0,
+          "username": "anotemoemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035622948330226007",
+    "in_reply_to_user_id": "1919717073451941889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035622533878435919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anotemoemo 举个例子\n水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2035622533878435919",
+        "created_at": "2026-03-22T07:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035622948330226007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919717073451941889",
+              "start": 0,
+              "username": "anotemoemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035622948330226007",
+        "in_reply_to_user_id": "1919717073451941889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035622533878435919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anotemoemo 举个例子\n水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919717073451941889",
+        "conversation_id": "2035622533878435919",
+        "created_at": "2026-03-22T07:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T08:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035622533878435919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2035558824732766387",
+              "start": 68,
+              "url": "https://t.co/QppimHPOIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035622533878435919",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035558824732766387",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "im working on it 🫠 i promise\n\ni cant pronounce anything in japanese https://t.co/QppimHPOIH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6867,
+          "following_count": 3884,
+          "like_count": 39734,
+          "listed_count": 17,
+          "media_count": 1307,
+          "tweet_count": 10050
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-06T11:33:25.000Z",
+        "description": "五奇人P | 渉零渉 | 零右愛好者 | 19 | 🇭🇰 eng/中/日(少し) | 女體化♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feifeibakudan.carrd.co",
+                "end": 23,
+                "expanded_url": "https://feifeibakudan.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/jd0Z5oB4S4"
+              }
+            ]
+          }
+        },
+        "id": "1919717073451941889",
+        "location": "Eccentric Party Night",
+        "name": "Fei霏🕊🦇.。.:*☆",
+        "pinned_tweet_id": "2024861623958266205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968829506250244096/NBEKLJfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 158,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1228
+        },
+        "url": "https://t.co/jd0Z5oB4S4",
+        "username": "anotemoemo",
+        "verified": false
+      }
+    ]
+  }
+}

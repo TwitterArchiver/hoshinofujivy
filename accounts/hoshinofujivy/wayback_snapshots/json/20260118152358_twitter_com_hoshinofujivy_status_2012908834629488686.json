@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012715786142359552"
+      ],
+      "media_source_tweet_id": [
+        "2012715789485490271"
+      ]
+    },
+    "author_id": "1622066090074607616",
+    "conversation_id": "2012908834629488686",
+    "created_at": "2026-01-18T15:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012908834629488686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1551803102780542977",
+          "start": 3,
+          "username": "Youmu_Kakka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1jodyWZ2qL",
+          "end": 56,
+          "expanded_url": "https://x.com/Youmu_Kakka/status/2012715789485490271/photo/1",
+          "media_key": "3_2012715786142359552",
+          "start": 33,
+          "url": "https://t.co/1jodyWZ2qL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012908834629488686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012715789485490271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Youmu_Kakka: 接下來上場的是——織田真理子啦 https://t.co/1jodyWZ2qL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012908834629488686].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012908834629488686",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012908834629488686"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012715786142359552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6aV_rWIAA8ei4.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012715786142359552"
+          ]
+        },
+        "author_id": "1551803102780542977",
+        "conversation_id": "2012715789485490271",
+        "created_at": "2026-01-18T02:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T03:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012715789485490271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1jodyWZ2qL",
+              "end": 39,
+              "expanded_url": "https://x.com/Youmu_Kakka/status/2012715789485490271/photo/1",
+              "media_key": "3_2012715786142359552",
+              "start": 16,
+              "url": "https://t.co/1jodyWZ2qL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012715789485490271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 308,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "接下來上場的是——織田真理子啦 https://t.co/1jodyWZ2qL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」------- 一生摯愛@NationalpureVF4｜君为我影 @qiuylove ｜师父师娘@k1_6r @1owwi|宇宙愛好者｜Language：🇯🇵🇬🇧🇨🇳🇹🇼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "NationalpureVF4"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "qiuylove"
+              },
+              {
+                "end": 76,
+                "start": 70,
+                "username": "k1_6r"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "username": "1owwi"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1997630995609350468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000223902874972160/gP3jHUC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 2864,
+          "like_count": 33111,
+          "listed_count": 4,
+          "media_count": 747,
+          "tweet_count": 7357
+        },
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T05:34:33.000Z",
+        "description": "（再三声明。）（17歳）（高校3年生）この号は主に生活号で、、私は東方Projectの愛好家で、日本旅行の愛好家で、日本語を勉強しています（n 3）、絵を描く練習をしています……。（一部のことは共有します）（私は平和万歳！（ピンクウサギb站： https://t.co/JYERWESQHp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tH8S69t",
+                "end": 145,
+                "expanded_url": "http://b23.tv/tH8S69t",
+                "start": 122,
+                "url": "https://t.co/JYERWESQHp"
+              }
+            ]
+          }
+        },
+        "id": "1551803102780542977",
+        "location": "幻想鄉",
+        "name": "歴史の中にタイムスリップしたメリー",
+        "pinned_tweet_id": "2012715789485490271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969324837144576002/lMtek63O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 7482,
+          "like_count": 8932,
+          "listed_count": 19,
+          "media_count": 780,
+          "tweet_count": 3489
+        },
+        "username": "Youmu_Kakka",
+        "verified": false
+      }
+    ]
+  }
+}

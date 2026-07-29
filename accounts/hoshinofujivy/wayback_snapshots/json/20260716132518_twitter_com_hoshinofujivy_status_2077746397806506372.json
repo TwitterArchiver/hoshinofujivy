@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2077702076503847201",
+    "created_at": "2026-07-16T13:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077746397806506372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794131217463615488",
+          "start": 0,
+          "username": "kana_satsushou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077746397806506372",
+    "in_reply_to_user_id": "1794131217463615488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077702076503847201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kana_satsushou 放心，我第一次考也是这个分数"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077702070304657408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNV7BlmaUAAIC3h.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2077702076503847201",
+        "created_at": "2026-07-16T13:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077746397806506372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794131217463615488",
+              "start": 0,
+              "username": "kana_satsushou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077746397806506372",
+        "in_reply_to_user_id": "1794131217463615488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077702076503847201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kana_satsushou 放心，我第一次考也是这个分数"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077702070304657408"
+          ]
+        },
+        "author_id": "1794131217463615488",
+        "conversation_id": "2077702076503847201",
+        "created_at": "2026-07-16T10:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077702076503847201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlYCiCOwIJ",
+              "end": 36,
+              "expanded_url": "https://x.com/kana_satsushou/status/2077702076503847201/photo/1",
+              "media_key": "3_2077702070304657408",
+              "start": 13,
+              "url": "https://t.co/MlYCiCOwIJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077702076503847201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1149,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "科目三考八十分算罕见吗？ https://t.co/MlYCiCOwIJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12841,
+          "following_count": 4403,
+          "like_count": 51457,
+          "listed_count": 22,
+          "media_count": 3323,
+          "tweet_count": 17932
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-24T22:20:05.000Z",
+        "description": "现实生活败北组",
+        "id": "1794131217463615488",
+        "location": "中华人民共和国",
+        "name": "加奈ちゃん",
+        "pinned_tweet_id": "2010024232970031360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062750457530036224/OF_K2cO8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 4937,
+          "like_count": 1813,
+          "listed_count": 10,
+          "media_count": 438,
+          "tweet_count": 6680
+        },
+        "url": "",
+        "username": "kana_satsushou",
+        "verified": false
+      }
+    ]
+  }
+}

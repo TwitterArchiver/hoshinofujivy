@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1896911990184165752",
+    "created_at": "2025-03-04T13:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T14:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896911990184165752"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 11,
+          "tag": "故事要从这里开始讲起"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1243945571796295681",
+          "start": 3,
+          "username": "ryq59"
+        },
+        {
+          "end": 86,
+          "id": "1845134290478325760",
+          "start": 75,
+          "username": "Panty_blue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896911990184165752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896908756971393390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ryq59: #故事要从这里开始讲起\n在认识了曦玲之后\n我在她的群里认识了一位糖商（QQ：3364341988）\n然后……戏剧性的一幕诞生了\n@Panty_blue \n@XIIOIIXIIOIIIV \n@BeiShanMao \n三个人\n在她这里花了CNY1485\n\n但出…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1896911990184165752].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1896911990184165752",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1896911990184165752"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1896908747605217281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlMsdKhXEAEujhz.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896908747605217281"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1896908756971393390",
+        "created_at": "2025-03-04T13:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T14:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896908756971393390"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "故事要从这里开始讲起"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1845134290478325760",
+              "start": 64,
+              "username": "Panty_blue"
+            },
+            {
+              "end": 105,
+              "id": "1881328112006475776",
+              "start": 94,
+              "username": "BeiShanMao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFoK7MvwTh",
+              "end": 198,
+              "expanded_url": "https://x.com/ryq59/status/1896908756971393390/photo/1",
+              "media_key": "3_1896908747605217281",
+              "start": 175,
+              "url": "https://t.co/AFoK7MvwTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896908756971393390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#故事要从这里开始讲起\n在认识了曦玲之后\n我在她的群里认识了一位糖商（QQ：3364341988）\n然后……戏剧性的一幕诞生了\n@Panty_blue \n@XIIOIIXIIOIIIV \n@BeiShanMao \n三个人\n在她这里花了CNY1485\n\n但出现了一些情况 包括但不限于：\n发空单号、退款造假、死皮赖脸、侮辱跨子\n\n让我们来仔细盘算一下 https://t.co/AFoK7MvwTh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 1889,
+          "like_count": 7553,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 2282
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜PUBGM Player｜Esports Analys｜Language:CN/EN/JP｜Sister & lover: @xlj070423 @hoshinofujivy  @iranon_lcf @yizhikapaiqaq｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "xlj070423"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "hoshinofujivy"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "京东星宇",
+        "name": "你是想气死铨酱么🍥",
+        "pinned_tweet_id": "1892556487030976572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16620,
+          "following_count": 4474,
+          "like_count": 171709,
+          "listed_count": 67,
+          "media_count": 4727,
+          "tweet_count": 21624
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "ryq59",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T16:08:03.000Z",
+        "description": "我的一切❤️darling @Evenin_eko|自欺者化作椿花养料",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Evenin_eko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yutongmei1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yutongmei1",
+                "start": 0,
+                "url": "https://t.co/42DFNpveTW"
+              }
+            ]
+          }
+        },
+        "id": "1845134290478325760",
+        "location": "海底",
+        "name": "不语傻逼",
+        "pinned_tweet_id": "1860462866585006358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895150743751172096/miBSyWio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 68,
+          "like_count": 1417,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/42DFNpveTW",
+        "username": "Panty_blue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Aerospace",
+          "id": "872801340224806912",
+          "name": "Aerospace"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NASA",
+          "id": "872802352448667648",
+          "name": "NASA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352681651516567553",
+          "name": "Space agencies & companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1895873192516075740",
+    "created_at": "2025-03-03T15:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896585927826489353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2997418453",
+          "start": 0,
+          "username": "EuropaClipper"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896585927826489353",
+    "in_reply_to_user_id": "2997418453",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895873192516075740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EuropaClipper that's amazing"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5972,
+        "height": 1080,
+        "media_key": "7_1895864932174082048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895864932174082048/pu/img/ruSxoVBAcpweNlrZ.jpg",
+        "public_metrics": {
+          "view_count": 27086
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895864932174082048/pu/vid/avc1/480x270/P3XG9U41DkmJILCh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895864932174082048/pu/vid/avc1/640x360/AokeO-viuY6vZI0p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895864932174082048/pu/vid/avc1/1280x720/iA5oeSeZEfFWGVls.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895864932174082048/pu/pl/dnAZBEjN1SjnUCVf.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1895873192516075740",
+        "created_at": "2025-03-03T15:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896585927826489353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2997418453",
+              "start": 0,
+              "username": "EuropaClipper"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896585927826489353",
+        "in_reply_to_user_id": "2997418453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895873192516075740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EuropaClipper that's amazing"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895864932174082048"
+          ]
+        },
+        "author_id": "2997418453",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357372374941790208",
+              "name": "Solar System"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1895873192516075740",
+        "created_at": "2025-03-01T16:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895873192516075740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Europa Clipper",
+              "probability": 0.689,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Mars",
+              "probability": 0.9773,
+              "start": 85,
+              "type": "Place"
+            },
+            {
+              "end": 201,
+              "normalized_text": "Jupiter",
+              "probability": 0.6234,
+              "start": 195,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The orbiter bound for Jupiter’s moon Europa will investigate whether the moon is habitable, but it first will get the help of Mars’ gravitational force to get",
+              "display_url": "go.nasa.gov/4bfYfba",
+              "end": 227,
+              "expanded_url": "http://go.nasa.gov/4bfYfba",
+              "images": [
+                {
+                  "height": 2160,
+                  "url": "https://pbs.twimg.com/news_img/1894428923082973184/jGiLotWE?format=jpg&name=orig",
+                  "width": 3840
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1894428923082973184/jGiLotWE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 204,
+              "status": 200,
+              "title": "NASA’s Europa Clipper Uses Mars to Go the Distance - NASA",
+              "unwound_url": "https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-uses-mars-to-go-the-distance/",
+              "url": "https://t.co/21Baa2YjsD"
+            },
+            {
+              "display_url": "pic.x.com/Tdcn7XRi8M",
+              "end": 297,
+              "expanded_url": "https://x.com/EuropaClipper/status/1895873192516075740/video/1",
+              "media_key": "7_1895864932174082048",
+              "start": 274,
+              "url": "https://t.co/Tdcn7XRi8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895873192516075740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 83266,
+          "like_count": 1921,
+          "quote_count": 34,
+          "reply_count": 47,
+          "retweet_count": 382
+        },
+        "reply_settings": "everyone",
+        "text": "Stay on target: Right now, Europa Clipper is performing a gravity assist maneuver at Mars, using the planet's gravity to adjust the spacecraft's trajectory as we continue the 5.5-year journey to Jupiter. https://t.co/21Baa2YjsD\n\nWe'll provide real-time position updates.\n🛰🧵 https://t.co/Tdcn7XRi8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "星穹阑珊，草野风动，斯人舞萤，其名为藤",
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "1896576126610534793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895859699746312192/QpH_ImgU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1849,
+          "like_count": 7321,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 2227
+        },
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-26T18:46:30.000Z",
+        "description": "NASA's Europa Clipper mission will find out if the conditions are right for life on Jupiter's icy moon Europa.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasa.gov/europaclipper",
+                "end": 23,
+                "expanded_url": "https://nasa.gov/europaclipper",
+                "start": 0,
+                "url": "https://t.co/XxB0jYFf8S"
+              }
+            ]
+          }
+        },
+        "id": "2997418453",
+        "name": "NASA Europa Clipper",
+        "pinned_tweet_id": "1896358226821869666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/611050839772372992/wEK-kEX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164272,
+          "following_count": 70,
+          "like_count": 1898,
+          "listed_count": 1202,
+          "media_count": 480,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/XxB0jYFf8S",
+        "username": "EuropaClipper",
+        "verified": true
+      }
+    ]
+  }
+}

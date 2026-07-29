@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "1915605147436409247",
+    "created_at": "2025-04-25T05:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T06:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915634158493487515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1047053292587638786",
+          "start": 0,
+          "username": "Jerry00107966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915634158493487515",
+    "in_reply_to_user_id": "1047053292587638786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915605147436409247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jerry00107966 吃瓜吃到老东家\n我学校就是应急管理部筹建的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11167,
+        "height": 960,
+        "media_key": "13_1915391391426863104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1915391391426863104/img/jKKm6Pjmnl9Zr6Ee.jpg",
+        "public_metrics": {
+          "view_count": 954992
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915391391426863104/vid/avc1/320x564/-M07JxgspSWfvsCY.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915391391426863104/vid/avc1/480x846/Fp7V-797X4q1eqb1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1915391391426863104/vid/avc1/544x960/IxmkBnBbcHI-c67s.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1915391391426863104/pl/nZNOCDz5-GNLJH3O.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "1915605147436409247",
+        "created_at": "2025-04-25T05:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T06:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915634158493487515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1047053292587638786",
+              "start": 0,
+              "username": "Jerry00107966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915634158493487515",
+        "in_reply_to_user_id": "1047053292587638786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915605147436409247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jerry00107966 吃瓜吃到老东家\n我学校就是应急管理部筹建的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1915391391426863104"
+          ],
+          "media_source_tweet_id": [
+            "1915391591742685449"
+          ]
+        },
+        "author_id": "1047053292587638786",
+        "conversation_id": "1915605147436409247",
+        "created_at": "2025-04-25T03:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T04:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915605147436409247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WA7Uodcaxo",
+              "end": 58,
+              "expanded_url": "https://x.com/LUOXIANGZY/status/1915391591742685449/video/1",
+              "media_key": "13_1915391391426863104",
+              "start": 35,
+              "url": "https://t.co/WA7Uodcaxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915605147436409247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5924,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "中共安徽应急中心的领导，潜规则女秘书忘关摄像头！直接现场直播了😆！\n https://t.co/WA7Uodcaxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」叫我小藤，本体是只猫｜Forever Love @NationalPureVF3｜My heart @Beta_Estradiol｜Just be my light @charming_xiaoyu @5mRtist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 86,
+                "start": 71,
+                "username": "Beta_Estradiol"
+              },
+              {
+                "end": 120,
+                "start": 104,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 129,
+                "start": 121,
+                "username": "5mRtist"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hanszimmer5272",
+                "end": 23,
+                "expanded_url": "https://t.me/hanszimmer5272",
+                "start": 0,
+                "url": "https://t.co/CYhVvKvY3Y"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "日本 京都",
+        "name": "星野ふじ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906669371914928129/Isn27V1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 2265,
+          "like_count": 15939,
+          "listed_count": 2,
+          "media_count": 364,
+          "tweet_count": 3988
+        },
+        "url": "https://t.co/CYhVvKvY3Y",
+        "username": "hoshinofujivy",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-02T09:18:53.000Z",
+        "description": "推荐：请关注推特最大中文群《自由中国》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1670509573885825026",
+                "start": 0,
+                "url": "https://t.co/2WWGKZ3Epy"
+              }
+            ]
+          }
+        },
+        "id": "1047053292587638786",
+        "location": "Australia",
+        "name": "悉尼閑人",
+        "pinned_tweet_id": "1423889270754840579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421761336371924993/ilIAdLkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123667,
+          "following_count": 2737,
+          "like_count": 135008,
+          "listed_count": 476,
+          "media_count": 22327,
+          "tweet_count": 71508
+        },
+        "url": "https://t.co/2WWGKZ3Epy",
+        "username": "Jerry00107966",
+        "verified": true
+      }
+    ]
+  }
+}

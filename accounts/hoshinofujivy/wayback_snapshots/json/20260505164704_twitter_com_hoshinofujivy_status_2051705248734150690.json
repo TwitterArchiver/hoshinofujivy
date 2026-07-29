@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+          "id": "852765867997667329",
+          "name": "Abe Shinzo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2051705248734150690",
+    "created_at": "2026-05-05T16:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T17:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051705248734150690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whiteTony99/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/whiteTony99/status/2051443469617610843",
+          "start": 7,
+          "url": "https://t.co/JUKb0ygDXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051705248734150690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051443469617610843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他在说什么啊 https://t.co/JUKb0ygDXc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_2051443180521041920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgwtCPasAAZehV.jpg",
+        "width": 728
+      },
+      {
+        "height": 780,
+        "media_key": "3_2051432305340862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgm0BCaUAAlltq.jpg",
+        "width": 1280
+      },
+      {
+        "height": 825,
+        "media_key": "3_2051432305357697024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgm0BGbMAA9RCk.jpg",
+        "width": 1260
+      },
+      {
+        "height": 794,
+        "media_key": "3_2051432305366097920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgm0BIbYAAGBO5.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2051705248734150690",
+        "created_at": "2026-05-05T16:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051705248734150690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whiteTony99/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/whiteTony99/status/2051443469617610843",
+              "start": 7,
+              "url": "https://t.co/JUKb0ygDXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051705248734150690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051443469617610843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他在说什么啊 https://t.co/JUKb0ygDXc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051443180521041920",
+            "3_2051432305340862464",
+            "3_2051432305357697024",
+            "3_2051432305366097920"
+          ]
+        },
+        "author_id": "1438768050535231489",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Former prime minister of Japan Abe Shinzo (安倍晋三)",
+              "id": "852765867997667329",
+              "name": "Abe Shinzo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2051443469617610843",
+        "created_at": "2026-05-04T23:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T23:44:58.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051432929956598195",
+          "2051443469617610843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tBexrPyn9z",
+              "end": 149,
+              "expanded_url": "https://x.com/whiteTony99/status/2051443469617610843/photo/1",
+              "media_key": "3_2051443180521041920",
+              "start": 126,
+              "url": "https://t.co/tBexrPyn9z"
+            },
+            {
+              "display_url": "pic.x.com/tBexrPyn9z",
+              "end": 149,
+              "expanded_url": "https://x.com/whiteTony99/status/2051443469617610843/photo/1",
+              "media_key": "3_2051432305340862464",
+              "start": 126,
+              "url": "https://t.co/tBexrPyn9z"
+            },
+            {
+              "display_url": "pic.x.com/tBexrPyn9z",
+              "end": 149,
+              "expanded_url": "https://x.com/whiteTony99/status/2051443469617610843/photo/1",
+              "media_key": "3_2051432305357697024",
+              "start": 126,
+              "url": "https://t.co/tBexrPyn9z"
+            },
+            {
+              "display_url": "pic.x.com/tBexrPyn9z",
+              "end": 149,
+              "expanded_url": "https://x.com/whiteTony99/status/2051443469617610843/photo/1",
+              "media_key": "3_2051432305366097920",
+              "start": 126,
+              "url": "https://t.co/tBexrPyn9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051443469617610843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "高市早苗的“选择性低头”：虚伪姿态，精明算计。\n5月1-3日，日本首相高市早苗先赴越南，向胡志明主席陵敬献花圈、瞻仰英雄烈士纪念碑；4日转战澳大利亚，在堪培拉战争纪念馆向无名战士墓双膝跪地献花，同时祭奠安倍晋三。这一出“历史低头秀”堪称教科书级表演。\n\n然而，核心问题正是赤裸裸的选择性。二战期间的敌对国——越南、澳大利亚——成了高规格忏悔对象：跪式献花、军乐队礼遇、少年儿童献花，规格之高令人咂舌。可对同样在亚洲、同样有历史伤痛的邻国，日本却始终“选择性失忆”。为什么？因为越南是关键矿产和供应链备胎，澳大利亚是QUAD防务升级的铁杆伙伴。历史恩怨在此刻成了可抛弃的“道具”——有用则跪，无用则忘。\n\n这哪里是真诚低头忏悔？分明是极其阴险的地缘算计。高市早苗上台后急于打造“自由开放印太2.0”，用“跪式外交”快速收割善意、扫清障碍，实质是为日本军力正常化、供应链脱钩铺路。这种双标，不仅无法真正修复历史创伤，反而暴露了日本右翼政客一贯的实用主义冷血逻辑：历史不是用来反思的，而是用来交易的筹码。\n\n短期内，这场秀或许能换来矿产协议和联合军演；长远看，如此“选择性低头”只会加深地区不信任——真正的和解，从来不是挑挑拣拣的。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 42790,
+          "like_count": 315,
+          "quote_count": 20,
+          "reply_count": 77,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "高市早苗的“选择性低头”：虚伪姿态，精明算计。\n5月1-3日，日本首相高市早苗先赴越南，向胡志明主席陵敬献花圈、瞻仰英雄烈士纪念碑；4日转战澳大利亚，在堪培拉战争纪念馆向无名战士墓双膝跪地献花，同时祭奠安倍晋三。这一出“历史低头秀”堪称教科书级表演。 https://t.co/tBexrPyn9z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10025,
+          "following_count": 4273,
+          "like_count": 45239,
+          "listed_count": 34,
+          "media_count": 2103,
+          "tweet_count": 13326
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-17T07:33:58.000Z",
+        "description": "世界并不只有零和游戏，还有合作共赢。",
+        "id": "1438768050535231489",
+        "location": "Singapore",
+        "name": "hello world",
+        "pinned_tweet_id": "2048530577998168142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869943608075546624/BabjG_qI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23061,
+          "following_count": 5772,
+          "like_count": 20928,
+          "listed_count": 146,
+          "media_count": 6936,
+          "tweet_count": 13120
+        },
+        "username": "whiteTony99",
+        "verified": true
+      }
+    ]
+  }
+}

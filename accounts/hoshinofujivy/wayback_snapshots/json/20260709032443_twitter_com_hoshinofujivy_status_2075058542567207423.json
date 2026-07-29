@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2075058542567207423",
+    "created_at": "2026-07-09T03:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075058542567207423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ikun9r/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/ikun9r/status/2074684905389482450",
+          "start": 4,
+          "url": "https://t.co/FCNeVWBztf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075058542567207423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074684905389482450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢你 https://t.co/FCNeVWBztf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2075058542567207423",
+        "created_at": "2026-07-09T03:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075058542567207423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ikun9r/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/ikun9r/status/2074684905389482450",
+              "start": 4,
+              "url": "https://t.co/FCNeVWBztf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075058542567207423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074684905389482450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢你 https://t.co/FCNeVWBztf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073567945419362304",
+        "conversation_id": "2074661895953592764",
+        "created_at": "2026-07-08T02:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074684905389482450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074684905389482450",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074661895953592764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 未经他人苦，莫劝他人善"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12591,
+          "following_count": 4396,
+          "like_count": 50630,
+          "listed_count": 29,
+          "media_count": 3175,
+          "tweet_count": 17377
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-05T00:43:43.000Z",
+        "description": "鸡你太美",
+        "id": "2073567945419362304",
+        "name": "ikun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073759222521876480/-x3SUyLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 68,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "ikun9r",
+        "verified": false
+      }
+    ]
+  }
+}

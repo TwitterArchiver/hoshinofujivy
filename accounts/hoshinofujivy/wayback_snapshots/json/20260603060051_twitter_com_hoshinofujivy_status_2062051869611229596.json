@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2062049770672439746",
+    "created_at": "2026-06-03T06:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062051869611229596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1410936828467712002",
+          "start": 0,
+          "username": "Blitz24053575"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062051869611229596",
+    "in_reply_to_user_id": "1410936828467712002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062049770672439746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blitz24053575 这是在东京吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062049764510982144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3fVera4AAsebb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2062049770672439746",
+        "created_at": "2026-06-03T06:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062051869611229596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1410936828467712002",
+              "start": 0,
+              "username": "Blitz24053575"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062051869611229596",
+        "in_reply_to_user_id": "1410936828467712002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062049770672439746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blitz24053575 这是在东京吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062049764510982144"
+          ]
+        },
+        "author_id": "1410936828467712002",
+        "conversation_id": "2062049770672439746",
+        "created_at": "2026-06-03T05:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062049770672439746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ii1CUAeFkd",
+              "end": 35,
+              "expanded_url": "https://x.com/Blitz24053575/status/2062049770672439746/photo/1",
+              "media_key": "3_2062049764510982144",
+              "start": 12,
+              "url": "https://t.co/ii1CUAeFkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062049770672439746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "云好低！是要掉下来了吗 https://t.co/ii1CUAeFkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11648,
+          "following_count": 4336,
+          "like_count": 48045,
+          "listed_count": 38,
+          "media_count": 2611,
+          "tweet_count": 15291
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-02T12:22:17.000Z",
+        "description": "我是个恶俗的人丨想骂我的我宣布你获胜了，别骂我丨中留日丨梦见啥发啥丨要是没有及时回关请私信我，有时候x不会给我推送关注消息",
+        "id": "1410936828467712002",
+        "location": "🚪3.1415926",
+        "name": "keibu",
+        "pinned_tweet_id": "1979283528404865497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027489355464634368/l0ooMpQu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 76,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1612
+        },
+        "username": "Blitz24053575",
+        "verified": true
+      }
+    ]
+  }
+}

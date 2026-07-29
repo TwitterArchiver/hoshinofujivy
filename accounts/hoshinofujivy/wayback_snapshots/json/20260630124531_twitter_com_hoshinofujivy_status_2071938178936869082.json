@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1622066090074607616",
+    "conversation_id": "2071891108830106038",
+    "created_at": "2026-06-30T12:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071938178936869082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1384487248184320002",
+          "start": 0,
+          "username": "chqx_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071938178936869082",
+    "in_reply_to_user_id": "1384487248184320002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071929169102172609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chqx_15 不是，我看到那么多孩子，他们未来还要在河北卷高考，心情压抑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2071891108830106038",
+        "created_at": "2026-06-30T12:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071938178936869082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1384487248184320002",
+              "start": 0,
+              "username": "chqx_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071938178936869082",
+        "in_reply_to_user_id": "1384487248184320002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071929169102172609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chqx_15 不是，我看到那么多孩子，他们未来还要在河北卷高考，心情压抑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384487248184320002",
+        "conversation_id": "2071891108830106038",
+        "created_at": "2026-06-30T12:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071929169102172609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071929169102172609",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071891108830106038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 是因为老师带着小朋友过马路吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12333,
+          "following_count": 4380,
+          "like_count": 49846,
+          "listed_count": 36,
+          "media_count": 3041,
+          "tweet_count": 16859
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-20T12:41:03.000Z",
+        "description": "？ | 愿此行，终抵群星 | 小号 @chsx_15 | © 原创头像，请勿使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "chsx_15"
+              }
+            ]
+          }
+        },
+        "id": "1384487248184320002",
+        "location": "🥥大椰子理工大学图书馆",
+        "name": "萤草 · Йнцо ✨",
+        "pinned_tweet_id": "2066953765329289232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067061577086640128/Tv7IiA2Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15471,
+          "following_count": 1091,
+          "like_count": 12419,
+          "listed_count": 32,
+          "media_count": 3406,
+          "tweet_count": 37334
+        },
+        "url": "",
+        "username": "chqx_15",
+        "verified": false
+      }
+    ]
+  }
+}
